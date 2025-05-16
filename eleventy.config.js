@@ -2,13 +2,8 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 export default async function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// output image formats
 		formats: ["avif", "webp"],
-
-		// output image widths
 		widths: ["300"],
-
-		// optional, attributes assigned on <img> nodes override these values
 		htmlOptions: {
 			imgAttributes: {
 				loading: "lazy",
@@ -17,7 +12,7 @@ export default async function(eleventyConfig) {
 			pictureAttributes: {}
 		},
 	});
-  
+
   return {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
