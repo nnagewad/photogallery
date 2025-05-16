@@ -1,0 +1,11 @@
+{% extends 'layouts/base.njk' %}
+
+{% block content %}
+  <div class="photo">
+    {% for photo in photogallery | reverse %}}
+      <a href="/photo/{{ photo.title | slugify }}/index.html">
+        <img src="{{ photo.image }}" alt="{{ photo.altText }}" />
+      </a>
+    {% endfor %}
+  </div>
+{% endblock %}

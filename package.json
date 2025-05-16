@@ -1,0 +1,27 @@
+{
+  "name": "photogallery",
+  "version": "1.0.0",
+  "description": "A collection of photos I have taken",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @11ty/eleventy --serve",
+    "build:": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnagewad/photogallery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnagewad/photogallery/issues"
+  },
+  "homepage": "https://github.com/nnagewad/photogallery#readme",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.0",
+    "@11ty/eleventy-img": "^6.0.4"
+  }
+}

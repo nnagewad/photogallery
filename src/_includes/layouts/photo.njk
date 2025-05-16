@@ -1,0 +1,11 @@
+{% extends 'layouts/base.njk' %}
+
+{% block content %}
+  <section class="photo">
+    <img src="{{ image }}" alt="{{ altText }}" />
+  </section>
+
+  <section>
+    {% include 'partials/pagination.njk' %}
+  </section>
+{% endblock %}

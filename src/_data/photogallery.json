@@ -1,0 +1,12 @@
+[
+  {
+    "title": "test 1",
+    "image": "/photos/L1000002.jpg",
+    "altText": "Test 1 alt text"
+  },
+  {
+    "title": "test 2",
+    "image": "/photos/L1000017.jpg",
+    "altText": "Test 2 alt text"
+  }
+]

@@ -1,0 +1,3 @@
+---
+layout: 'layouts/gallery.njk'
+---
