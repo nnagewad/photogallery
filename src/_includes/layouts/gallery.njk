@@ -3,7 +3,7 @@
 {% block content %}
   <div class="photo">
     {% for photo in photogallery | reverse %}
-      <a href="/photo/{{ photo.title | slugify }}/index.html">
+      <a href="photo/{{ photo.filename | slugify }}">
         <img src="{{ photo.image }}" alt="{{ photo.altText }}" />
       </a>
     {% endfor %}

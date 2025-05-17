@@ -5,7 +5,7 @@ pagination:
   size: 1
   alias: photo
   addAllPagesToCollections: true
-permalink: photo/{{ photo.title | slugify }}/index.html
+permalink: photo/{{ photo.filename | slugify }}/index.html
 eleventyComputed:
   title: '{{ photo.title }}'
   image: '{{ photo.image }}'
