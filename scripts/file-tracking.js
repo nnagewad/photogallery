@@ -1,43 +1,47 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import vision from '@google-cloud/vision';
 
-// Handle __dirname in ESM
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Initialize Vision API
+const client = new vision.ImageAnnotatorClient({
+  keyFilename: path.join(__dirname, '../google-credentials.json')
+});
+
 export default async function updateFileList() {
-  // Paths
   const folderPath = path.join(__dirname, '../src/photos');
   const jsonPath = path.join(__dirname, '../src/_data/photogallery.json');
 
-  // Load existing JSON or initialize empty array
+  // Load existing JSON
   let knownFiles = [];
   try {
     const data = await fs.readFile(jsonPath, 'utf-8');
     knownFiles = JSON.parse(data);
   } catch (err) {
-    if (err.code !== 'ENOENT') throw err; // Ignore file-not-found error
+    if (err.code !== 'ENOENT') throw err;
   }
 
-  // Extract existing filenames
   const knownFilenames = knownFiles.map(item => item.filename);
-
-  // Read current files in the folder
   const currentFiles = await fs.readdir(folderPath);
-
-  // Find new files
   const newFiles = currentFiles.filter(f => !knownFilenames.includes(f));
 
-  // Add metadata and update JSON
   if (newFiles.length > 0) {
     const newEntries = await Promise.all(
       newFiles.map(async file => {
         const filePath = path.join(folderPath, file);
-        const stats = await fs.stat(filePath);
+
+        // Get label annotations
+        const [result] = await client.labelDetection(filePath);
+        const labels = result.labelAnnotations || [];
+        const tags = labels.slice(0, 10).map(l => l.description.toLowerCase());
+
         return {
           filename: file,
-          image: `/photos/${file}`
+          image: `/photos/${file}`,
+          tags
         };
       })
     );
