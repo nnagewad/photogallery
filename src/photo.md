@@ -10,4 +10,5 @@ eleventyComputed:
   title: '{{ photo.title }}'
   image: '{{ photo.image }}'
   altText: '{{ photo.altText }}'
+  tags: '{{ photo.tag }}'
 ---

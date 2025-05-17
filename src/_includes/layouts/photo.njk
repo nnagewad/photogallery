@@ -3,5 +3,11 @@
 {% block content %}
   <section class="photo">
     <img src="{{ image }}" alt="{{ altText }}" />
+    <h2>tags</h2>
+    <ul>
+      {% for tag in photo.tags %}
+        <li>{{ tag }}</li>
+      {% endfor %}
+    </ul>
   </section>
 {% endblock %}
