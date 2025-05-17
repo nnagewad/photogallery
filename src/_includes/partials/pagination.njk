@@ -1,5 +1,0 @@
-{% for pageEntry in pagination.pages %}
-  {% if page.url != pagination.hrefs[ loop.index0 ] %}
-    <a href='{{ pagination.hrefs[ loop.index0 ] }}'><img src="{{ pageEntry.image }}" alt="{{ pageEntry.altText }}"></a>
-  {% endif %}
-{% endfor %}
