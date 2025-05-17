@@ -9,6 +9,7 @@ Thumbs.db
 .sass-cache
 .env
 .cache
+google-credentials.json
 
 # Node modules and output
 node_modules
