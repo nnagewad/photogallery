@@ -1,12 +1,14 @@
 [
   {
-    "title": "test 1",
+    "filename": "L1000002.jpg",
     "image": "/photos/L1000002.jpg",
+    "title": "test 1",
     "altText": "Test 1 alt text"
   },
   {
-    "title": "test 2",
+    "filename": "L1000017.jpg",
     "image": "/photos/L1000017.jpg",
+    "title": "test 2",
     "altText": "Test 2 alt text"
   }
 ]
