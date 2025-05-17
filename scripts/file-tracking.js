@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const client = new vision.ImageAnnotatorClient({
-  keyFilename: path.join(__dirname, '../google-credentials.json')
+  keyFilename: path.join(__dirname, './google-credentials.json')
 });
 
 export default async function updateFileList() {
