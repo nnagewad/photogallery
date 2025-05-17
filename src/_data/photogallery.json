@@ -1,36 +1,19 @@
 [
   {
-    "filename": "L1000002.jpg",
-    "image": "/photos/L1000002.jpg",
+    "filename": "L1000036.jpg",
+    "image": "/photos/L1000036.jpg",
     "tags": [
       "flower",
       "petal",
-      "pink",
-      "garden roses",
+      "green",
+      "yellow",
+      "red",
+      "orange",
       "spring",
       "flowering plant",
-      "rose family",
-      "hybrid tea rose",
-      "rose",
-      "floribunda"
+      "plant stem",
+      "pedicel"
     ],
-    "alt": "Photo of flower, petal, pink, garden roses, spring, flowering plant, rose family, hybrid tea rose, rose, floribunda"
-  },
-  {
-    "filename": "L1000017.jpg",
-    "image": "/photos/L1000017.jpg",
-    "tags": [
-      "flower",
-      "petal",
-      "yellow",
-      "orange",
-      "close-up",
-      "flowering plant",
-      "macro photography",
-      "rose family",
-      "rose",
-      "garden roses"
-    ],
-    "alt": "Photo of flower, petal, yellow, orange, close-up, flowering plant, macro photography, rose family, rose, garden roses"
+    "alt": "Photo of flower, petal, green, yellow, red, orange, spring, flowering plant, plant stem, pedicel"
   }
 ]
