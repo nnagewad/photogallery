@@ -9,6 +9,6 @@ permalink: photo/{{ photo.filename | slugify }}/index.html
 eleventyComputed:
   title: '{{ photo.title }}'
   image: '{{ photo.image }}'
-  altText: '{{ photo.altText }}'
+  altText: '{{ photo.alt }}'
   tags: '{{ photo.tag }}'
 ---

@@ -3,7 +3,7 @@
 {% block content %}
   <section class="photo">
     {% for photo in photogallery | reverse %}
-      <img src="{{ photo.image }}" alt="{{ photo.altText }}" />  
+      <img src="{{ photo.image }}" alt="{{ photo.alt }}" />  
       <a href="photo/{{ photo.filename | slugify }}">
         More information  
       </a>

@@ -2,13 +2,35 @@
   {
     "filename": "L1000002.jpg",
     "image": "/photos/L1000002.jpg",
-    "title": "test 1",
-    "altText": "Test 1 alt text"
+    "tags": [
+      "flower",
+      "petal",
+      "pink",
+      "garden roses",
+      "spring",
+      "flowering plant",
+      "rose family",
+      "hybrid tea rose",
+      "rose",
+      "floribunda"
+    ],
+    "alt": "Photo of flower, petal, pink, garden roses, spring, flowering plant, rose family, hybrid tea rose, rose, floribunda"
   },
   {
     "filename": "L1000017.jpg",
     "image": "/photos/L1000017.jpg",
-    "title": "test 2",
-    "altText": "Test 2 alt text"
+    "tags": [
+      "flower",
+      "petal",
+      "yellow",
+      "orange",
+      "close-up",
+      "flowering plant",
+      "macro photography",
+      "rose family",
+      "rose",
+      "garden roses"
+    ],
+    "alt": "Photo of flower, petal, yellow, orange, close-up, flowering plant, macro photography, rose family, rose, garden roses"
   }
 ]
