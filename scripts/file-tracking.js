@@ -28,15 +28,20 @@ export default async function updateFileList() {
     }
   }
 
-  const knownFilenames = knownFiles.map(item => item.filename);
+  // Read current files in the folder
   const currentFiles = await fs.readdir(folderPath);
 
-  // Filter files that are new
-  const newFiles = currentFiles.filter(f => {
-    // Ignore .DS_Store and other hidden files starting with dot
-    if (f.startsWith('.')) return false;
-    return !knownFilenames.includes(f);
-  });
+  // Filter out hidden/system files (like .DS_Store)
+  const filteredCurrentFiles = currentFiles.filter(f => !f.startsWith('.'));
+
+  // Remove entries for files no longer in the folder
+  knownFiles = knownFiles.filter(entry => filteredCurrentFiles.includes(entry.filename));
+
+  // Extract updated filenames after filtering deletions
+  const knownFilenames = knownFiles.map(item => item.filename);
+
+  // Find new files not yet in knownFiles
+  const newFiles = filteredCurrentFiles.filter(f => !knownFilenames.includes(f));
 
   if (newFiles.length > 0) {
     const newEntries = await Promise.all(
@@ -57,10 +62,12 @@ export default async function updateFileList() {
       })
     );
 
-    const updatedList = [...knownFiles, ...newEntries];
-    await fs.writeFile(jsonPath, JSON.stringify(updatedList, null, 2));
+    knownFiles = [...knownFiles, ...newEntries];
     console.log(`Added ${newEntries.length} new file(s):`, newFiles);
   } else {
     console.log('No new files found.');
   }
+
+  // Write updated JSON with both deletions and additions accounted for
+  await fs.writeFile(jsonPath, JSON.stringify(knownFiles, null, 2));
 }
