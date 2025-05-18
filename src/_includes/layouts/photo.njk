@@ -3,11 +3,12 @@
 {% block content %}
   <section class="photo">
     <img src="{{ image }}" alt="{{ altText }}" />
-    <h2>tags</h2>
-    <ul>
-      {% for tag in photo.tags %}
-        <li>{{ tag }}</li>
-      {% endfor %}
-    </ul>
+  </section>
+  <section class="info">
+    <h2>Details</h2>
+    {% include 'partials/photo-details.njk' %}
+    {% include 'partials/camera-details.njk' %}
+    {% include 'partials/technical-details.njk' %}
+    {% include 'partials/tags.njk' %}
   </section>
 {% endblock %}

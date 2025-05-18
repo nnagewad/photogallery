@@ -1,0 +1,7 @@
+<h3>Photo details</h3>
+<ul>
+  <li>Date & time: {{ photo.dateTaken }}</li>
+  {% if photo.gps != null %}
+    <li>Location: {{ photo.gps.lat }}, {{ photo.gps.lon }} </li>
+  {% endif %}
+</ul>
