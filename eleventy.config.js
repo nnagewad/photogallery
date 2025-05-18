@@ -1,6 +1,13 @@
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import apiToISO from "./src/_filters/api-to-iso.js";
+import apiToString from "./src/_filters/api-to-string.js";
 
 export default async function(eleventyConfig) {
+  // Add filters
+  eleventyConfig.addFilter('apiToISO', apiToISO);
+  eleventyConfig.addFilter('apiToString', apiToString);
+  
+  // 11ty Image plugin
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     formats: ["avif", "webp"],
     widths: ["300"],

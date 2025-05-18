@@ -25,6 +25,7 @@
     "@11ty/eleventy": "^3.1.0",
     "@11ty/eleventy-img": "^6.0.4",
     "@google-cloud/vision": "^5.1.0",
-    "exifreader": "^4.30.1"
+    "exifreader": "^4.30.1",
+    "luxon": "^3.6.1"
   }
 }
