@@ -1,8 +1,8 @@
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import vision from '@google-cloud/vision';
 import { extractExif } from './exfir.js';
+import { detectLabels } from './vision.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -51,9 +51,7 @@ if (newFiles.length > 0) {
       const exif = await extractExif(filePath);
 
       // Get Vision API tags
-      const [result] = await client.labelDetection(filePath);
-      const labels = result.labelAnnotations || [];
-      const tags = labels.slice(0, 10).map(label => label.description.toLowerCase());
+      const tags = await detectLabels(filePath);
 
       return {
         filename: file,
