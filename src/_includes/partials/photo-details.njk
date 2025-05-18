@@ -2,6 +2,6 @@
 <ul>
   <li>Date & time: {{ photo.dateTaken }}</li>
   {% if photo.gps != null %}
-    <li>Location: {{ photo.gps.lat }}, {{ photo.gps.lon }} </li>
+    <li>Location: <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">View in Google Maps</a> (open in a new tab)</li>
   {% endif %}
 </ul>
