@@ -3,6 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { extractExif } from './exfir.js';
 import { detectLabels } from './vision.js';
+import { reverseGeocode } from './geocode.js';
 
 // Define __dirname for ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -50,10 +51,20 @@ if (newFiles.length > 0) {
       // Get Vision API tags
       const tags = await detectLabels(filePath);
 
+      // Add geocoding if GPS exists
+      let localized = null, country = null;
+      if (exif.gps?.lat && exif.gps?.lon) {
+        const location = await reverseGeocode(exif.gps.lat, exif.gps.lon);
+        localized = location.localized;
+        country = location.country;
+      }
+
       return {
         filename: file,
         image: `/photos/${file}`,
         ...exif,
+        localized,
+        country,
         tags,
         alt: `Photo of ${tags.join(', ')}`
       };

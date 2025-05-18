@@ -10,6 +10,7 @@ Thumbs.db
 .env
 .cache
 google-credentials.json
+geocode-credentials.js
 
 # Node modules and output
 node_modules

@@ -9,6 +9,8 @@
     "aperture": "f/1.7",
     "dateTaken": "2025:05:11 07:23:52",
     "gps": null,
+    "localized": null,
+    "country": null,
     "tags": [
       "flower",
       "petal",
@@ -36,6 +38,8 @@
       "lat": 51.391286,
       "lon": 1.379736
     },
+    "localized": "Thanet",
+    "country": "United Kingdom",
     "tags": [
       "boat",
       "watercraft",
