@@ -2,18 +2,52 @@
   {
     "filename": "L1000036.jpg",
     "image": "/photos/L1000036.jpg",
+    "camera": "LEICA CAMERA AG LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:11 07:23:52",
+    "gps": null,
     "tags": [
       "flower",
       "petal",
       "green",
-      "yellow",
       "red",
+      "yellow",
       "orange",
       "spring",
       "flowering plant",
       "plant stem",
       "pedicel"
     ],
-    "alt": "Photo of flower, petal, green, yellow, red, orange, spring, flowering plant, plant stem, pedicel"
+    "alt": "Photo of flower, petal, green, red, yellow, orange, spring, flowering plant, plant stem, pedicel"
+  },
+  {
+    "filename": "L1030470.jpg",
+    "image": "/photos/L1030470.jpg",
+    "camera": "LEICA CAMERA AG LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/5000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:04:26 15:01:00",
+    "gps": {
+      "lat": 51.391286,
+      "lon": 1.379736
+    },
+    "tags": [
+      "boat",
+      "watercraft",
+      "boats and boating--equipment and supplies",
+      "liquid",
+      "mast",
+      "sea",
+      "sailboat",
+      "naval architecture",
+      "ocean",
+      "ship"
+    ],
+    "alt": "Photo of boat, watercraft, boats and boating--equipment and supplies, liquid, mast, sea, sailboat, naval architecture, ocean, ship"
   }
 ]
