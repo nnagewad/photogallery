@@ -1,4 +1,3 @@
-import updateFileList from "./scripts/file-tracking.js";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 export default async function(eleventyConfig) {
@@ -13,8 +12,6 @@ export default async function(eleventyConfig) {
       pictureAttributes: {}
     },
   });
-
-  await updateFileList();
 
   return {
     markdownTemplateEngine: 'njk',
