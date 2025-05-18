@@ -4,17 +4,14 @@ import { fileURLToPath } from 'url';
 import { extractExif } from './exfir.js';
 import { detectLabels } from './vision.js';
 
+// Define __dirname for ESM
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
-const client = new vision.ImageAnnotatorClient({
-  keyFilename: path.join(__dirname, './google-credentials.json')
-});
 
 const folderPath = path.join(__dirname, '../src/photos');
 const jsonPath = path.join(__dirname, '../src/_data/photogallery.json');
 
-// --------- Load existing JSON ---------
+// Load existing JSON
 let knownFiles = [];
 try {
   const data = await fs.readFile(jsonPath, 'utf-8');
@@ -28,7 +25,7 @@ try {
   }
 }
 
-// --------- Detect new files ---------
+// Detect new files
 const currentFiles = await fs.readdir(folderPath);
 
 // Filter out hidden/system files (like .DS_Store)
@@ -41,7 +38,7 @@ knownFiles = knownFiles.filter(entry => filteredCurrentFiles.includes(entry.file
 const knownFilenames = knownFiles.map(item => item.filename);
 const newFiles = filteredCurrentFiles.filter(f => !knownFilenames.includes(f));
 
-// --------- Process new files ---------
+// Process new files
 if (newFiles.length > 0) {
   const newEntries = await Promise.all(
     newFiles.map(async (file) => {
@@ -69,5 +66,5 @@ if (newFiles.length > 0) {
   console.log('No new files found.');
 }
 
-// --------- Save updated JSON ---------
+// Save updated JSON
 await fs.writeFile(jsonPath, JSON.stringify(knownFiles, null, 2));
