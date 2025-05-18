@@ -1,6 +1,6 @@
 <h3>Photo details</h3>
 <ul>
-  <li>Date & time: {{ photo.dateTaken }}</li>
+  <li>Date & time: <time datetime="{{ photo.dateTaken | apiToISO }}">{{ photo.dateTaken | apiToString }}</time></li>
   {% if photo.gps != null %}
     <li>Location: <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</a> (open Google Maps in a new tab)</li>
   {% endif %}
