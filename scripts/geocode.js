@@ -1,5 +1,4 @@
-
-import OPENCAGE_API_KEY from './geocode-credentials.js';
+import OPENCAGE_API_KEY from './api-credentials.js';
 /**
  * Reverse geocode GPS coords to city and country.
  * @param {number} lat

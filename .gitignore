@@ -9,8 +9,7 @@ Thumbs.db
 .sass-cache
 .env
 .cache
-google-credentials.json
-geocode-credentials.js
+api-credentials.js
 
 # Node modules and output
 node_modules
