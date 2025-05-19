@@ -2,7 +2,6 @@ import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { extractExif } from './exfir.js';
-import { detectLabels } from './vision.js';
 import { reverseGeocode } from './geocode.js';
 
 // Define __dirname for ESM
@@ -47,9 +46,6 @@ if (newFiles.length > 0) {
 
       // Get EXIF metadata
       const exif = await extractExif(filePath);
-
-      // Get Vision API tags
-      const tags = await detectLabels(filePath);
 
       // Add geocoding if GPS exists
       let localized = null, country = null;
