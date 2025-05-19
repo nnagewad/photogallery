@@ -1,6 +1,6 @@
 import fs from 'fs/promises';
 import fetch from 'node-fetch';
-import CLAUDE_API_KEY from './api-credentials.js';
+import {CLAUDE_API_KEY} from './apiCredentials.js';
 
 export async function analyzeImage(filePath) {
   const imageBuffer = await fs.readFile(filePath);
@@ -31,7 +31,7 @@ export async function analyzeImage(filePath) {
             {
               type: 'text',
               text:
-                'Analyze this image. Return a short title inspired by French New Cinema films, a useful alt text for screen readers, and 5-10 descriptive tags in an array. Respond only as JSON like: {"title": "...", "alt": "...", "tags": ["...", "..."]}'
+                'Analyze this image. Return a short title that could be a title for a highbrow film, a useful alt text for screen readers, and 5-10 descriptive tags in an array. Respond only as JSON like: {"title": "...", "alt": "...", "tags": ["...", "..."]}'
             }
           ]
         }

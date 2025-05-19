@@ -9,7 +9,7 @@ Thumbs.db
 .sass-cache
 .env
 .cache
-api-credentials.js
+apiCredentials.js
 
 # Node modules and output
 node_modules

@@ -1,7 +1,7 @@
 import fs from 'fs/promises';
 import ExifReader from 'exifreader';
 
-export async function extractExif(filePath) {
+export async function extractPhotoData(filePath) {
   try {
     const buffer = await fs.readFile(filePath);
     const tags = ExifReader.load(buffer);

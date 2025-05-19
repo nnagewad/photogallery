@@ -11,19 +11,18 @@
     "gps": null,
     "localized": null,
     "country": null,
+    "title": "Blooms Against the Sky",
     "tags": [
-      "flower",
-      "petal",
-      "green",
-      "yellow",
-      "red",
-      "orange",
-      "spring",
-      "flowering plant",
-      "plant stem",
-      "pedicel"
+      "roses",
+      "flowers",
+      "nature",
+      "garden",
+      "foliage",
+      "vibrant",
+      "contrasting",
+      "scenic"
     ],
-    "alt": "Photo of flower, petal, green, yellow, red, orange, spring, flowering plant, plant stem, pedicel"
+    "alt": "Red roses and green leaves against a blue sky background."
   },
   {
     "filename": "L1030470.jpg",
@@ -40,18 +39,18 @@
     },
     "localized": "Thanet",
     "country": "United Kingdom",
+    "title": "The Solitary Voyage",
     "tags": [
-      "boat",
-      "watercraft",
-      "boats and boating--equipment and supplies",
-      "liquid",
-      "mast",
-      "sea",
       "sailboat",
-      "naval architecture",
-      "ocean",
-      "ship"
+      "beach",
+      "low tide",
+      "coastal town",
+      "Ferris wheel",
+      "solitary",
+      "stranded",
+      "melancholic",
+      "seascape"
     ],
-    "alt": "Photo of boat, watercraft, boats and boating--equipment and supplies, liquid, mast, sea, sailboat, naval architecture, ocean, ship"
+    "alt": "A sailboat stranded on a sandy beach at low tide with a coastal town and Ferris wheel in the background"
   }
 ]
