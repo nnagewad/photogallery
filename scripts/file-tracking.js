@@ -3,6 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import { extractExif } from './exfir.js';
 import { reverseGeocode } from './geocode.js';
+import { analyzeImage } from './altgen.js';
 
 // Define __dirname for ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -55,6 +56,17 @@ if (newFiles.length > 0) {
         country = location.country;
       }
 
+      // Add Claude Image Analysis
+      let title = null, tags = [], alt = '';
+      try {
+        const result = await analyzeImage(filePath);
+        title = result.title;
+        tags = result.tags;
+        alt = result.alt;
+      } catch (err) {
+        console.warn(`Claude failed on ${file}:`, err.message);
+      }
+
       return {
         filename: file,
         image: `/photos/${file}`,
@@ -62,7 +74,8 @@ if (newFiles.length > 0) {
         localized,
         country,
         tags,
-        alt: `Photo of ${tags.join(', ')}`
+        alt,
+        title
       };
     })
   );
