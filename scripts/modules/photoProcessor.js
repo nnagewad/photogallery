@@ -1,4 +1,4 @@
-import { extractPhotoData } from './exfir.js';
+import { extractPhotoData } from './exifr.js';
 import { reverseGeocode } from './geocode.js';
 import { analyzeImage } from './aiGen.js';
 import path from 'path';
