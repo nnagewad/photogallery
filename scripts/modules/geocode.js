@@ -1,4 +1,6 @@
-import {OPENCAGE_API_KEY} from './apiCredentials.js';
+import 'dotenv/config';
+
+const OPENCAGE_API_KEY = process.env.OPENCAGE_API_KEY;
 /**
  * Reverse geocode GPS coords to city and country.
  * @param {number} lat

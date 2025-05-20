@@ -1,6 +1,8 @@
+import 'dotenv/config';
 import fs from 'fs/promises';
 import fetch from 'node-fetch';
-import {CLAUDE_API_KEY} from './apiCredentials.js';
+
+const CLAUDE_API_KEY = process.env.CLAUDE_API_KEY;
 
 export async function analyzeImage(filePath) {
   const imageBuffer = await fs.readFile(filePath);

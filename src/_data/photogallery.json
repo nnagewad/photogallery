@@ -11,18 +11,19 @@
     "gps": null,
     "localized": null,
     "country": null,
-    "title": "Blooms Against the Sky",
+    "title": "Radiant Petals",
     "tags": [
-      "roses",
       "flowers",
+      "roses",
       "nature",
-      "garden",
-      "foliage",
+      "sky",
+      "outdoors",
       "vibrant",
-      "contrasting",
-      "scenic"
+      "bloom",
+      "leaves",
+      "sunlight"
     ],
-    "alt": "Red roses and green leaves against a blue sky background."
+    "alt": "Orange roses blooming against a clear blue sky with green leaves in the foreground."
   },
   {
     "filename": "L1030470.jpg",
@@ -39,18 +40,18 @@
     },
     "localized": "Thanet",
     "country": "United Kingdom",
-    "title": "The Solitary Voyage",
+    "title": "Low Tide Solitude",
     "tags": [
       "sailboat",
       "beach",
       "low tide",
-      "coastal town",
-      "Ferris wheel",
-      "solitary",
-      "stranded",
-      "melancholic",
-      "seascape"
+      "reflection",
+      "city skyline",
+      "urban landscape",
+      "overcast",
+      "solitude",
+      "Ferris wheel"
     ],
-    "alt": "A sailboat stranded on a sandy beach at low tide with a coastal town and Ferris wheel in the background"
+    "alt": "A sailboat sits alone on the sandy beach at low tide, reflected in a shallow pool, with a distant Ferris wheel and city buildings in the background."
   }
 ]
