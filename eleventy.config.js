@@ -4,6 +4,11 @@ import apiToSeconds from "./src/_filters/api-to-seconds.js";
 import apiToString from "./src/_filters/api-to-string.js";
 
 export default async function(eleventyConfig) {
+  // Watch SCSS files for changes
+  eleventyConfig.setServerOptions({
+    watch: ['./_site/css/**/*.css'],
+  });
+
   // Add filters
   eleventyConfig.addFilter('apiToISO', apiToISO);
   eleventyConfig.addFilter('apiToSeconds', apiToSeconds);
