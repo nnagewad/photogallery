@@ -28,5 +28,9 @@
     "dotenv": "^16.5.0",
     "exifreader": "^4.30.1",
     "luxon": "^3.6.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "sass": "^1.89.1"
   }
 }
