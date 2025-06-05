@@ -22,7 +22,7 @@
   "homepage": "https://github.com/nnagewad/photogallery#readme",
   "type": "module",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.0",
+    "@11ty/eleventy": "^3.1.1",
     "@11ty/eleventy-img": "^6.0.4",
     "@google-cloud/vision": "^5.1.0",
     "dotenv": "^16.5.0",
