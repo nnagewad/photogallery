@@ -11,19 +11,49 @@
     "gps": null,
     "localized": null,
     "country": null,
-    "title": "Radiant Petals",
+    "title": "Radiant Blooms Amid Nature's Embrace",
+    "alt": "Orange roses in bloom surrounded by green leaves against a bright blue sky.",
     "tags": [
-      "flowers",
       "roses",
+      "flowers",
       "nature",
-      "sky",
-      "outdoors",
       "vibrant",
-      "bloom",
+      "sky",
+      "blooming",
       "leaves",
-      "sunlight"
-    ],
-    "alt": "Orange roses blooming against a clear blue sky with green leaves in the foreground."
+      "greenery",
+      "contrast",
+      "beauty"
+    ]
+  },
+  {
+    "filename": "L1000438.jpg",
+    "image": "/photos/L1000438.jpg",
+    "camera": "LEICA CAMERA AG LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:31 18:40:25",
+    "gps": {
+      "lat": 43.257239,
+      "lon": -79.867589
+    },
+    "localized": "Hamilton",
+    "country": "Canada",
+    "title": "Contemplation in Solitude",
+    "alt": "A woman in glasses gazes pensively while seated near a window with a dog on her lap.",
+    "tags": [
+      "pensive",
+      "introspective",
+      "solitude",
+      "monochrome",
+      "natural_light",
+      "companionship",
+      "glasses",
+      "window",
+      "dog"
+    ]
   },
   {
     "filename": "L1030470.jpg",
@@ -40,18 +70,17 @@
     },
     "localized": "Thanet",
     "country": "United Kingdom",
-    "title": "Low Tide Solitude",
+    "title": "Low Tide Serenade",
+    "alt": "A small sailboat stranded on the sandy beach during low tide, with buildings and a ferris wheel in the background",
     "tags": [
       "sailboat",
       "beach",
       "low tide",
-      "reflection",
-      "city skyline",
       "urban landscape",
+      "ferris wheel",
+      "reflection",
       "overcast",
-      "solitude",
-      "Ferris wheel"
-    ],
-    "alt": "A sailboat sits alone on the sandy beach at low tide, reflected in a shallow pool, with a distant Ferris wheel and city buildings in the background."
+      "serene"
+    ]
   }
 ]
