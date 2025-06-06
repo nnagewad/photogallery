@@ -3,10 +3,15 @@
 {% block content %}
   <section class="photo">
     {% for photo in photogallery | reverse %}
-      <img src="{{ photo.image }}" alt="{{ photo.alt }}" />  
-      <a href="photo/{{ photo.filename | slugify }}">
-        More information  
-      </a>
+      <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
+      <h2>{{ photo.title }}</h2>
+      <details>
+        <summary>Details</summary>
+        {% include 'partials/photo-details.njk' %}
+        {% include 'partials/camera-details.njk' %}
+        {% include 'partials/technical-details.njk' %}
+        {% include 'partials/tags.njk' %}
+      </details>
     {% endfor %}
   </section>
 {% endblock %}
