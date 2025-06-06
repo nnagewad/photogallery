@@ -29,7 +29,6 @@ export async function extractPhotoData(filePath) {
     const buffer = await fs.readFile(filePath);
     const tags = ExifReader.load(buffer);
 
-    const make = tags.Make?.description || '';
     const model = tags.Model?.description || '';
     const lens = tags.LensModel?.description || '';
     const iso = tags.ISOSpeedRatings?.description || tags.ISO?.description || null;
@@ -47,7 +46,7 @@ export async function extractPhotoData(filePath) {
     const lon = Array.isArray(rawLon) ? dmsToDecimal(rawLon, lonRef) : null;
 
     return {
-      camera: `${make} ${model}`.trim(),
+      camera: `${model}`.trim(),
       lens,
       iso,
       shutterSpeed,
