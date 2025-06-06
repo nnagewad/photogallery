@@ -1,6 +1,5 @@
 import 'dotenv/config';
 import fs from 'fs/promises';
-import fetch from 'node-fetch';
 
 const CLAUDE_API_KEY = process.env.CLAUDE_API_KEY;
 
