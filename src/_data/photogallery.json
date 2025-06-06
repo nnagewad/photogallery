@@ -2,7 +2,7 @@
   {
     "filename": "L1000036.jpg",
     "image": "/photos/L1000036.jpg",
-    "camera": "LEICA CAMERA AG LEICA Q3",
+    "camera": "LEICA Q3",
     "lens": "SUMMILUX 1:1.7/28 ASPH.",
     "iso": 100,
     "shutterSpeed": "1/2000",
@@ -11,25 +11,25 @@
     "gps": null,
     "localized": null,
     "country": null,
-    "title": "Radiant Blooms Amid Nature's Embrace",
-    "alt": "Orange roses in bloom surrounded by green leaves against a bright blue sky.",
+    "title": "Radiant Blooms",
+    "alt": "Close-up view of bright red roses in bloom against a clear blue sky, with vibrant green leaves surrounding the flowers.",
     "tags": [
       "roses",
       "flowers",
       "nature",
+      "bloom",
       "vibrant",
+      "colors",
       "sky",
-      "blooming",
-      "leaves",
-      "greenery",
-      "contrast",
-      "beauty"
+      "outdoors",
+      "foliage",
+      "garden"
     ]
   },
   {
     "filename": "L1000438.jpg",
     "image": "/photos/L1000438.jpg",
-    "camera": "LEICA CAMERA AG LEICA Q3",
+    "camera": "LEICA Q3",
     "lens": "SUMMILUX 1:1.7/28 ASPH.",
     "iso": 1600,
     "shutterSpeed": "1/125",
@@ -41,24 +41,25 @@
     },
     "localized": "Hamilton",
     "country": "Canada",
-    "title": "Contemplation in Solitude",
-    "alt": "A woman in glasses gazes pensively while seated near a window with a dog on her lap.",
+    "title": "Contemplative Solitude",
+    "alt": "A person in glasses gazing out a window with their dog on their lap, conveying a pensive and introspective mood.",
     "tags": [
-      "pensive",
-      "introspective",
-      "solitude",
       "monochrome",
-      "natural_light",
-      "companionship",
-      "glasses",
+      "indoor",
       "window",
-      "dog"
+      "reflection",
+      "thoughtful",
+      "companionship",
+      "pet",
+      "dog",
+      "glasses",
+      "quiet moment"
     ]
   },
   {
     "filename": "L1030470.jpg",
     "image": "/photos/L1030470.jpg",
-    "camera": "LEICA CAMERA AG LEICA Q3",
+    "camera": "LEICA Q3",
     "lens": "SUMMILUX 1:1.7/28 ASPH.",
     "iso": 100,
     "shutterSpeed": "1/5000",
@@ -70,17 +71,18 @@
     },
     "localized": "Thanet",
     "country": "United Kingdom",
-    "title": "Low Tide Serenade",
-    "alt": "A small sailboat stranded on the sandy beach during low tide, with buildings and a ferris wheel in the background",
+    "title": "Solitude's Anchor",
+    "alt": "A sailboat lies aground on a sandy beach during low tide, with buildings and a Ferris wheel visible in the distance.",
     "tags": [
       "sailboat",
       "beach",
       "low tide",
-      "urban landscape",
-      "ferris wheel",
-      "reflection",
+      "urban skyline",
+      "Ferris wheel",
       "overcast",
-      "serene"
+      "serenity",
+      "solitude",
+      "coastal town"
     ]
   }
 ]
