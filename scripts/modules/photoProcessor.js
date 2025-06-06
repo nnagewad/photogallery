@@ -10,7 +10,7 @@ export async function processPhoto(file, folderPath) {
   const exif = await extractPhotoData(filePath);
 
   // Analyze with Claude
-  let title = null, tags = [], alt = '';
+  let title = null, alt = '', tags = [];
   try {
     const result = await analyzeImage(filePath);
     title = result.title;
@@ -35,7 +35,7 @@ export async function processPhoto(file, folderPath) {
     localized,
     country,
     title,
-    tags,
-    alt
+    alt,
+    tags
   };
 }
