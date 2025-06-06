@@ -1,6 +1,29 @@
 import fs from 'fs/promises';
 import ExifReader from 'exifreader';
 
+// Convert [numerator, denominator] rational to number
+function rationalToNumber(rational) {
+  if (typeof rational === 'number') return rational;
+  if (Array.isArray(rational) && rational.length === 2) {
+    return rational[0] / rational[1];
+  }
+  return null;
+}
+
+// Convert [degrees, minutes, seconds] + ref into decimal degrees
+function dmsToDecimal(dms, ref) {
+  if (!Array.isArray(dms) || dms.length !== 3) return null;
+
+  const degrees = rationalToNumber(dms[0]);
+  const minutes = rationalToNumber(dms[1]);
+  const seconds = rationalToNumber(dms[2]);
+  if ([degrees, minutes, seconds].some((v) => v === null)) return null;
+
+  let decimal = degrees + minutes / 60 + seconds / 3600;
+  if (ref === 'S' || ref === 'W') decimal *= -1;
+  return decimal;
+}
+
 export async function extractPhotoData(filePath) {
   try {
     const buffer = await fs.readFile(filePath);
@@ -14,9 +37,14 @@ export async function extractPhotoData(filePath) {
     const aperture = tags.FNumber?.description || tags.ApertureValue?.description || null;
     const dateTaken = tags.DateTimeOriginal?.description || null;
 
-    // Use decimal values directly
-    const lat = typeof tags.GPSLatitude?.description === 'number' ? tags.GPSLatitude.description : null;
-    const lon = typeof tags.GPSLongitude?.description === 'number' ? tags.GPSLongitude.description : null;
+    // Note: Ref is inside array, take first element
+    const rawLat = tags.GPSLatitude?.value;
+    const rawLon = tags.GPSLongitude?.value;
+    const latRef = tags.GPSLatitudeRef?.value?.[0];
+    const lonRef = tags.GPSLongitudeRef?.value?.[0];
+
+    const lat = Array.isArray(rawLat) ? dmsToDecimal(rawLat, latRef) : null;
+    const lon = Array.isArray(rawLon) ? dmsToDecimal(rawLon, lonRef) : null;
 
     return {
       camera: `${make} ${model}`.trim(),
@@ -25,7 +53,7 @@ export async function extractPhotoData(filePath) {
       shutterSpeed,
       aperture,
       dateTaken,
-      gps: lat && lon ? { lat, lon } : null
+      gps: lat != null && lon != null ? { lat, lon } : null
     };
   } catch (err) {
     console.warn(`EXIF extraction failed for ${filePath}:`, err.message);
