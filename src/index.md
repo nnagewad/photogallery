@@ -1,5 +1,5 @@
 ---
-layout: 'layouts/feed.njk'
+layout: 'layouts/photo-feed.njk'
 title: 'Nikin’s photos'
 pagination:
   data: photogallery
