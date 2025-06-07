@@ -1,5 +1,34 @@
 [
   {
+    "filename": "L1030470.jpg",
+    "image": "/photos/L1030470.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/5000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:04:26 15:01:00",
+    "gps": {
+      "lat": 51.391286,
+      "lon": 1.379736
+    },
+    "localized": "Thanet",
+    "country": "United Kingdom",
+    "title": "The Ebbing Tide",
+    "alt": "A sailboat rests on the beach at low tide, with buildings and a ferris wheel in the background.",
+    "tags": [
+      "sailboat",
+      "beach",
+      "low tide",
+      "urban skyline",
+      "ferris wheel",
+      "overcast",
+      "tranquil",
+      "solitude",
+      "serenity"
+    ]
+  },
+  {
     "filename": "L1000036.jpg",
     "image": "/photos/L1000036.jpg",
     "camera": "LEICA Q3",
@@ -11,19 +40,19 @@
     "gps": null,
     "localized": null,
     "country": null,
-    "title": "Radiant Blooms",
-    "alt": "Close-up view of bright red roses in bloom against a clear blue sky, with vibrant green leaves surrounding the flowers.",
+    "title": "Vivid Awakening",
+    "alt": "A cluster of red roses in full bloom with vibrant green leaves against a bright blue sky.",
     "tags": [
       "roses",
       "flowers",
       "nature",
       "bloom",
       "vibrant",
-      "colors",
-      "sky",
-      "outdoors",
+      "colorful",
+      "skyscape",
       "foliage",
-      "garden"
+      "garden",
+      "floral"
     ]
   },
   {
@@ -41,48 +70,19 @@
     },
     "localized": "Hamilton",
     "country": "Canada",
-    "title": "Contemplative Solitude",
-    "alt": "A person in glasses gazing out a window with their dog on their lap, conveying a pensive and introspective mood.",
+    "title": "Quiet Contemplation",
+    "alt": "A person in glasses gazing out of a window, holding a small dog",
     "tags": [
-      "monochrome",
-      "indoor",
-      "window",
-      "reflection",
-      "thoughtful",
+      "introspective",
+      "pensive",
       "companionship",
-      "pet",
-      "dog",
-      "glasses",
-      "quiet moment"
-    ]
-  },
-  {
-    "filename": "L1030470.jpg",
-    "image": "/photos/L1030470.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 100,
-    "shutterSpeed": "1/5000",
-    "aperture": "f/1.7",
-    "dateTaken": "2025:04:26 15:01:00",
-    "gps": {
-      "lat": 51.391286,
-      "lon": 1.379736
-    },
-    "localized": "Thanet",
-    "country": "United Kingdom",
-    "title": "Solitude's Anchor",
-    "alt": "A sailboat lies aground on a sandy beach during low tide, with buildings and a Ferris wheel visible in the distance.",
-    "tags": [
-      "sailboat",
-      "beach",
-      "low tide",
-      "urban skyline",
-      "Ferris wheel",
-      "overcast",
-      "serenity",
-      "solitude",
-      "coastal town"
+      "natural light",
+      "monochrome",
+      "domestic",
+      "canine",
+      "spectacles",
+      "thoughtful",
+      "tranquil"
     ]
   }
 ]
