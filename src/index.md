@@ -1,3 +1,3 @@
 ---
-layout: 'layouts/gallery.njk'
+layout: 'layouts/feed.njk'
 ---

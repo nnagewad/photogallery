@@ -1,0 +1,10 @@
+{% extends 'layouts/base.njk' %}
+
+{% block content %}
+  <section class="photo">
+    {% for photo in photogallery | reverse %}
+      <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
+      <h2>{{ photo.title }}</h2>
+    {% endfor %}
+  </section>
+{% endblock %}
