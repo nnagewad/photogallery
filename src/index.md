@@ -1,5 +1,6 @@
 ---
 layout: 'layouts/feed.njk'
+title: 'Nikin’s photos'
 pagination:
   data: photogallery
   size: 5
