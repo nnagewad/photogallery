@@ -2,7 +2,7 @@
 
 {% block content %}
   <section class="feed">
-    {% for photo in photofeed | reverse %}
+    {% for photo in photofeed %}
       {% include 'partials/photo+details.njk' %}
     {% endfor %}
   </section>
