@@ -7,5 +7,5 @@ pagination:
   addAllPagesToCollections: true
 permalink: photo/{{ photo.title | slugify }}/index.html
 eleventyComputed:
-  title: '{{ photo.title }}'
+  title: '{{ photo.title | updateApostrophe }}'
 ---

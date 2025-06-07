@@ -2,7 +2,7 @@
   <figure>
     <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
     <figcaption>
-      <h2>{{ photo.title }}</h2>
+      <h2>{{ photo.title | updateApostrophe }}</h2>
 
       <h3>Information</h3>
       <table>
