@@ -4,6 +4,7 @@ import apiToDate from "./src/_filters/api-to-date.js";
 import apiToTime from "./src/_filters/api-to-time.js";
 import updateApostrophe from "./src/_filters/update-apostrophe.js";
 import htmlmin from 'html-minifier-terser';
+import pluginRss from "@11ty/eleventy-plugin-rss";
 
 export default async function(eleventyConfig) {
   // Watch SCSS files for changes
@@ -42,6 +43,9 @@ export default async function(eleventyConfig) {
       pictureAttributes: {}
     },
   });
+
+  // 11ty RSS plugin
+  eleventyConfig.addPlugin(pluginRss);
 
   return {
     markdownTemplateEngine: 'njk',
