@@ -3,6 +3,13 @@
     <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
     <figcaption>
       <h2>{{ photo.title }}</h2>
+      <h3>Tags</h3>
+      <ul>
+        {% for tag in photo.tags %}
+          <li>{{ tag }}</li>
+        {% endfor %}
+      </ul>
+      <h3>Information</h3>
       <table>
         <tr>
           <th>Date & time</th>
