@@ -1,61 +1,5 @@
 [
   {
-    "filename": "L1030470.jpg",
-    "image": "/photos/L1030470.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 100,
-    "shutterSpeed": "1/5000",
-    "aperture": "f/1.7",
-    "dateTaken": "2025:04:26 15:01:00",
-    "gps": {
-      "lat": 51.391286,
-      "lon": 1.379736
-    },
-    "localized": "Thanet",
-    "country": "United Kingdom",
-    "title": "The Ebbing Tide",
-    "alt": "A sailboat rests on the beach at low tide, with buildings and a ferris wheel in the background.",
-    "tags": [
-      "sailboat",
-      "beach",
-      "low tide",
-      "urban skyline",
-      "ferris wheel",
-      "overcast",
-      "tranquil",
-      "solitude",
-      "serenity"
-    ]
-  },
-  {
-    "filename": "L1000036.jpg",
-    "image": "/photos/L1000036.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 100,
-    "shutterSpeed": "1/2000",
-    "aperture": "f/1.7",
-    "dateTaken": "2025:05:11 07:23:52",
-    "gps": null,
-    "localized": null,
-    "country": null,
-    "title": "Vivid Awakening",
-    "alt": "A cluster of red roses in full bloom with vibrant green leaves against a bright blue sky.",
-    "tags": [
-      "roses",
-      "flowers",
-      "nature",
-      "bloom",
-      "vibrant",
-      "colorful",
-      "skyscape",
-      "foliage",
-      "garden",
-      "floral"
-    ]
-  },
-  {
     "filename": "L1000438.jpg",
     "image": "/photos/L1000438.jpg",
     "camera": "LEICA Q3",
@@ -70,19 +14,72 @@
     },
     "localized": "Hamilton",
     "country": "Canada",
-    "title": "Quiet Contemplation",
-    "alt": "A person in glasses gazing out of a window, holding a small dog",
+    "title": "Contemplative Solitude",
+    "alt": "A person wearing glasses sits alone, deep in thought, with a dog resting on their lap in a dimly lit room.",
     "tags": [
-      "introspective",
-      "pensive",
+      "introspection",
+      "loneliness",
       "companionship",
-      "natural light",
       "monochrome",
-      "domestic",
-      "canine",
-      "spectacles",
-      "thoughtful",
-      "tranquil"
+      "pet",
+      "stillness",
+      "solitude",
+      "contemplation"
+    ]
+  },
+  {
+    "filename": "L1000036.jpg",
+    "image": "/photos/L1000036.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:11 07:23:52",
+    "gps": null,
+    "localized": null,
+    "country": null,
+    "title": "Luminous Floral Reverie",
+    "alt": "Orange roses blooming against a bright blue sky, with green leaves and vibrant lighting.",
+    "tags": [
+      "roses",
+      "flowers",
+      "nature",
+      "blooming",
+      "sky",
+      "vibrant",
+      "outdoors",
+      "summer",
+      "sunlight",
+      "colorful"
+    ]
+  },
+  {
+    "filename": "L1030470.jpg",
+    "image": "/photos/L1030470.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/5000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:04:26 15:01:00",
+    "gps": {
+      "lat": 51.391286,
+      "lon": 1.379736
+    },
+    "localized": "Thanet",
+    "country": "United Kingdom",
+    "title": "Solitary Voyage",
+    "alt": "A sailboat stranded on the beach during low tide with city buildings and a ferris wheel in the background",
+    "tags": [
+      "sailboat",
+      "beach",
+      "low tide",
+      "city skyline",
+      "ferris wheel",
+      "solitude",
+      "stillness",
+      "urban landscape"
     ]
   }
 ]
