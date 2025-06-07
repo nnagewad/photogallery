@@ -7,9 +7,9 @@
       <h3>Information</h3>
       <table>
         <tr>
-          <th>Date & time</th>
+          <th>Date and time</th>
           <td>
-            <time datetime="{{ photo.dateTaken | apiToISO }}">{{ photo.dateTaken | apiToString }}</time>
+            <time datetime="{{ photo.dateTaken | apiToISO }}">{{ photo.dateTaken | apiToDate }} at {{ photo.dateTaken | apiToTime }}</time>
           </td>
         </tr>
         {% if photo.gps != null %}
