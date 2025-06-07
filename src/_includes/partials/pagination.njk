@@ -1,16 +1,16 @@
 <nav class="pagination">
   {% if pagination.href.previous %}
-    <a href="{{ pagination.href.previous }}">← Previous page</a>
+    <a href="{{ pagination.href.previous }}">← Previous <span class="visually-hidden">page</span></a>
   {% endif %}
   {% for pageNum in pagination.pages %}
     {% set pageIndex = loop.index0 %}
     {% if pagination.pageNumber == pageIndex %}
       <strong>Page {{ pageIndex + 1 }}</strong>
     {% else %}
-      <a href="{{ pagination.hrefs[pageIndex] }}">Page {{ pageIndex + 1 }}</a>
+      <a href="{{ pagination.hrefs[pageIndex] }}"><span class="visually-hidden">Page</span> {{ pageIndex + 1 }}</a>
     {% endif %}
   {% endfor %}
   {% if pagination.href.next %}
-    <a href="{{ pagination.href.next }}">Next page →</a>
+    <a href="{{ pagination.href.next }}">Next <span class="visually-hidden">page</span> →</a>
   {% endif %}
 </nav>
