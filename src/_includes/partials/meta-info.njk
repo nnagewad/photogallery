@@ -1,0 +1,61 @@
+{% set pageTitle = title + ' - ' + site.fullName %}
+
+{# We don't want any duplication. This is likely for the home page. #}
+{% if site.fullName === title %} 
+  {% set pageTitle = title %}
+{% endif %}
+
+{% set siteTitle = site.fullName %}
+{% set currentUrl = site.url + page.url %}
+
+{# If the page’s Front Matter has specific metaTitle and/or metaDesc items, switch 
+  them into the mix. #}
+{% if metaTitle %}
+  {% set pageTitle = metaTitle %}
+{% endif %}
+
+{% if not metaDesc %}
+  {% set metaDesc = summary %}
+{% endif %}
+
+{% if layout === 'layouts/medium-post.njk' %}
+  {% set pageTitle = 'Article: ' + pageTitle %}
+{% endif %}
+
+
+<title>{{ pageTitle }}</title>
+<link rel="canonical" href="{{ currentUrl }}" />
+<link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+
+<meta property="og:site_name" content="{{ siteTitle }}" />
+<meta property="og:title" content="{{ pageTitle }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ currentUrl }}" />
+
+{% if metaDesc %}
+  <meta name="description" content="{{ metaDesc }}" />
+  <meta property="og:description" content="{{ metaDesc }}" />
+{% endif %}
+
+{% if image %}
+  <meta property="og:image" content="/img/open-graph/{{ image }}.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:alt" content="Page image for {{ site.fullName }}" />
+{% endif %}
+
+{% if noFollow %}
+  <meta name="robots" content="noindex,nofollow,noai,noimageai" />
+  <meta name="googlebot" content="noindex,nofollow" />
+  <meta name="CCBot" content="nofollow" />
+  <meta name="tdm-reservation" content="1" />
+{% endif %}
+
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="oklch(95.8% 0.007 236.5)">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="oklch(13.5% 0.007 236.5)">
+
+<link rel="icon" type="image/png" href="/img/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/img/favicon/favicon.svg" />
+<link rel="shortcut icon" href="/img/favicon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="Nikin" />
+<link rel="manifest" href="/img/favicon/site.webmanifest" />
