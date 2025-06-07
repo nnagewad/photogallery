@@ -1,4 +1,7 @@
 {
   "name": "My photos",
-  "language": "en"
+  "url": "https://www.nikin.photos",
+  "robots": "/robots.txt",
+  "siteMap": "/sitemap.xml",
+  "language": "en" 
 }
