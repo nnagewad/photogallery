@@ -17,9 +17,8 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter('apiToTime', apiToTime);
   eleventyConfig.addFilter('updateApostrophe', updateApostrophe);
 
-  // Minify output
+  // Minify HTML output
   eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
-    // Eleventy 1.0+: use this.inputPath and this.outputPath instead
     if( outputPath && outputPath.endsWith('.html') ) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
