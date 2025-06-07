@@ -1,14 +1,7 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-  <article class="photo">
-    <section class="image">
-      <img src="{{ image }}" alt="{{ altText }}" />
-    </section>
-    <section class="info">
-      <h1>{{ title }}</h1>
-    </section>
-  </article>
+  {% include 'partials/photo+details.njk' %}
 
   <nav class="photo-nav">
     <a href="/">← Back to gallery</a>

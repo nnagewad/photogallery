@@ -3,10 +3,7 @@
 {% block content %}
   <section class="feed">
     {% for photo in photofeed %}
-      <article>
-        <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
-        <h2>{{ photo.title }}</h2>
-      </article>
+      {% include 'partials/photo+details.njk' %}
     {% endfor %}
   </section>
   
