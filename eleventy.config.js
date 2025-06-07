@@ -1,7 +1,7 @@
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import apiToISO from "./src/_filters/api-to-iso.js";
-import apiToSeconds from "./src/_filters/api-to-seconds.js";
-import apiToString from "./src/_filters/api-to-string.js";
+import apiToDate from "./src/_filters/api-to-date.js";
+import apiToTime from "./src/_filters/api-to-time.js";
 
 export default async function(eleventyConfig) {
   // Watch SCSS files for changes
@@ -11,8 +11,8 @@ export default async function(eleventyConfig) {
 
   // Add filters
   eleventyConfig.addFilter('apiToISO', apiToISO);
-  eleventyConfig.addFilter('apiToSeconds', apiToSeconds);
-  eleventyConfig.addFilter('apiToString', apiToString);
+  eleventyConfig.addFilter('apiToDate', apiToDate);
+  eleventyConfig.addFilter('apiToTime', apiToTime);
   
   // 11ty Image plugin
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
