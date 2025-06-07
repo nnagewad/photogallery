@@ -7,22 +7,9 @@
       <h2>{{ photo.title }}</h2>
     {% endfor %}
   </section>
-
-  <nav class="pagination">
-    {% if pagination.href.previous %}
-      <a href="{{ pagination.href.previous }}">← Previous page</a>
-    {% endif %}
-    {% for pageNum in pagination.pages %}
-      {% set pageIndex = loop.index0 %}
-      {% if pagination.pageNumber == pageIndex %}
-        <strong>Page {{ pageIndex + 1 }}</strong>
-      {% else %}
-        <a href="{{ pagination.hrefs[pageIndex] }}">Page {{ pageIndex + 1 }}</a>
-      {% endif %}
-    {% endfor %}
-    {% if pagination.href.next %}
-      <a href="{{ pagination.href.next }}">Next page →</a>
-    {% endif %}
-  </nav>
+  
+  <section class="pagination">
+    {% include 'partials/pagination.njk' %}
+  </section>
 
 {% endblock %}
