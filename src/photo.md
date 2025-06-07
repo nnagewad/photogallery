@@ -6,4 +6,6 @@ pagination:
   alias: photo
   addAllPagesToCollections: true
 permalink: photo/{{ photo.title | slugify }}/index.html
+eleventyComputed:
+  title: '{{ photo.title }}'
 ---
