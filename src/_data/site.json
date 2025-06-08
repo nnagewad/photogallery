@@ -1,6 +1,6 @@
 {
   "siteName": "Nikin’s photofeed",
-  "url": "https://www.nikin.photos",
+  "url": "https://nikin-photofeed.netlify.app/",
   "robots": "/robots.txt",
   "siteMap": "/sitemap.xml",
   "language": "en",
