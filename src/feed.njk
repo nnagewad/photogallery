@@ -19,13 +19,72 @@
     <name>{{ site.fullName }}</name>
   </author>
   {%- for post in collections.posts | reverse %}
-  {%- set absolutePostUrl %}{{ post.url | htmlBaseUrl(site.url) }}{% endset %}
-  <entry>
-    <title>{{ post.data.title }}</title>
-    <link href="{{ absolutePostUrl }}" />
-    <updated>{{ post.date | dateToRfc3339 }}</updated>
-    <id>{{ absolutePostUrl }}</id>
-    <content type="html">{{ post.templateContent | safe }}</content>
-  </entry>
+    {%- set absolutePostUrl %}{{ post.url | htmlBaseUrl(site.url) }}{% endset %}
+    <entry>
+      <title>{{ post.data.title }}</title>
+      <link href="{{ absolutePostUrl }}" />
+      <updated>{{ post.date | dateToRfc3339 }}</updated>
+      <id>{{ absolutePostUrl }}</id>
+      <content type="html">
+        <article id="{{ post.data.photo.title | slugify }}">
+          <figure>
+            <img src="{{ site.url }}{{ post.data.photo.image }}" alt="{{ post.data.photo.alt }}" />
+            <figcaption>
+              <h1>{{ post.data.photo.title | updateApostrophe }}</h1>
+
+              <h2>Information</h2>
+              <table>
+                <tr>
+                  <th>Date and time</th>
+                  <td>
+                    <time datetime="{{ post.data.photo.dateTaken | apiToISO }}">
+                      {{ post.data.photo.dateTaken | apiToDate }} at {{ post.data.photo.dateTaken | apiToTime }}
+                    </time>
+                  </td>
+                </tr>
+                {% if post.data.photo.gps != null %}
+                <tr>
+                  <th>Location</th>
+                  <td>
+                    <a href="https://www.google.com/maps?q={{ post.data.photo.gps.lat }},{{ post.data.photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">
+                      {% if post.data.photo.localized != null %}{{ post.data.photo.localized }}, {% endif %}
+                      {{ post.data.photo.country }}
+                    </a> (open Google Maps in a new tab)
+                  </td>
+                </tr>
+                {% endif %}
+                <tr>
+                  <th>Camera</th>
+                  <td>{{ post.data.photo.camera }}</td>
+                </tr>
+                <tr>
+                  <th>Lens</th>
+                  <td>{{ post.data.photo.lens }}</td>
+                </tr>
+                <tr>
+                  <th>Aperture</th>
+                  <td>{{ post.data.photo.aperture }}</td>
+                </tr>
+                <tr>
+                  <th>ISO</th>
+                  <td>{{ post.data.photo.iso }}</td>
+                </tr>
+                <tr>
+                  <th>Shutter speed</th>
+                  <td>{{ post.data.photo.shutterSpeed }}</td>
+                </tr>
+              </table>
+
+              <h2>Tags</h2>
+              <ul>
+                {% for tag in post.data.photo.tags %}
+                <li>{{ tag }}</li>
+                {% endfor %}
+              </ul>
+            </figcaption>
+          </figure>
+        </article>
+      </content>
+    </entry>
   {%- endfor %}
 </feed>
