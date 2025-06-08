@@ -5,7 +5,6 @@ import apiToTime from "./src/_filters/api-to-time.js";
 import updateApostrophe from "./src/_filters/update-apostrophe.js";
 import htmlmin from 'html-minifier-terser';
 import pluginRss from "@11ty/eleventy-plugin-rss";
-import sanitizeHtml from "sanitize-html";
 
 export default async function(eleventyConfig) {
   // Watch SCSS files for changes
@@ -18,19 +17,6 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter('apiToDate', apiToDate);
   eleventyConfig.addFilter('apiToTime', apiToTime);
   eleventyConfig.addFilter('updateApostrophe', updateApostrophe);
-  eleventyConfig.addFilter("sanitizeHTML", (content) => {
-    return sanitizeHtml(content, {
-      allowedTags: [
-        "a", "b", "i", "em", "strong", "p", "ul", "ol", "li", "br", "img", "blockquote", "code", "pre", "h1", "h2", "h3", "h4", "h5", "h6"
-      ],
-      allowedAttributes: {
-        a: ["href", "title", "rel", "target"],
-        img: ["src", "alt", "title", "width", "height"],
-      },
-      allowedSchemes: ['http', 'https', 'mailto'],
-      selfClosing: ["img", "br"],
-    });
-  });
 
   // Minify HTML output
   eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
