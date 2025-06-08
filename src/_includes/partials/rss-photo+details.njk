@@ -7,9 +7,7 @@
 <dl>
   <dt>Date and time</dt>
   <dd>
-    <time datetime="{{ post.data.photo.dateTaken | apiToISO }}">
-      {{ post.data.photo.dateTaken | apiToDate }} at {{ post.data.photo.dateTaken | apiToTime }}
-    </time>
+    {{ post.data.photo.dateTaken | apiToDate }} at {{ post.data.photo.dateTaken | apiToTime }}
   </dd>
 
   {% if post.data.photo.gps != null %}
