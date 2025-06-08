@@ -53,33 +53,5 @@
       "sunlight",
       "colorful"
     ]
-  },
-  {
-    "filename": "L1030470.jpg",
-    "image": "/photos/L1030470.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 100,
-    "shutterSpeed": "1/5000",
-    "aperture": "f/1.7",
-    "dateTaken": "2025:04:26 15:01:00",
-    "gps": {
-      "lat": 51.391286,
-      "lon": 1.379736
-    },
-    "localized": "Thanet",
-    "country": "United Kingdom",
-    "title": "Solitary Voyage",
-    "alt": "A sailboat stranded on the beach during low tide with city buildings and a ferris wheel in the background",
-    "tags": [
-      "sailboat",
-      "beach",
-      "low tide",
-      "city skyline",
-      "ferris wheel",
-      "solitude",
-      "stillness",
-      "urban landscape"
-    ]
   }
 ]
