@@ -12,6 +12,8 @@
         <a href="{{ pagination.hrefs[pageIndex] }}"><span class="visually-hidden">Page</span> {{ pageIndex + 1 }}</a>
       {% endif %}
     {% endfor %}
+  {% elif layout == 'layouts/photo.njk' %}
+    <a href="/"><span class="visually-hidden">Return to </span>Photofeed</a>
   {% endif %}
 
   {% if pagination.href.next %}
