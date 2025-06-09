@@ -1,5 +1,35 @@
 [
   {
+    "filename": "L1000227.jpg",
+    "image": "/photos/L1000227.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/250",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:05:26 19:09:53",
+    "gps": {
+      "lat": 43.636078,
+      "lon": -79.418433
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "Urban Symphony",
+    "alt": "A cityscape view of Toronto featuring the CN Tower, railway tracks, and residential buildings on a sunny day.",
+    "tags": [
+      "Toronto",
+      "CN Tower",
+      "Railway",
+      "Trains",
+      "Urban Landscape",
+      "Residential Buildings",
+      "Transportation",
+      "Architecture",
+      "Cityscape",
+      "Sunlight"
+    ]
+  },
+  {
     "filename": "L1030402.jpg",
     "image": "/photos/L1030402.jpg",
     "camera": "LEICA Q3",
