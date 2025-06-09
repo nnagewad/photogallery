@@ -8,42 +8,42 @@
       {% endif %}
       {% if layout == 'layouts/photo.njk' %}
         <h3>Information</h3>
-        <table>
-          <tr>
-            <th>Date and time</th>
-            <td>
+        <dl class="inline-dl">
+          <div>
+            <dt>Date and time</dt>
+            <dd>
               <time datetime="{{ photo.dateTaken | apiToISO }}">{{ photo.dateTaken | apiToDate }} at {{ photo.dateTaken | apiToTime }}</time>
-            </td>
-          </tr>
+            </dd>
+          </div>
           {% if photo.gps != null %}
-            <tr>
-              <th>Location</th>
-              <td>
+            <div>
+              <dt>Location</dt>
+              <dd>
                 <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</a> (open Google Maps in a new tab)
-              </td>
-            </tr>
+              </dd>
+            </div>
           {% endif %}
-          <tr>
-            <th>Camera</th>
-            <td>{{ photo.camera }}</td>
-          </tr>
-          <tr>
-            <th>Lens</th>
-            <td>{{ photo.lens }}</td>
-          </tr>
-          <tr>
-            <th>Aperture</th>
-            <td>{{ photo.aperture }}</td>
-          </tr>
-          <tr>
-            <th>ISO</th>
-            <td>{{ photo.iso }}</td>
-          </tr>
-          <tr>
-            <th>Shutter speed</th>
-            <td>{{ photo.shutterSpeed }}</td>
-          </tr>
-        </table>
+          <div>
+            <dt>Camera</dt>
+            <dd>{{ photo.camera }}</dd>
+          </div>
+          <div>
+            <dt>Lens</dt>
+            <dd>{{ photo.lens }}</dd>
+          </div>
+          <div>
+            <dt>Aperture</dt>
+            <dd>{{ photo.aperture }}</dd>
+          </div>
+          <div>
+            <dt>ISO</dt>
+            <dd>{{ photo.iso }}</dd>
+          </div>
+          <div>
+            <dt>Shutter speed</dt>
+            <dd>{{ photo.shutterSpeed }}</dd>
+          </div>
+        </dl>
 
         <h3>Tags</h3>
         <ul>
