@@ -11,52 +11,54 @@
 {% endif %}
 
 {% if layout == 'layouts/photo.njk' %}
-  <h1>{{ photo.title | updateApostrophe }}</h1>
-  <figure>
-    <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
-  </figure>
-  <figcaption>
-    <dl class="inline-dl">
-      <div>
-        <dt>Date and time</dt>
-        <dd>
-          <time datetime="{{ photo.dateTaken | apiToISO }}">{{ photo.dateTaken | apiToDate }} at {{ photo.dateTaken | apiToTime }}</time>
-        </dd>
-      </div>
-      {% if photo.gps != null %}
+  <article>
+    <h1>{{ photo.title | updateApostrophe }}</h1>
+    <figure>
+      <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
+    </figure>
+    <figcaption>
+      <dl class="inline-dl">
         <div>
-          <dt>Location</dt>
+          <dt>Date and time</dt>
           <dd>
-            <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</a> (open Google Maps in a new tab)
+            <time datetime="{{ photo.dateTaken | apiToISO }}">{{ photo.dateTaken | apiToDate }} at {{ photo.dateTaken | apiToTime }}</time>
           </dd>
         </div>
-      {% endif %}
-      <div>
-        <dt>Camera</dt>
-        <dd>{{ photo.camera }}</dd>
-      </div>
-      <div>
-        <dt>Lens</dt>
-        <dd>{{ photo.lens }}</dd>
-      </div>
-      <div>
-        <dt>Aperture</dt>
-        <dd>{{ photo.aperture }}</dd>
-      </div>
-      <div>
-        <dt>ISO</dt>
-        <dd>{{ photo.iso }}</dd>
-      </div>
-      <div>
-        <dt>Shutter speed</dt>
-        <dd>{{ photo.shutterSpeed }}</dd>
-      </div>
-    </dl>
-    <h3>Tags</h3>
-    <ul>
-      {% for tag in photo.tags %}
-        <li>{{ tag }}</li>
-      {% endfor %}
-    </ul>
-  </figcaption>
+        {% if photo.gps != null %}
+          <div>
+            <dt>Location</dt>
+            <dd>
+              <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</a> (open Google Maps in a new tab)
+            </dd>
+          </div>
+        {% endif %}
+        <div>
+          <dt>Camera</dt>
+          <dd>{{ photo.camera }}</dd>
+        </div>
+        <div>
+          <dt>Lens</dt>
+          <dd>{{ photo.lens }}</dd>
+        </div>
+        <div>
+          <dt>Aperture</dt>
+          <dd>{{ photo.aperture }}</dd>
+        </div>
+        <div>
+          <dt>ISO</dt>
+          <dd>{{ photo.iso }}</dd>
+        </div>
+        <div>
+          <dt>Shutter speed</dt>
+          <dd>{{ photo.shutterSpeed }}</dd>
+        </div>
+      </dl>
+      <h3>Tags</h3>
+      <ul>
+        {% for tag in photo.tags %}
+          <li>{{ tag }}</li>
+        {% endfor %}
+      </ul>
+    </figcaption>
+  </article>
 {% endif %}
