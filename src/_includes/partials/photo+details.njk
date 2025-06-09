@@ -4,7 +4,7 @@
     <figcaption>
       <h2>{{ photo.title | updateApostrophe }}</h2>
       {% if layout == 'layouts/photo-feed.njk' %}
-        <a href="post/{{ photo.title | slugify }}/index.html">More information about the photo</a>
+        <a href="post/{{ photo.title | slugify }}/index.html">More information<span class="visually-hidden"> about this photo</span></a>
       {% endif %}
       {% if layout == 'layouts/photo.njk' %}
         <h3>Information</h3>
