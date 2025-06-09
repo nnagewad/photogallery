@@ -3,7 +3,5 @@
 {% block content %}
   {% include 'partials/photo+details.njk' %}
 
-  <nav class="photo-nav">
-    <a href="/">← View photofeed</a>
-  </nav>
+  {% include 'partials/pagination.njk' %}
 {% endblock %}
