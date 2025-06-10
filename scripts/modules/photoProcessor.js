@@ -30,7 +30,7 @@ export async function processPhoto(file, folderPath) {
     console.warn(`Claude failed on ${file}:`, err.message);
   }
 
-  // Resize image to third the size
+  // Resize and optimize image to third the size
   try {
     const metadata = await sharp(filePath).metadata();
 
@@ -41,7 +41,7 @@ export async function processPhoto(file, folderPath) {
     await sharp(filePath)
       .resize(reduceWidth, reduceHeight)
       .jpeg({
-        quality: 90,
+        quality: 80,
         mozjpeg: true,
         progressive: true
       })
