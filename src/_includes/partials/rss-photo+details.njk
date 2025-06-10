@@ -1,6 +1,5 @@
-<img src="{{ site.url }}photos/{{ post.data.photo.filename }}" alt="{{ post.data.photo.alt | safe }}" />
 <h1>{{ post.data.photo.title | updateApostrophe | safe }}</h1>
-<h2>Information</h2>
+<img src="{{ site.url }}photos/{{ post.data.photo.filename }}" alt="{{ post.data.photo.alt | safe }}" />
 <dl>
   <dt>Date and time</dt>
   <dd>
@@ -26,7 +25,7 @@
   <dt>Shutter speed</dt>
   <dd>{{ post.data.photo.shutterSpeed }}</dd>
 </dl>
-<h2>Tags</h2>
+<span>Tags</span>
 <ul>
   {% for tag in post.data.photo.tags %}
     <li>{{ tag | safe }}</li>
