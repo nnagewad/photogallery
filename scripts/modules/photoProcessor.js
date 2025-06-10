@@ -39,7 +39,12 @@ export async function processPhoto(file, folderPath) {
 
     // Resize, optimize and overwrite by writing to a temp file and replacing original
     await sharp(filePath)
-      .resize(halfWidth, halfHeight)
+      .resize(reduceWidth, reduceHeight)
+      .jpeg({
+        quality: 90,
+        mozjpeg: true,
+        progressive: true
+      })
       .toFile(filePath + '.tmp');
 
     await fs.rename(filePath + '.tmp', filePath);
