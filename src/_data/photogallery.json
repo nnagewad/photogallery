@@ -1,88 +1,30 @@
 [
   {
-    "filename": "L1000227.jpg",
-    "image": "/photos/L1000227.jpg",
+    "filename": "L1000240.jpg",
+    "image": "/photos/L1000240.jpg",
     "camera": "LEICA Q3",
     "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 400,
+    "iso": 6400,
     "shutterSpeed": "1/250",
-    "aperture": "f/16.0",
-    "dateTaken": "2025:05:26 19:09:53",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:26 22:01:03",
     "gps": {
-      "lat": 43.636078,
-      "lon": -79.418433
+      "lat": 43.636294,
+      "lon": -79.418622
     },
     "localized": "Toronto",
     "country": "Canada",
-    "title": "Urban Symphony",
-    "alt": "A cityscape view of Toronto featuring the CN Tower, railway tracks, and residential buildings on a sunny day.",
+    "title": "Nocturnal Illumination",
+    "alt": "A parking lot at night with tall stadium lights illuminating the area surrounded by buildings.",
     "tags": [
-      "Toronto",
-      "CN Tower",
-      "Railway",
-      "Trains",
-      "Urban Landscape",
-      "Residential Buildings",
-      "Transportation",
-      "Architecture",
-      "Cityscape",
-      "Sunlight"
-    ]
-  },
-  {
-    "filename": "L1030402.jpg",
-    "image": "/photos/L1030402.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 100,
-    "shutterSpeed": "1/250",
-    "aperture": "f/10.0",
-    "dateTaken": "2025:04:26 12:42:12",
-    "gps": {
-      "lat": 51.389431,
-      "lon": 1.379678
-    },
-    "localized": "Thanet",
-    "country": "United Kingdom",
-    "title": "Urban Tides",
-    "alt": "People paddleboarding in a harbor area with buildings in the background",
-    "tags": [
-      "harbor",
-      "paddleboarding",
-      "water sports",
-      "urban landscape",
-      "marina",
-      "waterfront",
-      "blue sky",
-      "coastal",
-      "active lifestyle"
-    ]
-  },
-  {
-    "filename": "L1000036.jpg",
-    "image": "/photos/L1000036.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 100,
-    "shutterSpeed": "1/2000",
-    "aperture": "f/1.7",
-    "dateTaken": "2025:05:11 07:23:52",
-    "gps": null,
-    "localized": null,
-    "country": null,
-    "title": "Luminous Floral Reverie",
-    "alt": "Orange roses blooming against a bright blue sky, with green leaves and vibrant lighting.",
-    "tags": [
-      "roses",
-      "flowers",
-      "nature",
-      "blooming",
-      "sky",
-      "vibrant",
-      "outdoors",
-      "summer",
-      "sunlight",
-      "colorful"
+      "night",
+      "urban",
+      "lighting",
+      "parking lot",
+      "stadium lights",
+      "buildings",
+      "cars",
+      "city"
     ]
   }
 ]

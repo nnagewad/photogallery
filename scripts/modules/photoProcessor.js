@@ -34,12 +34,17 @@ export async function processPhoto(file, folderPath) {
   try {
     const metadata = await sharp(filePath).metadata();
 
-    const halfWidth = Math.floor(metadata.width / 3);
-    const halfHeight = Math.floor(metadata.height / 3);
+    const reduceWidth = Math.floor(metadata.width / 2.5);
+    const reduceHeight = Math.floor(metadata.height / 2.5);
 
-    // Resize and overwrite by writing to a temp file and replacing original
+    // Resize, optimize and overwrite by writing to a temp file and replacing original
     await sharp(filePath)
-      .resize(halfWidth, halfHeight)
+      .resize(reduceWidth, reduceHeight)
+      .jpeg({
+        quality: 90,
+        mozjpeg: true,
+        progressive: true
+      })
       .toFile(filePath + '.tmp');
 
     await fs.rename(filePath + '.tmp', filePath);
