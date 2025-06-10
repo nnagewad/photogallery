@@ -37,7 +37,7 @@ export async function processPhoto(file, folderPath) {
     const reduceWidth = Math.floor(metadata.width / 2.5);
     const reduceHeight = Math.floor(metadata.height / 2.5);
 
-    // Resize and overwrite by writing to a temp file and replacing original
+    // Resize, optimize and overwrite by writing to a temp file and replacing original
     await sharp(filePath)
       .resize(halfWidth, halfHeight)
       .toFile(filePath + '.tmp');
