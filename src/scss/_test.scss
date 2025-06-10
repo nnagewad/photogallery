@@ -2,20 +2,3 @@ body {
   max-width: 1024px;
   margin: 0 auto;
 }
-
-.inline-dl > div {
-  display: flex;
-  gap: 1rem;
-  margin-bottom: 0.5rem;
-}
-
-.inline-dl dt {
-  font-weight: bold;
-  width: 100px;
-  margin: 0;
-}
-
-.inline-dl dd {
-  margin: 0;
-  flex: 1;
-}

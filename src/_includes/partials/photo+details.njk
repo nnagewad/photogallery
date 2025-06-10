@@ -17,7 +17,7 @@
       <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
     </figure>
     <figcaption>
-      <dl class="inline-dl">
+      <dl>
         <div>
           <dt>Date and time</dt>
           <dd>
@@ -53,7 +53,7 @@
           <dd>{{ photo.shutterSpeed }}</dd>
         </div>
       </dl>
-      <h3>Tags</h3>
+      <span>Tags</span>
       <ul>
         {% for tag in photo.tags %}
           <li>{{ tag }}</li>
