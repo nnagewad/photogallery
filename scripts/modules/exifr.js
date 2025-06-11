@@ -35,15 +35,18 @@ export async function extractPhotoData(filePath) {
     const shutterSpeed = tags.ExposureTime?.description || null;
     const aperture = tags.FNumber?.description || tags.ApertureValue?.description || null;
     const dateTaken = tags.DateTimeOriginal?.description || null;
-
-    // Note: Ref is inside array, take first element
+    
+    // GPS
     const rawLat = tags.GPSLatitude?.value;
     const rawLon = tags.GPSLongitude?.value;
     const latRef = tags.GPSLatitudeRef?.value?.[0];
     const lonRef = tags.GPSLongitudeRef?.value?.[0];
-
     const lat = Array.isArray(rawLat) ? dmsToDecimal(rawLat, latRef) : null;
     const lon = Array.isArray(rawLon) ? dmsToDecimal(rawLon, lonRef) : null;
+
+    // Dimensions
+    const width = tags['ExifImageWidth']?.value || tags['ImageWidth']?.value || tags['Image Width']?.value || tags['PixelXDimension']?.value || null;
+    const height = tags['ExifImageHeight']?.value || tags['ImageHeight']?.value || tags['Image Height']?.value || tags['PixelYDimension']?.value || null;
 
     return {
       camera: `${model}`.trim(),
@@ -52,6 +55,7 @@ export async function extractPhotoData(filePath) {
       shutterSpeed,
       aperture,
       dateTaken,
+      dimensions: width && height ? { width, height } : null,
       gps: lat != null && lon != null ? { lat, lon } : null
     };
   } catch (err) {
