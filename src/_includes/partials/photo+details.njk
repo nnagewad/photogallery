@@ -1,7 +1,7 @@
 {% if layout == 'layouts/photo-feed.njk' %}
   <article id="{{ photo.title | slugify }}">
     <figure>
-      <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
+      {% include 'partials/photo-path.njk' %}
     </figure>
     <figcaption>
       <h2>{{ photo.title | updateApostrophe }}</h2>
@@ -14,7 +14,7 @@
   <article id="{{ photo.title | slugify }}">
     <h1>{{ photo.title | updateApostrophe }}</h1>
     <figure>
-      <img src="{{ photo.image }}" alt="{{ photo.alt }}" />
+      {% include 'partials/photo-path.njk' %}
     </figure>
     <figcaption>
       <dl>
