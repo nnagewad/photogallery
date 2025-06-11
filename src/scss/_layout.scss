@@ -1,0 +1,9 @@
+.wrapper {
+  width: 90%;
+  max-width: var(--wrapper-width);
+  margin: 0 auto;
+  &:focus {
+    outline: none;
+  }
+}
+
