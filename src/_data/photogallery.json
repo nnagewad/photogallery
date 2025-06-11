@@ -1,5 +1,37 @@
 [
   {
+    "filename": "L1000240.jpg",
+    "image": "/photos/L1000240.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/250",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:26 22:01:03",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.636294,
+      "lon": -79.418622
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "Nocturnal Radiance",
+    "alt": "A parking lot illuminated by bright stadium lights and streetlights at night, with tall buildings in the background.",
+    "tags": [
+      "night",
+      "urban",
+      "parking lot",
+      "illumination",
+      "stadium lights",
+      "streetlights",
+      "city skyline",
+      "modern architecture"
+    ]
+  },
+  {
     "filename": "L1000237.jpg",
     "image": "/photos/L1000237.jpg",
     "camera": "LEICA Q3",
