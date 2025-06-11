@@ -1,38 +1,5 @@
 [
   {
-    "filename": "L1000227.jpg",
-    "image": "/photos/L1000227.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 400,
-    "shutterSpeed": "1/250",
-    "aperture": "f/16.0",
-    "dateTaken": "2025:05:26 19:09:53",
-    "dimensions": {
-      "width": 2048,
-      "height": 1363
-    },
-    "gps": {
-      "lat": 43.636078,
-      "lon": -79.418433
-    },
-    "localized": "Toronto",
-    "country": "Canada",
-    "title": "Urban Symphony",
-    "alt": "A cityscape view of Toronto's downtown skyline featuring the CN Tower, high-rise buildings, and railway tracks in the foreground",
-    "tags": [
-      "urbanscape",
-      "railway",
-      "skyscrapers",
-      "citylife",
-      "transportation",
-      "architecture",
-      "metropolis",
-      "infrastructure",
-      "perspective"
-    ]
-  },
-  {
     "filename": "L1000237.jpg",
     "image": "/photos/L1000237.jpg",
     "camera": "LEICA Q3",
@@ -51,18 +18,17 @@
     },
     "localized": "Toronto",
     "country": "Canada",
-    "title": "Nocturnal Illuminations",
-    "alt": "A neon sign in the shape of a bell glows brightly in the night, casting light on a building and a 'Food Store' sign.",
+    "title": "Nocturnal Beacon",
+    "alt": "A large red bell logo illuminated against the night sky, with a food store sign below.",
     "tags": [
-      "night",
-      "neon sign",
-      "bell sign",
-      "illuminated",
-      "urban",
-      "dusk",
-      "wires",
-      "food store",
-      "streetlights"
+      "Night",
+      "Urban",
+      "Signage",
+      "Illumination",
+      "Store",
+      "Bell",
+      "Logo",
+      "Atmospheric"
     ]
   }
 ]
