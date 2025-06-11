@@ -32,14 +32,8 @@ export async function processPhoto(file, folderPath) {
 
   // Resize and optimize image to third the size
   try {
-    const metadata = await sharp(filePath).metadata();
-
-    const reduceWidth = Math.floor(metadata.width / 3);
-    const reduceHeight = Math.floor(metadata.height / 3);
-
     // Resize, optimize and overwrite by writing to a temp file and replacing original
     await sharp(filePath)
-      .resize(reduceWidth, reduceHeight)
       .jpeg({
         quality: 80,
         mozjpeg: true,
