@@ -12,7 +12,10 @@
 
 {% if layout == 'layouts/photo.njk' %}
   <article id="{{ photo.title | slugify }}">
-    <h1>{{ photo.title | updateApostrophe }}</h1>
+    <h1>
+      <span class='headline-caption'>Nikin's photofeed</span>
+      <span class='photo-title'>{{ photo.title | updateApostrophe }}</span>
+    </h1>
     <figure>
       {% include 'partials/photo-path.njk' %}
     </figure>
