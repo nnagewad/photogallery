@@ -1,0 +1,13 @@
+<a class='skip-link wrapper' href='#main-content'>Skip to content</a>
+<header>
+  <a href='/' aria-label='{{ site.fullName }}'></a>
+  <nav aria-label='Primary'>
+    <ul>
+      {% for item in navigation.items %}
+      <li>
+        <a href='{{ item.url }}' {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
