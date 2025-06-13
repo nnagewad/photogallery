@@ -2,17 +2,18 @@
 
 <!DOCTYPE html>
 <html lang="{{ site.language }}">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  {% include "partials/meta-info.njk" %}
-  <link rel='stylesheet' href='/css/style.css?{{ assetHash }}' />
-</head>
-<body>
-  {% include 'partials/site-header.njk' %}
-  <main tabindex='-1' id='main-content' class='wrapper'>
-    {% block content %}
-    {% endblock %}
-  </main>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {% include "partials/meta-info.njk" %}
+    <link rel='stylesheet' href='/css/style.css?{{ assetHash }}' />
+  </head>
+  <body>
+    {% include 'partials/site-header.njk' %}
+    <main tabindex='-1' id='main-content' class='wrapper'>
+      {% block content %}
+      {% endblock %}
+    </main>
+    {% include 'partials/site-footer.njk' %}
+  </body>
 </html>
