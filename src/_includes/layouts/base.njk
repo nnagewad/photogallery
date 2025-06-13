@@ -9,6 +9,7 @@
   <link rel='stylesheet' href='/css/style.css?{{ assetHash }}' />
 </head>
 <body>
+  {% include 'partials/site-header.njk' %}
   <main tabindex='-1' id='main-content' class='wrapper'>
     {% block content %}
     {% endblock %}
