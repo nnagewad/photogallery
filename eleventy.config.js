@@ -7,6 +7,9 @@ import htmlmin from 'html-minifier-terser';
 import pluginRss from "@11ty/eleventy-plugin-rss";
 
 export default async function(eleventyConfig) {
+  // Tell 11ty to use the .eleventyignore and ignore our .gitignore file
+  eleventyConfig.setUseGitIgnore(false);
+  
   // Watch SCSS files for changes
   eleventyConfig.setServerOptions({
     watch: ['./_site/css/**/*.css'],
