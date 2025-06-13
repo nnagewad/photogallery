@@ -1,12 +1,14 @@
 <footer class='wrapper'>
   {% include 'partials/switch.njk' %}
-  <small>Website was designed and built by {{ site.fullName }}</small>
-  <small>
-    <dl>
-      <dt>Last update:</dt>
-      <dd>
-        <time datetime='{{ helpers.builtAtISO }}'>{{ helpers.builtAtString }}</time>
-      </dd>
-    </dl>
-  </small>
+  <div class="visually-hidden">
+    <small>Website was designed and built by {{ site.fullName }}</small>
+    <small>
+      <dl>
+        <dt>Last update:</dt>
+        <dd>
+          <time datetime='{{ helpers.builtAtISO }}'>{{ helpers.builtAtString }}</time>
+        </dd>
+      </dl>
+    </small>
+  </div>
 </footer>
