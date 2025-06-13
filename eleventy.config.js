@@ -3,6 +3,7 @@ import apiToISO from "./src/_filters/api-to-iso.js";
 import apiToDate from "./src/_filters/api-to-date.js";
 import apiToTime from "./src/_filters/api-to-time.js";
 import updateApostrophe from "./src/_filters/update-apostrophe.js";
+import { minify } from 'terser';
 import htmlmin from 'html-minifier-terser';
 import pluginRss from "@11ty/eleventy-plugin-rss";
 
@@ -20,6 +21,21 @@ export default async function(eleventyConfig) {
   eleventyConfig.addFilter('apiToDate', apiToDate);
   eleventyConfig.addFilter('apiToTime', apiToTime);
   eleventyConfig.addFilter('updateApostrophe', updateApostrophe);
+
+  // Inline JS
+  eleventyConfig.addNunjucksAsyncFilter('jsmin', async function (
+    code,
+    callback
+  ) {
+    try {
+      const minified = await minify(code);
+      callback(null, minified.code);
+    } catch (err) {
+      console.error('Terser error: ', err);
+      // Fail gracefully.
+      callback(null, code);
+    }
+  });
 
   // Minify HTML output
   eleventyConfig.addTransform('htmlmin', function(content, outputPath) {
