@@ -1,0 +1,161 @@
+// Mixins for --spacing-1
+@mixin top-1($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-1);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-1);
+  }
+}
+@mixin bottom-1($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-1);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-1);
+  }
+}
+
+// Mixins for --spacing-2
+@mixin top-2($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-2);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-2);
+  }
+}
+@mixin bottom-2($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-2);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-2);
+  }
+}
+
+// Mixins for --spacing-3
+@mixin top-3($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-3);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-3);
+  }
+}
+@mixin bottom-3($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-3);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-3);
+  }
+}
+
+// Mixins for --spacing-4
+@mixin top-4($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-4);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-4);
+  }
+}
+@mixin bottom-4($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-4);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-4);
+  }
+}
+
+// Mixins for --spacing-5
+@mixin top-5($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-5);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-5);
+  }
+}
+@mixin bottom-5($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-5);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-5);
+  }
+}
+
+// Mixins for --spacing-6
+@mixin top-6($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-6);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-6);
+  }
+}
+@mixin bottom-6($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-6);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-6);
+  }
+}
+
+// Mixins for --spacing-7
+@mixin top-7($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-7);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-7);
+  }
+}
+@mixin bottom-7($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-7);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-7);
+  }
+}
+
+// Mixins for --spacing-8
+@mixin top-8($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-8);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-8);
+  }
+}
+@mixin bottom-8($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-8);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-8);
+  }
+}
+
+// Mixins for --spacing-9
+@mixin top-9($type) {
+  @if $type == padding {
+    padding-top: var(--spacing-9);
+  }
+  @if $type == margin {
+    margin-top: var(--spacing-9);
+  }
+}
+@mixin bottom-9($type) {
+  @if $type == padding {
+    padding-bottom: var(--spacing-9);
+  }
+  @if $type == margin {
+    margin-bottom: var(--spacing-9);
+  }
+}
