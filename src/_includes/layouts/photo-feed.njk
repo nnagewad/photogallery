@@ -3,7 +3,7 @@
 {% block content %}
   
   <section class="grid-container feed">
-    <h1 class='font-size-2'>Nikin's photofeed</h1>
+    <h1 class='font-size-2'>{{ site.siteName }}</h1>
     {% for photo in photofeed %}
       {% include 'partials/photo+details.njk' %}
     {% endfor %}
