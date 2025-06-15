@@ -1,10 +1,13 @@
 @use "spacing-mixins";
 
 figure {
-  border: var(--border-thin) solid var(--color-link);
+  border: var(--border-thin) solid var(--color-border);
 }
 
 a {
+  figure {
+    border: var(--border-thin) solid var(--color-link);
+  }
   &:hover,
   &:focus {
     figure {
