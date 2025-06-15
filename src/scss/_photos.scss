@@ -5,18 +5,26 @@ figure {
 }
 
 a {
+  &:hover,
+  &:focus {
+    figure {
+      border-color: var(--color-hover);
+    }
+  }
   &:hover {
-    .photo-orientation--landscape,
-    .photo-orientation--portrait,
-    .photo-orientation--square {
-      opacity: 0.5;
+    figure {
+      box-shadow: 0 0 0 var(--pixel-10) var(--color-hover);
     }
   }
   &:focus {
-    .photo-orientation--landscape,
-    .photo-orientation--portrait,
-    .photo-orientation--square {
-      outline: var(--pixel-15) solid var(--color-focus);
+    figure {
+      border-color: var(--color-focus);
+      background: var(--color-focus);
+      box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--pixel-15) var(--color-focus-border);
+      img {
+        filter: grayscale(100%);
+        opacity: 0.15
+      }
     }
   }
 }
