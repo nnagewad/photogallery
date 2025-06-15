@@ -1,3 +1,27 @@
+@use "borders-mixins";
+@use "spacing-mixins";
+
+body {
+  background: var(--color-background);
+}
+
+header {
+  @include borders-mixins.thick-divider(bottom);
+  @include spacing-mixins.top-6(padding);
+  @include spacing-mixins.bottom-4(padding);
+}
+
+footer {
+  @include borders-mixins.thick-divider(top);
+  @include spacing-mixins.top-6(padding);
+  @include spacing-mixins.bottom-6(padding);
+}
+
+main {
+  @include spacing-mixins.top-9(padding);
+  @include spacing-mixins.bottom-9(padding);
+}
+
 .wrapper {
   width: 90%;
   max-width: var(--wrapper-width);
@@ -5,5 +29,23 @@
   &:focus {
     outline: none;
   }
+}
+
+.flex-container {
+  display: flex;
+  gap: var(--spacing-6);
+  justify-content: space-between;
+  &--wrap {
+    @extend .flex-container;
+    flex-wrap: wrap;
+  }
+  &--reverse-wrap {
+    @extend .flex-container;
+    flex-wrap: wrap-reverse;
+  }
+}
+
+.vertical-align-bottom {
+  align-items: flex-end;
 }
 
