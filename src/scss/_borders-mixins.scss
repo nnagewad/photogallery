@@ -1,0 +1,8 @@
+@mixin thick-divider($direction) {
+  @if $direction == top {
+    border-top: var(--border-thick) solid var(--color-border);
+  }
+  @if $direction == bottom {
+    border-bottom: var(--border-thick) solid var(--color-border);
+  }
+}
