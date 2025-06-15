@@ -1,5 +1,5 @@
 {% if layout == 'layouts/photo-feed.njk' %}
-  <article id="{{ photo.title | slugify }}">
+  <article id='{{ photo.title | slugify }}' class='individual-photo--feed'>
     <figure>
       {% include 'partials/photo-path.njk' %}
     </figure>
