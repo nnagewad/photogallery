@@ -1,7 +1,7 @@
 @use "spacing-mixins";
 
 figure {
-  outline: var(--pixel-2) solid var(--color-border);
+  border: var(--pixel-2) solid var(--color-border);
 }
 
 a {
