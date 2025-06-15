@@ -1,12 +1,22 @@
-.photo-orientation--landscape {
-  width: 1024px;
-  max-width: 100%;
-  max-height: auto;
+@use "spacing-mixins";
+
+figure {
+  outline: var(--pixel-2) solid var(--color-border);
 }
 
-.photo-orientation--portrait,
-.photo-orientation--square {
-  width: 681.5px;
-  max-width: 66.6vw;
-  max-height: auto;
+a {
+  &:hover {
+    .photo-orientation--landscape,
+    .photo-orientation--portrait,
+    .photo-orientation--square {
+      opacity: 0.5;
+    }
+  }
+  &:focus {
+    .photo-orientation--landscape,
+    .photo-orientation--portrait,
+    .photo-orientation--square {
+      outline: var(--pixel-15) solid var(--color-focus);
+    }
+  }
 }

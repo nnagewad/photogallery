@@ -10,8 +10,7 @@ body {
 }
 
 h1,
-h2,
-h3 {
+h2 {
   font-weight: var(--font-weight-bold);
   line-height: 1.3;
 }
@@ -36,7 +35,6 @@ a {
   text-wrap: balance;
 }
 
-.font-size-3,
 .font-size-2,
 .font-size-1 {
   line-height: 1.3;
@@ -49,22 +47,16 @@ a {
   );
 }
 
-.font-size-3 {
-  --min-font-size: 2.052rem;
-  --fluid-font-size: 1.598rem + 2.27vw;
-  --max-font-size: 3.3572rem;
-}
-
 .font-size-2 {
-  --min-font-size: 1.71rem;
-  --fluid-font-size: 1.4789rem + 1.1553vw;
-  --max-font-size: 2.3743rem;
+  --min-font-size: 2.6719rem;
+  --fluid-font-size: 2.18rem + 2.4594vw;
+  --max-font-size: 3.754rem;
 }
 
 .font-size-1 {
-  --min-font-size: 1.425rem;
-  --fluid-font-size: 1.3366rem + 0.442vw;
-  --max-font-size: 1.6791rem;
+  --min-font-size: 1.7813rem;
+  --fluid-font-size: 1.6312rem + 0.7503vw;
+  --max-font-size: 2.1114rem;
 }
 
 .font-size-0 {
@@ -72,17 +64,26 @@ a {
   font-size: 1.1875rem;
 }
 
-.font-size--1 {
-  font-size: 1rem;
-}
-
 .capitalize {
   text-transform: uppercase;
 }
 
-.title-spacing,
-.lead-paragraph {
+.title-spacing {
   @include spacing-mixins.bottom-9(margin);
+}
+
+footer {
+  p {
+    @include spacing-mixins.bottom-1(margin);
+    line-height: 1.125;
+  }
+}
+
+ul,
+.tags-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .list-horizontal {
@@ -103,8 +104,7 @@ a {
   gap: 0 var(--spacing-2);
 }
 
-a:focus,
-.font-size-1 > a:focus {
+a:focus {
   box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--focus-underline) var(--color-focus-border);
 }
 
@@ -126,10 +126,6 @@ a {
     text-decoration: none;
     outline: var(--spacing-0) solid transparent;
   }
-}
-
-.font-size-1 > a:focus {
-  --focus-background: -0.125rem;
 }
 
 .horizontal-list {
