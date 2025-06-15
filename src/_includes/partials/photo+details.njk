@@ -10,7 +10,7 @@
 {% endif %}
 
 {% if layout == 'layouts/photo.njk' %}
-  <article id="{{ photo.title | slugify }}">
+  <article id='{{ photo.title | slugify }}' class='individual-photo--page'>
     <h1 class='font-size-1'>{{ photo.title | updateApostrophe }}</h1>
     <figure>
       {% include 'partials/photo-path.njk' %}
