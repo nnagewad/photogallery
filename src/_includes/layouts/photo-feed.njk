@@ -7,7 +7,6 @@
     {% for photo in photofeed %}
       {% include 'partials/photo+details.njk' %}
     {% endfor %}
+    {% include 'partials/pagination.njk' %}
   </section>
-  
-  {% include 'partials/pagination.njk' %}
 {% endblock %}
