@@ -39,10 +39,6 @@ main {
     @extend .flex-container;
     flex-wrap: wrap;
   }
-  &--reverse-wrap {
-    @extend .flex-container;
-    flex-wrap: wrap-reverse;
-  }
 }
 
 .vertical-align-bottom {
