@@ -54,7 +54,3 @@ main {
   @include spacing-mixins.top-7(padding);
   @include spacing-mixins.bottom-7(padding);
 }
-
-.individual-photo--page {
-  @include spacing-mixins.bottom-7(padding);
-}

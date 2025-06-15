@@ -1,7 +1,7 @@
 @use "spacing-mixins";
 
 figure {
-  border: var(--border-thin) solid var(--color-border);
+  border: var(--border-thin) solid var(--color-link);
 }
 
 a {
@@ -31,5 +31,12 @@ a {
         opacity: 0.15
       }
     }
+  }
+}
+
+.individual-photo--page {
+  @include spacing-mixins.bottom-7(padding);
+  figure {
+    @include spacing-mixins.bottom-5(margin);
   }
 }
