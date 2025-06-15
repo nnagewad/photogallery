@@ -2,13 +2,17 @@
   <ul>
     {% if pagination.href.previous %}
       <li>
-        <a href="{{ pagination.href.previous }}">Previous {% if layout == 'layouts/photo-feed.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}</a>  
+        <a href="{{ pagination.href.previous }}">
+          Previous {% if layout == 'layouts/photo-feed.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}
+        </a>  
       </li>
     {% endif %}
 
     {% if pagination.href.next %}
       <li>
-        <a href="{{ pagination.href.next }}">Next {% if layout == 'layouts/photo-feed.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}</a>
+        <a href="{{ pagination.href.next }}">
+          Next {% if layout == 'layouts/photo-feed.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}
+        </a>
       </li>
     {% endif %}
   </ul>
