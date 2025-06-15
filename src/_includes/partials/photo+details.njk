@@ -1,6 +1,6 @@
 {% if layout == 'layouts/photo-feed.njk' %}
   <article id='{{ photo.title | slugify }}' class='individual-photo--feed'>
-    <a href="post/{{ photo.title | slugify }}/index.html">
+    <a href="/post/{{ photo.title | slugify }}/index.html">
       <span class="visually-hidden">More information about the photo, entitled: {{ photo.title | updateApostrophe }}</span>
       <figure>
         {% include 'partials/photo-path.njk' %}
