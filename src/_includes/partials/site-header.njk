@@ -1,8 +1,8 @@
 <a class='skip-link wrapper' href='#main-content'>Skip to content</a>
-<header class='wrapper'>
+<header class='wrapper flex-container--wrap vertical-align-bottom'>
   <a href='/' aria-label='{{ site.fullName }}'></a>
-  <nav aria-label='Primary'>
-    <ul>
+  <nav class='site-navigation' aria-label='Primary'>
+    <ul class='horizontal-list'>
       {% for item in navigation.items %}
       <li>
         <a href='{{ item.url }}' {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
