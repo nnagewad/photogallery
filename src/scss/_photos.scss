@@ -13,7 +13,12 @@ a {
   }
   &:hover {
     figure {
-      box-shadow: 0 0 0 var(--pixel-10) var(--color-hover);
+      border-color: var(--color-hover);
+      background: var(--color-hover);
+      img {
+        filter: grayscale(100%);
+        opacity: 0.5
+      }
     }
   }
   &:focus {
