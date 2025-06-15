@@ -19,7 +19,7 @@ footer {
 
 main {
   @include spacing-mixins.top-9(padding);
-  @include spacing-mixins.bottom-9(padding);
+  @include spacing-mixins.bottom-7(padding);
 }
 
 .wrapper {
@@ -45,3 +45,13 @@ main {
   align-items: flex-end;
 }
 
+.grid-container {
+  display: grid;
+  grid-template-columns: minmax(auto, calc(var(--wrapper-width)*2/3));
+}
+
+.individual-photo--feed {
+  @include spacing-mixins.top-8(padding);
+  @include spacing-mixins.top-7(padding);
+  @include spacing-mixins.bottom-7(padding);
+}
