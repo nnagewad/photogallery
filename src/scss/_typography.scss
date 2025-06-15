@@ -1,0 +1,155 @@
+@use "sass:math";
+@use "spacing-mixins";
+
+body {
+  font-family: sans-serif;
+  font-optical-sizing: auto;
+  @extend .font-size-0;
+  line-height: 1.75;
+  color: var(--color-primary-text);
+}
+
+h1,
+h2,
+h3 {
+  font-weight: var(--font-weight-bold);
+  line-height: 1.3;
+}
+
+p {
+  @include spacing-mixins.bottom-4(margin);
+}
+
+a {
+  text-underline-offset: 0.3125em;
+  text-decoration-thickness: math.max(0.0625rem);
+  @media (hover: hover) {
+    &:hover,
+    &[aria-current=page] {
+      text-decoration-thickness: math.max(0.188rem);
+      text-decoration-skip-ink: none;
+    }
+  }
+}
+
+.balance-textwrap {
+  text-wrap: balance;
+}
+
+.font-size-3,
+.font-size-2,
+.font-size-1 {
+  line-height: 1.3;
+  @include spacing-mixins.bottom-2(margin);
+  @extend .balance-textwrap;
+  font-size: clamp(
+    var(--min-font-size),
+    calc(var(--fluid-font-size)),
+    var(--max-font-size)
+  );
+}
+
+.font-size-3 {
+  --min-font-size: 2.052rem;
+  --fluid-font-size: 1.598rem + 2.27vw;
+  --max-font-size: 3.3572rem;
+}
+
+.font-size-2 {
+  --min-font-size: 1.71rem;
+  --fluid-font-size: 1.4789rem + 1.1553vw;
+  --max-font-size: 2.3743rem;
+}
+
+.font-size-1 {
+  --min-font-size: 1.425rem;
+  --fluid-font-size: 1.3366rem + 0.442vw;
+  --max-font-size: 1.6791rem;
+}
+
+.font-size-0 {
+  font-weight: var(--font-weight-standard);
+  font-size: 1.1875rem;
+}
+
+.font-size--1 {
+  font-size: 1rem;
+}
+
+.capitalize {
+  text-transform: uppercase;
+}
+
+.title-spacing,
+.lead-paragraph {
+  @include spacing-mixins.bottom-9(margin);
+}
+
+.list-horizontal {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  li {
+    flex-basis: max-content;
+    margin-bottom: 0;
+  }
+}
+
+.horizontal-gap--3 {
+  gap: 0 var(--spacing-3);
+}
+
+.horizontal-gap--2 {
+  gap: 0 var(--spacing-2);
+}
+
+a:focus,
+.font-size-1 > a:focus {
+  box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--focus-underline) var(--color-focus-border);
+}
+
+a {
+  color: var(--color-link);
+  @media (hover: hover) {
+    &:hover {
+      color: var(--color-hover);
+    }
+  }
+  &:active {
+    color: var(--color-active);
+  }
+  &:focus {
+    background: var(--color-focus);
+    color: var(--color-focus-text);
+    text-decoration-skip-ink: none;
+    --focus-background: -0.55rem;
+    text-decoration: none;
+    outline: var(--spacing-0) solid transparent;
+  }
+}
+
+.font-size-1 > a:focus {
+  --focus-background: -0.125rem;
+}
+
+.horizontal-list {
+  @extend .list-horizontal;
+  gap: 0 var(--spacing-7);
+  font-weight: var(--font-weight-bold);
+  a:not(:hover, [aria-current=page]) {
+    text-decoration: none;
+  }
+  a[aria-current=page] {
+    color: var(--color-active);
+    text-underline-offset: var(--nav-underline-offset);
+  }
+  @media (hover: hover) {
+    a:hover {
+      color: var(--color-hover);
+      text-underline-offset: var(--nav-underline-offset);
+    }
+  }
+  a:focus {
+    color: var(--color-focus-text);
+  }
+}
