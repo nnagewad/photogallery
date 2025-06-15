@@ -1,5 +1,38 @@
 [
   {
+    "filename": "L1000381.jpg",
+    "image": "/photos/L1000381.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:30 14:32:10",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.649975,
+      "lon": -79.437919
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "Urban Serenity",
+    "alt": "An ice cream cone sculpture beside a potted plant and a blue book, illuminated by a round glowing light",
+    "tags": [
+      "sculpture",
+      "plant",
+      "book",
+      "light",
+      "interior",
+      "minimalist",
+      "decor",
+      "ambiance",
+      "stilllife"
+    ]
+  },
+  {
     "filename": "L1000240.jpg",
     "image": "/photos/L1000240.jpg",
     "camera": "LEICA Q3",
