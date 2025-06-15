@@ -17,47 +17,54 @@
     </figure>
     <figcaption>
       <dl>
-        <div>
+        <div class='list-horizontal horizontal-gap--2'>
           <dt>Date and time:</dt>
           <dd>
-            <time datetime="{{ photo.dateTaken | apiToISO }}">{{ photo.dateTaken | apiToDate }} at {{ photo.dateTaken | apiToTime }}</time>
+            <time datetime="{{ photo.dateTaken | apiToISO }}">
+              <span class='bold'>{{ photo.dateTaken | apiToDate }}</span> at <span class='bold'>{{ photo.dateTaken | apiToTime }}</span>
+            </time>
           </dd>
         </div>
         {% if photo.gps != null %}
-          <div>
+          <div class='list-horizontal horizontal-gap--2'>
             <dt>Location:</dt>
             <dd>
-              <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</a> (open Google Maps in a new tab)
+              <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">
+                <span class='bold'>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</a></span>
+                <span class='font-size--1'>(open Google Maps in a new tab)</span>
             </dd>
           </div>
         {% endif %}
-        <div>
+        <div class='list-horizontal horizontal-gap--2'>
           <dt>Camera:</dt>
-          <dd>{{ photo.camera }}</dd>
+          <dd class='bold'>{{ photo.camera }}</dd>
         </div>
-        <div>
+        <div class='list-horizontal horizontal-gap--2'>
           <dt>Lens:</dt>
-          <dd>{{ photo.lens }}</dd>
+          <dd class='bold'>{{ photo.lens }}</dd>
         </div>
-        <div>
+        <div class='list-horizontal horizontal-gap--2'>
           <dt>Aperture:</dt>
-          <dd>{{ photo.aperture }}</dd>
+          <dd class='bold'>{{ photo.aperture }}</dd>
         </div>
-        <div>
+        <div class='list-horizontal horizontal-gap--2'>
           <dt>ISO:</dt>
-          <dd>{{ photo.iso }}</dd>
+          <dd class='bold'>{{ photo.iso }}</dd>
         </div>
-        <div>
+        <div class='list-horizontal horizontal-gap--2'>
           <dt>Shutter speed:</dt>
-          <dd>{{ photo.shutterSpeed }}</dd>
+          <dd class='bold'>{{ photo.shutterSpeed }}</dd>
         </div>
       </dl>
-      <span>Tags:</span>
-      <ul>
-        {% for tag in photo.tags %}
-          <li>{{ tag }}</li>
-        {% endfor %}
-      </ul>
+
+       <div class='list-horizontal horizontal-gap--2'>
+        <span>Tags:</span>
+        <ul class='list-horizontal horizontal-gap--3'>
+          {% for tag in photo.tags %}
+            <li class='bold'>{{ tag | capitalize }}</li>
+          {% endfor %}
+        </ul>
+       </div>
     </figcaption>
   </article>
 {% endif %}
