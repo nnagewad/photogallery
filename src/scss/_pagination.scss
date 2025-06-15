@@ -1,0 +1,9 @@
+.pagination > ul {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.pagination li {
+  font-weight: var(--font-weight-bold);
+}
