@@ -1,22 +1,15 @@
 <nav class="pagination">
-  {% if pagination.href.previous %}
-    <a href="{{ pagination.href.previous }}">← Previous {% if layout == 'layouts/photo-feed.njk' %}<span class="visually-hidden">page</span>{% elif layout == 'layouts/photo.njk' %}<span class="visually-hidden">photo</span>{% endif %}</a>
-  {% endif %}
+  <ul>
+    {% if pagination.href.previous %}
+      <li>
+        <a href="{{ pagination.href.previous }}">Previous {% if layout == 'layouts/photo-feed.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}</a>  
+      </li>
+    {% endif %}
 
-  {% if layout == 'layouts/photo-feed.njk' %}
-    {% for pageNum in pagination.pages %}
-      {% set pageIndex = loop.index0 %}
-      {% if pagination.pageNumber == pageIndex %}
-        <strong>Page {{ pageIndex + 1 }}</strong>
-      {% else %}
-        <a href="{{ pagination.hrefs[pageIndex] }}"><span class="visually-hidden">Page</span> {{ pageIndex + 1 }}</a>
-      {% endif %}
-    {% endfor %}
-  {% elif layout == 'layouts/photo.njk' %}
-    <a href="/"><span class="visually-hidden">Return to </span>Photofeed</a>
-  {% endif %}
-
-  {% if pagination.href.next %}
-    <a href="{{ pagination.href.next }}">Next {% if layout == 'layouts/photo-feed.njk' %}<span class="visually-hidden">page</span>{% elif layout == 'layouts/photo.njk' %}<span class="visually-hidden">photo</span>{% endif %} →</a>
-  {% endif %}
+    {% if pagination.href.next %}
+      <li>
+        <a href="{{ pagination.href.next }}">Next {% if layout == 'layouts/photo-feed.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}</a>
+      </li>
+    {% endif %}
+  </ul>
 </nav>
