@@ -13,7 +13,6 @@
 {% if layout == 'layouts/photo.njk' %}
   <article id="{{ photo.title | slugify }}">
     <h1>
-      <span class='headline-caption'>Nikin's photofeed</span>
       <span class='photo-title'>{{ photo.title | updateApostrophe }}</span>
     </h1>
     <figure>
