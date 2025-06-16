@@ -39,6 +39,6 @@ a {
 
 .individual-photo--page {
   figure {
-    @include spacing-mixins.bottom-5(margin);
+    @include spacing-mixins.bottom-2(margin);
   }
 }

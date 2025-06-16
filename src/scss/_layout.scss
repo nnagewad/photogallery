@@ -19,7 +19,7 @@ footer {
 
 main {
   @include spacing-mixins.top-9(padding);
-  @include spacing-mixins.bottom-7(padding);
+  @include spacing-mixins.bottom-8(padding);
 }
 
 .wrapper {
