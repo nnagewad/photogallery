@@ -38,7 +38,6 @@ a {
 }
 
 .individual-photo--page {
-  @include spacing-mixins.bottom-7(padding);
   figure {
     @include spacing-mixins.bottom-5(margin);
   }
