@@ -53,4 +53,7 @@ main {
 .individual-photo--feed {
   @include spacing-mixins.top-7(padding);
   @include spacing-mixins.bottom-7(padding);
+  &:first-of-type {
+    padding-top: 0
+  }
 }
