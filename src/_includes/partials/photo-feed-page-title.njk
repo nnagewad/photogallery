@@ -1,0 +1,8 @@
+<h1>
+  {% if pagination.pageNumber == 0 %}
+    <span class="font-size-1">{{ site.siteName }}</span>
+  {% elif pagination.pageNumber != 0 %}
+    <span>{{ site.siteName }}</span>
+    <span class="font-size-1">Page {{ pagination.pageNumber + 1 }}</span>
+  {% endif %}
+</h1>
