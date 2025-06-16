@@ -5,6 +5,7 @@
       <figure>
         {% include 'partials/photo-path.njk' %}
       </figure>
+      <span>{{ photo.title | updateApostrophe }}</span>
     </a>
   </article>
 {% endif %}
