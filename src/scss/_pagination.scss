@@ -1,3 +1,9 @@
+@use "spacing-mixins";
+
+.pagination {
+  @include spacing-mixins.top-9(margin);
+}
+
 .pagination > ul {
   display: flex;
   flex-direction: column;
