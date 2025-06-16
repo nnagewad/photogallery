@@ -31,7 +31,7 @@
             <dd>
               <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">
                 <span class='bold'>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</a></span>
-                <span class='font-size--1'>(open Google Maps in a new tab)</span>
+                <span class='font-size--1'>(open Google Maps<span class='visually-hidden'> in a new tab or the app if installed on the device</span>)</span>
             </dd>
           </div>
         {% endif %}
