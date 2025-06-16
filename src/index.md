@@ -2,7 +2,7 @@
 layout: 'layouts/photo-feed.njk'
 pagination:
   data: photogallery
-  size: 2
+  size: 5
   alias: photofeed
 permalink: "/{% if pagination.pageNumber != 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 eleventyComputed:
