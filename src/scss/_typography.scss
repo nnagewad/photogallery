@@ -77,6 +77,16 @@ a {
   @include spacing-mixins.bottom-9(margin);
 }
 
+.headline-caption {
+  @extend .font-size-1;
+  color: var(--color-secondary-text);
+  margin-bottom: 0;
+}
+
+.caption-with-headline {
+  display: grid;
+}
+
 footer {
   p {
     @include spacing-mixins.bottom-1(margin);
