@@ -69,7 +69,11 @@ a {
   color: var(--color-secondary-text);
 }
 
-.bold {
+.data-key {
+  color: var(--color-secondary-text);
+}
+
+.data-value {
   font-weight: var(--font-weight-bold);
 }
 
