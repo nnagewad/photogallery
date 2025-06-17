@@ -1,5 +1,23 @@
 @use "spacing-mixins";
 
+.individual-photo--page figure:has(.photo-orientation--portrait),
+.individual-photo--page figure:has(.photo-orientation--square) {
+  max-width: 455px;
+  margin: 0 auto;
+}
+
+.individual-photo--page > figure:has(.photo-orientation--landscape) {
+  margin: 0 auto;
+}
+
+.photo {
+  flex: 0 1 calc(var(--wrapper-width)*2/3);
+}
+
+.photo-details {
+  flex: 1 1 calc(var(--wrapper-width)*1/5 - var(--spacing-6));
+}
+
 a {
   &:hover {
     figure {
@@ -21,11 +39,5 @@ a {
         opacity: 0.15
       }
     }
-  }
-}
-
-.individual-photo--page {
-  figure {
-    @include spacing-mixins.bottom-2(margin);
   }
 }
