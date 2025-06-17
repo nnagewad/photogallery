@@ -12,7 +12,7 @@
 
 {% if layout == 'layouts/photo.njk' %}
   <article id='{{ photo.title | slugify }}' class='individual-photo--page'>
-    <h1 class='font-size-2 title-spacing'>{{ photo.title | updateApostrophe }}</h1>
+    <h1 class='font-size-2 title-spacing grid-container'>{{ photo.title | updateApostrophe }}</h1>
     <div class="flex-container--wrap">
       <figure class="photo">
         {% include 'partials/photo-path.njk' %}
