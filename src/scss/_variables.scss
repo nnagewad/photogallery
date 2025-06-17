@@ -55,9 +55,6 @@
   --color-focus-text: light-dark(var(--color-black), var(--color-black));
   --color-focus-border: light-dark(var(--color-black), var(--color-grey));
   --color-border: light-dark(var(--color-black), var(--color-white));
-  --color-button: light-dark(var(--color-link), var(--color-link));
-  --color-button-hover: light-dark(var(--color-hover), var(--color-hover));
-  --color-button-text: light-dark(var(--color-white), var(--color-black));
 }
 
 @media (prefers-color-scheme: dark) {
