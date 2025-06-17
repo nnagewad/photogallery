@@ -69,12 +69,16 @@ a {
   color: var(--color-secondary-text);
 }
 
-.bold {
+.data-key {
+  color: var(--color-secondary-text);
+}
+
+.data-value {
   font-weight: var(--font-weight-bold);
 }
 
 .title-spacing {
-  @include spacing-mixins.bottom-9(margin);
+  @include spacing-mixins.bottom-3(margin);
 }
 
 .headline-caption {
@@ -164,7 +168,7 @@ a {
   }
 }
 
-.individual-photo--page dl {
+dl {
   display: grid;
-  gap: var(--spacing-1);
+  gap: var(--spacing-3);
 }
