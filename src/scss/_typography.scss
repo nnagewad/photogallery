@@ -74,7 +74,7 @@ a {
 }
 
 .title-spacing {
-  @include spacing-mixins.bottom-9(margin);
+  @include spacing-mixins.bottom-3(margin);
 }
 
 .headline-caption {
