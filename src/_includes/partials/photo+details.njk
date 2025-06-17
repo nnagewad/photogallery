@@ -58,9 +58,11 @@
           </div>
           <div class='list-horizontal horizontal-gap--2'>
            <dt class='data-key'>Tags:</dt>
-          {% for tag in photo.tags %}
-            <dd class='data-value list-horizontal horizontal-gap--3'>{{ tag | capitalize }}</dd>
-          {% endfor %}
+           <dd class='list-horizontal horizontal-gap--3'>
+            {% for tag in photo.tags %}
+              <span class='data-value'>{{ tag | capitalize }}</span>
+            {% endfor %}
+          </dd>
         </div>
         </dl>
       </figcaption>
