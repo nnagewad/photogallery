@@ -1,19 +1,6 @@
 @use "spacing-mixins";
 
-figure {
-  border: var(--border-thin) solid var(--color-border);
-}
-
 a {
-  figure {
-    border: var(--border-thin) solid var(--color-link);
-  }
-  &:hover,
-  &:focus {
-    figure {
-      border-color: var(--color-hover);
-    }
-  }
   &:hover {
     figure {
       border-color: var(--color-hover);
@@ -28,7 +15,7 @@ a {
     figure {
       border-color: var(--color-focus);
       background: var(--color-focus);
-      box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--pixel-15) var(--color-focus-border);
+      box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--pixel-10) var(--color-focus-border);
       img {
         filter: grayscale(100%);
         opacity: 0.15
