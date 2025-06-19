@@ -45,7 +45,7 @@ main {
   align-items: flex-end;
 }
 
-.grid-container {
+.title-container {
   display: grid;
   grid-template-columns: minmax(auto, calc(var(--wrapper-width)*2/3));
 }
