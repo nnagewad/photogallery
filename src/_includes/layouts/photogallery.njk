@@ -4,7 +4,7 @@
   <section>
     {% include 'partials/photogallery-page-title.njk' %}
     {% for photo in photogallery %}
-      <a href="/post/{{ photo.title | slugify }}/index.html">
+        <a href="/post/{{ photo.title | slugify }}/index.html" class="gallery-image">
         <span class="visually-hidden">More information about the photo, entitled: {{ photo.title | updateApostrophe }}</span>
         <figure>
           {% include 'partials/photo-path.njk' %}
