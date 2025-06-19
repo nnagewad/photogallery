@@ -1,6 +1,62 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-  {% include 'partials/photo+details.njk' %}  
+  <section id='{{ photo.title | slugify }}' class='photo+details'>
+    <h1 class='font-size-2 title-spacing grid-container'>{{ photo.title | updateApostrophe }}</h1>
+    <div class="flex-container--wrap">
+      <figure class="photo">
+        {% include 'partials/photo-path.njk' %}
+      </figure>
+      <figcaption class="details">
+        <dl>
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key'>Date and time:</dt>
+            <dd class='data-value'>
+              <time datetime="{{ photo.dateTaken | apiToISO }}">
+                {{ photo.dateTaken | apiToDate }} at {{ photo.dateTaken | apiToTime }}
+              </time>
+            </dd>
+          </div>
+          {% if photo.gps != null %}
+            <div class='list-horizontal horizontal-gap--2'>
+              <dt class='data-key'>Location:</dt>
+              <dd class='data-value'>
+                <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">
+                  {% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</a>
+              </dd>
+            </div>
+          {% endif %}
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key'>Camera:</dt>
+            <dd class='data-value'>{{ photo.camera }}</dd>
+          </div>
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key'>Lens:</dt>
+            <dd class='data-value'>{{ photo.lens }}</dd>
+          </div>
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key'>Aperture:</dt>
+            <dd class='data-value'>{{ photo.aperture }}</dd>
+          </div>
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key'>ISO:</dt>
+            <dd class='data-value'>{{ photo.iso }}</dd>
+          </div>
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key'>Shutter speed:</dt>
+            <dd class='data-value'>{{ photo.shutterSpeed }}</dd>
+          </div>
+          <div class='list-horizontal horizontal-gap--2'>
+           <dt class='data-key'>Tags:</dt>
+           <dd class='list-horizontal horizontal-gap--3'>
+            {% for tag in photo.tags %}
+              <span class='data-value'>{{ tag | capitalize }}</span>
+            {% endfor %}
+          </dd>
+        </div>
+        </dl>
+      </figcaption>
+    </div>
+  </section>
   {% include 'partials/pagination.njk' %}
 {% endblock %}

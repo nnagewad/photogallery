@@ -1,11 +1,15 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-  
   <section>
     {% include 'partials/photogallery-page-title.njk' %}
     {% for photo in photogallery %}
-      {% include 'partials/photo+details.njk' %}
+      <a href="/post/{{ photo.title | slugify }}/index.html">
+        <span class="visually-hidden">More information about the photo, entitled: {{ photo.title | updateApostrophe }}</span>
+        <figure>
+          {% include 'partials/photo-path.njk' %}
+        </figure>
+      </a>
     {% endfor %}
   </section>
   {% include 'partials/pagination.njk' %}
