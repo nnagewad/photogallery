@@ -151,9 +151,7 @@ a {
   }
 }
 
-.horizontal-list {
-  @extend .list-horizontal;
-  gap: 0 var(--spacing-7);
+.header-menu-items {
   font-weight: var(--font-weight-bold);
   a{
     &:not(:hover, [aria-current=page]) {
