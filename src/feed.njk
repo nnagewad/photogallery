@@ -23,7 +23,7 @@
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}" />
-      <updated>{{ post.data.dateTaken }}</updated>
+      <updated>{{ post.data.dateTaken | apiToISO }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content type="html"><![CDATA[
         <h1>{{ post.data.photo.title | updateApostrophe | safe }}</h1>
