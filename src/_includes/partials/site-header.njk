@@ -4,7 +4,7 @@
     {# add logo here #}
   </a>
   <nav class='site-navigation' aria-label='Primary'>
-    <ul class='horizontal-list'>
+    <ul class='header-menu-items list-horizontal horizontal-gap--7'>
       {% for item in navigation.items %}
       <li>
         <a href='{{ item.url }}' {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
