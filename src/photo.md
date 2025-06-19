@@ -9,5 +9,5 @@ tags: posts
 permalink: post/{{ photo.title | slugify }}/index.html
 eleventyComputed:
   title: '{{ photo.title | updateApostrophe }}'
-  dateTaken: '{{ photo.dateTaken | apiToISO }}'
+  dateTaken: '{{ photo.dateTaken }}'
 ---
