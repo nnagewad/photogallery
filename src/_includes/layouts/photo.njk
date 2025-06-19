@@ -1,8 +1,6 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-  <section class="feed">
-    {% include 'partials/photo+details.njk' %}
-    {% include 'partials/pagination.njk' %}
-  </section>
+  {% include 'partials/photo+details.njk' %}  
+  {% include 'partials/pagination.njk' %}
 {% endblock %}
