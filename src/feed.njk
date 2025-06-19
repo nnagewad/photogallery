@@ -23,10 +23,39 @@
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}" />
-      <updated>{{ post.date | dateToRfc3339 }}</updated>
+      <updated>{{ post.data.dateTaken | apiToUTC }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content type="html"><![CDATA[
-        {% include "partials/rss-photo+details.njk" %}
+        <img src="{{ site.url }}photos/{{ post.data.photo.filename }}" alt="{{ post.data.photo.alt | safe }}" />
+        <dl>
+          {% if post.data.photo.gps != null %}
+            <dt>Location</dt>
+            <dd>
+              <a href="https://www.google.com/maps?q={{ post.data.photo.gps.lat }},{{ post.data.photo.gps.lon }}" rel="noopener noreferrer" target="_blank">
+                {% if post.data.photo.localized != null %}{{ post.data.photo.localized }}, {% endif %}
+                {{ post.data.photo.country }}
+              </a> (open Google Maps in a new tab)
+            </dd>
+          {% endif %}
+          <dt>Camera</dt>
+          <dd>{{ post.data.photo.camera }}</dd>
+          <dt>Lens</dt>
+          <dd>{{ post.data.photo.lens }}</dd>
+          <dt>Aperture</dt>
+          <dd>{{ post.data.photo.aperture }}</dd>
+          <dt>ISO</dt>
+          <dd>{{ post.data.photo.iso }}</dd>
+          <dt>Shutter speed</dt>
+          <dd>{{ post.data.photo.shutterSpeed }}</dd>
+          <dt>Tags</dt>
+          <dd>
+            <ul>
+              {% for tag in post.data.photo.tags %}
+                <li>{{ tag | safe }}</li>
+              {% endfor %}
+            </ul>
+          </dd>
+        </dl>
       ]]></content>
     </entry>
   {%- endfor %}
