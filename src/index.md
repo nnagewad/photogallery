@@ -1,5 +1,5 @@
 ---
-layout: 'layouts/photo-feed.njk'
+layout: 'layouts/photogallery.njk'
 pagination:
   data: photogallery
   size: 5
