@@ -49,14 +49,3 @@ main {
   display: grid;
   grid-template-columns: minmax(auto, calc(var(--wrapper-width)*2/3));
 }
-
-.individual-photo--feed {
-  @include spacing-mixins.top-7(padding);
-  @include spacing-mixins.bottom-7(padding);
-  &:first-of-type {
-    padding-top: 0
-  }
-  &:last-of-type {
-    padding-bottom: 0
-  }
-}
