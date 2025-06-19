@@ -2,11 +2,11 @@
 
 {% block content %}
   
-  <section class="grid-container feed">
+  <section>
     {% include 'partials/photogallery-page-title.njk' %}
     {% for photo in photogallery %}
       {% include 'partials/photo+details.njk' %}
     {% endfor %}
-    {% include 'partials/pagination.njk' %}
   </section>
+  {% include 'partials/pagination.njk' %}
 {% endblock %}
