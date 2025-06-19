@@ -2,13 +2,13 @@
   {% include 'partials/switch.njk' %}
   <div class="visually-hidden">
     <small>Website was designed and built by {{ site.fullName }}</small>
-    <small>
-      <dl>
-        <dt>Last update:</dt>
-        <dd>
-          <time datetime='{{ helpers.builtAtISO }}'>{{ helpers.builtAtString }}</time>
-        </dd>
-      </dl>
-    </small>
+    <dl>
+      <dt><small>Last update:</small></dt>
+      <dd>
+        <time datetime='{{ helpers.builtAtISO }}'>
+          <small>{{ helpers.builtAtString }}</small>
+        </time>
+      </dd>
+    </dl>
   </div>
 </footer>
