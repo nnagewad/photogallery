@@ -26,13 +26,8 @@
       <updated>{{ post.data.dateTaken | apiToISO }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content type="html"><![CDATA[
-        <h1>{{ post.data.photo.title | updateApostrophe | safe }}</h1>
         <img src="{{ site.url }}photos/{{ post.data.photo.filename }}" alt="{{ post.data.photo.alt | safe }}" />
         <dl>
-          <dt>Date and time</dt>
-          <dd>
-            {{ post.data.photo.dateTaken | apiToDate }} at {{ post.data.photo.dateTaken | apiToTime }}
-          </dd>
           {% if post.data.photo.gps != null %}
             <dt>Location</dt>
             <dd>
