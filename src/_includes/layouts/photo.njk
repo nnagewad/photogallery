@@ -48,10 +48,12 @@
           </div>
           <div class='list-horizontal horizontal-gap--2'>
            <dt class='data-key'>Tags:</dt>
-           <dd class='list-horizontal horizontal-gap--3'>
-            {% for tag in photo.tags %}
-              <span class='data-value'>{{ tag | capitalize }}</span>
-            {% endfor %}
+           <dd>
+            <ul class='list-horizontal horizontal-gap--3'>
+              {% for tag in photo.tags %}
+                <span class='data-value'>{{ tag | capitalize }}</span>
+              {% endfor %}
+            </ul>
           </dd>
         </div>
         </dl>
