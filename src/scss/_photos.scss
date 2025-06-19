@@ -29,7 +29,7 @@ a {
       }
     }
   }
-  &:focus {
+  &:focus-visible {
     figure {
       border-color: var(--color-focus);
       background: var(--color-focus);
@@ -37,6 +37,16 @@ a {
       img {
         filter: grayscale(100%);
         opacity: 0.15
+      }
+    }
+  }
+    &:active {
+    figure {
+      border-color: var(--color-active);
+      background: var(--color-active);
+      img {
+        filter: grayscale(100%);
+        opacity: 0.5
       }
     }
   }
