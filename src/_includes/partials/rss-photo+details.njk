@@ -24,10 +24,12 @@
   <dd>{{ post.data.photo.iso }}</dd>
   <dt>Shutter speed</dt>
   <dd>{{ post.data.photo.shutterSpeed }}</dd>
+  <dt>Tags</dt>
+  <dd>
+    <ul>
+      {% for tag in post.data.photo.tags %}
+        <li>{{ tag | safe }}</li>
+      {% endfor %}
+    </ul>
+  </dd>
 </dl>
-<span>Tags</span>
-<ul>
-  {% for tag in post.data.photo.tags %}
-    <li>{{ tag | safe }}</li>
-  {% endfor %}
-</ul>
