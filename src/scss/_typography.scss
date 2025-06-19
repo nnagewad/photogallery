@@ -123,7 +123,7 @@ ul {
   gap: 0 var(--spacing-2);
 }
 
-a:focus {
+a:focus-visible {
   box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--focus-underline) var(--color-focus-border);
 }
 
@@ -137,7 +137,7 @@ a {
   &:active {
     color: var(--color-active);
   }
-  &:focus {
+  &:focus-visible {
     background: var(--color-focus);
     color: var(--color-focus-text);
     text-decoration-skip-ink: none;
@@ -164,7 +164,7 @@ a {
       text-underline-offset: var(--nav-underline-offset);
     }
   }
-  a:focus {
+  a:focus-visible {
     color: var(--color-focus-text);
   }
 }
