@@ -12,7 +12,7 @@
 .photo {
   flex: 0 1 calc(var(--wrapper-width)*2/3);
   img {
-    outline: var(--border-thin) solid var(--color-border);
+    border: var(--border-thin) solid var(--color-border);
   }
 }
 
