@@ -25,6 +25,7 @@
     overflow: hidden;
     border: var(--border-thin) solid var(--color-border);
     position: relative;
+    .photo-orientation--square,
     .photo-orientation--portrait {
       position: absolute;
       top: 50%;
