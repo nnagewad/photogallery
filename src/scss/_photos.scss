@@ -8,13 +8,13 @@
   }
 }
 
-.photo+details figure:has(.photo-orientation--portrait),
-.photo+details figure:has(.photo-orientation--square) {
+.photo-details figure:has(.photo-orientation--portrait),
+.photo-details figure:has(.photo-orientation--square) {
   max-width: 455px;
   margin: 0 auto;
 }
 
-.photo+details > figure:has(.photo-orientation--landscape) {
+.photo-details > figure:has(.photo-orientation--landscape) {
   margin: 0 auto;
 }
 

@@ -1,7 +1,7 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-  <section id='{{ photo.title | slugify }}' class='photo+details'>
+  <section id='{{ photo.title | slugify }}' class='photo-details'>
     <h1 class='font-size-2 title-spacing title-container'>{{ photo.title | updateApostrophe }}</h1>
     <div class="flex-container--wrap">
       <figure class="photo">
