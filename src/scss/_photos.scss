@@ -1,13 +1,4 @@
 @use "spacing-mixins";
-
-.gallery-image {
-  flex: 1 1 calc(var(--wrapper-width)*1/4);
-  img {
-    width: 100%;
-    object-fit: cover;
-  }
-}
-
 .photo-details figure:has(.photo-orientation--portrait),
 .photo-details figure:has(.photo-orientation--square) {
   max-width: 455px;
