@@ -14,5 +14,7 @@
       {% endfor %}
     </div>
   </section>
+  {% if pagination.href.previous or pagination.href.next %}
   {% include 'partials/pagination.njk' %}
+  {% endif %}
 {% endblock %}
