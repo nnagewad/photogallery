@@ -49,14 +49,3 @@ main {
   display: grid;
   grid-template-columns: minmax(auto, calc(var(--wrapper-width)*2/3));
 }
-
-.photogallery-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: var(--spacing-3);
-  .gallery-image {
-    aspect-ratio: 1 / 1;
-    overflow: hidden;
-    outline: var(--border-thin) solid var(--color-border);
-  }
-}
