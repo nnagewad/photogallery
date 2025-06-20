@@ -16,6 +16,12 @@
   }
 }
 
+.photogallery-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--spacing-3);
+}
+
 .details {
   flex: 1 1 calc(var(--wrapper-width)*1/5 - var(--spacing-6));
 }
