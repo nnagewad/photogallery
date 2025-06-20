@@ -3,7 +3,7 @@
 {% block content %}
   <section>
     {% include 'partials/photogallery-page-title.njk' %}
-    <div class="flex-container--wrap">
+    <div class="photogallery-container">
       {% for photo in photogallery %}
         <a href="/post/{{ photo.title | slugify }}/index.html" class="gallery-image">
           <span class="visually-hidden">More information about the photo, entitled: {{ photo.title | updateApostrophe }}</span>
