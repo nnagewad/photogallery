@@ -20,7 +20,7 @@
   flex: 1 1 calc(var(--wrapper-width)*1/5 - var(--spacing-6));
 }
 
-a {
+.gallery-image {
   &:hover {
     figure {
       border-color: var(--color-hover);
