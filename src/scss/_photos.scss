@@ -1,24 +1,44 @@
 @use "spacing-mixins";
-
-.individual-photo--page figure:has(.photo-orientation--portrait),
-.individual-photo--page figure:has(.photo-orientation--square) {
+.photo-details figure:has(.photo-orientation--portrait),
+.photo-details figure:has(.photo-orientation--square) {
   max-width: 455px;
   margin: 0 auto;
 }
 
-.individual-photo--page > figure:has(.photo-orientation--landscape) {
+.photo-details figure:has(.photo-orientation--landscape) {
   margin: 0 auto;
 }
 
 .photo {
   flex: 0 1 calc(var(--wrapper-width)*2/3);
+  img {
+    border: var(--border-thin) solid var(--color-border);
+  }
 }
 
-.photo-details {
+.photogallery-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--spacing-3);
+  figure {
+    aspect-ratio: 3/2;
+    overflow: hidden;
+    border: var(--border-thin) solid var(--color-border);
+    position: relative;
+    .photo-orientation--portrait {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+}
+
+.details {
   flex: 1 1 calc(var(--wrapper-width)*1/5 - var(--spacing-6));
 }
 
-a {
+.gallery-image {
   &:hover {
     figure {
       border-color: var(--color-hover);
