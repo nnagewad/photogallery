@@ -20,6 +20,18 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: var(--spacing-3);
+  figure {
+    aspect-ratio: 3/2;
+    overflow: hidden;
+    border: var(--border-thin) solid var(--color-border);
+    position: relative;
+    .photo-orientation--portrait {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
 }
 
 .details {
