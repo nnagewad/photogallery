@@ -1,7 +1,8 @@
 [
   {
     "filename": "L1000381.jpg",
-    "image": "/photos/L1000381.jpg",
+    "image": "/img/photos/L1000381.jpg",
+    "thumbnail": "/img/thumbnails/L1000381.jpg",
     "camera": "LEICA Q3",
     "lens": "SUMMILUX 1:1.7/28 ASPH.",
     "iso": 100,
@@ -18,82 +19,52 @@
     },
     "localized": "Toronto",
     "country": "Canada",
-    "title": "Urban Serenity",
-    "alt": "An ice cream cone sculpture beside a potted plant and a blue book, illuminated by a round glowing light",
+    "title": "Luminous Serenity",
+    "alt": "A potted plant, ice cream cone sculpture, and a book sit in front of a glowing circular light against a teal background.",
     "tags": [
-      "sculpture",
-      "plant",
-      "book",
-      "light",
-      "interior",
-      "minimalist",
-      "decor",
-      "ambiance",
-      "stilllife"
+      "Ambient Lighting",
+      "Minimalist",
+      "Surreal",
+      "Indoor Still Life",
+      "Circular Light",
+      "Terracotta Sculpture",
+      "Houseplant",
+      "Soft Colors",
+      "Whimsical",
+      "Tranquil"
     ]
   },
   {
-    "filename": "L1000240.jpg",
-    "image": "/photos/L1000240.jpg",
+    "filename": "L1000392.jpg",
+    "image": "/img/photos/L1000392.jpg",
+    "thumbnail": "/img/thumbnails/L1000392.jpg",
     "camera": "LEICA Q3",
     "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 6400,
-    "shutterSpeed": "1/250",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
     "aperture": "f/1.7",
-    "dateTaken": "2025:05:26 22:01:03",
-    "dimensions": {
-      "width": 2048,
-      "height": 1363
-    },
-    "gps": {
-      "lat": 43.636294,
-      "lon": -79.418622
-    },
-    "localized": "Toronto",
-    "country": "Canada",
-    "title": "Nocturnal Radiance",
-    "alt": "A parking lot illuminated by bright stadium lights and streetlights at night, with tall buildings in the background.",
-    "tags": [
-      "night",
-      "urban",
-      "parking lot",
-      "illumination",
-      "stadium lights",
-      "streetlights",
-      "city skyline",
-      "modern architecture"
-    ]
-  },
-  {
-    "filename": "L1000237.jpg",
-    "image": "/photos/L1000237.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 3200,
-    "shutterSpeed": "1/2000",
-    "aperture": "f/1.7",
-    "dateTaken": "2025:05:26 21:24:19",
+    "dateTaken": "2025:05:30 14:53:52",
     "dimensions": {
       "width": 1363,
       "height": 2048
     },
     "gps": {
-      "lat": 43.636294,
-      "lon": -79.418622
+      "lat": 43.649981,
+      "lon": -79.437889
     },
     "localized": "Toronto",
     "country": "Canada",
-    "title": "Nocturnal Beacon",
-    "alt": "A large red bell logo illuminated against the night sky, with a food store sign below.",
+    "title": "Industrial Luminescence",
+    "alt": "An underground tunnel or corridor with exposed pipes and cables on the ceiling, illuminated by warm yellow light.",
     "tags": [
-      "Night",
-      "Urban",
-      "Signage",
-      "Illumination",
-      "Store",
-      "Bell",
-      "Logo",
-      "Atmospheric"
+      "tunnel",
+      "corridor",
+      "industrial",
+      "pipes",
+      "cables",
+      "yellow lighting",
+      "underground",
+      "urban exploration"
     ]
   }
 ]
