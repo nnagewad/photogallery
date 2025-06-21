@@ -76,7 +76,8 @@ export async function processPhoto(file, folderPath) {
 
   return {
     filename: file,
-    image: `/photos/${file}`,
+    image: `/img/photos/${file}`,
+    thumbnail: `/img/thumbnails/${file}`,
     ...exif,
     localized,
     country,

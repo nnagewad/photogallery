@@ -6,7 +6,7 @@ import { processPhoto } from './modules/photoProcessor.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const folderPath = path.join(__dirname, '../src/photos');
+const folderPath = path.join(__dirname, '../src/img/photos');
 const jsonPath = path.join(__dirname, '../src/_data/photogallery.json');
 
 let knownFiles = [];
