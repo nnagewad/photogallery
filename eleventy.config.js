@@ -68,7 +68,7 @@ export default async function(eleventyConfig) {
   // 11ty RSS plugin
   eleventyConfig.addPlugin(pluginRss);
   // Passthrough copy of images for RSS feed
-  eleventyConfig.addPassthroughCopy("src/photos");
+  eleventyConfig.addPassthroughCopy("src/img/photos");
 
   return {
     markdownTemplateEngine: 'njk',
