@@ -1,10 +1,10 @@
-<h1 class="title-container">
-  {% if pagination.pageNumber == 0 %}
-    <span class="font-size-2 title-spacing">{{ site.siteName }}</span>
-  {% elif pagination.pageNumber != 0 %}
-    <span class="caption-with-headline">
-      <span class="headline-caption">{{ site.siteName }}</span>
-      <span class="font-size-2 title-spacing">Page {{ pagination.pageNumber + 1 }}</span>
+<h1 class="title-spacing">
+  {% if pagination.href.previous or pagination.href.next %}
+    <span class="caption-with-headline website-title">
+      <span class="headline-caption">Page {{ pagination.pageNumber + 1 }} <span class="visually-hidden">of</span></span>
+      <span class="font-size-2">{{ site.siteName }}</span>
     </span>
+  {% else %}
+    <span class="font-size-2 website-title">{{ site.siteName }}</span>
   {% endif %}
 </h1>
