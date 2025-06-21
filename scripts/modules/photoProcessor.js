@@ -46,6 +46,34 @@ export async function processPhoto(file, folderPath) {
     console.warn(`Failed to resize image ${file}:`, err.message);
   }
 
+  // Create thumbnail if it doesn't already exist
+  try {
+    const thumbnailDir = path.join(folderPath, '..', 'thumbnails');
+    await fs.mkdir(thumbnailDir, { recursive: true });
+
+    const thumbPath = path.join(thumbnailDir, file);
+
+    try {
+      await fs.access(thumbPath); // Will throw if file doesn't exist
+      console.log(`Thumbnail already exists for ${file}, skipping.`);
+    } catch {
+      await sharp(filePath)
+        .resize(450, 450, {
+          fit: 'cover',
+          position: 'center'
+        })
+        .jpeg({ 
+          quality: 80,
+          mozjpeg: true,
+          progressive: true
+        })
+        .toFile(thumbPath);
+      console.log(`Thumbnail created for ${file}.`);
+    }
+  } catch (err) {
+    console.warn(`Failed to create thumbnail for ${file}:`, err.message);
+  }
+
   return {
     filename: file,
     image: `/photos/${file}`,
