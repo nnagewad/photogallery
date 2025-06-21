@@ -1,5 +1,38 @@
 [
   {
+    "filename": "L1000475.jpg",
+    "image": "/img/photos/L1000475.jpg",
+    "thumbnail": "/img/thumbnails/L1000475.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/60",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:06:14 20:29:38",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.519119,
+      "lon": -0.09264399999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Fleeting Gesture",
+    "alt": "A concert stage with a large projection of a hand and a drum kit under bright spotlights",
+    "tags": [
+      "Performance",
+      "Concert",
+      "Hand",
+      "Projection",
+      "Drums",
+      "Spotlights",
+      "Stage",
+      "Music"
+    ]
+  },
+  {
     "filename": "L1000381.jpg",
     "image": "/img/photos/L1000381.jpg",
     "thumbnail": "/img/thumbnails/L1000381.jpg",
