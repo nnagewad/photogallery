@@ -8,7 +8,7 @@
         <a href="/post/{{ photo.title | slugify }}/index.html" class="gallery-image">
           <span class="visually-hidden">More information about the photo, entitled: {{ photo.title | updateApostrophe }}</span>
           <figure>
-            {% include 'partials/photo-path.njk' %}
+            <img src="{{ photo.thumbnail }}" alt="{{ photo.alt }}">
           </figure>
         </a>
       {% endfor %}

@@ -5,7 +5,19 @@
     <h1 class='font-size-2 title-spacing title-container'>{{ photo.title | updateApostrophe }}</h1>
     <div class="flex-container--wrap">
       <figure class="photo">
-        {% include 'partials/photo-path.njk' %}
+        <img 
+          src="{{ photo.image }}"
+          alt="{{ photo.alt }}"
+          class="
+            {% if photo.dimensions.width < photo.dimensions.height %}
+              photo-orientation--portrait
+            {% elif photo.dimensions.width == photo.dimensions.height %}
+              photo-orientation--square
+            {% elif photo.dimensions.width > photo.dimensions.height %}
+              photo-orientation--landscape
+            {% endif %}
+          "
+        />
       </figure>
       <figcaption class="details">
         <dl>
