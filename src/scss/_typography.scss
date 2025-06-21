@@ -181,3 +181,13 @@ dl {
   display: grid;
   gap: var(--spacing-3);
 }
+
+.pagination li {
+  font-weight: var(--font-weight-semibold);
+  text-transform: lowercase;
+}
+
+.user-toggle,
+.theme-toggle {
+  text-transform: lowercase;
+}
