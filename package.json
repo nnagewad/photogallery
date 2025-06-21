@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-gallery": "node scripts/update-gallery.js",
+    "delete-photos": "node scripts/delete-photos.js",
     "watch:sass": "sass --watch src/scss:_site/css --style=compressed",
     "watch:eleventy": "eleventy --serve",
     "start": "concurrently \"npm run watch:sass\" \"npm run watch:eleventy\"",
