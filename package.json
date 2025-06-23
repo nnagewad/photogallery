@@ -33,7 +33,7 @@
     "luxon": "^3.6.1"
   },
   "devDependencies": {
-    "concurrently": "^9.1.2",
+    "concurrently": "^9.2.0",
     "html-minifier-terser": "^7.2.0",
     "sass": "^1.89.2",
     "terser": "^5.43.1"
