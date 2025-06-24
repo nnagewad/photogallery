@@ -12,32 +12,38 @@ export async function analyzeImage(filePath) {
     headers: {
       'x-api-key': CLAUDE_API_KEY,
       'anthropic-version': '2023-06-01',
+      'X-Anthropic-Beta': 'interleaved-thinking-2025-05-14',
       'content-type': 'application/json'
     },
     body: JSON.stringify({
-      model: 'claude-3-sonnet-20240229',
-      max_tokens: 300,
-      messages: [
-        {
-          role: 'user',
-          content: [
-            {
-              type: 'image',
-              source: {
-                type: 'base64',
-                media_type: 'image/jpeg',
-                data: base64Image
-              }
-            },
-            {
-              type: 'text',
-              text:
-                'Analyze this image. Return a short title that could be a title for a highbrow film, a useful alt text for screen readers, and 5-10 descriptive tags in an array. Respond only as JSON like: {"title": "...", "alt": "...", "tags": ["...", "..."]}'
+    model: 'claude-sonnet-4-20250514',
+    max_tokens: 300,
+    system: 'You are a perceptive photograher and accessibility expert.',
+    messages: [
+      {
+        role: 'user',
+        content: [
+          {
+            type: 'image',
+            source: {
+              type: 'base64',
+              media_type: 'image/jpeg',
+              data: base64Image
             }
-          ]
-        }
-      ]
-    })
+          },
+          {
+            type: 'text',
+            text: `Analyze this image. Return a short title that could be a title for a highbrow film, a useful alt text for screen readers, and 5-10 descriptive tags in an array. Respond only as JSON like:
+            {
+              "title": "...",
+              "alt": "...",
+              "tags": ["...", "..."]
+            }`
+          }
+        ]
+      }
+    ]
+  })
   });
 
   if (!response.ok) {
@@ -46,9 +52,13 @@ export async function analyzeImage(filePath) {
   }
 
   const data = await response.json();
+  const msg = data.content[0];
+  if (data.stop_reason === 'refusal') {
+    throw new Error('Claude refused to generate content');
+  }
 
   try {
-    return JSON.parse(data.content[0].text); // The Claude reply is in the `text` key
+    return JSON.parse(msg.text);
   } catch {
     throw new Error('Claude response is not valid JSON');
   }
