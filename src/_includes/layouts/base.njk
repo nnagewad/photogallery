@@ -11,7 +11,7 @@
   </head>
   <body>
     {% include 'partials/site-header.njk' %}
-    <main tabindex='-1' id='main-content' class='wrapper {% if layout == 'layouts/about.njk' %}about-page{% endif %}'>
+    <main tabindex='-1' id='main-content' class='wrapper {% if layout == 'layouts/about.njk' %}about-page{% elif layout == 'layouts/404.njk' %}grid-container{% endif %}'>
       {% block content %}
       {% endblock %}
     </main>
