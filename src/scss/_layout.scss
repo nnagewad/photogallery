@@ -39,6 +39,23 @@ main {
     @extend .flex-container;
     flex-wrap: wrap;
   }
+  &--reverse-wrap {
+    @extend .flex-container;
+    flex-wrap: wrap-reverse;
+  }
+}
+
+.details {
+  order: 1;
+  flex: 0 1 calc(var(--wrapper-width)*2/3);
+}
+
+.headshot {
+  order: 2;
+  flex: 1 1 calc(var(--wrapper-width)*1/5 - var(--spacing-6));
+  img {
+    margin: 0;
+  }
 }
 
 .vertical-align-bottom {
