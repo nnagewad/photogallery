@@ -22,6 +22,10 @@ main {
   @include spacing-mixins.bottom-8(padding);
 }
 
+.about-page {
+  @include spacing-mixins.bottom-9(padding);
+}
+
 .wrapper {
   width: 90%;
   max-width: var(--wrapper-width);
