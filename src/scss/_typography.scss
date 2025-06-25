@@ -65,9 +65,13 @@ a {
   color: var(--color-secondary-text);
 }
 
+.lowercase {
+  text-transform: lowercase;
+}
+
 .data-key {
   color: var(--color-secondary-text);
-  text-transform: lowercase;
+  @extend .lowercase;
 }
 
 .data-value {
@@ -76,15 +80,17 @@ a {
 }
 
 .title-spacing {
-  @include spacing-mixins.bottom-3(margin);
+  @include spacing-mixins.bottom-7(margin);
 }
 
-.website-title {
-  text-transform: lowercase;
+.website-page--title {
+  @extend .lowercase;
+  @extend .title-spacing;
 }
 
 .headline-caption {
   @extend .font-size-1;
+  @extend .lowercase;
   font-weight: var(--font-weight-medium);
   color: var(--color-secondary-text);
   margin-bottom: 0;
@@ -155,7 +161,7 @@ a {
 
 .header-menu-items {
   font-weight: var(--font-weight-semibold);
-  text-transform: lowercase;
+  @extend .lowercase;
   a{
     &:not(:hover, [aria-current=page]) {
       text-decoration: none;
@@ -183,10 +189,10 @@ dl {
 
 .pagination li {
   font-weight: var(--font-weight-semibold);
-  text-transform: lowercase;
+  @extend .lowercase;
 }
 
 .user-toggle,
 .theme-toggle {
-  text-transform: lowercase;
+  @extend .lowercase;
 }
