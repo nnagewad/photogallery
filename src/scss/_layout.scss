@@ -44,3 +44,8 @@ main {
 .vertical-align-bottom {
   align-items: flex-end;
 }
+
+.grid-container {
+  display: grid;
+  grid-template-columns: minmax(auto, calc(var(--wrapper-width) * 2 / 3));
+}
