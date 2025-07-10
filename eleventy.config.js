@@ -17,6 +17,12 @@ export default async function(eleventyConfig) {
     watch: ['./_site/css/**/*.css'],
   });
 
+  // Passthrough
+  // Passthrough copy of images for RSS feed
+  eleventyConfig.addPassthroughCopy("src/img/photos");
+  // Passthrough favicons
+  eleventyConfig.addPassthroughCopy('./src/img/favicon');
+
   // Add filters
   eleventyConfig.addFilter('apiToISO', apiToISO);
   eleventyConfig.addFilter('apiToDate', apiToDate);
@@ -67,8 +73,6 @@ export default async function(eleventyConfig) {
 
   // 11ty RSS plugin
   eleventyConfig.addPlugin(pluginRss);
-  // Passthrough copy of images for RSS feed
-  eleventyConfig.addPassthroughCopy("src/img/photos");
 
   return {
     markdownTemplateEngine: 'njk',
