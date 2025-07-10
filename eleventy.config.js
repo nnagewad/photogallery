@@ -21,7 +21,7 @@ export default async function(eleventyConfig) {
   // Passthrough copy of images for RSS feed
   eleventyConfig.addPassthroughCopy("src/img/photos");
   // Passthrough favicons
-  eleventyConfig.addPassthroughCopy('./src/img/favicon');
+  eleventyConfig.addPassthroughCopy("src/img/favicon");
 
   // Add filters
   eleventyConfig.addFilter('apiToISO', apiToISO);
