@@ -22,6 +22,8 @@ export default async function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/img/photos");
   // Passthrough favicons
   eleventyConfig.addPassthroughCopy("src/img/favicon");
+  // Passthrough open-graph images
+  eleventyConfig.addPassthroughCopy("src/img/open-graph");
 
   // Add filters
   eleventyConfig.addFilter('apiToISO', apiToISO);
