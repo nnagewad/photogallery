@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1030063.jpg",
+    "image": "/img/photos/L1030063.jpg",
+    "thumbnail": "/img/thumbnails/L1030063.jpg",
+    "opengraph": "/img/open-graph/L1030063.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/4",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:03:24 13:22:44",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 35.642885,
+      "lon": 139.699069
+    },
+    "localized": "Meguro",
+    "country": "Japan",
+    "title": "The Narrow Hour",
+    "alt": "A narrow Japanese street with white Japanese characters painted on dark asphalt, lined with traditional buildings including one with distinctive bright green bamboo-style facade screening. A blurred figure walks down the center of the street past small shops and restaurants with various signage.",
+    "tags": [
+      "Japanese street",
+      "urban photography",
+      "motion blur",
+      "traditional architecture",
+      "street signage",
+      "narrow alley",
+      "pedestrian",
+      "bamboo screening",
+      "Asian typography",
+      "urban density"
+    ]
+  },
+  {
     "filename": "L1000571.jpg",
     "image": "/img/photos/L1000571.jpg",
     "thumbnail": "/img/thumbnails/L1000571.jpg",
