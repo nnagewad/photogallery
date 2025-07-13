@@ -45,6 +45,10 @@
   <meta property="og:image" content="/img/open-graph/404.png" />
   <meta property="og:image:type" content="image/png" />
   <meta property="og:image:alt" content="A stylized dark blue eye containing a lime green globe on a lime green background." />
+{% elif layout == 'layouts/photo.njk' %}
+  <meta property="og:image" content="{{ opengraph }}" />
+  <meta property="og:image:type" content="image/jpg" />
+  <meta property="og:image:alt" content="{{ alt }}" />
 {% endif %}
 
 {% if noFollow %}
