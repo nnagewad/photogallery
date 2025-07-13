@@ -13,7 +13,7 @@ const run = async () => {
   try {
     await execAsync(`node scripts/remove-photos.js ${filename}`);
     await execAsync(`node scripts/update-gallery.js`);
-    console.log('Success: The photo and thumbnail has been deleted and the gallery json file has been updated.');
+    console.log('Success: The photo, thumbnail, and open-graph image have been deleted and the gallery json file has been updated.');
   } catch (err) {
     console.error('Error:', err.message);
   }

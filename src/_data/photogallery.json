@@ -1,204 +1,74 @@
 [
   {
-    "filename": "L1000446.jpg",
-    "image": "/img/photos/L1000446.jpg",
-    "thumbnail": "/img/thumbnails/L1000446.jpg",
+    "filename": "L1030063.jpg",
+    "image": "/img/photos/L1030063.jpg",
+    "thumbnail": "/img/thumbnails/L1030063.jpg",
+    "opengraph": "/img/open-graph/L1030063.jpg",
     "camera": "LEICA Q3",
     "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 100,
-    "shutterSpeed": "1/125",
-    "aperture": "f/5.0",
-    "dateTaken": "2025:06:14 17:13:38",
+    "iso": 50,
+    "shutterSpeed": "1/4",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:03:24 13:22:44",
     "dimensions": {
       "width": 1363,
       "height": 2048
     },
     "gps": {
-      "lat": 51.519119,
-      "lon": -0.09264399999999999
+      "lat": 35.642885,
+      "lon": 139.699069
     },
-    "localized": "London",
-    "country": "United Kingdom",
-    "title": "The Weight of Shadows",
-    "alt": "A solitary jogger in red runs across a concrete plaza between modern buildings, with dramatic shadows cast by the architectural structures creating strong geometric patterns on the ground",
+    "localized": "Meguro",
+    "country": "Japan",
+    "title": "The Narrow Hour",
+    "alt": "A narrow Japanese street with white Japanese characters painted on dark asphalt, lined with traditional buildings including one with distinctive bright green bamboo-style facade screening. A blurred figure walks down the center of the street past small shops and restaurants with various signage.",
     "tags": [
-      "urban architecture",
-      "jogger",
-      "concrete plaza",
-      "dramatic shadows",
-      "modern buildings",
-      "geometric composition",
-      "solitary figure",
-      "urban exercise",
-      "brutalist design",
-      "city life"
+      "Japanese street",
+      "urban photography",
+      "motion blur",
+      "traditional architecture",
+      "street signage",
+      "narrow alley",
+      "pedestrian",
+      "bamboo screening",
+      "Asian typography",
+      "urban density"
     ]
   },
   {
-    "filename": "L1000468.jpg",
-    "image": "/img/photos/L1000468.jpg",
-    "thumbnail": "/img/thumbnails/L1000468.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 800,
-    "shutterSpeed": "1/125",
-    "aperture": "f/2.8",
-    "dateTaken": "2025:06:14 20:20:15",
-    "dimensions": {
-      "width": 2048,
-      "height": 1363
-    },
-    "gps": {
-      "lat": 51.519119,
-      "lon": -0.09264399999999999
-    },
-    "localized": "London",
-    "country": "United Kingdom",
-    "title": "The Architecture of Sound",
-    "alt": "A dimly lit concert stage with drum kit and keyboards illuminated by three bright white spotlights from above, flanked by large video screens displaying blurred red and white imagery, with professional lighting equipment visible on the dark ceiling",
-    "tags": [
-      "concert stage",
-      "live music",
-      "dramatic lighting",
-      "spotlights",
-      "drum kit",
-      "keyboards",
-      "video screens",
-      "performance venue",
-      "stage production",
-      "atmospheric lighting"
-    ]
-  },
-  {
-    "filename": "L1000009.jpg",
-    "image": "/img/photos/L1000009.jpg",
-    "thumbnail": "/img/thumbnails/L1000009.jpg",
+    "filename": "L1000571.jpg",
+    "image": "/img/photos/L1000571.jpg",
+    "thumbnail": "/img/thumbnails/L1000571.jpg",
+    "opengraph": "/img/open-graph/L1000571.jpg",
     "camera": "LEICA Q3",
     "lens": "SUMMILUX 1:1.7/28 ASPH.",
     "iso": 100,
-    "shutterSpeed": "1/500",
-    "aperture": "f/2.8",
-    "dateTaken": "2025:05:10 13:02:02",
-    "dimensions": {
-      "width": 1363,
-      "height": 2048
-    },
-    "gps": null,
-    "localized": null,
-    "country": null,
-    "title": "Ephemeral Radiance",
-    "alt": "A close-up of a vibrant pink rose blossom surrounded by blurred green foliage, creating a dreamy, bokeh effect.",
-    "tags": [
-      "flower",
-      "rose",
-      "pink",
-      "nature",
-      "bokeh",
-      "dreamy",
-      "macro",
-      "vibrant",
-      "garden"
-    ]
-  },
-  {
-    "filename": "L1000475.jpg",
-    "image": "/img/photos/L1000475.jpg",
-    "thumbnail": "/img/thumbnails/L1000475.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 800,
-    "shutterSpeed": "1/60",
-    "aperture": "f/3.5",
-    "dateTaken": "2025:06:14 20:29:38",
-    "dimensions": {
-      "width": 2048,
-      "height": 1363
-    },
-    "gps": {
-      "lat": 51.519119,
-      "lon": -0.09264399999999999
-    },
-    "localized": "London",
-    "country": "United Kingdom",
-    "title": "The Fleeting Gesture",
-    "alt": "A concert stage with a large projection of a hand and a drum kit under bright spotlights",
-    "tags": [
-      "Performance",
-      "Concert",
-      "Hand",
-      "Projection",
-      "Drums",
-      "Spotlights",
-      "Stage",
-      "Music"
-    ]
-  },
-  {
-    "filename": "L1000381.jpg",
-    "image": "/img/photos/L1000381.jpg",
-    "thumbnail": "/img/thumbnails/L1000381.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 100,
-    "shutterSpeed": "1/500",
+    "shutterSpeed": "1/2000",
     "aperture": "f/1.7",
-    "dateTaken": "2025:05:30 14:32:10",
+    "dateTaken": "2025:06:27 16:59:11",
     "dimensions": {
       "width": 2048,
       "height": 1363
     },
     "gps": {
-      "lat": 43.649975,
-      "lon": -79.437919
+      "lat": 51.331567,
+      "lon": 1.413867
     },
-    "localized": "Toronto",
-    "country": "Canada",
-    "title": "Luminous Serenity",
-    "alt": "A potted plant, ice cream cone sculpture, and a book sit in front of a glowing circular light against a teal background.",
+    "localized": "Thanet",
+    "country": "United Kingdom",
+    "title": "The Weight of Idle Hours",
+    "alt": "A wooden outdoor table set with drinks, including a wine bottle, cocktail glass, and orange drink, alongside notebooks with sketches, a small potted cactus, and striped cushioned chairs in the background during golden hour lighting",
     "tags": [
-      "Ambient Lighting",
-      "Minimalist",
-      "Surreal",
-      "Indoor Still Life",
-      "Circular Light",
-      "Terracotta Sculpture",
-      "Houseplant",
-      "Soft Colors",
-      "Whimsical",
-      "Tranquil"
-    ]
-  },
-  {
-    "filename": "L1000392.jpg",
-    "image": "/img/photos/L1000392.jpg",
-    "thumbnail": "/img/thumbnails/L1000392.jpg",
-    "camera": "LEICA Q3",
-    "lens": "SUMMILUX 1:1.7/28 ASPH.",
-    "iso": 1600,
-    "shutterSpeed": "1/125",
-    "aperture": "f/1.7",
-    "dateTaken": "2025:05:30 14:53:52",
-    "dimensions": {
-      "width": 1363,
-      "height": 2048
-    },
-    "gps": {
-      "lat": 43.649981,
-      "lon": -79.437889
-    },
-    "localized": "Toronto",
-    "country": "Canada",
-    "title": "Industrial Luminescence",
-    "alt": "An underground tunnel or corridor with exposed pipes and cables on the ceiling, illuminated by warm yellow light.",
-    "tags": [
-      "tunnel",
-      "corridor",
-      "industrial",
-      "pipes",
-      "cables",
-      "yellow lighting",
-      "underground",
-      "urban exploration"
+      "outdoor dining",
+      "cocktails",
+      "sketching",
+      "leisure",
+      "golden hour",
+      "wine",
+      "cactus",
+      "notebooks",
+      "artistic",
+      "relaxation"
     ]
   }
 ]

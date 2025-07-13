@@ -74,10 +74,39 @@ export async function processPhoto(file, folderPath) {
     console.warn(`Failed to create thumbnail for ${file}:`, err.message);
   }
 
+  // Create open-graph image if it doesn't already exist
+  try {
+    const openGraphDir = path.join(folderPath, '..', 'open-graph');
+    await fs.mkdir(openGraphDir, { recursive: true });
+
+    const openGraphPath = path.join(openGraphDir, file);
+
+    try {
+      await fs.access(openGraphPath); // Will throw if file doesn't exist
+      console.log(`Open-graph image already exists for ${file}, skipping.`);
+    } catch {
+      await sharp(filePath)
+        .resize(1200, 630, {
+          fit: 'cover',
+          position: 'center'
+        })
+        .jpeg({ 
+          quality: 80,
+          mozjpeg: true,
+          progressive: true
+        })
+        .toFile(openGraphPath);
+      console.log(`Open-graph image created for ${file}.`);
+    }
+  } catch (err) {
+    console.warn(`Failed to create Open-graph image for ${file}:`, err.message);
+  }
+
   return {
     filename: file,
     image: `/img/photos/${file}`,
     thumbnail: `/img/thumbnails/${file}`,
+    opengraph: `/img/open-graph/${file}`,
     ...exif,
     localized,
     country,
