@@ -10,8 +10,9 @@ const __dirname = path.dirname(__filename);
 // Get arguments from command line
 const [filename] = process.argv.slice(2);
 
-const folder1 = path.join(__dirname, '../src/img/photos'); // update paths as needed
+const folder1 = path.join(__dirname, '../src/img/photos');
 const folder2 = path.join(__dirname, '../src/img/thumbnails');
+const folder3 = path.join(__dirname, '../src/img/open-graph');
 
 async function deleteFile(filename, folder) {
   const filePath = path.join(folder, filename);
@@ -34,3 +35,4 @@ if (!filename) {
 
 await deleteFile(filename, folder1);
 await deleteFile(filename, folder2);
+await deleteFile(filename, folder3);
