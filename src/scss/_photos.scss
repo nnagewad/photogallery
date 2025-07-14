@@ -1,7 +1,7 @@
 @use "spacing-mixins";
 .photo-details figure:has(.photo-orientation--portrait),
 .photo-details figure:has(.photo-orientation--square) {
-  max-width: 28.5rem;
+  max-width: 456px;
 }
 
 .photo {
@@ -13,7 +13,7 @@
 
 .photogallery-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(7.8125rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(125px, 1fr));
   gap: var(--spacing-3);
   figure {
     border: var(--border-thin) solid var(--color-link);
