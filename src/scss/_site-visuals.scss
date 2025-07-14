@@ -9,13 +9,13 @@
   }
 }
 
-.logo-placeholder:focus {
-  .website-logo {
+.site-header-image--placeholder:focus {
+  .site-header-image {
     fill: var(--color-focus-text);
   }
 }
 
-.website-logo {
+.site-header-image {
   display: block;
   width: 6.3125rem;
   height: auto;
