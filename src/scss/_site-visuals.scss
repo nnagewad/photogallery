@@ -1,0 +1,29 @@
+.icon-size {
+  height: var(--pixel-40);
+  width: auto;
+}
+
+.social-icon {
+  &:focus {
+    --focus-background: -1.5rem;
+  }
+}
+
+.logo-placeholder:focus {
+  .website-logo {
+    fill: var(--color-focus-text);
+  }
+}
+
+.website-logo {
+  display: block;
+  width: 6.3125rem;
+  height: auto;
+  fill: var(--color-link);
+  &:hover {
+    fill: var(--color-hover);
+  }
+  &:active {
+    fill: var(--color-active);
+  }
+}

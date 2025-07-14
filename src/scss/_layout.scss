@@ -70,22 +70,3 @@ main {
   display: grid;
   grid-template-columns: minmax(auto, calc(var(--wrapper-width) * 2 / 3));
 }
-
-.logo-placeholder:focus {
-  .website-logo {
-    fill: var(--color-focus-text);
-  }
-}
-
-.website-logo {
-  display: block;
-  width: 101px;
-  height: auto;
-  fill: var(--color-link);
-  &:hover {
-    fill: var(--color-hover);
-  }
-  &:active {
-    fill: var(--color-active);
-  }
-}
