@@ -1,5 +1,6 @@
 ---
 layout: 'layouts/photogallery.njk'
+metaDesc: 'A curated gallery of photographs by Nikin Nagewdia.'
 pagination:
   data: photogallery
   size: 50

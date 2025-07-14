@@ -1,5 +1,6 @@
 ---
 layout: 'layouts/photo.njk'
+metaDesc: 'Detailed information about this photograph.'
 pagination:
   data: photogallery
   size: 1
