@@ -1,12 +1,7 @@
 @use "spacing-mixins";
 .photo-details figure:has(.photo-orientation--portrait),
 .photo-details figure:has(.photo-orientation--square) {
-  max-width: 455px;
-  margin: 0 auto;
-}
-
-.photo-details figure:has(.photo-orientation--landscape) {
-  margin: 0 auto;
+  max-width: 456px;
 }
 
 .photo {
