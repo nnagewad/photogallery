@@ -1,5 +1,17 @@
+{% from 'macros/socialIcons.njk' import socialIcon %}
+
 <footer class='wrapper flex-container--wrap'>
   {% include 'partials/switch.njk' %}
+  <ul class='list-horizontal horizontal-gap--7'>
+    {% for social in site.socials %}
+      <li>
+        <a class='social-icon' href='{{ social.url }}' rel='noopener noreferrer' target='_blank'>
+          <span class='visually-hidden'>{{ site.firstName }}'s {{ social.name }} profile (opens in a new tab)</span>
+          {{ socialIcon(social.icon) }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
   <div class="visually-hidden">
     <small>Website was designed and built by {{ site.fullName }}</small>
     <dl>
