@@ -79,13 +79,9 @@ a {
   font-weight: var(--font-weight-medium);
 }
 
-.title-spacing {
-  @include spacing-mixins.bottom-7(margin);
-}
-
 .website-page--title {
   @extend .lowercase;
-  @extend .title-spacing;
+  @include spacing-mixins.bottom-7(margin);
 }
 
 .headline-caption {

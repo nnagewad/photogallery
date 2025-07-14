@@ -37,7 +37,7 @@ main {
 
 .flex-container {
   display: flex;
-  gap: var(--spacing-6);
+  gap: var(--spacing-6) var(--spacing-9);
   justify-content: space-between;
   &--wrap {
     @extend .flex-container;
@@ -69,23 +69,4 @@ main {
 .grid-container {
   display: grid;
   grid-template-columns: minmax(auto, calc(var(--wrapper-width) * 2 / 3));
-}
-
-.logo-placeholder:focus {
-  .website-logo {
-    fill: var(--color-focus-text);
-  }
-}
-
-.website-logo {
-  display: block;
-  width: 101px;
-  height: auto;
-  fill: var(--color-link);
-  &:hover {
-    fill: var(--color-hover);
-  }
-  &:active {
-    fill: var(--color-active);
-  }
 }
