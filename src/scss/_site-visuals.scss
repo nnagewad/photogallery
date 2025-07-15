@@ -1,14 +1,11 @@
-.icon-size {
+.icon-size,
+.social-icon {
   height: var(--pixel-40);
   width: auto;
 }
 
-.social-item {
-  height: 40px;
-  width: auto;
-}
-
 .social-icon {
+  display: block;
   &:focus {
     --focus-background: -1.5rem;
   }
