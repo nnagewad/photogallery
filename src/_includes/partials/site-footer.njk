@@ -4,7 +4,7 @@
   {% include 'partials/switch.njk' %}
   <ul class='list-horizontal horizontal-gap--7'>
     {% for social in site.socials %}
-      <li>
+      <li class='social-item'>
         <a class='social-icon' href='{{ social.url }}' rel='noopener noreferrer' target='_blank'>
           <span class='visually-hidden'>{{ site.firstName }}'s {{ social.name }} profile (opens in a new tab)</span>
           {{ socialIcon(social.icon) }}
