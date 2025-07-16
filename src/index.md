@@ -3,7 +3,7 @@ layout: 'layouts/photogallery.njk'
 metaDesc: 'A curated gallery of photographs by Nikin Nagewdia.'
 pagination:
   data: photogallery
-  size: 50
+  size: 20
   alias: photogallery
 permalink: "/{% if pagination.pageNumber != 0 %}{{ pagination.pageNumber + 1 }}/{% endif %}"
 eleventyComputed:
