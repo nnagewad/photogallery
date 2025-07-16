@@ -6,9 +6,6 @@
 
 .photo {
   flex: 0 1 calc(var(--wrapper-width)*2/3);
-  img {
-    border: var(--border-thin) solid var(--color-border);
-  }
 }
 
 .photogallery-container {
