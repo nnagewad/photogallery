@@ -6,9 +6,6 @@
 
 .social-icon {
   display: block;
-  &:focus {
-    --focus-background: -1.5rem;
-  }
 }
 
 .site-header-image--placeholder:focus-visible {
