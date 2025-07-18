@@ -2,7 +2,7 @@
   "name": "photogallery",
   "version": "1.0.0",
   "description": "Everyday Lens, a curated gallery of photographs by Nikin Nagewadia.",
-  "main": "index.js",
+  "main": "eleventy.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-gallery": "node scripts/update-gallery.js",
