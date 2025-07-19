@@ -109,6 +109,12 @@ ul {
   padding: 0;
 }
 
+.details ul {
+  list-style-type: disc;
+  padding-left: var(--spacing-4);
+  margin-bottom: var(--spacing-4);
+}
+
 .list-horizontal {
   display: flex;
   flex-wrap: wrap;
