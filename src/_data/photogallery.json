@@ -1,5 +1,40 @@
 [
   {
+    "filename": "L1000645.jpg",
+    "image": "/img/photos/L1000645.jpg",
+    "thumbnail": "/img/thumbnails/L1000645.jpg",
+    "opengraph": "/img/open-graph/L1000645.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/500",
+    "aperture": "f/6.3",
+    "dateTaken": "2025:06:29 12:07:03",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.334561,
+      "lon": 1.426908
+    },
+    "localized": "Thanet",
+    "country": "United Kingdom",
+    "title": "Passages of Light",
+    "alt": "A dramatic color photograph showing concrete steps leading upward through shadows, with geometric patterns of light and shadow cast by overhead structures creating striped patterns on the ground and walls",
+    "tags": [
+      "stairs",
+      "concrete",
+      "shadows",
+      "geometric patterns",
+      "architecture",
+      "light and shadow",
+      "urban",
+      "perspective",
+      "structural"
+    ]
+  },
+  {
     "filename": "L1000536.jpg",
     "image": "/img/photos/L1000536.jpg",
     "thumbnail": "/img/thumbnails/L1000536.jpg",
