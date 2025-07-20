@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1000536.jpg",
+    "image": "/img/photos/L1000536.jpg",
+    "thumbnail": "/img/thumbnails/L1000536.jpg",
+    "opengraph": "/img/open-graph/L1000536.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/4.5",
+    "dateTaken": "2025:06:22 12:21:22",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.54654,
+      "lon": -0.021245999999999998
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "Vertical Horizons",
+    "alt": "Looking up through a multi-level atrium or courtyard with metal grating floors and railings, showing silhouettes of people on different levels against natural light filtering through horizontal slats or blinds above",
+    "tags": [
+      "architecture",
+      "atrium",
+      "vertical space",
+      "metal grating",
+      "silhouettes",
+      "industrial design",
+      "natural light",
+      "multi-level",
+      "geometric",
+      "urban interior"
+    ]
+  },
+  {
     "filename": "L1030063.jpg",
     "image": "/img/photos/L1030063.jpg",
     "thumbnail": "/img/thumbnails/L1030063.jpg",
