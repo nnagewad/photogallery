@@ -12,8 +12,8 @@
 - [11ty](https://www.11ty.dev)
 - [Netflify](https://www.netlify.com)
 - [Exifr Reader](https://www.npmjs.com/package/exifreader)
-- [OpenCage](https://opencagedata.com/)
-- [Claude AI](https://docs.anthropic.com/en/home)
+- [OpenCage](https://opencagedata.com)
+- [Claude AI](https://www.anthropic.com/api)
 
 ## Tutorials
 
