@@ -1,5 +1,39 @@
 [
   {
+    "filename": "L1000403.jpg",
+    "image": "/img/photos/L1000403.jpg",
+    "thumbnail": "/img/thumbnails/L1000403.jpg",
+    "opengraph": "/img/open-graph/L1000403.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/8",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:05:30 15:01:19",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.654638,
+      "lon": -79.445202
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "Velocity of Memory",
+    "alt": "A heavily motion-blurred photograph showing the curved interior of what appears to be numerous everyday objects, creating an abstract impression of rapid movement through an urban environment.",
+    "tags": [
+      "motion blur",
+      "abstract photography",
+      "speed",
+      "movement",
+      "kinetic",
+      "windows",
+      "interior view",
+      "art installation"
+    ]
+  },
+  {
     "filename": "L1000500.jpg",
     "image": "/img/photos/L1000500.jpg",
     "thumbnail": "/img/thumbnails/L1000500.jpg",
