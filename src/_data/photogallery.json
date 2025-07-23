@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1030327.jpg",
+    "image": "/img/photos/L1030327.jpg",
+    "thumbnail": "/img/thumbnails/L1030327.jpg",
+    "opengraph": "/img/open-graph/L1030327.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/500",
+    "aperture": "f/2.8",
+    "dateTaken": "2025:04:20 13:35:33",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.526261,
+      "lon": -0.157267
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Last Bloom",
+    "alt": "A withered, pale flower with ruffled, papery petals hangs delicately from a dark green stem against a moody, out-of-focus background of leaves and foliage.",
+    "tags": [
+      "wilted flower",
+      "decay",
+      "nature photography",
+      "botanical",
+      "melancholy",
+      "aging",
+      "delicate",
+      "atmospheric",
+      "moody lighting",
+      "shallow depth of field"
+    ]
+  },
+  {
     "filename": "L1030470.jpg",
     "image": "/img/photos/L1030470.jpg",
     "thumbnail": "/img/thumbnails/L1030470.jpg",
