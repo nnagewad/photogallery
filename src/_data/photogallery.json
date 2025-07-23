@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1030470.jpg",
+    "image": "/img/photos/L1030470.jpg",
+    "thumbnail": "/img/thumbnails/L1030470.jpg",
+    "opengraph": "/img/open-graph/L1030470.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/5000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:04:26 15:01:00",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.391286,
+      "lon": 1.379736
+    },
+    "localized": "Thanet",
+    "country": "United Kingdom",
+    "title": "Low Tide Reverie",
+    "alt": "A white sailboat sits stranded on dark wet sand during low tide, with a coastal town featuring Georgian buildings, a Ferris wheel, and modern high-rise visible across the harbor under an overcast gray sky",
+    "tags": [
+      "sailboat",
+      "low tide",
+      "harbor",
+      "coastal town",
+      "overcast sky",
+      "wet sand",
+      "Georgian architecture",
+      "Ferris wheel",
+      "maritime",
+      "moody atmosphere"
+    ]
+  },
+  {
     "filename": "L1000403.jpg",
     "image": "/img/photos/L1000403.jpg",
     "thumbnail": "/img/thumbnails/L1000403.jpg",
