@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1030203.jpg",
+    "image": "/img/photos/L1030203.jpg",
+    "thumbnail": "/img/thumbnails/L1030203.jpg",
+    "opengraph": "/img/open-graph/L1030203.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "0.5",
+    "aperture": "f/10.0",
+    "dateTaken": "2025:04:05 21:22:44",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.544799,
+      "lon": -0.102735
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "Nocturne in Blue and Neon",
+    "alt": "A moody, atmospheric concert with dramatic lighting featuring silhouetted figures in a church. Neon signs cast red and blue light through smoky air, creating streaks of light and shadow. The overall image has a noir-like quality with high contrast between bright artificial lights and deep shadows.",
+    "tags": [
+      "noir",
+      "atmospheric",
+      "neon lighting",
+      "silhouettes",
+      "concert",
+      "nighttime",
+      "moody",
+      "cinematic",
+      "urban",
+      "dramatic lighting"
+    ]
+  },
+  {
     "filename": "L1030327.jpg",
     "image": "/img/photos/L1030327.jpg",
     "thumbnail": "/img/thumbnails/L1030327.jpg",
