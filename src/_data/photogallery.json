@@ -1,5 +1,113 @@
 [
   {
+    "filename": "L1000809.jpg",
+    "image": "/img/photos/L1000809.jpg",
+    "thumbnail": "/img/thumbnails/L1000809.jpg",
+    "opengraph": "/img/open-graph/L1000809.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/500",
+    "aperture": "f/13.0",
+    "dateTaken": "2025:07:06 16:15:31",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 50.87595,
+      "lon": 1.825139
+    },
+    "localized": "Hames-Boucres",
+    "country": "France",
+    "title": "The Unexpected Journey",
+    "alt": "A crowd of passengers with luggage stands beside a stopped Eurostar train on railway tracks in a rural setting, with overhead power lines and trees visible under a cloudy sky.",
+    "tags": [
+      "train",
+      "passengers",
+      "Eurostar",
+      "railway",
+      "crowd",
+      "luggage",
+      "transportation",
+      "rural",
+      "cloudy sky",
+      "power lines"
+    ]
+  },
+  {
+    "filename": "L1000751.jpg",
+    "image": "/img/photos/L1000751.jpg",
+    "thumbnail": "/img/thumbnails/L1000751.jpg",
+    "opengraph": "/img/open-graph/L1000751.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/2.2",
+    "dateTaken": "2025:07:05 17:07:50",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 50.636981,
+      "lon": 3.0513
+    },
+    "localized": "Lille",
+    "country": "France",
+    "title": "The Upward Gaze",
+    "alt": "A cyclist in Team INEOS Grenadiers jersey and sunglasses looks upward among a crowd of spectators wearing yellow caps, with historic stone architecture visible in the background",
+    "tags": [
+      "cycling",
+      "professional cyclist",
+      "INEOS Grenadiers",
+      "spectators",
+      "yellow caps",
+      "sunglasses",
+      "team jersey",
+      "crowd",
+      "stone architecture",
+      "upward gaze"
+    ]
+  },
+  {
+    "filename": "L1000727.jpg",
+    "image": "/img/photos/L1000727.jpg",
+    "thumbnail": "/img/thumbnails/L1000727.jpg",
+    "opengraph": "/img/open-graph/L1000727.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:07:05 13:29:16",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 50.631772,
+      "lon": 3.061814
+    },
+    "localized": "Lille",
+    "country": "France",
+    "title": "The Peloton's Rest",
+    "alt": "Professional cyclists in orange and blue team uniforms pause during a race, standing with their bikes behind metal barriers on a tree-lined European street. Spectators including a blonde woman in a light blue shirt watch from the sidelines.",
+    "tags": [
+      "cycling",
+      "professional sports",
+      "team uniforms",
+      "race event",
+      "spectators",
+      "European street",
+      "athletic competition",
+      "bicycles",
+      "crowd barriers",
+      "urban setting"
+    ]
+  },
+  {
     "filename": "L1000714.jpg",
     "image": "/img/photos/L1000714.jpg",
     "thumbnail": "/img/thumbnails/L1000714.jpg",
