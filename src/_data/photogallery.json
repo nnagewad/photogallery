@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1000714.jpg",
+    "image": "/img/photos/L1000714.jpg",
+    "thumbnail": "/img/thumbnails/L1000714.jpg",
+    "opengraph": "/img/open-graph/L1000714.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/250",
+    "aperture": "f/9.0",
+    "dateTaken": "2025:07:05 11:38:27",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 50.632339,
+      "lon": 3.060811
+    },
+    "localized": "Lille",
+    "country": "France",
+    "title": "The Gathering at the Forbidden Junction",
+    "alt": "A dense crowd of people wearing summer hats and casual clothing gathered on a tree-lined street, with yellow Tour de France banners hanging from lamp posts and a prominent red 'Do Not Enter' traffic sign visible above the crowd. Buildings and green foliage frame the urban scene.",
+    "tags": [
+      "crowd",
+      "street scene",
+      "Tour de France",
+      "traffic sign",
+      "urban gathering",
+      "summer clothing",
+      "lamp posts",
+      "banners",
+      "city street",
+      "public event"
+    ]
+  },
+  {
     "filename": "L1030203.jpg",
     "image": "/img/photos/L1030203.jpg",
     "thumbnail": "/img/thumbnails/L1030203.jpg",
