@@ -26,7 +26,7 @@
       <updated>{{ post.data.dateTaken | apiToUTC }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content type="html"><![CDATA[
-        <img src="{{ site.url }}img/photos/{{ post.data.photo.filename }}" alt="{{ post.data.photo.alt | safe }}" />
+        <img src="{{ site.url }}/img/photos/{{ post.data.photo.filename }}" alt="{{ post.data.photo.alt | safe }}" />
         <dl>
           {% if post.data.photo.gps != null %}
             <dt>Location</dt>
