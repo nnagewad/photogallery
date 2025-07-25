@@ -113,6 +113,6 @@ export async function processPhoto(file, folderPath) {
     title,
     alt,
     tags,
-    dateAdded: new Date().toISOString()
+    dateAdded: new Date().toUTCString()
   };
 }
