@@ -112,6 +112,7 @@ export async function processPhoto(file, folderPath) {
     country,
     title,
     alt,
-    tags
+    tags,
+    dateAdded: new Date().toISOString()
   };
 }

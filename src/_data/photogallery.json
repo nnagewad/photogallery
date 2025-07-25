@@ -1,5 +1,79 @@
 [
   {
+    "filename": "L1000025.jpg",
+    "image": "/img/photos/L1000025.jpg",
+    "thumbnail": "/img/thumbnails/L1000025.jpg",
+    "opengraph": "/img/open-graph/L1000025.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/2.8",
+    "dateTaken": "2025:05:11 07:17:57",
+    "dimensions": {
+      "width": 1368,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.61552,
+      "lon": -0.17813299999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Golden Hour of Becoming",
+    "alt": "Close-up of orange rose petals illuminated by warm sunlight against a gradient blue sky, with green leaves visible in soft focus below",
+    "tags": [
+      "rose",
+      "orange petals",
+      "backlit",
+      "golden hour",
+      "blue sky",
+      "nature photography",
+      "shallow depth of field",
+      "warm light",
+      "botanical",
+      "sunset lighting"
+    ],
+    "dateAdded": "2025-07-25T22:05:35.695Z"
+  },
+  {
+    "filename": "L1030368.jpg",
+    "image": "/img/photos/L1030368.jpg",
+    "thumbnail": "/img/thumbnails/L1030368.jpg",
+    "opengraph": "/img/open-graph/L1030368.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/250",
+    "aperture": "f/4.5",
+    "dateTaken": "2025:04:20 15:59:23",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.527103,
+      "lon": -0.15471700000000002
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Blue Hour",
+    "alt": "A moody photograph of blue flowers with spherical, densely clustered blooms scattered across dark green foliage. One flower in the center foreground is in sharp focus while others fade into soft blur, creating dramatic depth of field against the shadowy background.",
+    "tags": [
+      "blue flowers",
+      "shallow depth of field",
+      "botanical photography",
+      "moody lighting",
+      "spherical blooms",
+      "dark background",
+      "selective focus",
+      "garden flowers",
+      "artistic photography",
+      "nature"
+    ],
+    "dateAdded": "2025-07-25T21:15:08Z"
+  },
+  {
     "filename": "L1000809.jpg",
     "image": "/img/photos/L1000809.jpg",
     "thumbnail": "/img/thumbnails/L1000809.jpg",
@@ -33,7 +107,8 @@
       "rural",
       "cloudy sky",
       "power lines"
-    ]
+    ],
+    "dateAdded": "2025-07-24T21:30:00Z"
   },
   {
     "filename": "L1000751.jpg",
@@ -69,7 +144,8 @@
       "crowd",
       "stone architecture",
       "upward gaze"
-    ]
+    ],
+    "dateAdded": "2025-07-24T21:25:00Z"
   },
   {
     "filename": "L1000727.jpg",
@@ -105,7 +181,8 @@
       "bicycles",
       "crowd barriers",
       "urban setting"
-    ]
+    ],
+    "dateAdded": "2025-07-24T21:20:00Z"
   },
   {
     "filename": "L1000714.jpg",
@@ -141,7 +218,8 @@
       "banners",
       "city street",
       "public event"
-    ]
+    ],
+    "dateAdded": "2025-07-24T20:25:00Z"
   },
   {
     "filename": "L1030203.jpg",
@@ -177,7 +255,8 @@
       "cinematic",
       "urban",
       "dramatic lighting"
-    ]
+    ],
+    "dateAdded": "2025-07-23T22:30:00Z"
   },
   {
     "filename": "L1030327.jpg",
@@ -213,7 +292,8 @@
       "atmospheric",
       "moody lighting",
       "shallow depth of field"
-    ]
+    ],
+    "dateAdded": "2025-07-22T22:15:00Z"
   },
   {
     "filename": "L1030470.jpg",
@@ -249,7 +329,8 @@
       "Ferris wheel",
       "maritime",
       "moody atmosphere"
-    ]
+    ],
+    "dateAdded": "2025-07-21T21:25:00Z"
   },
   {
     "filename": "L1000403.jpg",
@@ -283,7 +364,8 @@
       "windows",
       "interior view",
       "art installation"
-    ]
+    ],
+    "dateAdded": "2025-07-21T20:35:00Z"
   },
   {
     "filename": "L1000500.jpg",
@@ -319,7 +401,8 @@
       "moody",
       "dark",
       "mysterious"
-    ]
+    ],
+    "dateAdded": "2025-07-20T21:55:00Z"
   },
   {
     "filename": "L1000645.jpg",
@@ -354,7 +437,8 @@
       "urban",
       "perspective",
       "structural"
-    ]
+    ],
+    "dateAdded": "2025-07-20T21:25:00Z"
   },
   {
     "filename": "L1000536.jpg",
@@ -390,7 +474,8 @@
       "multi-level",
       "geometric",
       "urban interior"
-    ]
+    ],
+    "dateAdded": "2025-07-19T22:25:00Z"
   },
   {
     "filename": "L1030063.jpg",
@@ -426,7 +511,8 @@
       "bamboo screening",
       "Asian typography",
       "urban density"
-    ]
+    ],
+    "dateAdded": "2025-07-18T19:25:00Z"
   },
   {
     "filename": "L1000571.jpg",
@@ -462,6 +548,7 @@
       "notebooks",
       "artistic",
       "relaxation"
-    ]
+    ],
+    "dateAdded": "2025-07-17T22:10:00Z"
   }
 ]
