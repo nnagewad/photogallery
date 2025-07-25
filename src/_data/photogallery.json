@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030368.jpg",
+    "image": "/img/photos/L1030368.jpg",
+    "thumbnail": "/img/thumbnails/L1030368.jpg",
+    "opengraph": "/img/open-graph/L1030368.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/250",
+    "aperture": "f/4.5",
+    "dateTaken": "2025:04:20 15:59:23",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.527103,
+      "lon": -0.15471700000000002
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Blue Hour",
+    "alt": "A moody photograph of blue flowers with spherical, densely clustered blooms scattered across dark green foliage. One flower in the center foreground is in sharp focus while others fade into soft blur, creating dramatic depth of field against the shadowy background.",
+    "tags": [
+      "blue flowers",
+      "shallow depth of field",
+      "botanical photography",
+      "moody lighting",
+      "spherical blooms",
+      "dark background",
+      "selective focus",
+      "garden flowers",
+      "artistic photography",
+      "nature"
+    ],
+    "dateAdded": "Fri, 25 Jul 2025 21:15:08 GMT"
+  },
+  {
     "filename": "L1000809.jpg",
     "image": "/img/photos/L1000809.jpg",
     "thumbnail": "/img/thumbnails/L1000809.jpg",
