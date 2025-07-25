@@ -23,11 +23,13 @@
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}" />
-      <updated>{{ post.data.dateTaken | apiToUTC }}</updated>
+      <updated>{{ post.data.dateTaken | apiToISO }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content type="html"><![CDATA[
         <img src="{{ site.url }}/img/photos/{{ post.data.photo.filename }}" alt="{{ post.data.photo.alt | safe }}" />
         <dl>
+          <dt>Date and time</dt>
+          <dd>{{ post.data.photo.dateTaken | apiToDate }} at {{ post.data.photo.dateTaken | apiToTime }}</dd>
           {% if post.data.photo.gps != null %}
             <dt>Location</dt>
             <dd>
