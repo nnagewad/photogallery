@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000025.jpg",
+    "image": "/img/photos/L1000025.jpg",
+    "thumbnail": "/img/thumbnails/L1000025.jpg",
+    "opengraph": "/img/open-graph/L1000025.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/2.8",
+    "dateTaken": "2025:05:11 07:17:57",
+    "dimensions": {
+      "width": 1368,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.61552,
+      "lon": -0.17813299999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Golden Hour of Becoming",
+    "alt": "Close-up of orange rose petals illuminated by warm sunlight against a gradient blue sky, with green leaves visible in soft focus below",
+    "tags": [
+      "rose",
+      "orange petals",
+      "backlit",
+      "golden hour",
+      "blue sky",
+      "nature photography",
+      "shallow depth of field",
+      "warm light",
+      "botanical",
+      "sunset lighting"
+    ],
+    "dateAdded": "2025-07-25T22:05:35.695Z"
+  },
+  {
     "filename": "L1030368.jpg",
     "image": "/img/photos/L1030368.jpg",
     "thumbnail": "/img/thumbnails/L1030368.jpg",
