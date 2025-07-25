@@ -28,11 +28,7 @@ if (newFiles.length > 0) {
   const newEntries = await Promise.all(
     newFiles.map(file => processPhoto(file, folderPath))
   );
-  const existingByFilename = Object.fromEntries(knownFiles.map(item => [item.filename, item]));
-  const updatedFiles = [...newEntries, ...filteredCurrentFiles
-    .filter(f => knownFilenames.includes(f))
-    .map(f => existingByFilename[f])];
-  knownFiles = updatedFiles;
+  knownFiles = [...newEntries, ...knownFiles];
   console.log(`Added ${newEntries.length} new file(s):`, newFiles);
 } else {
   console.log('No new files found.');
