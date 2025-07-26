@@ -22,7 +22,15 @@
       <figcaption class="photograph-details">
         <dl>
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key'>Date and time:</dt>
+            <dt class='data-key'>Date:</dt>
+            <dd class='data-value'>
+              <time datetime="{{ photo.dateTaken | apiToISO }}">
+                {{ photo.dateTaken | apiToDate | upper }}
+              </time>
+            </dd>
+          </div>
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key'>Time:</dt>
             <dd class='data-value'>
               <time datetime="{{ photo.dateTaken | apiToISO }}">
                 {{ photo.dateTaken | apiToTime | upper }}
