@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1000544.jpg",
+    "image": "/img/photos/L1000544.jpg",
+    "thumbnail": "/img/thumbnails/L1000544.jpg",
+    "opengraph": "/img/open-graph/L1000544.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/9.0",
+    "dateTaken": "2025:06:22 12:34:10",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.54654,
+      "lon": -0.021245999999999998
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Architecture of Memory",
+    "alt": "Interior view of a multi-level museum or cultural institution with exposed industrial ceiling, multiple floors connected by walkways, and visitors exploring exhibition spaces throughout the building",
+    "tags": [
+      "museum",
+      "architecture",
+      "multi-level",
+      "industrial design",
+      "cultural space",
+      "visitors",
+      "exhibition",
+      "interior",
+      "walkways",
+      "modern building",
+      "V&A"
+    ],
+    "dateAdded": "2025-07-26T18:58:01.832Z"
+  },
+  {
     "filename": "L1000025.jpg",
     "image": "/img/photos/L1000025.jpg",
     "thumbnail": "/img/thumbnails/L1000025.jpg",
