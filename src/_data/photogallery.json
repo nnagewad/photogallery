@@ -1,5 +1,45 @@
 [
   {
+    "filename": "L1000456.jpg",
+    "image": "/img/photos/L1000456.jpg",
+    "thumbnail": "/img/thumbnails/L1000456.jpg",
+    "opengraph": "/img/open-graph/L1000456.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:06:14 18:12:53",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.520316,
+      "lon": -0.09375700000000001
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Weight of Silence",
+    "alt": "A dimly lit indoor venue with a dramatic spotlight cutting through darkness above a crowd of people. The audience is seated in the foreground, appearing as silhouettes, while illuminated figures gather in the background under the bright beam of light.",
+    "tags": [
+      "dramatic lighting",
+      "spotlight",
+      "crowd",
+      "indoor venue",
+      "atmospheric",
+      "chiaroscuro",
+      "performance space",
+      "silhouettes",
+      "theatrical",
+      "moody",
+      "Barbican",
+      "A Warp Happening",
+      "Clarissa Connelly"
+    ],
+    "dateAdded": "2025-07-27T09:13:57.107Z"
+  },
+  {
     "filename": "L1000544.jpg",
     "image": "/img/photos/L1000544.jpg",
     "thumbnail": "/img/thumbnails/L1000544.jpg",
