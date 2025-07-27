@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030028.jpg",
+    "image": "/img/photos/L1030028.jpg",
+    "thumbnail": "/img/thumbnails/L1030028.jpg",
+    "opengraph": "/img/open-graph/L1030028.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/2.5",
+    "dateTaken": "2025:03:24 10:09:25",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 35.666987,
+      "lon": 139.681496
+    },
+    "localized": "Shibuya",
+    "country": "Japan",
+    "title": "Geometry of Urban Solitude",
+    "alt": "Low-angle architectural photograph showing the angular corner of a modern white concrete building with distinctive red geometric overhangs, power lines crossing overhead against a pale sky, and part of an adjacent gray building visible on the right",
+    "tags": [
+      "architecture",
+      "modern building",
+      "concrete",
+      "geometric design",
+      "red accents",
+      "power lines",
+      "urban photography",
+      "angular composition",
+      "minimalist",
+      "brutalist"
+    ],
+    "dateAdded": "2025-07-27T10:02:18.156Z"
+  },
+  {
     "filename": "L1000456.jpg",
     "image": "/img/photos/L1000456.jpg",
     "thumbnail": "/img/thumbnails/L1000456.jpg",
