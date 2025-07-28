@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1000174.jpg",
+    "image": "/img/photos/L1000174.jpg",
+    "thumbnail": "/img/thumbnails/L1000174.jpg",
+    "opengraph": "/img/open-graph/L1000174.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/250",
+    "aperture": "f/2.0",
+    "dateTaken": "2025:05:23 14:49:37",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.653586,
+      "lon": -79.392481
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "Ascension",
+    "alt": "A person in a blue jacket climbs wooden stairs in a modern building interior with dramatic lighting. The architectural space features clean lines, exposed ceiling elements, and a striking contrast between light and shadow.",
+    "tags": [
+      "stairs",
+      "architecture",
+      "modern interior",
+      "dramatic lighting",
+      "person climbing",
+      "wooden steps",
+      "contemporary design",
+      "urban space",
+      "geometric composition",
+      "natural light",
+      "Art Gallery of Ontario"
+    ],
+    "dateAdded": "2025-07-28T18:30:34.341Z"
+  },
+  {
     "filename": "L1030028.jpg",
     "image": "/img/photos/L1030028.jpg",
     "thumbnail": "/img/thumbnails/L1030028.jpg",
