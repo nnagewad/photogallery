@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000336.jpg",
+    "image": "/img/photos/L1000336.jpg",
+    "thumbnail": "/img/thumbnails/L1000336.jpg",
+    "opengraph": "/img/open-graph/L1000336.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/250",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:29 16:28:06",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.645601,
+      "lon": -79.44334
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Weight of Memory",
+    "alt": "Black and white portrait of an elderly man with glasses and weathered features, wearing a dark sweater, leaning contemplatively against a wooden fence railing. He's surrounded by lush foliage and trees, with residential buildings visible in the soft-focused background, creating an intimate neighborhood setting.",
+    "tags": [
+      "black and white photography",
+      "elderly man",
+      "portrait",
+      "contemplative",
+      "wooden fence",
+      "residential setting",
+      "glasses",
+      "neighborhood",
+      "mature subject",
+      "thoughtful expression"
+    ],
+    "dateAdded": "2025-07-29T20:30:28.918Z"
+  },
+  {
     "filename": "L1000174.jpg",
     "image": "/img/photos/L1000174.jpg",
     "thumbnail": "/img/thumbnails/L1000174.jpg",
