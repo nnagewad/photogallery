@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000263.jpg",
+    "image": "/img/photos/L1000263.jpg",
+    "thumbnail": "/img/thumbnails/L1000263.jpg",
+    "opengraph": "/img/open-graph/L1000263.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/4.0",
+    "dateTaken": "2025:05:27 07:04:27",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.543678,
+      "lon": -79.583264
+    },
+    "localized": "Mississauga",
+    "country": "Canada",
+    "title": "Solitude at Water's Edge",
+    "alt": "Black and white photograph of a rocky coastal landscape with two bare trees growing among weathered stone formations, overlooking a calm body of water under a dramatic cloudy sky",
+    "tags": [
+      "black and white",
+      "landscape",
+      "coastal",
+      "trees",
+      "rocks",
+      "water",
+      "dramatic sky",
+      "solitude",
+      "nature",
+      "minimalist"
+    ],
+    "dateAdded": "2025-07-31T18:58:00.437Z"
+  },
+  {
     "filename": "L1000336.jpg",
     "image": "/img/photos/L1000336.jpg",
     "thumbnail": "/img/thumbnails/L1000336.jpg",
