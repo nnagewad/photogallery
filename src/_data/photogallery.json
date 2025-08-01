@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000838.jpg",
+    "image": "/img/photos/L1000838.jpg",
+    "thumbnail": "/img/thumbnails/L1000838.jpg",
+    "opengraph": "/img/open-graph/L1000838.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:07:26 14:20:58",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 51.504472,
+      "lon": -0.17626099999999997
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Weight of our Future",
+    "alt": "Two people sit on grass beside a large boulder in a tree-lined park or field, viewed from behind as they look toward the distant horizon under an overcast sky",
+    "tags": [
+      "contemplation",
+      "nature",
+      "solitude",
+      "park",
+      "boulder",
+      "trees",
+      "friendship",
+      "peaceful",
+      "outdoors",
+      "grass"
+    ],
+    "dateAdded": "2025-08-01T18:34:39.240Z"
+  },
+  {
     "filename": "L1000263.jpg",
     "image": "/img/photos/L1000263.jpg",
     "thumbnail": "/img/thumbnails/L1000263.jpg",
