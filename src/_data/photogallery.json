@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000814.jpg",
+    "image": "/img/photos/L1000814.jpg",
+    "thumbnail": "/img/thumbnails/L1000814.jpg",
+    "opengraph": "/img/open-graph/L1000814.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.0",
+    "dateTaken": "2025:07:26 13:43:46",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.504628,
+      "lon": -0.174433
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Architecture of Light",
+    "alt": "A dramatic upward view of a curved glass ceiling with geometric metal framework creating concentric arcs. The translucent panels filter natural light, creating gradients from warm amber tones at the edges to bright white at the center, with dark metal support beams forming a radial pattern.",
+    "tags": [
+      "architecture",
+      "geometric",
+      "glass ceiling",
+      "natural light",
+      "curved structure",
+      "concentric circles",
+      "metal framework",
+      "translucent panels",
+      "dramatic lighting",
+      "upward perspective"
+    ],
+    "dateAdded": "2025-08-03T17:57:46.854Z"
+  },
+  {
     "filename": "L1000838.jpg",
     "image": "/img/photos/L1000838.jpg",
     "thumbnail": "/img/thumbnails/L1000838.jpg",
