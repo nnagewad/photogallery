@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030376.jpg",
+    "image": "/img/photos/L1030376.jpg",
+    "thumbnail": "/img/thumbnails/L1030376.jpg",
+    "opengraph": "/img/open-graph/L1030376.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:04:20 16:06:53",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.527978,
+      "lon": -0.15184199999999998
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Weight of Spring",
+    "alt": "Close-up photograph of delicate white flowering clusters with small round buds, likely spirea or similar shrub blooms, shot with shallow depth of field against a dark background with green foliage",
+    "tags": [
+      "white flowers",
+      "spring blooms",
+      "macro photography",
+      "shallow depth of field",
+      "botanical",
+      "spirea",
+      "cluster flowers",
+      "nature photography",
+      "delicate petals",
+      "garden flowers"
+    ],
+    "dateAdded": "2025-08-03T18:50:42.850Z"
+  },
+  {
     "filename": "L1000814.jpg",
     "image": "/img/photos/L1000814.jpg",
     "thumbnail": "/img/thumbnails/L1000814.jpg",
