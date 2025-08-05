@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030281.jpg",
+    "image": "/img/photos/L1030281.jpg",
+    "thumbnail": "/img/thumbnails/L1030281.jpg",
+    "opengraph": "/img/open-graph/L1030281.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:04:12 17:15:44",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 51.536355,
+      "lon": -0.057291
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Fire Keeper's Craft",
+    "alt": "A man in a black t-shirt and cap tends to sausages cooking over an open fire in a rustic outdoor kitchen setting, with graffiti-covered walls and metal equipment visible in the dimly lit space",
+    "tags": [
+      "cooking",
+      "fire",
+      "sausages",
+      "grilling",
+      "outdoor kitchen",
+      "rustic",
+      "graffiti",
+      "flames",
+      "food preparation",
+      "urban"
+    ],
+    "dateAdded": "2025-08-05T20:56:53.512Z"
+  },
+  {
     "filename": "L1030376.jpg",
     "image": "/img/photos/L1030376.jpg",
     "thumbnail": "/img/thumbnails/L1030376.jpg",
