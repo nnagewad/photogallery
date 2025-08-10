@@ -1,5 +1,45 @@
 [
   {
+    "filename": "L1000466.jpg",
+    "image": "/img/photos/L1000466.jpg",
+    "thumbnail": "/img/thumbnails/L1000466.jpg",
+    "opengraph": "/img/open-graph/L1000466.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/2.5",
+    "dateTaken": "2025:06:14 19:51:18",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.519119,
+      "lon": -0.09264399999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "Solitude in Blue Light",
+    "alt": "A solo musician performs on a dark stage illuminated by dramatic blue and white stage lights. The performer stands at a microphone holding a guitar, surrounded by electronic equipment and keyboards. Multiple bright spotlights cut through the darkness, creating an atmospheric concert setting.",
+    "tags": [
+      "concert",
+      "musician",
+      "stage lighting",
+      "solo performance",
+      "guitar",
+      "microphone",
+      "dramatic lighting",
+      "live music",
+      "performer",
+      "atmospheric",
+      "Barbican",
+      "A Warp Happening",
+      " Slauson Malone 1"
+    ],
+    "dateAdded": "2025-08-10T09:55:21.730Z"
+  },
+  {
     "filename": "L1030281.jpg",
     "image": "/img/photos/L1030281.jpg",
     "thumbnail": "/img/thumbnails/L1030281.jpg",
