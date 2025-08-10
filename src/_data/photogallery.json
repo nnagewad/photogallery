@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000781.jpg",
+    "image": "/img/photos/L1000781.jpg",
+    "thumbnail": "/img/thumbnails/L1000781.jpg",
+    "opengraph": "/img/open-graph/L1000781.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:07:05 18:53:26",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 50.636733,
+      "lon": 3.060317
+    },
+    "localized": "Lille",
+    "country": "France",
+    "title": "The Weight of Tender Moments",
+    "alt": "Black and white photograph of two women embracing closely on a busy street, one resting her head against the other's shoulder in an intimate moment of connection, with blurred pedestrians and historic buildings visible in the background",
+    "tags": [
+      "black and white photography",
+      "street photography",
+      "intimate moment",
+      "friendship",
+      "urban scene",
+      "candid portrait",
+      "human connection",
+      "city life",
+      "emotional documentary",
+      "tender embrace"
+    ],
+    "dateAdded": "2025-08-10T14:23:31.899Z"
+  },
+  {
     "filename": "L1000512.jpg",
     "image": "/img/photos/L1000512.jpg",
     "thumbnail": "/img/thumbnails/L1000512.jpg",
