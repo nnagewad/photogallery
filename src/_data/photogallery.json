@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000512.jpg",
+    "image": "/img/photos/L1000512.jpg",
+    "thumbnail": "/img/thumbnails/L1000512.jpg",
+    "opengraph": "/img/open-graph/L1000512.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:06:22 11:33:22",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.543635,
+      "lon": -0.023986
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "Reflections in Glass",
+    "alt": "Black and white photograph of a person in a patterned shirt walking past a large glass storefront or building facade covered in graffiti. The person's reflection is visible in the glass panels, creating multiple layered images. The scene appears to be in an urban setting with concrete flooring.",
+    "tags": [
+      "black and white photography",
+      "urban photography",
+      "street photography",
+      "reflections",
+      "glass facade",
+      "graffiti",
+      "motion blur",
+      "architectural photography",
+      "city life",
+      "layered imagery"
+    ],
+    "dateAdded": "2025-08-10T10:04:49.194Z"
+  },
+  {
     "filename": "L1000466.jpg",
     "image": "/img/photos/L1000466.jpg",
     "thumbnail": "/img/thumbnails/L1000466.jpg",
