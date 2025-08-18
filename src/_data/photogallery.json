@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000886.jpg",
+    "image": "/img/photos/L1000886.jpg",
+    "thumbnail": "/img/thumbnails/L1000886.jpg",
+    "opengraph": "/img/open-graph/L1000886.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.6",
+    "dateTaken": "2025:08:09 14:43:09",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.507631,
+      "lon": -0.099351
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Silhouette of Home",
+    "alt": "Two people in a modern museum gallery space with transparent turquoise glass architectural elements overhead and warm orange-tinted wooden framework creating a geometric entrance. One person wearing a mask stands in the foreground while another walks through the gallery space, which features white walls with colorful artwork or displays.",
+    "tags": [
+      "modern architecture",
+      "museum interior",
+      "geometric design",
+      "glass ceiling",
+      "contemporary art gallery",
+      "wooden framework",
+      "visitors",
+      "institutional space",
+      "transparency",
+      "color contrast"
+    ],
+    "dateAdded": "2025-08-18T21:22:36.866Z"
+  },
+  {
     "filename": "L1000860.jpg",
     "image": "/img/photos/L1000860.jpg",
     "thumbnail": "/img/thumbnails/L1000860.jpg",
