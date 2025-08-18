@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000860.jpg",
+    "image": "/img/photos/L1000860.jpg",
+    "thumbnail": "/img/thumbnails/L1000860.jpg",
+    "opengraph": "/img/open-graph/L1000860.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:08:09 12:57:09",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.499508,
+      "lon": -0.082242
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Garden of Liquid Memories",
+    "alt": "Overhead view of a large-scale watercolor painting in progress, showing abstract green and teal washes on white paper stretched in a wooden frame, with lush green foliage mural visible on the wall above",
+    "tags": [
+      "watercolor painting",
+      "abstract art",
+      "artist studio",
+      "work in progress",
+      "botanical mural",
+      "green pigments",
+      "artistic process",
+      "overhead photography",
+      "contemporary art",
+      "mixed media"
+    ],
+    "dateAdded": "2025-08-18T21:04:44.085Z"
+  },
+  {
     "filename": "L1000781.jpg",
     "image": "/img/photos/L1000781.jpg",
     "thumbnail": "/img/thumbnails/L1000781.jpg",
