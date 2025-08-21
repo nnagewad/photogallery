@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000896.jpg",
+    "image": "/img/photos/L1000896.jpg",
+    "thumbnail": "/img/thumbnails/L1000896.jpg",
+    "opengraph": "/img/open-graph/L1000896.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "0.5",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:08:09 14:59:46",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.507297,
+      "lon": -0.100092
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Passing of a Memory Phased",
+    "alt": "A modern gallery space with white walls covered in colorful small sculptural objects and artworks. Motion-blurred visitors walk along dark wooden floors, examining the dense installation that extends from floor to ceiling. Natural light filters through large windows on the left.",
+    "tags": [
+      "contemporary art",
+      "gallery installation",
+      "motion blur",
+      "colorful sculptures",
+      "museum visitors",
+      "white walls",
+      "wooden floors",
+      "natural lighting",
+      "dense arrangement",
+      "art exhibition"
+    ],
+    "dateAdded": "2025-08-21T19:40:02.207Z"
+  },
+  {
     "filename": "L1000826.jpg",
     "image": "/img/photos/L1000826.jpg",
     "thumbnail": "/img/thumbnails/L1000826.jpg",
