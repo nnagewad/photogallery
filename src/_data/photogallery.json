@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1000826.jpg",
+    "image": "/img/photos/L1000826.jpg",
+    "thumbnail": "/img/thumbnails/L1000826.jpg",
+    "opengraph": "/img/open-graph/L1000826.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/125",
+    "aperture": "f/10.0",
+    "dateTaken": "2025:07:26 13:55:41",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.504628,
+      "lon": -0.174433
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Weight of Wood",
+    "alt": "Low-angle architectural photograph showing the curved steel arches and industrial framework of a bridge or structure against a cloudy sky, with warm-toned building materials visible in the background",
+    "tags": [
+      "architecture",
+      "wood",
+      "industrial",
+      "geometric",
+      "perspective",
+      "clouds",
+      "urban",
+      "construction",
+      "engineering"
+    ],
+    "dateAdded": "2025-08-21T19:31:07.511Z"
+  },
+  {
     "filename": "L1000886.jpg",
     "image": "/img/photos/L1000886.jpg",
     "thumbnail": "/img/thumbnails/L1000886.jpg",
