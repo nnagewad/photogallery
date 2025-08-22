@@ -6,6 +6,7 @@
 - Pulling metadata from image file.
 - Convert raw long/lat coordinance to human readable data.
 - AI to generate the title, alt-text and tags.
+- [Case study](https://nkngwd.medium.com/how-i-built-everyday-lens-ee310d76ba5c)
 
 ## Technology
 
