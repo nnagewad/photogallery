@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000765.jpg",
+    "image": "/img/photos/L1000765.jpg",
+    "thumbnail": "/img/thumbnails/L1000765.jpg",
+    "opengraph": "/img/open-graph/L1000765.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:07:05 17:14:02",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 50.636564,
+      "lon": 3.050967
+    },
+    "localized": "Lille",
+    "country": "France",
+    "title": "The Balcony Address",
+    "alt": "A middle-aged man in a white t-shirt and black cap stands in an ornate stone doorway, pointing upward with one hand while holding a green bottle in the other, addressing a crowd of people visible below wearing caps and sunglasses",
+    "tags": [
+      "celebration",
+      "crowd",
+      "architecture",
+      "doorway",
+      "gesture",
+      "ornate stonework",
+      "public gathering",
+      "pointing",
+      "bottle",
+      "historic building"
+    ],
+    "dateAdded": "2025-08-23T13:21:37.478Z"
+  },
+  {
     "filename": "L1000896.jpg",
     "image": "/img/photos/L1000896.jpg",
     "thumbnail": "/img/thumbnails/L1000896.jpg",
