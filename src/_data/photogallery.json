@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000914.jpg",
+    "image": "/img/photos/L1000914.jpg",
+    "thumbnail": "/img/thumbnails/L1000914.jpg",
+    "opengraph": "/img/open-graph/L1000914.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/10.0",
+    "dateTaken": "2025:08:15 08:08:15",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.972994,
+      "lon": 4.131897
+    },
+    "localized": "Hook of Holland",
+    "country": "Netherlands",
+    "title": "Caged Sky",
+    "alt": "A large wire mesh cage structure on a rooftop with blue flooring, featuring a basketball hoop inside. The cage has a house-like peaked roof design and is photographed against a clear blue sky with some clouds. Urban buildings are visible in the background, and there's a wooden bench and white cylindrical structure visible on the left side of the rooftop.",
+    "tags": [
+      "rooftop",
+      "basketball court",
+      "wire cage",
+      "urban architecture",
+      "recreational space",
+      "blue sky",
+      "cityscape",
+      "sports facility",
+      "geometric structure",
+      "outdoor court"
+    ],
+    "dateAdded": "2025-08-24T16:10:03.742Z"
+  },
+  {
     "filename": "L1000765.jpg",
     "image": "/img/photos/L1000765.jpg",
     "thumbnail": "/img/thumbnails/L1000765.jpg",
