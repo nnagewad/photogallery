@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1000933.jpg",
+    "image": "/img/photos/L1000933.jpg",
+    "thumbnail": "/img/thumbnails/L1000933.jpg",
+    "opengraph": "/img/open-graph/L1000933.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/4.5",
+    "dateTaken": "2025:08:15 11:10:35",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.914481,
+      "lon": 4.471419
+    },
+    "localized": "Rotterdam",
+    "country": "Netherlands",
+    "title": "The Architecture of Memory",
+    "alt": "Black and white photograph of a museum exhibition space with concrete walls and exposed ceiling. Multiple white display tables showcase architectural models. A silhouetted figure stands examining wall-mounted drawings and plans. Track lighting illuminates the modernist interior.",
+    "tags": [
+      "museum",
+      "exhibition",
+      "architecture",
+      "models",
+      "black and white",
+      "modernist",
+      "concrete",
+      "display",
+      "visitor"
+    ],
+    "dateAdded": "2025-08-28T13:02:27.066Z"
+  },
+  {
     "filename": "L1000914.jpg",
     "image": "/img/photos/L1000914.jpg",
     "thumbnail": "/img/thumbnails/L1000914.jpg",
