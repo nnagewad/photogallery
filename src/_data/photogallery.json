@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000940.jpg",
+    "image": "/img/photos/L1000940.jpg",
+    "thumbnail": "/img/thumbnails/L1000940.jpg",
+    "opengraph": "/img/open-graph/L1000940.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/2.2",
+    "dateTaken": "2025:08:15 11:45:26",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.914503,
+      "lon": 4.471422
+    },
+    "localized": "Rotterdam",
+    "country": "Netherlands",
+    "title": "Alpha and Omega",
+    "alt": "View through glass doors into a modern exhibition space with concrete walls, where people examine architectural models displayed on white tables under suspended black lights",
+    "tags": [
+      "architecture",
+      "exhibition",
+      "museum",
+      "concrete",
+      "modern",
+      "glass",
+      "models",
+      "industrial",
+      "gallery",
+      "contemporary"
+    ],
+    "dateAdded": "2025-08-28T13:28:26.004Z"
+  },
+  {
     "filename": "L1000933.jpg",
     "image": "/img/photos/L1000933.jpg",
     "thumbnail": "/img/thumbnails/L1000933.jpg",
