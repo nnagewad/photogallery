@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000997.jpg",
+    "image": "/img/photos/L1000997.jpg",
+    "thumbnail": "/img/thumbnails/L1000997.jpg",
+    "opengraph": "/img/open-graph/L1000997.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/4",
+    "aperture": "f/11.0",
+    "dateTaken": "2025:08:16 11:11:22",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.360039,
+      "lon": 4.885375
+    },
+    "localized": "Amsterdam",
+    "country": "Netherlands",
+    "title": "The Watchers",
+    "alt": "A crowd of museum visitors gathered in front of a classical Dutch group portrait painting, with motion blur suggesting the movement of people while the artwork remains still and illuminated against a dark gallery wall",
+    "tags": [
+      "museum",
+      "art gallery",
+      "classical painting",
+      "crowd",
+      "motion blur",
+      "Dutch masters",
+      "group portrait",
+      "cultural experience",
+      "spectatorship",
+      "fine art"
+    ],
+    "dateAdded": "2025-09-02T22:10:26.571Z"
+  },
+  {
     "filename": "L1000940.jpg",
     "image": "/img/photos/L1000940.jpg",
     "thumbnail": "/img/thumbnails/L1000940.jpg",
