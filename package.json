@@ -36,6 +36,6 @@
     "concurrently": "^9.2.1",
     "html-minifier-terser": "^7.2.0",
     "sass": "^1.91.0",
-    "terser": "^5.43.1"
+    "terser": "^5.44.0"
   }
 }
