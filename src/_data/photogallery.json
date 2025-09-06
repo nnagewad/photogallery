@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001033.jpg",
+    "image": "/img/photos/L1001033.jpg",
+    "thumbnail": "/img/thumbnails/L1001033.jpg",
+    "opengraph": "/img/open-graph/L1001033.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:08:16 18:21:02",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.354308,
+      "lon": 4.884475
+    },
+    "localized": "Amsterdam",
+    "country": "Netherlands",
+    "title": "The Geometry of Solitude",
+    "alt": "A modern bathroom with blue and gray checkered tile walls, featuring a dark rectangular sink, and small decorative flower motifs on the tiles. Natural light streams in from windows creating dramatic shadows.",
+    "tags": [
+      "modern bathroom",
+      "checkered tiles",
+      "blue gray interior",
+      "minimalist design",
+      "natural lighting",
+      "geometric patterns",
+      "contemporary architecture",
+      "glass shower",
+      "dark fixtures",
+      "tile work"
+    ],
+    "dateAdded": "2025-09-06T21:48:08.625Z"
+  },
+  {
     "filename": "L1000997.jpg",
     "image": "/img/photos/L1000997.jpg",
     "thumbnail": "/img/thumbnails/L1000997.jpg",
