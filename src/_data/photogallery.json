@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000169.jpg",
+    "image": "/img/photos/L1000169.jpg",
+    "thumbnail": "/img/thumbnails/L1000169.jpg",
+    "opengraph": "/img/open-graph/L1000169.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:05:23 14:37:10",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.653586,
+      "lon": -79.392481
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "Curves of Contemplation",
+    "alt": "A black and white architectural photograph showing curved concrete walls and ceiling creating flowing, organic shapes within an interior space. The image captures dramatic shadows and highlights emphasizing the sculptural quality of the modernist architecture.",
+    "tags": [
+      "architecture",
+      "concrete",
+      "curves",
+      "modernist",
+      "interior",
+      "shadows",
+      "monochrome",
+      "sculptural",
+      "geometric",
+      "minimalist"
+    ],
+    "dateAdded": "2025-09-07T09:05:04.282Z"
+  },
+  {
     "filename": "L1001033.jpg",
     "image": "/img/photos/L1001033.jpg",
     "thumbnail": "/img/thumbnails/L1001033.jpg",
