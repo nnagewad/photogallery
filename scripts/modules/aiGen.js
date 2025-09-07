@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 
 const CLAUDE_API_KEY = process.env.CLAUDE_API_KEY;
 
-export async function analyzeImage(filePath) {
+export async function analyzeImage(filePath, existingTitles = []) {
   const imageBuffer = await fs.readFile(filePath);
   const base64Image = imageBuffer.toString('base64');
 
@@ -33,7 +33,11 @@ export async function analyzeImage(filePath) {
           },
           {
             type: 'text',
-            text: `Analyze this image. Return a short title that could be a title for a highbrow film, a useful alt text for screen readers, and 5-10 descriptive tags in an array. Respond only as JSON like:
+            text: `Analyze this image. Return a short title that could be a title for a highbrow film, a useful alt text for screen readers, and 5-10 descriptive tags in an array.
+            ${existingTitles.length > 0 ? `IMPORTANT: Avoid using any of these existing titles that are already used in the gallery:
+            ${existingTitles.map(title => `- "${title}"`).join('\n')}
+            Make sure your title is completely different and unique from all of the above.` : ''}
+            Respond only as JSON like:
             {
               "title": "...",
               "alt": "...",
