@@ -34,12 +34,9 @@ export async function analyzeImage(filePath, existingTitles = []) {
           {
             type: 'text',
             text: `Analyze this image. Return a short title that could be a title for a highbrow film, a useful alt text for screen readers, and 5-10 descriptive tags in an array.
-            
             ${existingTitles.length > 0 ? `IMPORTANT: Avoid using any of these existing titles that are already used in the gallery:
-${existingTitles.map(title => `- "${title}"`).join('\n')}
-
-Make sure your title is completely different and unique from all of the above.` : ''}
-
+            ${existingTitles.map(title => `- "${title}"`).join('\n')}
+            Make sure your title is completely different and unique from all of the above.` : ''}
             Respond only as JSON like:
             {
               "title": "...",
