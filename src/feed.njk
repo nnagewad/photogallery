@@ -11,7 +11,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.language or page.lang }}">
   <title>{{ site.siteName }}</title>
   <subtitle>{{ metadata.description }}</subtitle>
-  <link href="{{ permalink | htmlBaseUrl(site.url) }}" rel="self" />
+  <link rel="alternate" type="application/rss+xml" title="Everyday Lens"  href="{{ permalink | htmlBaseUrl(site.url) }}" />
   <link href="{{ site.url | addPathPrefixToFullUrl }}" />
   <updated>{{ collections.posts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ site.url | addPathPrefixToFullUrl }}</id>
