@@ -1,7 +1,7 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-  <section id='{{ photo.title | slugify }}' class='photo-details'>
+  <article id='{{ photo.title | slugify }}' class='photo-details'>
     <h1 class='font-size-2 website-page--title grid-container'>{{ photo.title | updateApostrophe }}</h1>
     <div class="flex-container--wrap">
       <figure class="photo">
@@ -79,6 +79,6 @@
         </dl>
       </figcaption>
     </div>
-  </section>
+  </article>
   {% include 'partials/pagination.njk' %}
 {% endblock %}
