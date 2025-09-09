@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000954.jpg",
+    "image": "/img/photos/L1000954.jpg",
+    "thumbnail": "/img/thumbnails/L1000954.jpg",
+    "opengraph": "/img/open-graph/L1000954.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/7.1",
+    "dateTaken": "2025:08:15 12:25:02",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.913807,
+      "lon": 4.470996
+    },
+    "localized": "Rotterdam",
+    "country": "Netherlands",
+    "title": "Fragments of the Mirror Maze",
+    "alt": "A dramatic upward view through a complex geometric structure of glass panels and metal framework, showing fragmented reflections of colorful patterned displays and people below, creating a kaleidoscopic effect with strong contrast between the dark industrial beams and bright illuminated surfaces.",
+    "tags": [
+      "geometric architecture",
+      "glass reflections",
+      "industrial structure",
+      "fragmented view",
+      "kaleidoscopic",
+      "angular composition",
+      "upward perspective",
+      "contemporary design",
+      "pattern displays",
+      "metallic framework"
+    ],
+    "dateAdded": "2025-09-09T20:03:51.128Z"
+  },
+  {
     "filename": "L1000950.jpg",
     "image": "/img/photos/L1000950.jpg",
     "thumbnail": "/img/thumbnails/L1000950.jpg",
