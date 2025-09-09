@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000950.jpg",
+    "image": "/img/photos/L1000950.jpg",
+    "thumbnail": "/img/thumbnails/L1000950.jpg",
+    "opengraph": "/img/open-graph/L1000950.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.6",
+    "dateTaken": "2025:08:15 12:08:53",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.915684,
+      "lon": 4.47259
+    },
+    "localized": "Rotterdam",
+    "country": "Netherlands",
+    "title": "The Luminous Fold",
+    "alt": "An abstract composition of curved geometric forms in deep purples and magentas with bright pink-orange illumination creating dramatic shadows and highlights against a dark background",
+    "tags": [
+      "abstract",
+      "geometric",
+      "curves",
+      "purple",
+      "magenta",
+      "pink",
+      "shadows",
+      "light",
+      "contemporary",
+      "minimalist"
+    ],
+    "dateAdded": "2025-09-09T19:41:45.004Z"
+  },
+  {
     "filename": "L1001066.jpg",
     "image": "/img/photos/L1001066.jpg",
     "thumbnail": "/img/thumbnails/L1001066.jpg",
