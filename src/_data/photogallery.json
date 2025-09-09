@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001066.jpg",
+    "image": "/img/photos/L1001066.jpg",
+    "thumbnail": "/img/thumbnails/L1001066.jpg",
+    "opengraph": "/img/open-graph/L1001066.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:08:17 10:52:07",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.364178,
+      "lon": 4.893517
+    },
+    "localized": "Amsterdam",
+    "country": "Netherlands",
+    "title": "The Attic Gallery",
+    "alt": "A dimly lit attic room with exposed dark wooden beams and slanted ceiling. Two pendant light bulbs hang from the ceiling, illuminating a white wall with three framed photographs. A dark table or surface is visible in the foreground, creating strong contrast between light and shadow in this intimate space.",
+    "tags": [
+      "attic",
+      "exposed beams",
+      "pendant lights",
+      "photography gallery",
+      "intimate lighting",
+      "architectural photography",
+      "minimalist interior",
+      "black and white photography",
+      "slanted ceiling",
+      "dramatic shadows"
+    ],
+    "dateAdded": "2025-09-09T19:21:19.449Z"
+  },
+  {
     "filename": "L1000169.jpg",
     "image": "/img/photos/L1000169.jpg",
     "thumbnail": "/img/thumbnails/L1000169.jpg",
