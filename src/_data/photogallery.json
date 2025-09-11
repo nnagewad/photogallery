@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001087.jpg",
+    "image": "/img/photos/L1001087.jpg",
+    "thumbnail": "/img/thumbnails/L1001087.jpg",
+    "opengraph": "/img/open-graph/L1001087.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/4.5",
+    "dateTaken": "2025:08:17 15:54:02",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.384161,
+      "lon": 4.901131
+    },
+    "localized": "Amsterdam",
+    "country": "Netherlands",
+    "title": "Descent into Illumination",
+    "alt": "A dramatic view looking up a narrow concrete stairwell with stark lighting. Dark stairs ascend toward a bright opening at the top, creating a strong contrast between shadow and light. The walls appear textured and weathered, with a handrail visible on the right side.",
+    "tags": [
+      "stairwell",
+      "contrast",
+      "concrete",
+      "dramatic lighting",
+      "minimalist",
+      "architectural",
+      "underground",
+      "ascent",
+      "shadows",
+      "brutalist"
+    ],
+    "dateAdded": "2025-09-11T19:42:02.684Z"
+  },
+  {
     "filename": "L1000954.jpg",
     "image": "/img/photos/L1000954.jpg",
     "thumbnail": "/img/thumbnails/L1000954.jpg",
