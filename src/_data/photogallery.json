@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001216.jpg",
+    "image": "/img/photos/L1001216.jpg",
+    "thumbnail": "/img/thumbnails/L1001216.jpg",
+    "opengraph": "/img/open-graph/L1001216.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:08:29 00:22:58",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.646817,
+      "lon": -79.38995800000001
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Threshold of Departures",
+    "alt": "A modern interior waiting area with people sitting in dark chairs on the left and others walking toward bright glass windows at the far end. The space features concrete columns, recessed ceiling lights, patterned carpet, and dramatic orange accent lighting along the right wall, creating strong contrast between the darker foreground and bright, overexposed video wall.",
+    "tags": [
+      "interior architecture",
+      "modern lobby",
+      "silhouettes",
+      "dramatic lighting",
+      "concrete pillars",
+      "waiting area",
+      "glass windows",
+      "urban space",
+      "contemporary design",
+      "transit"
+    ],
+    "dateAdded": "2025-09-12T18:39:24.364Z"
+  },
+  {
     "filename": "L1001211.jpg",
     "image": "/img/photos/L1001211.jpg",
     "thumbnail": "/img/thumbnails/L1001211.jpg",
