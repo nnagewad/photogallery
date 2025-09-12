@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001211.jpg",
+    "image": "/img/photos/L1001211.jpg",
+    "thumbnail": "/img/thumbnails/L1001211.jpg",
+    "opengraph": "/img/open-graph/L1001211.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/7.1",
+    "dateTaken": "2025:08:29 00:07:55",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.648431,
+      "lon": -79.393392
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "Between Steel and Sky",
+    "alt": "Black and white photograph looking up from a Toronto street between tall modern buildings and skyscrapers, with the iconic CN Tower visible in the distance against an overcast sky. Power lines cross the frame horizontally, and urban infrastructure including street signs and construction barriers are visible at street level.",
+    "tags": [
+      "urban photography",
+      "CN Tower",
+      "Toronto",
+      "black and white",
+      "architecture",
+      "skyscrapers",
+      "street level view",
+      "city canyon",
+      "power lines",
+      "overcast sky"
+    ],
+    "dateAdded": "2025-09-12T18:26:08.406Z"
+  },
+  {
     "filename": "L1001087.jpg",
     "image": "/img/photos/L1001087.jpg",
     "thumbnail": "/img/thumbnails/L1001087.jpg",
