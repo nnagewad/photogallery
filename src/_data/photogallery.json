@@ -1,5 +1,39 @@
 [
   {
+    "filename": "L1001054.jpg",
+    "image": "/img/photos/L1001054.jpg",
+    "thumbnail": "/img/thumbnails/L1001054.jpg",
+    "opengraph": "/img/open-graph/L1001054.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:08:17 10:06:15",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.363953,
+      "lon": 4.893136
+    },
+    "localized": "Amsterdam",
+    "country": "Netherlands",
+    "title": "The Mathematics of Flesh",
+    "alt": "A sheet covered entirely in dense numerical data and mathematical formulas printed on translucent material, creating a ghostly double-exposure effect against a dark, blurred background with soft light spots",
+    "tags": [
+      "conceptual photography",
+      "numerical overlay",
+      "data visualization",
+      "mathematical art",
+      "translucent material",
+      "monochromatic",
+      "digital age metaphor"
+    ],
+    "dateAdded": "2025-09-13T18:40:43.876Z"
+  },
+  {
     "filename": "L1001216.jpg",
     "image": "/img/photos/L1001216.jpg",
     "thumbnail": "/img/thumbnails/L1001216.jpg",
