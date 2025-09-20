@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001077.jpg",
+    "image": "/img/photos/L1001077.jpg",
+    "thumbnail": "/img/thumbnails/L1001077.jpg",
+    "opengraph": "/img/open-graph/L1001077.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/6.3",
+    "dateTaken": "2025:08:17 14:54:22",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.384144,
+      "lon": 4.900967
+    },
+    "localized": "Amsterdam",
+    "country": "Netherlands",
+    "title": "The Choreography of Ascent",
+    "alt": "A modern architectural interior with dramatic angular black structural beams cutting across a curved white ceiling. Floor-to-ceiling windows reveal a waterfront cityscape. Multiple levels of staircases with glass railings create geometric patterns, with silhouetted figures positioned throughout the space - one person on an upper staircase and others gathered on a lower level.",
+    "tags": [
+      "modern architecture",
+      "geometric design",
+      "staircase",
+      "silhouettes",
+      "angular beams",
+      "glass railings",
+      "waterfront view",
+      "interior space",
+      "structural elements",
+      "urban landscape"
+    ],
+    "dateAdded": "2025-09-20T11:08:05.707Z"
+  },
+  {
     "filename": "L1001226.jpg",
     "image": "/img/photos/L1001226.jpg",
     "thumbnail": "/img/thumbnails/L1001226.jpg",
