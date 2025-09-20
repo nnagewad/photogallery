@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001226.jpg",
+    "image": "/img/photos/L1001226.jpg",
+    "thumbnail": "/img/thumbnails/L1001226.jpg",
+    "opengraph": "/img/open-graph/L1001226.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:08:30 14:42:56",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.670183,
+      "lon": -79.429844
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Cartographer of Interior Worlds",
+    "alt": "Black and white portrait of a woman with long wavy hair and visible tattoos sitting in what appears to be a bar or restaurant, looking thoughtfully to the side with ambient lighting creating dramatic shadows",
+    "tags": [
+      "portrait",
+      "black and white",
+      "woman",
+      "tattoos",
+      "bar",
+      "contemplative",
+      "ambient lighting",
+      "restaurant interior",
+      "thoughtful expression",
+      "dramatic shadows"
+    ],
+    "dateAdded": "2025-09-20T10:44:08.352Z"
+  },
+  {
     "filename": "L1001133.jpg",
     "image": "/img/photos/L1001133.jpg",
     "thumbnail": "/img/thumbnails/L1001133.jpg",
