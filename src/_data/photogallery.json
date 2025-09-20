@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001133.jpg",
+    "image": "/img/photos/L1001133.jpg",
+    "thumbnail": "/img/thumbnails/L1001133.jpg",
+    "opengraph": "/img/open-graph/L1001133.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:08:28 15:19:48",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.662597,
+      "lon": -79.444675
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Gesture of Concealment",
+    "alt": "A black and white photograph of a person in a dark shirt and watch covering their face with their hand while sitting in what appears to be a restaurant or cafe, with blurred signage and lighting visible in the background",
+    "tags": [
+      "black and white photography",
+      "portrait",
+      "hand gesture",
+      "concealment",
+      "restaurant interior",
+      "urban solitude",
+      "contemplation",
+      "privacy",
+      "emotional expression",
+      "cafe setting"
+    ],
+    "dateAdded": "2025-09-20T10:41:44.544Z"
+  },
+  {
     "filename": "L1001054.jpg",
     "image": "/img/photos/L1001054.jpg",
     "thumbnail": "/img/thumbnails/L1001054.jpg",
