@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030439.jpg",
+    "image": "/img/photos/L1030439.jpg",
+    "thumbnail": "/img/thumbnails/L1030439.jpg",
+    "opengraph": "/img/open-graph/L1030439.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:04:26 13:34:30",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.391075,
+      "lon": 1.3818890000000001
+    },
+    "localized": "Thanet",
+    "country": "United Kingdom",
+    "title": "The Ceremony of Looking",
+    "alt": "Black and white photograph showing three silhouetted figures in a minimalist gallery space - two people on the left lean over a low wall or barrier to look through large windows, while a third person stands alone on the right, all backlit by bright natural light from floor-to-ceiling windows",
+    "tags": [
+      "silhouette",
+      "museum",
+      "gallery",
+      "window",
+      "contemplation",
+      "architecture",
+      "minimalist",
+      "black and white",
+      "natural light",
+      "observation"
+    ],
+    "dateAdded": "2025-09-26T20:07:57.842Z"
+  },
+  {
     "filename": "L1030377.jpg",
     "image": "/img/photos/L1030377.jpg",
     "thumbnail": "/img/thumbnails/L1030377.jpg",
