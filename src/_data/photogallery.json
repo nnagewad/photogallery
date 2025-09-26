@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000534.jpg",
+    "image": "/img/photos/L1000534.jpg",
+    "thumbnail": "/img/thumbnails/L1000534.jpg",
+    "opengraph": "/img/open-graph/L1000534.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:06:22 12:13:17",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.54654,
+      "lon": -0.021245999999999998
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Repository of Human Stories",
+    "alt": "A multi-level brutalist concrete museum or archive building with glass windows showing visitors on different floors. People can be seen walking on the upper level balconies and gathering around displays on the middle floor, while the lower levels contain storage or exhibition spaces. The industrial architecture features raw concrete, steel framework, and geometric divisions creating a honeycomb-like structure of human activity.",
+    "tags": [
+      "brutalist architecture",
+      "museum interior",
+      "concrete structure",
+      "multi-level building",
+      "visitors",
+      "institutional space",
+      "geometric design",
+      "cultural institution",
+      "public space",
+      "modernist architecture"
+    ],
+    "dateAdded": "2025-09-26T19:47:48.924Z"
+  },
+  {
     "filename": "L1000446.jpg",
     "image": "/img/photos/L1000446.jpg",
     "thumbnail": "/img/thumbnails/L1000446.jpg",
