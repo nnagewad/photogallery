@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1000755.jpg",
+    "image": "/img/photos/L1000755.jpg",
+    "thumbnail": "/img/thumbnails/L1000755.jpg",
+    "opengraph": "/img/open-graph/L1000755.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/2.2",
+    "dateTaken": "2025:07:05 17:09:30",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 50.636981,
+      "lon": 3.0513
+    },
+    "localized": "Lille",
+    "country": "France",
+    "title": "The Window Seat Reverie",
+    "alt": "Black and white photograph of a young man and woman sitting together on a window ledge, both smiling and relaxed. They are casually dressed in light-colored shirts and appear to be enjoying a quiet moment together. The window behind them shows leafy trees, and the stone architecture of the building is visible on the left side of the frame.",
+    "tags": [
+      "friendship",
+      "window",
+      "youth",
+      "casual",
+      "relaxation",
+      "architecture",
+      "black and white",
+      "togetherness",
+      "leisure"
+    ],
+    "dateAdded": "2025-09-26T20:50:48.921Z"
+  },
+  {
     "filename": "L1030629.jpg",
     "image": "/img/photos/L1030629.jpg",
     "thumbnail": "/img/thumbnails/L1030629.jpg",
