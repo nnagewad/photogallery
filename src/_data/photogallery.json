@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030295.jpg",
+    "image": "/img/photos/L1030295.jpg",
+    "thumbnail": "/img/thumbnails/L1030295.jpg",
+    "opengraph": "/img/open-graph/L1030295.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:04:18 20:54:58",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.616914,
+      "lon": -0.18074
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Crimson Custodian",
+    "alt": "A bright red Royal Mail parcel locker station stands illuminated against a dark brick wall at night. The automated locker system displays 'Your Parcel Locker Open 24/7' and 'Leave it with us' text, with a central screen interface surrounded by multiple compartment doors. The scene is lit dramatically against the darkness, creating an urban nocturne atmosphere.",
+    "tags": [
+      "parcel locker",
+      "Royal Mail",
+      "urban technology",
+      "night photography",
+      "automated service",
+      "brick wall",
+      "red illumination",
+      "delivery system",
+      "24/7 service",
+      "modern convenience"
+    ],
+    "dateAdded": "2025-09-26T20:38:39.528Z"
+  },
+  {
     "filename": "L1030269.jpg",
     "image": "/img/photos/L1030269.jpg",
     "thumbnail": "/img/thumbnails/L1030269.jpg",
