@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030027.jpg",
+    "image": "/img/photos/L1030027.jpg",
+    "thumbnail": "/img/thumbnails/L1030027.jpg",
+    "opengraph": "/img/open-graph/L1030027.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/15",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:03:24 10:00:58",
+    "dimensions": {
+      "width": 1368,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 35.668228,
+      "lon": 139.681494
+    },
+    "localized": "Shibuya",
+    "country": "Japan",
+    "title": "The Spiral of Urban Dreams",
+    "alt": "A modern white apartment building with distinctive curved spiral balconies stands prominently in the center, flanked by beige and dark brick residential buildings. A blurred car passes by on the wet street in the foreground, with bare winter trees and an overcast sky completing the urban scene.",
+    "tags": [
+      "modern architecture",
+      "spiral balconies",
+      "urban landscape",
+      "apartment buildings",
+      "motion blur",
+      "wet pavement",
+      "overcast sky",
+      "contemporary design",
+      "city street",
+      "residential complex"
+    ],
+    "dateAdded": "2025-09-26T21:14:08.308Z"
+  },
+  {
     "filename": "L1000012.jpg",
     "image": "/img/photos/L1000012.jpg",
     "thumbnail": "/img/thumbnails/L1000012.jpg",
