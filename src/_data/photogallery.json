@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030377.jpg",
+    "image": "/img/photos/L1030377.jpg",
+    "thumbnail": "/img/thumbnails/L1030377.jpg",
+    "opengraph": "/img/open-graph/L1030377.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:04:20 16:07:25",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.527978,
+      "lon": -0.15184199999999998
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Persistence of Golden Hours",
+    "alt": "Small golden-orange flowers emerge from dark foliage in a moody, low-light botanical scene with shallow depth of field creating a dreamy, contemplative atmosphere",
+    "tags": [
+      "flowers",
+      "golden",
+      "orange",
+      "botanical",
+      "nature",
+      "moody",
+      "low light",
+      "shallow focus",
+      "contemplative",
+      "organic"
+    ],
+    "dateAdded": "2025-09-26T20:02:20.880Z"
+  },
+  {
     "filename": "L1030307.jpg",
     "image": "/img/photos/L1030307.jpg",
     "thumbnail": "/img/thumbnails/L1030307.jpg",
