@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030455.jpg",
+    "image": "/img/photos/L1030455.jpg",
+    "thumbnail": "/img/thumbnails/L1030455.jpg",
+    "opengraph": "/img/open-graph/L1030455.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/8000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:04:26 14:45:42",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.391342,
+      "lon": 1.379969
+    },
+    "localized": "Thanet",
+    "country": "United Kingdom",
+    "title": "When Waters Retreat",
+    "alt": "A tidal harbor at low tide showing boats resting on exposed muddy seafloor, with a stone pier extending into the water on the right side topped by a tall lighthouse, and residential buildings visible across the water under an overcast sky",
+    "tags": [
+      "harbor",
+      "low tide",
+      "lighthouse",
+      "boats",
+      "pier",
+      "coastal",
+      "maritime",
+      "moody sky",
+      "seaside town",
+      "tidal"
+    ],
+    "dateAdded": "2025-09-26T19:53:38.496Z"
+  },
+  {
     "filename": "L1000534.jpg",
     "image": "/img/photos/L1000534.jpg",
     "thumbnail": "/img/thumbnails/L1000534.jpg",
