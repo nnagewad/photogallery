@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1030629.jpg",
+    "image": "/img/photos/L1030629.jpg",
+    "thumbnail": "/img/thumbnails/L1030629.jpg",
+    "opengraph": "/img/open-graph/L1030629.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:04 14:36:16",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.499532,
+      "lon": -0.081815
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Cartographer of Inner Landscapes",
+    "alt": "A man with curly brown hair and mustache wearing a mustard yellow button-up shirt over a white t-shirt, with a black camera strap across his chest and a red bag visible at his side. He stands with arms crossed against a backdrop of clean white and gray architectural elements, looking directly at the camera with a gentle, contemplative expression.",
+    "tags": [
+      "portrait",
+      "photographer",
+      "mustard yellow shirt",
+      "architectural background",
+      "contemplative",
+      "professional",
+      "minimalist setting",
+      "natural lighting",
+      "creative professional"
+    ],
+    "dateAdded": "2025-09-26T20:42:56.368Z"
+  },
+  {
     "filename": "L1030295.jpg",
     "image": "/img/photos/L1030295.jpg",
     "thumbnail": "/img/thumbnails/L1030295.jpg",
