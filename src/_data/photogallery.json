@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001262.jpg",
+    "image": "/img/photos/L1001262.jpg",
+    "thumbnail": "/img/thumbnails/L1001262.jpg",
+    "opengraph": "/img/open-graph/L1001262.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/60",
+    "aperture": "f/2.2",
+    "dateTaken": "2025:08:30 21:08:46",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.653494,
+      "lon": -79.428864
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Laughter Between Worlds",
+    "alt": "Black and white photograph of friends sharing an intimate moment at an outdoor dinner table under trees. A blonde woman in the foreground laughs with her eyes closed while companions sit around a table with wine glasses and plates, creating a scene of genuine joy and connection.",
+    "tags": [
+      "friendship",
+      "laughter",
+      "outdoor dining",
+      "black and white photography",
+      "candid moment",
+      "social gathering",
+      "evening meal",
+      "genuine emotion",
+      "intimate atmosphere",
+      "wine glasses"
+    ],
+    "dateAdded": "2025-09-26T20:58:41.858Z"
+  },
+  {
     "filename": "L1001003.jpg",
     "image": "/img/photos/L1001003.jpg",
     "thumbnail": "/img/thumbnails/L1001003.jpg",
