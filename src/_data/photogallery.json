@@ -1,5 +1,40 @@
 [
   {
+    "filename": "L1000446.jpg",
+    "image": "/img/photos/L1000446.jpg",
+    "thumbnail": "/img/thumbnails/L1000446.jpg",
+    "opengraph": "/img/open-graph/L1000446.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.0",
+    "dateTaken": "2025:06:14 17:13:38",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.518523,
+      "lon": -0.090512
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "Light Between Shadows",
+    "alt": "A lone individual in a red shirt runs across a sunlit concrete plaza between modern glass and brick buildings, casting a long shadow on the geometric paved surface while surrounded by urban architecture",
+    "tags": [
+      "concrete plaza",
+      "Barbican",
+      "geometric shadows",
+      "modern architecture",
+      "solitary figure",
+      "brutalist design",
+      "sunlight and shadow",
+      "architectural geometry"
+    ],
+    "dateAdded": "2025-09-26T19:30:57.025Z"
+  },
+  {
     "filename": "L1001077.jpg",
     "image": "/img/photos/L1001077.jpg",
     "thumbnail": "/img/thumbnails/L1001077.jpg",
