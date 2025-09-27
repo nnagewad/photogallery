@@ -81,10 +81,14 @@ export default async function(eleventyConfig) {
       const outputDir = path.join(outputDirectory, "img");
       
       if (fs.existsSync(cacheDir)) {
-        fs.cpSync(cacheDir, outputDir, {
-          recursive: true
-        });
-        console.log("📸 Copied processed images from cache to output directory");
+        try {
+          fs.cpSync(cacheDir, outputDir, {
+            recursive: true
+          });
+          console.log("📸 Copied processed images from cache to output directory");
+        } catch (err) {
+          console.error(`❌ Failed to copy processed images from "${cacheDir}" to "${outputDir}":`, err);
+        }
       }
     }
   });
