@@ -1,3 +1,5 @@
+import path from "node:path";
+import fs from "node:fs";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import pluginRss from "@11ty/eleventy-plugin-rss";
 import { minify } from 'terser';
@@ -18,6 +20,8 @@ export default async function(eleventyConfig) {
   // Plugins (add early so they can be configured)
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    urlPath: "/img/",
+    outputDir: ".cache/@11ty/img/",
     formats: ["avif", "webp"],
     widths: ["auto"],
     htmlOptions: {
@@ -65,6 +69,31 @@ export default async function(eleventyConfig) {
       return minified;
     }
     return content;
+  });
+
+  // Store output directory for use in event handlers
+  const outputDirectory = "_site";
+
+  // Copy processed images from cache to final output after build
+  eleventyConfig.on("eleventy.after", async () => {
+    if (process.env.ELEVENTY_RUN_MODE === "build") {
+      const cacheDir = ".cache/@11ty/img/";
+      const outputDir = path.join(outputDirectory, "img");
+      
+      try {
+        await fs.promises.access(cacheDir);
+        await fs.promises.cp(cacheDir, outputDir, {
+          recursive: true
+        });
+        console.log("📸 Copied processed images from cache to output directory");
+      } catch (err) {
+        if (err.code === 'ENOENT') {
+          console.log("ℹ️ No cached images found to copy");
+        } else {
+          console.error(`❌ Failed to copy processed images from "${cacheDir}" to "${outputDir}":`, err);
+        }
+      }
+    }
   });
 
   return {
