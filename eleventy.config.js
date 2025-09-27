@@ -75,7 +75,7 @@ export default async function(eleventyConfig) {
   eleventyConfig.on("eleventy.after", () => {
     if (process.env.ELEVENTY_RUN_MODE === "build") {
       const cacheDir = ".cache/@11ty/img/";
-      const outputDir = path.join(eleventyConfig.directories.output || "_site", "/img/");
+      const outputDir = path.join(eleventyConfig.directories.output || "_site", "img");
       
       if (fs.existsSync(cacheDir)) {
         fs.cpSync(cacheDir, outputDir, {
