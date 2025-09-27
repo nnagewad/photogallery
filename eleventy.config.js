@@ -1,3 +1,5 @@
+import path from "node:path";
+import fs from "node:fs";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import pluginRss from "@11ty/eleventy-plugin-rss";
 import { minify } from 'terser';
@@ -18,6 +20,8 @@ export default async function(eleventyConfig) {
   // Plugins (add early so they can be configured)
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    urlPath: "/img/",
+    outputDir: ".cache/@11ty/img/",
     formats: ["avif", "webp"],
     widths: ["auto"],
     htmlOptions: {
@@ -65,6 +69,21 @@ export default async function(eleventyConfig) {
       return minified;
     }
     return content;
+  });
+
+  // Copy processed images from cache to final output after build
+  eleventyConfig.on("eleventy.after", () => {
+    if (process.env.ELEVENTY_RUN_MODE === "build") {
+      const cacheDir = ".cache/@11ty/img/";
+      const outputDir = path.join(eleventyConfig.directories.output || "_site", "/img/");
+      
+      if (fs.existsSync(cacheDir)) {
+        fs.cpSync(cacheDir, outputDir, {
+          recursive: true
+        });
+        console.log("📸 Copied processed images from cache to output directory");
+      }
+    }
   });
 
   return {
