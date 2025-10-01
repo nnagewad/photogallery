@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package.json",
   "name": "photogallery",
   "version": "1.0.0",
   "description": "Everyday Lens, a curated gallery of photographs by Nikin Nagewadia.",
