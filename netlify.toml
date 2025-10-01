@@ -5,3 +5,12 @@
 [build.environment]
   NODE_VERSION = "20"
   ELEVENTY_RUN_MODE = "build"
+
+[[plugins]]
+  package = "netlify-plugin-cache"
+  
+  [plugins.inputs]
+    paths = [
+      ".cache",
+      "img"
+    ]
