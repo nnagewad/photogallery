@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1000581.jpg",
+    "image": "/img/photos/L1000581.jpg",
+    "thumbnail": "/img/thumbnails/L1000581.jpg",
+    "opengraph": "/img/open-graph/L1000581.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/250",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:06:27 17:38:46",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.330853,
+      "lon": 1.414453
+    },
+    "localized": "Thanet",
+    "country": "United Kingdom",
+    "title": "The Portrait Maker's Communion",
+    "alt": "A middle-aged woman with shoulder-length brown hair wearing a black shirt sits at a paint-covered table in an art studio, working on a colorful portrait painting. The walls behind her are covered with dozens of vibrant portrait paintings featuring stylized faces in bold colors like red, blue, green, and pink. Art supplies including paint containers and brushes are scattered on the table.",
+    "tags": [
+      "artist",
+      "studio",
+      "portrait painting",
+      "creative workspace",
+      "contemporary art",
+      "colorful artwork",
+      "artistic process",
+      "gallery wall",
+      "painter at work"
+    ],
+    "dateAdded": "2025-10-01T22:38:39.152Z"
+  },
+  {
     "filename": "L1030027.jpg",
     "image": "/img/photos/L1030027.jpg",
     "thumbnail": "/img/thumbnails/L1030027.jpg",
