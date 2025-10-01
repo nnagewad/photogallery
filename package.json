@@ -35,7 +35,6 @@
   "devDependencies": {
     "concurrently": "^9.2.1",
     "html-minifier-terser": "^7.2.0",
-    "netlify-plugin-cache-folder": "^0.0.8",
     "sass": "^1.93.2",
     "terser": "^5.44.0"
   }
