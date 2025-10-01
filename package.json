@@ -33,6 +33,7 @@
     "luxon": "^3.7.2"
   },
   "devDependencies": {
+    "@netlify/plugin-cache": "^1.0.3",
     "concurrently": "^9.2.1",
     "html-minifier-terser": "^7.2.0",
     "sass": "^1.93.2",
