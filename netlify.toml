@@ -7,7 +7,7 @@
   ELEVENTY_RUN_MODE = "build"
 
 [[plugins]]
-  package = "@netlify/plugin-cache"
+  package = "@netlify/plugin-cache-folder"
   
   [plugins.inputs]
     paths = [
