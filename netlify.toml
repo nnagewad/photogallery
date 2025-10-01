@@ -12,5 +12,5 @@
   [plugins.inputs]
     paths = [
       ".cache",
-      "img"  # or wherever your processed images are output
+      "img"
     ]
