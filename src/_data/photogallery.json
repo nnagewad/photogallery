@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030034.jpg",
+    "image": "/img/photos/L1030034.jpg",
+    "thumbnail": "/img/thumbnails/L1030034.jpg",
+    "opengraph": "/img/open-graph/L1030034.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:03:24 10:35:14",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 35.660697,
+      "lon": 139.679031
+    },
+    "localized": "Meguro",
+    "country": "Japan",
+    "title": "The Secret Language of Fading Petals",
+    "alt": "A flowering camellia bush with vibrant pink, coral, and burgundy blooms in various stages of bloom and decay, surrounded by dark green glossy leaves, photographed from below looking up through dappled natural light",
+    "tags": [
+      "camellia",
+      "flowers",
+      "blooms",
+      "petals",
+      "garden",
+      "nature",
+      "botanical",
+      "pink",
+      "coral",
+      "decay"
+    ],
+    "dateAdded": "2025-10-02T19:29:41.137Z"
+  },
+  {
     "filename": "L1000581.jpg",
     "image": "/img/photos/L1000581.jpg",
     "thumbnail": "/img/thumbnails/L1000581.jpg",
