@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1030045.jpg",
+    "image": "/img/photos/L1030045.jpg",
+    "thumbnail": "/img/thumbnails/L1030045.jpg",
+    "opengraph": "/img/open-graph/L1030045.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/7.1",
+    "dateTaken": "2025:03:24 11:10:54",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 35.65499,
+      "lon": 139.689251
+    },
+    "localized": "Meguro",
+    "country": "Japan",
+    "title": "The Electric Meridian",
+    "alt": "Black and white photograph of an elderly person in dark clothing walking alone down a narrow street in a Japanese residential neighborhood, with power lines overhead, a multi-story apartment building on the left, and smaller houses on the right",
+    "tags": [
+      "street photography",
+      "urban solitude",
+      "power lines",
+      "Japanese architecture",
+      "black and white",
+      "elderly person",
+      "residential street",
+      "infrastructure",
+      "walking"
+    ],
+    "dateAdded": "2025-10-02T21:41:24.909Z"
+  },
+  {
     "filename": "L1030034.jpg",
     "image": "/img/photos/L1030034.jpg",
     "thumbnail": "/img/thumbnails/L1030034.jpg",
