@@ -7,9 +7,14 @@
   "language": "en",
   "socials": [
     {
-      "name": "GitHub",
+      "name": "Nikin's GitHub profile",
       "url": "https://github.com/nnagewad",
       "icon": "icons/github.svg"
+    },
+    {
+      "name": "RSS Feed for this site",
+      "url": "/feed.xml",
+      "icon": "icons/rss-feed.svg"      
     }
   ]
 }
