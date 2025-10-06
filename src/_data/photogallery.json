@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001290.jpg",
+    "image": "/img/photos/L1001290.jpg",
+    "thumbnail": "/img/thumbnails/L1001290.jpg",
+    "opengraph": "/img/open-graph/L1001290.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/3.2",
+    "dateTaken": "2025:10:05 10:08:55",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.49115,
+      "lon": -0.127992
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Corridor of Wandering Souls",
+    "alt": "Two elderly visitors walk through a grand neoclassical corridor with tall columns and ornate details, framed by dark wooden doorways that create a dramatic contrast between shadow and bright natural light",
+    "tags": [
+      "museum",
+      "classical architecture",
+      "elderly visitors",
+      "columns",
+      "corridor",
+      "natural light",
+      "shadows",
+      "heritage",
+      "exploration",
+      "stone"
+    ],
+    "dateAdded": "2025-10-06T20:13:46.493Z"
+  },
+  {
     "filename": "L1030045.jpg",
     "image": "/img/photos/L1030045.jpg",
     "thumbnail": "/img/thumbnails/L1030045.jpg",
