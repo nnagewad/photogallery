@@ -1,5 +1,40 @@
 [
   {
+    "filename": "L1001361.jpg",
+    "image": "/img/photos/L1001361.jpg",
+    "thumbnail": "/img/thumbnails/L1001361.jpg",
+    "opengraph": "/img/open-graph/L1001361.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:12 17:18:10",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.475094,
+      "lon": -0.026039
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Witness in Shadow and Flame",
+    "alt": "A Black man wearing a cream-colored knit beanie and white t-shirt stands in dramatic chiaroscuro lighting within what appears to be an industrial or warehouse space. Strong directional light illuminates half of his face while deep shadows fall across the background, creating a contemplative, cinematic atmosphere.",
+    "tags": [
+      "portrait",
+      "dramatic lighting",
+      "chiaroscuro",
+      "industrial interior",
+      "contemplative mood",
+      "shadow and light",
+      "urban setting",
+      "cinematic composition"
+    ],
+    "dateAdded": "2025-10-14T19:47:54.683Z"
+  },
+  {
     "filename": "L1001290.jpg",
     "image": "/img/photos/L1001290.jpg",
     "thumbnail": "/img/thumbnails/L1001290.jpg",
