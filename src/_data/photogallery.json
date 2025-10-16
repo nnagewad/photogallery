@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1000508.jpg",
+    "image": "/img/photos/L1000508.jpg",
+    "thumbnail": "/img/thumbnails/L1000508.jpg",
+    "opengraph": "/img/open-graph/L1000508.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:06:14 22:07:38",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.519119,
+      "lon": -0.09264399999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Conductor of Electric Atmosphere",
+    "alt": "A silhouetted electronic music performer stands at a multi-tiered setup of synthesizers and equipment on stage, backlit by bright white projection screens and atmospheric fog, with dramatic stage lighting creating a moody concert environment",
+    "tags": [
+      "electronic music",
+      "live performance",
+      "stage lighting",
+      "silhouette",
+      "synthesizer",
+      "concert",
+      "atmospheric",
+      "fog machine",
+      "projection",
+      "dramatic lighting",
+      "Evian Christ",
+      "A Warp Happening"
+    ],
+    "dateAdded": "2025-10-16T23:17:58.295Z"
+  },
+  {
     "filename": "L1030196.jpg",
     "image": "/img/photos/L1030196.jpg",
     "thumbnail": "/img/thumbnails/L1030196.jpg",
