@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1030196.jpg",
+    "image": "/img/photos/L1030196.jpg",
+    "thumbnail": "/img/thumbnails/L1030196.jpg",
+    "opengraph": "/img/open-graph/L1030196.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "0.5",
+    "aperture": "f/8.0",
+    "dateTaken": "2025:04:05 21:07:59",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 51.544722,
+      "lon": -0.10277800000000001
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Orchestra of Electric Dreams",
+    "alt": "A dimly lit concert venue with dramatic stage lighting illuminating musicians performing on keyboards and other instruments. The scene is captured from an elevated angle showing the ornate theater architecture, audience members in silhouette on the left, and vibrant neon lighting creating colorful streaks and atmospheric haze throughout the space.",
+    "tags": [
+      "concert",
+      "live music",
+      "theater",
+      "stage lighting",
+      "atmospheric",
+      "neon",
+      "performance",
+      "musicians",
+      "dramatic lighting",
+      "Matt Berninger"
+    ],
+    "dateAdded": "2025-10-16T22:58:08.502Z"
+  },
+  {
     "filename": "L1001361.jpg",
     "image": "/img/photos/L1001361.jpg",
     "thumbnail": "/img/thumbnails/L1001361.jpg",
