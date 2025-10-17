@@ -1,5 +1,40 @@
 [
   {
+    "filename": "L1000669.jpg",
+    "image": "/img/photos/L1000669.jpg",
+    "thumbnail": "/img/thumbnails/L1000669.jpg",
+    "opengraph": "/img/open-graph/L1000669.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:07:04 12:03:54",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 50.622658,
+      "lon": 3.050686
+    },
+    "localized": "Lille",
+    "country": "France",
+    "title": "The Cartoon Oracle's Meditation",
+    "alt": "Black and white photograph of a man with sunglasses and white t-shirt sitting at a cafe table, with cartoon character decals visible on the window behind him and another person partially visible on the right",
+    "tags": [
+      "street photography",
+      "black and white",
+      "cafe scene",
+      "window reflections",
+      "urban life",
+      "sunglasses",
+      "cartoon imagery",
+      "contemplation"
+    ],
+    "dateAdded": "2025-10-17T18:32:35.355Z"
+  },
+  {
     "filename": "L1030250.jpg",
     "image": "/img/photos/L1030250.jpg",
     "thumbnail": "/img/thumbnails/L1030250.jpg",
