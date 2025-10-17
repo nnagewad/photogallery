@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1030250.jpg",
+    "image": "/img/photos/L1030250.jpg",
+    "thumbnail": "/img/thumbnails/L1030250.jpg",
+    "opengraph": "/img/open-graph/L1030250.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:04:12 16:31:15",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.536375,
+      "lon": -0.057145
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Contemplation of Dusk",
+    "alt": "Black and white portrait of a young man in contemplative pose, wearing a backwards cap and jacket. The background shows blurred trees and architecture, creating an intimate, introspective mood.",
+    "tags": [
+      "portrait",
+      "contemplation",
+      "black and white",
+      "urban",
+      "introspective",
+      "young man",
+      "cap",
+      "thoughtful pose",
+      "shallow depth of field"
+    ],
+    "dateAdded": "2025-10-17T18:25:36.520Z"
+  },
+  {
     "filename": "L1000508.jpg",
     "image": "/img/photos/L1000508.jpg",
     "thumbnail": "/img/thumbnails/L1000508.jpg",
