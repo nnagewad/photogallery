@@ -1,6 +1,6 @@
 ---
 layout: 'layouts/search.njk'
 title: 'Search'
-metaDesc: 'Information on how the photo gallery is curated, and the technology used to to develop this website.'
+metaDesc: 'Easily search and discover photos in Everyday Lens.'
 ---
 <div id="search"></div>
