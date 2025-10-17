@@ -39,8 +39,7 @@
             <div class='list-horizontal horizontal-gap--2'>
               <dt class='data-key'>Location:</dt>
               <dd class='data-value'>
-                <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}"  rel="noopener noreferrer" target="_blank">
-                  {% if photo.localized != null %}{{ photo.localized | upper }}, {% endif %}{{ photo.country | upper }}</a>
+                {% if photo.localized != null %}{{ photo.localized | upper }}, {% endif %}{{ photo.country | upper }} <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link">(view in Google Maps)</a>
               </dd>
             </div>
           {% endif %}
