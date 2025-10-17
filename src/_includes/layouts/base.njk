@@ -9,6 +9,10 @@
     {% include "partials/meta-info.njk" %}
     {% include "partials/google-fonts.njk" %}
     <link rel='stylesheet' href='/css/style.css?{{ assetHash }}' />
+    {% if layout == 'layouts/search.njk' %}
+      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+      <script src="/pagefind/pagefind-ui.js"></script>
+    {% endif %}
   </head>
   <body>
     {% include 'partials/site-header.njk' %}
@@ -18,6 +22,9 @@
     </main>
     {% include 'partials/site-footer.njk' %}
     {% set js %}
+      {% if layout == 'layouts/search.njk' %}
+        {% include 'pagefind.js' %}
+      {% endif %}
       {% include 'toggle.js' %}
     {% endset %}
     <script>
