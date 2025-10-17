@@ -1,8 +1,8 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-  <article id='{{ photo.title | slugify }}' class='photo-details'>
-    <h1 class='font-size-2 website-page--title grid-container'>{{ photo.title | updateApostrophe }}</h1>
+  <article id='{{ photo.title | slugify }}' class='photo-details' data-pagefind-body>
+    <h1 class='font-size-2 website-page--title grid-container' data-pagefind-meta="title">{{ photo.title | updateApostrophe }}</h1>
     <figure class="flex-container--wrap">
       <img 
         src="{{ photo.image }}"
@@ -16,6 +16,7 @@
             photo photo-orientation--landscape
           {% endif %}
         "
+        data-pagefind-meta="image_alt[alt]"
       />
       <figcaption class="photograph-details">
         <dl>
@@ -39,36 +40,36 @@
             <div class='list-horizontal horizontal-gap--2'>
               <dt class='data-key'>Location:</dt>
               <dd class='data-value'>
-                {% if photo.localized != null %}{{ photo.localized | upper }}, {% endif %}{{ photo.country | upper }} <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link">(view in Google Maps)</a>
+                <span data-pagefind-filter="location">{% if photo.localized != null %}{{ photo.localized | upper }}, {% endif %}{{ photo.country | upper }}</span> <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link">(view in Google Maps)</a>
               </dd>
             </div>
           {% endif %}
           <div class='list-horizontal horizontal-gap--2'>
             <dt class='data-key'>Camera:</dt>
-            <dd class='data-value'>{{ photo.camera }}</dd>
+            <dd class='data-value' data-pagefind-filter="camera">{{ photo.camera }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
             <dt class='data-key'>Lens:</dt>
-            <dd class='data-value'>{{ photo.lens }}</dd>
+            <dd class='data-value' data-pagefind-filter="lens">{{ photo.lens }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
             <dt class='data-key'>Aperture:</dt>
-            <dd class='data-value'>{{ photo.aperture }}</dd>
+            <dd class='data-value' data-pagefind-filter="aperture">{{ photo.aperture }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
             <dt class='data-key'>ISO:</dt>
-            <dd class='data-value'>{{ photo.iso }}</dd>
+            <dd class='data-value' data-pagefind-filter="iso">{{ photo.iso }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
             <dt class='data-key'>Shutter speed:</dt>
-            <dd class='data-value'>{{ photo.shutterSpeed }}</dd>
+            <dd class='data-value' data-pagefind-filter="shutter-speed">{{ photo.shutterSpeed }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
           <dt class='data-key'>Tags:</dt>
           <dd>
             <ul class='list-horizontal horizontal-gap--4'>
               {% for tag in photo.tags %}
-                <li class='data-value'>{{ tag | upper }}</li>
+                <li class='data-value' data-pagefind-filter="tag">{{ tag | upper }}</li>
               {% endfor %}
             </ul>
           </dd>
