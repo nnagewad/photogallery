@@ -8,11 +8,11 @@
     <meta name="generator" content="{{ eleventy.generator }}">
     {% include "partials/meta-info.njk" %}
     {% include "partials/google-fonts.njk" %}
-    <link rel='stylesheet' href='/css/style.css?{{ assetHash }}' />
     {% if layout == 'layouts/search.njk' %}
       <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
       <script src="/pagefind/pagefind-ui.js"></script>
     {% endif %}
+    <link rel='stylesheet' href='/css/style.css?{{ assetHash }}' />
   </head>
   <body>
     {% include 'partials/site-header.njk' %}
