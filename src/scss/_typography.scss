@@ -2,7 +2,7 @@
 @use "spacing-mixins";
 
 body {
-  font-family: 'IBM Plex Mono', monospace;;
+  font-family: var(--font-family);
   font-optical-sizing: auto;
   @extend .font-size-0;
   line-height: 1.75;
