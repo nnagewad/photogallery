@@ -17,6 +17,7 @@
   height: var(--pixel-40);
   max-width: 100%;
   color: var(--color-primary-text);
+  cursor: pointer;
   &:focus {
     outline: var(--border-thin) solid var(--color-focus);
   }
