@@ -1,0 +1,31 @@
+@use 'typography';
+.pagefind-ui__result {
+  display: flex;
+}
+
+.pagefind-ui__result-excerpt {
+  @extend .font-size--1
+}
+
+.pagefind-ui__results {
+  padding-left: 0;
+}
+
+button {
+  background: var(--color-button-background);
+  color: var(--color-button-text);
+  cursor: pointer;
+  border: 0;
+  padding: var(--spacing-1) var(--spacing-3) var(--spacing-0);
+  border-bottom: var(--border-thick) var(--color-button-hover) solid;
+  &:focus {
+    outline: var(--border-thin) solid var(--color-focus);
+    background: var(--color-focus);
+    color: var(--color-focus-text);
+    border-bottom: var(--border-thick) var(--color-focus-border) solid;
+  }
+  &:hover {
+    background: var(--color-button-hover);
+    color: var(--color-button-text);
+  }
+}
