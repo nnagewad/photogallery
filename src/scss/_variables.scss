@@ -57,6 +57,17 @@
   --color-focus-text: light-dark(var(--color-black), var(--color-black));
   --color-focus-border: light-dark(var(--color-black), var(--color-grey));
   --color-border: light-dark(var(--color-black), var(--color-white));
+  // PageFind variables
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: var(--color-link);
+  --pagefind-ui-text: var(--color-primary-text);
+  --pagefind-ui-background: var(--color-background);
+  --pagefind-ui-border: var(--color-border);
+  --pagefind-ui-border-width: var(--border-thin);
+  --pagefind-ui-border-radius: 0;
+  --pagefind-ui-image-border-radius: 0;
+  --pagefind-ui-image-box-ratio: 1 / 1;
+  --pagefind-ui-font: var(--font-family);
 }
 
 @media (prefers-color-scheme: dark) {
