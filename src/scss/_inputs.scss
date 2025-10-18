@@ -1,5 +1,4 @@
-/* If there’s no JS, there’s no need for the user toggle component to show */
-.theme-toggle {
+select {
   appearance: auto;
   background-color: var(--color-background);
   border-radius: 0;
@@ -13,4 +12,13 @@
   &:focus {
     outline: var(--border-thin) solid var(--color-focus);
   }
+}
+
+/* If there’s no JS, there’s no need to show */
+.no-js .user-toggle {
+  display: none;
+}
+
+.theme-toggle {
+  @extend select ;
 }
