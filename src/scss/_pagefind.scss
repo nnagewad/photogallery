@@ -1,6 +1,10 @@
 @use 'typography';
 @use 'inputs';
 
+.pagefind-ui__search-input {
+  @extend input;
+}
+
 .pagefind-ui__result {
   display: flex;
 }
