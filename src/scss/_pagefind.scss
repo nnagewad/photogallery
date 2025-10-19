@@ -5,6 +5,15 @@
   @extend input;
 }
 
+.pagefind-ui__search-clear,
+.pagefind-ui__button {
+  @extend button;
+}
+
+.pagefind-ui__search-clear {
+  display: none;
+}
+
 .pagefind-ui__message {
   color: var(--color-secondary-text);
   margin-top: var(--spacing-4);
@@ -33,9 +42,4 @@
     color: var(--color-mark-text);
     font-weight: var(--font-weight-semibold);
   }
-}
-
-.pagefind-ui__search-clear,
-.pagefind-ui__button {
-  @extend button;
 }
