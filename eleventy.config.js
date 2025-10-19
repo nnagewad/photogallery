@@ -1,5 +1,6 @@
 import path from "node:path";
 import fs from "node:fs";
+import { execSync } from 'node:child_process';
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import pluginRss from "@11ty/eleventy-plugin-rss";
 import { minify } from 'terser';
@@ -94,6 +95,11 @@ export default async function(eleventyConfig) {
         }
       }
     }
+  });
+  
+  // Pagefind indexing after build
+  eleventyConfig.on('eleventy.after', () => {
+    execSync(`npx pagefind --site _site --glob "**/*.html"`, { encoding: 'utf-8' });
   });
 
   return {

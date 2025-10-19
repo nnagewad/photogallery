@@ -15,6 +15,7 @@
 - [Exifr Reader](https://www.npmjs.com/package/exifreader)
 - [OpenCage](https://opencagedata.com)
 - [Claude AI](https://www.anthropic.com/api)
+- [Pagefind](https://pagefind.app)
 
 ## Tutorials
 

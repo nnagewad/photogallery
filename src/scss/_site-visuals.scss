@@ -26,3 +26,8 @@
     fill: var(--color-active);
   }
 }
+
+/* If there’s no JS, there’s no need to show */
+.no-js .menu-item--search {
+  display: none;
+}

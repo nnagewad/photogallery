@@ -6,7 +6,7 @@
   <nav class='site-navigation' aria-label='Primary'>
     <ul class='header-menu-items list-horizontal horizontal-gap--7'>
       {% for item in navigation.items %}
-      <li>
+      <li{% if item.text == "Search" %} class="menu-item--search"{% endif %}>
         <a href='{{ item.url }}' {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
       </li>
       {% endfor %}

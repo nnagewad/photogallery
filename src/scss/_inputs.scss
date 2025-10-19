@@ -1,0 +1,52 @@
+.general-input {
+  appearance: auto;
+  background-color: var(--color-background);
+  border-radius: 0;
+  box-sizing: border-box;
+  border: var(--border-thin) var(--color-border) solid;
+  padding: var(--pixel-5);
+  max-width: 100%;
+  color: var(--color-primary-text);
+  &:focus {
+    border: var(--border-thin) var(--color-focus-border) solid;
+    outline: var(--border-thick) solid var(--color-focus);
+    outline-offset: 0px;
+  }
+}
+
+input {
+  @extend .general-input;
+}
+
+select{
+  @extend .general-input;
+  height: var(--pixel-40);
+}
+
+button {
+  background: var(--color-button-background);
+  color: var(--color-button-text);
+  cursor: pointer;
+  border: 0;
+  padding: var(--spacing-1) var(--spacing-3) var(--spacing-0);
+  border-bottom: var(--border-thick) var(--color-button-hover) solid;
+  &:focus {
+    outline: var(--border-thin) solid var(--color-focus);
+    background: var(--color-focus);
+    color: var(--color-focus-text);
+    border-bottom: var(--border-thick) var(--color-focus-border) solid;
+  }
+  &:hover {
+    background: var(--color-button-hover);
+    color: var(--color-button-text);
+  }
+}
+
+/* If there’s no JS, there’s no need to show */
+.no-js .user-toggle {
+  display: none;
+}
+
+.theme-toggle {
+  @extend select ;
+}

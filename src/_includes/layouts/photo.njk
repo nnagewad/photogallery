@@ -1,7 +1,7 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-  <article id='{{ photo.title | slugify }}' class='photo-details'>
+  <article id='{{ photo.title | slugify }}' class='photo-details' data-pagefind-body>
     <h1 class='font-size-2 website-page--title grid-container'>{{ photo.title | updateApostrophe }}</h1>
     <figure class="flex-container--wrap">
       <img 
@@ -20,55 +20,55 @@
       <figcaption class="photograph-details">
         <dl>
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key'>Date:</dt>
+            <dt class='data-key' data-pagefind-ignore>Date:</dt>
             <dd class='data-value'>
               <time datetime="{{ photo.dateTaken | apiToISO }}">
-                {{ photo.dateTaken | apiToDate | upper }}
+                {{ photo.dateTaken | apiToDate }}
               </time>
             </dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key'>Time:</dt>
+            <dt class='data-key' data-pagefind-ignore>Time:</dt>
             <dd class='data-value'>
               <time datetime="{{ photo.dateTaken | apiToISO }}">
-                {{ photo.dateTaken | apiToTime | upper }}
+                {{ photo.dateTaken | apiToTime }}
               </time>
             </dd>
           </div>
           {% if photo.gps != null %}
             <div class='list-horizontal horizontal-gap--2'>
-              <dt class='data-key'>Location:</dt>
+              <dt class='data-key' data-pagefind-ignore>Location:</dt>
               <dd class='data-value'>
-                {% if photo.localized != null %}{{ photo.localized | upper }}, {% endif %}{{ photo.country | upper }} <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link">(view in Google Maps)</a>
+                <span>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</span> <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link">(view in Google Maps)</a>
               </dd>
             </div>
           {% endif %}
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key'>Camera:</dt>
+            <dt class='data-key' data-pagefind-ignore>Camera:</dt>
             <dd class='data-value'>{{ photo.camera }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key'>Lens:</dt>
+            <dt class='data-key' data-pagefind-ignore>Lens:</dt>
             <dd class='data-value'>{{ photo.lens }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key'>Aperture:</dt>
+            <dt class='data-key' data-pagefind-ignore>Aperture:</dt>
             <dd class='data-value'>{{ photo.aperture }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key'>ISO:</dt>
+            <dt class='data-key' data-pagefind-ignore>ISO:</dt>
             <dd class='data-value'>{{ photo.iso }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key'>Shutter speed:</dt>
+            <dt class='data-key' data-pagefind-ignore>Shutter speed:</dt>
             <dd class='data-value'>{{ photo.shutterSpeed }}</dd>
           </div>
           <div class='list-horizontal horizontal-gap--2'>
-          <dt class='data-key'>Tags:</dt>
+          <dt class='data-key' data-pagefind-ignore>Tags:</dt>
           <dd>
             <ul class='list-horizontal horizontal-gap--4'>
               {% for tag in photo.tags %}
-                <li class='data-value'>{{ tag | upper }}</li>
+                <li class='data-value'>{{ tag }}</li>
               {% endfor %}
             </ul>
           </dd>
