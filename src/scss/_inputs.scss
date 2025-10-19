@@ -7,7 +7,6 @@
   padding: var(--pixel-5);
   max-width: 100%;
   color: var(--color-primary-text);
-  cursor: pointer;
   &:focus {
     border: var(--border-thin) var(--color-focus-border) solid;
     outline: var(--border-thick) solid var(--color-focus);
