@@ -5,12 +5,9 @@
   @extend input;
 }
 
-.pagefind-ui__drawer {
-  margin-top: var(--spacing-4);
-}
-
 .pagefind-ui__message {
   color: var(--color-secondary-text);
+  margin-top: var(--spacing-4);
 }
 
 .pagefind-ui__results {
