@@ -34,10 +34,6 @@ picture:has(.photo) {
     figure {
       border-color: var(--color-hover);
       background: var(--color-hover);
-      img {
-        filter: grayscale(100%) opacity(0.5);
-        
-      }
     }
   }
   &:focus-visible {
@@ -45,18 +41,17 @@ picture:has(.photo) {
       border-color: var(--color-focus);
       background: var(--color-focus);
       box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--pixel-10) var(--color-focus-border);
-      img {
-        filter: grayscale(100%) opacity(0.5);
-      }
     }
   }
-    &:active {
+  &:active {
     figure {
       border-color: var(--color-active);
       background: var(--color-active);
-      img {
-        filter: grayscale(100%) opacity(0.5);
-      }
+    }
+  }
+  &:focus-visible, &:hover, &:active {
+    img {
+      filter: grayscale(100%) opacity(0.5);
     }
   }
 }
