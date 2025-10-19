@@ -54,7 +54,6 @@
 }
 
 .pagefind-ui__message {
-  color: var(--color-secondary-text);
   margin-top: var(--spacing-4);
 }
 
@@ -95,6 +94,7 @@
 
 .pagefind-ui__result-excerpt {
   @extend .font-size--1;
+  color: var(--color-secondary-text);
   mark {
     background-color: var(--color-mark-background);
     color: var(--color-mark-text);
