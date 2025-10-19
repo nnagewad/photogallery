@@ -3,12 +3,17 @@
 
 .pagefind-ui__search-input {
   @extend input;
-  width: 60%;
+  width: calc(100% - 99px);
 }
 
 .pagefind-ui__search-clear,
 .pagefind-ui__button {
   @extend button;
+  @extend .lowercase;
+}
+
+.pagefind-ui__button {
+  width: 100%;
 }
 
 .pagefind-ui__search-clear {
