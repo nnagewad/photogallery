@@ -14,9 +14,7 @@
 
 .pagefind-ui__search-clear {
   display: none;
-  border-top: var(--border-thin) var(--color-secondary-button-border) solid;
-  border-left: var(--border-thin) var(--color-secondary-button-border) solid;
-  border-right: var(--border-thin) var(--color-secondary-button-border) solid;
+  border: var(--border-thin) var(--color-secondary-button-border) solid;
   border-bottom: var(--border-thick) var(--color-secondary-button-border) solid;
   background: var(--color-secondary-button-background);
   color: var(--color-secondary-button-text);
@@ -27,29 +25,23 @@
   }
   &:hover {
     color: var(--color-button-hover);
-    border-top: var(--border-thin) var(--color-button-hover) solid;
-    border-left: var(--border-thin) var(--color-button-hover) solid;
-    border-right: var(--border-thin) var(--color-button-hover) solid;
+    border: var(--border-thin) var(--color-button-hover) solid;
     border-bottom: var(--border-thick) var(--color-button-hover) solid;
   }
   &:active {
     color: var(--color-background);
     background: var(--color-active);
-    border-top: var(--border-thin) var(--color-active) solid;
-    border-left: var(--border-thin) var(--color-active) solid;
-    border-right: var(--border-thin) var(--color-active) solid;
+    border: var(--border-thin) var(--color-active) solid;
     border-bottom: var(--border-thick) var(--color-active) solid;
   }
 }
 
 .pagefind-ui__button {
   width: 100%;
-  background: var(--color-button-background);
-  color: var(--color-button-text);
-  border-top: 0;
-  border-left: 0;
-  border-right: 0;
+  border: 0;
   border-bottom: var(--border-thick) var(--color-button-hover) solid;
+  background: var(--color-button-background);
+  color: var(--color-background);
   &:hover {
     background: var(--color-button-hover);
     color: var(--color-button-text);
@@ -57,7 +49,7 @@
   &:active {
     color: var(--color-background);
     background: var(--color-active);
-    border-bottom: var(--border-thick) var(--color-active) solid;
+    border-bottom-color: var(--color-active);
   }
 }
 
@@ -85,13 +77,17 @@
 }
 
 .pagefind-ui__result-thumb {
-  width: calc(var(--pixel-60)*2);
-  height: calc(var(--pixel-60)*2);
+  width: calc(var(--pixel-60) * 2);
+  height: calc(var(--pixel-60) * 2);
   flex-shrink: 0;
+  position: relative;
 }
 
 .pagefind-ui__result-image {
   display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
