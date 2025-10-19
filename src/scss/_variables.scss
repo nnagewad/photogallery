@@ -61,8 +61,8 @@
   --color-button-background: var(--color-link);
   --color-button-text: light-dark(var(--color-white), var(--color-black));
   --color-button-hover: var(--color-hover);
-  --color-mark-background: light-dark(var(--color-black), var(--color-orange));
-  --color-mark-text: light-dark(var(--color-orange), var(--color-black));
+  --color-mark-background: light-dark(var(--color-orange), var(--color-orange));
+  --color-mark-text: light-dark(var(--color-black), var(--color-black));
 }
 
 @media (prefers-color-scheme: dark) {
