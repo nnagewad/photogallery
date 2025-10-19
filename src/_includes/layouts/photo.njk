@@ -23,7 +23,7 @@
             <dt class='data-key' data-pagefind-ignore>Date:</dt>
             <dd class='data-value'>
               <time datetime="{{ photo.dateTaken | apiToISO }}">
-                {{ photo.dateTaken | apiToDate | upper }}
+                {{ photo.dateTaken | apiToDate }}
               </time>
             </dd>
           </div>
@@ -31,7 +31,7 @@
             <dt class='data-key' data-pagefind-ignore>Time:</dt>
             <dd class='data-value'>
               <time datetime="{{ photo.dateTaken | apiToISO }}">
-                {{ photo.dateTaken | apiToTime | upper }}
+                {{ photo.dateTaken | apiToTime }}
               </time>
             </dd>
           </div>
@@ -39,7 +39,7 @@
             <div class='list-horizontal horizontal-gap--2'>
               <dt class='data-key' data-pagefind-ignore>Location:</dt>
               <dd class='data-value'>
-                <span>{% if photo.localized != null %}{{ photo.localized | upper }}, {% endif %}{{ photo.country | upper }}</span> <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link">(view in Google Maps)</a>
+                <span>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</span> <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link">(view in Google Maps)</a>
               </dd>
             </div>
           {% endif %}
@@ -68,7 +68,7 @@
           <dd>
             <ul class='list-horizontal horizontal-gap--4'>
               {% for tag in photo.tags %}
-                <li class='data-value'>{{ tag | upper }}</li>
+                <li class='data-value'>{{ tag }}</li>
               {% endfor %}
             </ul>
           </dd>

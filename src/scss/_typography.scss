@@ -68,6 +68,10 @@ a {
   text-transform: lowercase;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
 .data-key {
   color: var(--color-secondary-text);
   @extend .lowercase;
@@ -76,6 +80,7 @@ a {
 .data-value {
   text-wrap: balance;
   font-weight: var(--font-weight-medium);
+  @extend .uppercase;
 }
 
 .website-page--title {
