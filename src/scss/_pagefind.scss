@@ -3,6 +3,7 @@
 
 .pagefind-ui__search-input {
   @extend input;
+  width: 60%;
 }
 
 .pagefind-ui__search-clear,
