@@ -3,7 +3,7 @@
 .skip-link {
   display: block;
   padding-left: var(--pixel-5);
-  &:not(:focus) {
+  &:not(:focus-visible) {
     @extend .visually-hidden;
   }
 }

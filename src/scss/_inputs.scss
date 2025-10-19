@@ -7,7 +7,7 @@
   padding: var(--pixel-5);
   max-width: 100%;
   color: var(--color-primary-text);
-  &:focus {
+  &:focus-visible {
     border: var(--border-thin) var(--color-focus-border) solid;
     outline: var(--border-thick) solid var(--color-focus);
     outline-offset: 0px;
@@ -26,7 +26,7 @@ select{
 button {
   cursor: pointer;
   padding: var(--spacing-1) var(--spacing-3) var(--spacing-0);
-  &:focus {
+  &:focus-visible {
     outline: var(--border-thin) solid var(--color-focus);
     background: var(--color-focus);
     color: var(--color-focus-text);
