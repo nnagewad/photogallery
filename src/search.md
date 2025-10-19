@@ -1,5 +1,5 @@
 ---
 layout: 'layouts/search.njk'
-title: 'Search Everyday Lens'
+title: 'Search'
 metaDesc: 'Easily search and discover photos in Everyday Lens.'
 ---
