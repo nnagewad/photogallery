@@ -24,6 +24,11 @@ window.addEventListener('DOMContentLoaded', () => {
           searchClear.style.display = 'none';
         }
       });
+
+      // Clear button functionality
+      searchClear.addEventListener('click', () => {
+        searchClear.style.display = 'none';
+      });
     }
   });
 
