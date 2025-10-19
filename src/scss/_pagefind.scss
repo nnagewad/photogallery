@@ -92,6 +92,10 @@
   object-fit: cover;
 }
 
+.pagefind-ui__result-link {
+  font-weight: var(--font-weight-semibold);
+}
+
 .pagefind-ui__result-excerpt {
   @extend .font-size--1;
   color: var(--color-secondary-text);
