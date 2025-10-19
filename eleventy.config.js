@@ -99,7 +99,7 @@ export default async function(eleventyConfig) {
   
   // Pagefind indexing after build
   eleventyConfig.on('eleventy.after', () => {
-    execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' });
+    execSync(`npx pagefind --site _site --glob "**/*.html"`, { encoding: 'utf-8' });
   });
 
   return {
