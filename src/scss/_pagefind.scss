@@ -3,7 +3,7 @@
 
 .pagefind-ui__search-input {
   @extend input;
-  width: calc(100% - 99px);
+  width: calc(100% - 103px);
 }
 
 .pagefind-ui__search-clear,
@@ -12,8 +12,39 @@
   @extend .lowercase;
 }
 
+.pagefind-ui__search-clear {
+  border-top: var(--border-thin) var(--color-secondary-button-border) solid;
+  border-left: var(--border-thin) var(--color-secondary-button-border) solid;
+  border-right: var(--border-thin) var(--color-secondary-button-border) solid;
+  border-bottom: var(--border-thick) var(--color-secondary-button-border) solid;
+  background: var(--color-secondary-button-background);
+  color: var(--color-secondary-button-text);
+  &:focus {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+  }
+  &:hover {
+    color: var(--color-button-hover);
+    border-top: var(--border-thin) var(--color-button-hover) solid;
+    border-left: var(--border-thin) var(--color-button-hover) solid;
+    border-right: var(--border-thin) var(--color-button-hover) solid;
+    border-bottom: var(--border-thick) var(--color-button-hover) solid;
+  }
+}
+
 .pagefind-ui__button {
   width: 100%;
+  background: var(--color-button-background);
+  color: var(--color-button-text);
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: var(--border-thick) var(--color-button-hover) solid;
+  &:hover {
+    background: var(--color-button-hover);
+    color: var(--color-button-text);
+  }
 }
 
 .pagefind-ui__search-clear {

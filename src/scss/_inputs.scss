@@ -24,24 +24,24 @@ select{
 }
 
 button {
-  background: var(--color-button-background);
-  color: var(--color-button-text);
   cursor: pointer;
-  border: 0;
   padding: var(--spacing-1) var(--spacing-3) var(--spacing-0);
-  border-bottom: var(--border-thick) var(--color-button-hover) solid;
   &:focus {
     outline: var(--border-thin) solid var(--color-focus);
     background: var(--color-focus);
     color: var(--color-focus-text);
     border-bottom: var(--border-thick) var(--color-focus-border) solid;
   }
-  &:hover {
-    background: var(--color-button-hover);
-    color: var(--color-button-text);
-  }
 }
 
+/* If there’s no JS, there’s no need to show */
+.no-js .user-toggle {
+  display: none;
+}
+
+.theme-toggle {
+  @extend select ;
+}
 /* If there’s no JS, there’s no need to show */
 .no-js .user-toggle {
   display: none;

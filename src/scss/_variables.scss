@@ -59,8 +59,11 @@
   --color-focus-border: light-dark(var(--color-black), var(--color-grey));
   --color-border: light-dark(var(--color-black), var(--color-white));
   --color-button-background: var(--color-link);
-  --color-button-text: light-dark(var(--color-white), var(--color-black));
+  --color-button-text: var(--color-background);
   --color-button-hover: var(--color-hover);
+  --color-secondary-button-background: var(--color-background);
+  --color-secondary-button-text: var(--color-link);
+  --color-secondary-button-border: var(--color-link);
   --color-mark-background: light-dark(var(--color-orange), var(--color-orange));
   --color-mark-text: light-dark(var(--color-black), var(--color-black));
 }
