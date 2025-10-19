@@ -5,16 +5,37 @@
   @extend input;
 }
 
-.pagefind-ui__result {
-  display: flex;
+.pagefind-ui__drawer {
+  margin-top: var(--spacing-4);
 }
 
-.pagefind-ui__result-excerpt {
-  @extend .font-size--1
+.pagefind-ui__message {
+  color: var(--color-secondary-text);
 }
 
 .pagefind-ui__results {
   padding-left: 0;
+}
+
+.pagefind-ui__result {
+  display: flex;
+  border-bottom: var(--border-thin) var(--color-border) solid;
+  padding: var(--spacing-4) 0;
+  &:first-child {
+    padding-top: 0;
+  }
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.pagefind-ui__result-excerpt {
+  @extend .font-size--1;
+  mark {
+    background-color: var(--color-mark-background);
+    color: var(--color-mark-text);
+    font-weight: var(--font-weight-semibold);
+  }
 }
 
 .pagefind-ui__search-clear,

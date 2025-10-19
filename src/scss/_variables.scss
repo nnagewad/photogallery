@@ -45,11 +45,12 @@
   --color-dark-blue: oklch(0.2703 0.1694 267.69);
   --color-green: oklch(0.9099 0.2311 126.61);
   --color-dark-green: oklch(0.6765 0.1702 126.16);
+  --color-orange: oklch(0.6547 0.217 35.56);
   // Color scheme
   color-scheme: light dark;
   --color-background: light-dark(var(--color-white), var(--color-black));
   --color-primary-text: light-dark(var(--color-black), var(--color-white));
-  --color-secondary-text: light-dark(var(--color-dark-grey), var( --color-grey));
+  --color-secondary-text: light-dark(var(--color-dark-grey), var(--color-grey));
   --color-link: light-dark(var(--color-blue), var(--color-green));
   --color-hover: light-dark(var(--color-dark-blue), var(--color-dark-green));
   --color-active: light-dark(var(--color-black), var(--color-white));
@@ -60,6 +61,8 @@
   --color-button-background: var(--color-link);
   --color-button-text: light-dark(var(--color-white), var(--color-black));
   --color-button-hover: var(--color-hover);
+  --color-mark-background: light-dark(var(--color-black), var(--color-orange));
+  --color-mark-text: light-dark(var(--color-orange), var(--color-black));
 }
 
 @media (prefers-color-scheme: dark) {
