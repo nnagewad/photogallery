@@ -55,8 +55,7 @@ picture:has(.photo) {
       border-color: var(--color-active);
       background: var(--color-active);
       img {
-        filter: grayscale(100%);
-        opacity: 0.5
+        filter: grayscale(100%) opacity(0.5);
       }
     }
   }
