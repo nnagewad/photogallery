@@ -9,8 +9,9 @@
   color: var(--color-primary-text);
   cursor: pointer;
   &:focus {
+    border: var(--border-thin) var(--color-focus-border) solid;
     outline: var(--border-thick) solid var(--color-focus);
-    outline-offset: calc(var(--pixel-2)/2);
+    outline-offset: 0px;
   }
 }
 
