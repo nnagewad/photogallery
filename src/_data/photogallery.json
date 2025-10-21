@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001382.jpg",
+    "image": "/img/photos/L1001382.jpg",
+    "thumbnail": "/img/thumbnails/L1001382.jpg",
+    "opengraph": "/img/open-graph/L1001382.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.8",
+    "dateTaken": "2025:10:18 17:11:45",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.515486,
+      "lon": -0.1293
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Vinyl Testament",
+    "alt": "Two young people browse through vinyl records in a record store with colorful neon lighting - a woman in a white t-shirt, and a curly-haired man in a dark hoodie and coat on the right, both illuminated by pink and blue ambient lighting from the store's ceiling",
+    "tags": [
+      "record store",
+      "vinyl records",
+      "neon lighting",
+      "young adults",
+      "music shopping",
+      "interior photography",
+      "colorful lighting",
+      "retail space",
+      "conversation",
+      "analog music"
+    ],
+    "dateAdded": "2025-10-21T23:06:11.124Z"
+  },
+  {
     "filename": "L1000669.jpg",
     "image": "/img/photos/L1000669.jpg",
     "thumbnail": "/img/thumbnails/L1000669.jpg",
