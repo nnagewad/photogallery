@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001308.jpg",
+    "image": "/img/photos/L1001308.jpg",
+    "thumbnail": "/img/thumbnails/L1001308.jpg",
+    "opengraph": "/img/open-graph/L1001308.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/4",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:10:11 12:14:10",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.537222,
+      "lon": -0.08666700000000001
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Pink Guardian's Canal Vigil",
+    "alt": "A vibrant hot pink teddy bear graffiti art painted on a bridge structure above a canal, with lush green foliage framing the left side and blurred passersby beneath in the waterway below",
+    "tags": [
+      "street art",
+      "graffiti",
+      "teddy bear",
+      "canal",
+      "bridge",
+      "urban art",
+      "pink",
+      "boat",
+      "waterway",
+      "motion blur"
+    ],
+    "dateAdded": "2025-10-22T18:38:03.740Z"
+  },
+  {
     "filename": "L1001382.jpg",
     "image": "/img/photos/L1001382.jpg",
     "thumbnail": "/img/thumbnails/L1001382.jpg",
