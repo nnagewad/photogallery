@@ -6,17 +6,23 @@
   width: calc(100% - 103px);
 }
 
+@media (hover: hover) {
+  .pagefind-ui__search-clear:hover {
+    color: var(--color-button-hover);
+    border: var(--border-thin) var(--color-button-hover) solid;
+    border-bottom: var(--border-thick) var(--color-button-hover) solid;
+  }
+  .pagefind-ui__button:hover {
+    background: var(--color-button-hover);
+  }
+}
+
 .pagefind-ui__search-clear {
   display: none;
   border: var(--border-thin) var(--color-secondary-button-border) solid;
   border-bottom: var(--border-thick) var(--color-secondary-button-border) solid;
   background: var(--color-secondary-button-background);
   color: var(--color-secondary-button-text);
-  &:hover {
-    color: var(--color-button-hover);
-    border: var(--border-thin) var(--color-button-hover) solid;
-    border-bottom: var(--border-thick) var(--color-button-hover) solid;
-  }
   &:active {
     color: var(--color-background);
     background: var(--color-active);
@@ -38,9 +44,6 @@
   border-bottom: var(--border-thick) var(--color-button-hover) solid;
   background: var(--color-button-background);
   color: var(--color-button-text);
-  &:hover {
-    background: var(--color-button-hover);
-  }
   &:active {
     color: var(--color-background);
     background: var(--color-active);
