@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1000133.jpg",
+    "image": "/img/photos/L1000133.jpg",
+    "thumbnail": "/img/thumbnails/L1000133.jpg",
+    "opengraph": "/img/open-graph/L1000133.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 12500,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.6",
+    "dateTaken": "2025:05:23 13:13:53",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.654856,
+      "lon": -79.38834
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Tunnel's Electric Pulse",
+    "alt": "Black and white photograph of an underground subway station with curved ribbed ceiling architecture. A train with bright headlights approaches through the tunnel while a few passengers wait on the platform. Directional signage for streetcars is visible on the right wall.",
+    "tags": [
+      "subway",
+      "underground",
+      "tunnel",
+      "train",
+      "architecture",
+      "urban transit",
+      "black and white",
+      "perspective",
+      "infrastructure"
+    ],
+    "dateAdded": "2025-10-22T22:12:34.321Z"
+  },
+  {
     "filename": "L1001308.jpg",
     "image": "/img/photos/L1001308.jpg",
     "thumbnail": "/img/thumbnails/L1001308.jpg",
