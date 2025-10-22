@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001026.jpg",
+    "image": "/img/photos/L1001026.jpg",
+    "thumbnail": "/img/thumbnails/L1001026.jpg",
+    "opengraph": "/img/open-graph/L1001026.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/500",
+    "aperture": "f/2.8",
+    "dateTaken": "2025:08:16 13:25:07",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.36005,
+      "lon": 4.8836390000000005
+    },
+    "localized": "Amsterdam",
+    "country": "Netherlands",
+    "title": "The Geometry of Radiant Bloom",
+    "alt": "A close-up macro photograph of a dahlia flower with white petals tipped in pink and purple, featuring a vibrant magenta center. The flower is captured in sharp detail against a softly blurred green background with warm bokeh lights.",
+    "tags": [
+      "dahlia",
+      "flower",
+      "macro photography",
+      "pink petals",
+      "white petals",
+      "magenta center",
+      "bokeh",
+      "floral",
+      "nature",
+      "symmetry"
+    ],
+    "dateAdded": "2025-10-22T22:19:24.832Z"
+  },
+  {
     "filename": "L1000133.jpg",
     "image": "/img/photos/L1000133.jpg",
     "thumbnail": "/img/thumbnails/L1000133.jpg",
