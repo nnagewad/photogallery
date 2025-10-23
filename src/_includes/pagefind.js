@@ -5,7 +5,7 @@ window.addEventListener('DOMContentLoaded', () => {
     resetStyles: true,
     addStyles: false,
     translations: {
-      "placeholder": "Search this site...",
+      "placeholder": "Search this site..."
     }
   });
 
