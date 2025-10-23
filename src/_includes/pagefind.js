@@ -4,6 +4,9 @@ window.addEventListener('DOMContentLoaded', () => {
     showSubResults: true,
     resetStyles: true,
     addStyles: false,
+    translations: {
+      "placeholder": "Search this site...",
+    }
   });
 
   // Wait for Pagefind to render its input
