@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001493.jpg",
+    "image": "/img/photos/L1001493.jpg",
+    "thumbnail": "/img/thumbnails/L1001493.jpg",
+    "opengraph": "/img/open-graph/L1001493.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/4.0",
+    "dateTaken": "2025:10:25 11:52:38",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.500642,
+      "lon": 13.400936
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Scholar's Angular Sanctuary",
+    "alt": "A modern interior space with exposed concrete walls and industrial ceiling elements. A person in a brown coat sits alone at a white round table in the background, reading or writing. The foreground features wooden bench seating with red plastic chairs and small white round tables. Colorful spherical light fixtures - yellow and pink orbs - hang from the ceiling, creating warm accent lighting against the brutalist architecture.",
+    "tags": [
+      "brutalist architecture",
+      "modern interior design",
+      "industrial space",
+      "solitary figure",
+      "concrete walls",
+      "colorful lighting",
+      "cafe setting",
+      "geometric furniture",
+      "urban contemplation",
+      "architectural photography"
+    ],
+    "dateAdded": "2025-10-28T23:04:50.704Z"
+  },
+  {
     "filename": "L1001416.jpg",
     "image": "/img/photos/L1001416.jpg",
     "thumbnail": "/img/thumbnails/L1001416.jpg",
