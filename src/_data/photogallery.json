@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1001416.jpg",
+    "image": "/img/photos/L1001416.jpg",
+    "thumbnail": "/img/thumbnails/L1001416.jpg",
+    "opengraph": "/img/open-graph/L1001416.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/8.0",
+    "dateTaken": "2025:10:25 10:42:28",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.500825,
+      "lon": 13.401131
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Monolith's White Crown",
+    "alt": "A dramatic low-angle view of a modern building with a dark textured facade featuring horizontal strip windows on multiple floors, topped by a distinctive white geometric crown structure against a brilliant blue sky. The word 'ST AGNES' is visible on the building's lower portion.",
+    "tags": [
+      "architecture",
+      "modern building",
+      "geometric design",
+      "urban photography",
+      "minimalist",
+      "contrast",
+      "blue sky",
+      "low angle",
+      "contemporary"
+    ],
+    "dateAdded": "2025-10-28T22:56:26.964Z"
+  },
+  {
     "filename": "L1001403.jpg",
     "image": "/img/photos/L1001403.jpg",
     "thumbnail": "/img/thumbnails/L1001403.jpg",
