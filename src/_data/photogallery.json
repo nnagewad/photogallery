@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001403.jpg",
+    "image": "/img/photos/L1001403.jpg",
+    "thumbnail": "/img/thumbnails/L1001403.jpg",
+    "opengraph": "/img/open-graph/L1001403.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/500",
+    "aperture": "f/4.5",
+    "dateTaken": "2025:10:24 13:21:02",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.504181,
+      "lon": 0.048139
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Terminal Passenger's Meditation",
+    "alt": "Black and white photograph of a person sitting alone in an airport terminal, looking out through large windows at a British Airways aircraft on the tarmac. The person appears contemplative, positioned in silhouette against the bright exterior view of the plane, runway, and airport buildings under a cloudy sky.",
+    "tags": [
+      "airport",
+      "solitude",
+      "travel",
+      "waiting",
+      "contemplation",
+      "black and white",
+      "aircraft",
+      "terminal",
+      "passenger",
+      "journey"
+    ],
+    "dateAdded": "2025-10-28T22:24:35.954Z"
+  },
+  {
     "filename": "L1001026.jpg",
     "image": "/img/photos/L1001026.jpg",
     "thumbnail": "/img/thumbnails/L1001026.jpg",
