@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001410.jpg",
+    "image": "/img/photos/L1001410.jpg",
+    "thumbnail": "/img/thumbnails/L1001410.jpg",
+    "opengraph": "/img/open-graph/L1001410.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/60",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:10:25 09:26:29",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.504875,
+      "lon": 13.447406
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Amber Sphere's Morning Benediction",
+    "alt": "A hotel bedroom with an unmade bed featuring white bedding, a decorative patterned wallpaper headboard, and a distinctive spherical woven pendant light casting warm light. Golden curtains frame a window on the right, and a view of the shower on the left wall.",
+    "tags": [
+      "bedroom",
+      "hotel room",
+      "pendant light",
+      "patterned wallpaper",
+      "unmade bed",
+      "interior design",
+      "morning light",
+      "golden curtains",
+      "spherical lamp",
+      "contemporary decor"
+    ],
+    "dateAdded": "2025-10-29T23:01:32.474Z"
+  },
+  {
     "filename": "L1001530.jpg",
     "image": "/img/photos/L1001530.jpg",
     "thumbnail": "/img/thumbnails/L1001530.jpg",
