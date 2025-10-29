@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001509.jpg",
+    "image": "/img/photos/L1001509.jpg",
+    "thumbnail": "/img/thumbnails/L1001509.jpg",
+    "opengraph": "/img/open-graph/L1001509.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/60",
+    "aperture": "f/10.0",
+    "dateTaken": "2025:10:25 12:31:51",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.501572,
+      "lon": 13.395439
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Monument's Hidden Pathways",
+    "alt": "A narrow passageway between tall concrete slabs or monuments, with a small figure of a person walking through the shadowy corridor. The path appears to be paved with cobblestones, and green foliage is visible at the top opening where natural light filters down.",
+    "tags": [
+      "memorial",
+      "concrete",
+      "monuments",
+      "narrow passage",
+      "solitary figure",
+      "cobblestone",
+      "shadows",
+      "perspective",
+      "architectural",
+      "contemplative"
+    ],
+    "dateAdded": "2025-10-29T22:21:34.973Z"
+  },
+  {
     "filename": "L1001493.jpg",
     "image": "/img/photos/L1001493.jpg",
     "thumbnail": "/img/thumbnails/L1001493.jpg",
