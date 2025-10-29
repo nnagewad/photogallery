@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001530.jpg",
+    "image": "/img/photos/L1001530.jpg",
+    "thumbnail": "/img/thumbnails/L1001530.jpg",
+    "opengraph": "/img/open-graph/L1001530.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/60",
+    "aperture": "f/6.3",
+    "dateTaken": "2025:10:25 14:50:06",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 52.528412,
+      "lon": 13.372503
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Black Mountain's Silent Witnesses",
+    "alt": "Interior of a modern art gallery with a dramatic large black sculptural form resembling a mountain or angular mass dominating the space. Two visitors in coats observe the installation - one person in brown/tan clothing in the foreground and another in black clothing in the background. The room features white walls, polished wooden floors, and a distinctive curved glass ceiling with geometric grid patterns that allows natural light to filter in from above.",
+    "tags": [
+      "contemporary art",
+      "gallery interior",
+      "black sculpture",
+      "museum visitors",
+      "geometric ceiling",
+      "natural light",
+      "minimal architecture",
+      "art installation",
+      "curved glass",
+      "wooden floors"
+    ],
+    "dateAdded": "2025-10-29T22:50:17.108Z"
+  },
+  {
     "filename": "L1001509.jpg",
     "image": "/img/photos/L1001509.jpg",
     "thumbnail": "/img/thumbnails/L1001509.jpg",
