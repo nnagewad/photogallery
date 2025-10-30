@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001390.jpg",
+    "image": "/img/photos/L1001390.jpg",
+    "thumbnail": "/img/thumbnails/L1001390.jpg",
+    "opengraph": "/img/open-graph/L1001390.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:18 18:24:34",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.513694,
+      "lon": -0.129831
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Precision of Thin Cuts",
+    "alt": "Black and white photograph showing a person in white chef's coat operating a vintage meat slicer in what appears to be a restaurant or delicatessen, with bottles lining shelves in the background and another person visible on the left side of the frame",
+    "tags": [
+      "black and white photography",
+      "meat slicer",
+      "chef",
+      "restaurant kitchen",
+      "food preparation",
+      "vintage equipment",
+      "culinary arts",
+      "professional kitchen",
+      "deli counter",
+      "workplace"
+    ],
+    "dateAdded": "2025-10-30T22:37:27.888Z"
+  },
+  {
     "filename": "L1001410.jpg",
     "image": "/img/photos/L1001410.jpg",
     "thumbnail": "/img/thumbnails/L1001410.jpg",
