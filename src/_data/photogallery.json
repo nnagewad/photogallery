@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001581.jpg",
+    "image": "/img/photos/L1001581.jpg",
+    "thumbnail": "/img/thumbnails/L1001581.jpg",
+    "opengraph": "/img/open-graph/L1001581.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/7.1",
+    "dateTaken": "2025:10:26 11:39:49",
+    "dimensions": {
+      "width": 1388,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.514369,
+      "lon": 13.378264
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Memorial's Singular Witness",
+    "alt": "A lone figure in dark clothing and hood stands atop a tall concrete slab of the Holocaust Memorial in Berlin, silhouetted against an overcast sky. Below, narrow pathways wind between the gray concrete blocks of varying heights, creating a maze-like pattern that stretches toward the urban skyline in the distance.",
+    "tags": [
+      "memorial",
+      "solitude",
+      "concrete",
+      "architecture",
+      "contemplation",
+      "urban",
+      "memorial site",
+      "perspective",
+      "shadows",
+      "remembrance"
+    ],
+    "dateAdded": "2025-10-31T17:00:20.264Z"
+  },
+  {
     "filename": "L1001390.jpg",
     "image": "/img/photos/L1001390.jpg",
     "thumbnail": "/img/thumbnails/L1001390.jpg",
