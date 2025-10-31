@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001313.jpg",
+    "image": "/img/photos/L1001313.jpg",
+    "thumbnail": "/img/thumbnails/L1001313.jpg",
+    "opengraph": "/img/open-graph/L1001313.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/8",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:10:11 13:07:31",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.5383,
+      "lon": -0.045183
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Red Ghost's Daily Crossing",
+    "alt": "A blurred red double-decker bus speeds past Victorian brick buildings while bicycles are parked behind metal railings in the foreground. The motion blur creates streaks of red and white against the static urban architecture.",
+    "tags": [
+      "motion blur",
+      "double-decker bus",
+      "London street",
+      "bicycles",
+      "Victorian architecture",
+      "urban photography",
+      "transportation",
+      "brick buildings",
+      "metal railings",
+      "movement"
+    ],
+    "dateAdded": "2025-10-31T17:06:05.470Z"
+  },
+  {
     "filename": "L1001581.jpg",
     "image": "/img/photos/L1001581.jpg",
     "thumbnail": "/img/thumbnails/L1001581.jpg",
