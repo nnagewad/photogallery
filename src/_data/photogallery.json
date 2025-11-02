@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1000249.jpg",
+    "image": "/img/photos/L1000249.jpg",
+    "thumbnail": "/img/thumbnails/L1000249.jpg",
+    "opengraph": "/img/open-graph/L1000249.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:05:27 06:41:19",
+    "dimensions": {
+      "width": 2048,
+      "height": 1368
+    },
+    "gps": {
+      "lat": 43.539636,
+      "lon": -79.593886
+    },
+    "localized": "Mississauga",
+    "country": "Canada",
+    "title": "The Wreckage of Forgotten Voyages",
+    "alt": "A weathered tree trunk remains partially submerged in calm, reflective water under an overcast sky. The deteriorating wooden structure creates dark silhouettes against the peaceful lake or sea, with trees visible on the distant shoreline and birds flying in the cloudy sky above.",
+    "tags": [
+      "shipwreck",
+      "abandoned boat",
+      "calm water",
+      "overcast sky",
+      "reflection",
+      "decay",
+      "maritime",
+      "solitude",
+      "melancholy",
+      "erosion"
+    ],
+    "dateAdded": "2025-11-02T13:26:24.558Z"
+  },
+  {
     "filename": "L1001549.jpg",
     "image": "/img/photos/L1001549.jpg",
     "thumbnail": "/img/thumbnails/L1001549.jpg",
