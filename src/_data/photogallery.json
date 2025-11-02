@@ -1,5 +1,116 @@
 [
   {
+    "filename": "L1001549.jpg",
+    "image": "/img/photos/L1001549.jpg",
+    "thumbnail": "/img/thumbnails/L1001549.jpg",
+    "opengraph": "/img/open-graph/L1001549.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/30",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:25 15:54:51",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.528412,
+      "lon": 13.372503
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Pilgrimage Through Amber Shadows",
+    "alt": "A group of people walking through a dark tunnel or underpass toward bright daylight at the far end. The tunnel walls are concrete, and warm orange light illuminates the ceiling and upper walls, creating dramatic contrast with the bright white light visible at the tunnel's exit where silhouetted figures can be seen moving.",
+    "tags": [
+      "tunnel",
+      "silhouettes",
+      "light and shadow",
+      "urban architecture",
+      "concrete",
+      "passage",
+      "contrast",
+      "people walking",
+      "underpass",
+      "dramatic lighting"
+    ],
+    "dateAdded": "2025-11-02T13:20:19.716Z"
+  },
+  {
+    "filename": "L1001363.jpg",
+    "image": "/img/photos/L1001363.jpg",
+    "thumbnail": "/img/thumbnails/L1001363.jpg",
+    "opengraph": "/img/open-graph/L1001363.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:18 15:41:49",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.511101,
+      "lon": -0.117155
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Gallery's Silent Interrogation",
+    "alt": "Black and white photograph of a person in a textured coat covering their face with their hand while viewing framed photographs in an art gallery. Multiple framed images are visible on the white walls behind them.",
+    "tags": [
+      "gallery",
+      "contemplation",
+      "photography",
+      "art viewing",
+      "black and white",
+      "introspection",
+      "exhibition",
+      "cultural space",
+      "human gesture",
+      "artistic meditation"
+    ],
+    "dateAdded": "2025-11-02T13:18:30.687Z"
+  },
+  {
+    "filename": "L1001519.jpg",
+    "image": "/img/photos/L1001519.jpg",
+    "thumbnail": "/img/thumbnails/L1001519.jpg",
+    "opengraph": "/img/open-graph/L1001519.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.0",
+    "dateTaken": "2025:10:25 12:54:05",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.501617,
+      "lon": 13.396161
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Concrete Labyrinth",
+    "alt": "A stark concrete interior featuring multiple levels connected by dark geometric platforms or bridges, with natural light filtering down from skylights above, creating dramatic shadows and highlighting the raw concrete textures and brutalist architectural forms",
+    "tags": [
+      "brutalist architecture",
+      "concrete",
+      "geometric",
+      "natural light",
+      "shadows",
+      "interior space",
+      "minimalist",
+      "industrial design",
+      "architectural photography",
+      "modern architecture"
+    ],
+    "dateAdded": "2025-11-02T13:16:29.208Z"
+  },
+  {
     "filename": "L1001313.jpg",
     "image": "/img/photos/L1001313.jpg",
     "thumbnail": "/img/thumbnails/L1001313.jpg",
