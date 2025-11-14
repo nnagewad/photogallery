@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001648.jpg",
+    "image": "/img/photos/L1001648.jpg",
+    "thumbnail": "/img/thumbnails/L1001648.jpg",
+    "opengraph": "/img/open-graph/L1001648.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:11:01 14:32:42",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.561972,
+      "lon": -0.07946399999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Tavern's Quiet Revolution",
+    "alt": "A contemplative man with a mustache sits in a dimly lit pub booth, holding a glass of beer. He wears a dark jacket over a checkered shirt, with warm lighting casting shadows across his face. Framed artwork hangs on dark wood paneling behind him.",
+    "tags": [
+      "portrait",
+      "pub",
+      "beer",
+      "contemplation",
+      "mustache",
+      "dim lighting",
+      "booth",
+      "framed art",
+      "wood paneling",
+      "intimate atmosphere"
+    ],
+    "dateAdded": "2025-11-14T22:13:43.279Z"
+  },
+  {
     "filename": "L1001617.jpg",
     "image": "/img/photos/L1001617.jpg",
     "thumbnail": "/img/thumbnails/L1001617.jpg",
