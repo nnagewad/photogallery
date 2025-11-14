@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1001617.jpg",
+    "image": "/img/photos/L1001617.jpg",
+    "thumbnail": "/img/thumbnails/L1001617.jpg",
+    "opengraph": "/img/open-graph/L1001617.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/8",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:11:01 12:15:11",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.57475,
+      "lon": -0.126764
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Velocity of Colored Shadows",
+    "alt": "Motion-blurred figures in blue and red clothing walk past a brick wall covered in colorful graffiti, with angular white lettering above and stylized text below, creating streaks of movement against the static urban art backdrop",
+    "tags": [
+      "motion blur",
+      "graffiti",
+      "street art",
+      "urban photography",
+      "movement",
+      "brick wall",
+      "color contrast",
+      "street photography",
+      "Parkland Walk"
+    ],
+    "dateAdded": "2025-11-14T22:02:57.099Z"
+  },
+  {
     "filename": "L1000249.jpg",
     "image": "/img/photos/L1000249.jpg",
     "thumbnail": "/img/thumbnails/L1000249.jpg",
