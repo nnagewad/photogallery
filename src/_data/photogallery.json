@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001721.jpg",
+    "image": "/img/photos/L1001721.jpg",
+    "thumbnail": "/img/thumbnails/L1001721.jpg",
+    "opengraph": "/img/open-graph/L1001721.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 12500,
+    "shutterSpeed": "1/160",
+    "aperture": "f/1.8",
+    "dateTaken": "2025:11:08 21:06:51",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 48.863616,
+      "lon": 2.36729
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Digital Keepers of Ancient Spirits",
+    "alt": "Two bartenders working behind an ornate bar with decorative murals on the walls and ceiling. A woman in black operates a beer tap while a man with glasses stands behind her. Glass shelves display glassware, and laptops are visible on the bar counter, blending traditional pub atmosphere with modern technology.",
+    "tags": [
+      "bartenders",
+      "pub interior",
+      "beer tap",
+      "decorative murals",
+      "glass shelves",
+      "laptops",
+      "hospitality workers",
+      "traditional bar",
+      "modern technology",
+      "ornate ceiling"
+    ],
+    "dateAdded": "2025-11-14T23:25:19.648Z"
+  },
+  {
     "filename": "L1001648.jpg",
     "image": "/img/photos/L1001648.jpg",
     "thumbnail": "/img/thumbnails/L1001648.jpg",
