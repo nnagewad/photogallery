@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1001749.jpg",
+    "image": "/img/photos/L1001749.jpg",
+    "thumbnail": "/img/thumbnails/L1001749.jpg",
+    "opengraph": "/img/open-graph/L1001749.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1",
+    "aperture": "f/8.0",
+    "dateTaken": "2025:11:09 13:32:02",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 48.8641,
+      "lon": 2.296828
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Archive of Cardboard Kingdoms",
+    "alt": "Interior view of a car trunk filled with stacked cardboard boxes, photographed from inside looking up through the rear window at bright white panels of sky or ceiling, creating geometric patterns of light and shadow",
+    "tags": [
+      "car trunk",
+      "cardboard boxes",
+      "geometric lighting",
+      "interior perspective",
+      "storage",
+      "documentary photography",
+      "minimalist composition",
+      "white panels",
+      "shadows"
+    ],
+    "dateAdded": "2025-11-16T17:33:03.447Z"
+  },
+  {
     "filename": "L1001673.jpg",
     "image": "/img/photos/L1001673.jpg",
     "thumbnail": "/img/thumbnails/L1001673.jpg",
