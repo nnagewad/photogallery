@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1001764.jpg",
+    "image": "/img/photos/L1001764.jpg",
+    "thumbnail": "/img/thumbnails/L1001764.jpg",
+    "opengraph": "/img/open-graph/L1001764.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/60",
+    "aperture": "f/10.0",
+    "dateTaken": "2025:11:09 14:58:03",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 48.864289,
+      "lon": 2.296611
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Curator's Broken Palace",
+    "alt": "A person in dark clothing stands on metal stairs in a deteriorating industrial gallery space with peeling white walls, exposed ceiling infrastructure, and abstract wire sculptures mounted on the walls. The scene combines decay with contemporary art installation.",
+    "tags": [
+      "industrial",
+      "decay",
+      "gallery",
+      "contemporary art",
+      "deterioration",
+      "metal stairs",
+      "wire sculpture",
+      "abandoned space",
+      "curator",
+      "artistic installation",
+      "Palais de Tokyo"
+    ],
+    "dateAdded": "2025-11-16T17:49:31.596Z"
+  },
+  {
     "filename": "L1001740.jpg",
     "image": "/img/photos/L1001740.jpg",
     "thumbnail": "/img/thumbnails/L1001740.jpg",
