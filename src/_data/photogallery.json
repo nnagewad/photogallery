@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001720.jpg",
+    "image": "/img/photos/L1001720.jpg",
+    "thumbnail": "/img/thumbnails/L1001720.jpg",
+    "opengraph": "/img/open-graph/L1001720.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/500",
+    "aperture": "f/5.0",
+    "dateTaken": "2025:11:08 21:06:10",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 48.863616,
+      "lon": 2.36729
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Culinary Theatre's Triumphant Moment",
+    "alt": "A chef in white jacket and blue apron stands in a professional kitchen making peace signs with both hands, framed by a stone archway. The kitchen has stainless steel equipment, white tile walls, and industrial fixtures visible in the background.",
+    "tags": [
+      "chef",
+      "kitchen",
+      "restaurant",
+      "culinary",
+      "professional",
+      "archway",
+      "celebration",
+      "hospitality",
+      "food service",
+      "victory gesture"
+    ],
+    "dateAdded": "2025-11-16T16:22:27.107Z"
+  },
+  {
     "filename": "L1001708.jpg",
     "image": "/img/photos/L1001708.jpg",
     "thumbnail": "/img/thumbnails/L1001708.jpg",
