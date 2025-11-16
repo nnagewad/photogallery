@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1001768.jpg",
+    "image": "/img/photos/L1001768.jpg",
+    "thumbnail": "/img/thumbnails/L1001768.jpg",
+    "opengraph": "/img/open-graph/L1001768.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:11:09 17:34:12",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 48.853736,
+      "lon": 2.3802060000000003
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Brotherhood of Borrowed Time",
+    "alt": "Black and white photograph of two smiling men with mustaches standing behind a counter in what appears to be a small restaurant or cafe, with menu boards visible in the background and another person partially visible to the left",
+    "tags": [
+      "black and white photography",
+      "restaurant workers",
+      "mustaches",
+      "camaraderie",
+      "small business",
+      "service industry",
+      "friendship",
+      "menu boards",
+      "cafe interior",
+      "documentary photography",
+      "Septime La Cave"
+    ],
+    "dateAdded": "2025-11-16T19:15:16.335Z"
+  },
+  {
     "filename": "L1001764.jpg",
     "image": "/img/photos/L1001764.jpg",
     "thumbnail": "/img/thumbnails/L1001764.jpg",
