@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1001671.jpg",
+    "image": "/img/photos/L1001671.jpg",
+    "thumbnail": "/img/thumbnails/L1001671.jpg",
+    "opengraph": "/img/open-graph/L1001671.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/6.3",
+    "dateTaken": "2025:11:08 12:56:38",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 48.862908,
+      "lon": 2.361917
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Intimacy of Crowded Tables",
+    "alt": "Black and white photograph of people gathered around tables under a covered outdoor area or market, with classical European architecture visible in the background. The scene captures intimate conversations and social interaction in what appears to be a café or restaurant setting.",
+    "tags": [
+      "black and white photography",
+      "outdoor dining",
+      "social gathering",
+      "European architecture",
+      "café culture",
+      "street photography",
+      "urban life",
+      "community",
+      "conversation",
+      "candid moment",
+      "The Butcher of Paris"
+    ],
+    "dateAdded": "2025-11-16T16:37:38.170Z"
+  },
+  {
     "filename": "L1001720.jpg",
     "image": "/img/photos/L1001720.jpg",
     "thumbnail": "/img/thumbnails/L1001720.jpg",
