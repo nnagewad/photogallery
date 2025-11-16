@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1001673.jpg",
+    "image": "/img/photos/L1001673.jpg",
+    "thumbnail": "/img/thumbnails/L1001673.jpg",
+    "opengraph": "/img/open-graph/L1001673.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:11:08 13:01:23",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 48.862908,
+      "lon": 2.361917
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Keeper of Stories Untold",
+    "alt": "A middle-aged man in a tan baseball cap and dark t-shirt smiles warmly at the camera while standing in what appears to be a rustic restaurant or bar. Behind him, wooden beams display various stickers including 'Take Time Tattoo' and other local business logos. Wine glasses hang from a rack above, and the warm wood-paneled interior suggests a cozy, community-oriented establishment.",
+    "tags": [
+      "portrait",
+      "restaurant",
+      "hospitality",
+      "small business",
+      "community",
+      "rustic interior",
+      "local establishment",
+      "wood paneling",
+      "stickers",
+      "wine glasses",
+      "The Butcher of Paris"
+    ],
+    "dateAdded": "2025-11-16T16:43:23.997Z"
+  },
+  {
     "filename": "L1001671.jpg",
     "image": "/img/photos/L1001671.jpg",
     "thumbnail": "/img/thumbnails/L1001671.jpg",
