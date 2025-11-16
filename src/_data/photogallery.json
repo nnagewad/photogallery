@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1001740.jpg",
+    "image": "/img/photos/L1001740.jpg",
+    "thumbnail": "/img/thumbnails/L1001740.jpg",
+    "opengraph": "/img/open-graph/L1001740.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/60",
+    "aperture": "f/6.3",
+    "dateTaken": "2025:11:09 13:17:33",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 48.8641,
+      "lon": 2.296828
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Brutalist Amphitheater",
+    "alt": "Black and white photograph showing a multi-level concrete interior space with exposed ceiling beams. Several people stand on an upper level near windows and directional signage, while a solitary figure in dark clothing sits on stairs in the lower level. The stark brutalist architecture creates dramatic shadows and geometric forms.",
+    "tags": [
+      "brutalist architecture",
+      "concrete interior",
+      "multi-level space",
+      "geometric shadows",
+      "urban solitude",
+      "institutional building",
+      "stark lighting",
+      "human scale",
+      "modernist design"
+    ],
+    "dateAdded": "2025-11-16T17:38:29.884Z"
+  },
+  {
     "filename": "L1001749.jpg",
     "image": "/img/photos/L1001749.jpg",
     "thumbnail": "/img/thumbnails/L1001749.jpg",
