@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001708.jpg",
+    "image": "/img/photos/L1001708.jpg",
+    "thumbnail": "/img/thumbnails/L1001708.jpg",
+    "opengraph": "/img/open-graph/L1001708.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:11:08 16:55:34",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 48.847253,
+      "lon": 2.337842
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Marble Mind's Eternal Question",
+    "alt": "Black and white photograph of a classical marble statue depicting a bearded male figure in a contemplative pose with hand to chin, shot from below against a dramatic cloudy sky with historic architecture visible in the background",
+    "tags": [
+      "marble statue",
+      "classical sculpture",
+      "contemplation",
+      "black and white photography",
+      "dramatic sky",
+      "low angle",
+      "bearded figure",
+      "historic architecture",
+      "thoughtful pose",
+      "monumental art"
+    ],
+    "dateAdded": "2025-11-16T16:01:11.372Z"
+  },
+  {
     "filename": "L1001721.jpg",
     "image": "/img/photos/L1001721.jpg",
     "thumbnail": "/img/thumbnails/L1001721.jpg",
