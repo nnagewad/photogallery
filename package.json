@@ -38,7 +38,7 @@
     "html-minifier-terser": "^7.2.0",
     "netlify-plugin-cache": "^1.0.3",
     "pagefind": "^1.4.0",
-    "sass": "^1.94.1",
+    "sass": "^1.94.2",
     "terser": "^5.44.1"
   }
 }
