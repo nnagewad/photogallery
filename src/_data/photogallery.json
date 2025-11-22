@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1001383.jpg",
+    "image": "/img/photos/L1001383.jpg",
+    "thumbnail": "/img/thumbnails/L1001383.jpg",
+    "opengraph": "/img/open-graph/L1001383.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:18 18:20:21",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.513703,
+      "lon": -0.129807
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Bartender's Monochrome Meditation",
+    "alt": "Black and white photograph of a bartender in white shirt and tie working behind a bar, with shelves of bottles visible in the background and pendant lighting overhead.",
+    "tags": [
+      "bartender",
+      "black and white",
+      "bar",
+      "nightlife",
+      "service industry",
+      "atmospheric lighting",
+      "urban",
+      "hospitality",
+      "craft cocktails",
+      "professional",
+      "Bar Termini"
+    ],
+    "dateAdded": "2025-11-22T12:26:43.256Z"
+  },
+  {
     "filename": "L1001754.jpg",
     "image": "/img/photos/L1001754.jpg",
     "thumbnail": "/img/thumbnails/L1001754.jpg",
