@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001752.jpg",
+    "image": "/img/photos/L1001752.jpg",
+    "thumbnail": "/img/thumbnails/L1001752.jpg",
+    "opengraph": "/img/open-graph/L1001752.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1",
+    "aperture": "f/7.1",
+    "dateTaken": "2025:11:09 13:42:16",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 48.8641,
+      "lon": 2.296828
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Phantom Visitor's Gallery",
+    "alt": "A motion-blurred photograph of an art gallery interior showing a ghostly figure moving through the space, with colorful paintings on white walls, fluorescent ceiling lights, and a dark circular element on the floor",
+    "tags": [
+      "motion blur",
+      "art gallery",
+      "contemporary art",
+      "fluorescent lighting",
+      "ghostly figure",
+      "interior architecture",
+      "movement",
+      "exhibition space",
+      "abstract photography",
+      "Palais de Tokyo"
+    ],
+    "dateAdded": "2025-11-22T12:00:04.001Z"
+  },
+  {
     "filename": "L1001768.jpg",
     "image": "/img/photos/L1001768.jpg",
     "thumbnail": "/img/thumbnails/L1001768.jpg",
