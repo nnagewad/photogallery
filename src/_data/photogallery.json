@@ -1,5 +1,45 @@
 [
   {
+    "filename": "L1001776.jpg",
+    "image": "/img/photos/L1001776.jpg",
+    "thumbnail": "/img/thumbnails/L1001776.jpg",
+    "opengraph": "/img/open-graph/L1001776.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.8",
+    "dateTaken": "2025:11:22 19:35:17",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.519828,
+      "lon": -0.093644
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Chamber of Resonant Souls",
+    "alt": "Black and white photograph of two musicians performing on a dimly lit stage, with one seated playing violin while another stands at electronic equipment, surrounded by drum kit and various musical instruments under dramatic spotlighting",
+    "tags": [
+      "performance",
+      "musicians",
+      "stage lighting",
+      "violin",
+      "electronics",
+      "monochrome",
+      "concert",
+      "collaboration",
+      "instruments",
+      "dramatic",
+      "Barbican",
+      "Jeremiah Chiu",
+      "Marta Sofia Honer"
+    ],
+    "dateAdded": "2025-11-24T20:40:46.549Z"
+  },
+  {
     "filename": "L1001779.jpg",
     "image": "/img/photos/L1001779.jpg",
     "thumbnail": "/img/thumbnails/L1001779.jpg",
