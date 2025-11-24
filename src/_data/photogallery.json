@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1001849.jpg",
+    "image": "/img/photos/L1001849.jpg",
+    "thumbnail": "/img/thumbnails/L1001849.jpg",
+    "opengraph": "/img/open-graph/L1001849.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/4",
+    "aperture": "f/14.0",
+    "dateTaken": "2025:11:22 21:59:30",
+    "dimensions": {
+      "width": 2048,
+      "height": 1410
+    },
+    "gps": {
+      "lat": 51.519742,
+      "lon": -0.093675
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Communion of Measured Rhythms",
+    "alt": "Black and white photograph of five jazz musicians performing on a dark stage, with a bassist on the left, drummer in center, and three other musicians on the right, all illuminated by stage lights against a black background",
+    "tags": [
+      "jazz",
+      "live music",
+      "performance",
+      "black and white",
+      "stage lighting",
+      "musicians",
+      "drums",
+      "bass",
+      "concert",
+      "monochrome",
+      "Barbican",
+      "Tortoise"
+    ],
+    "dateAdded": "2025-11-24T21:33:33.397Z"
+  },
+  {
     "filename": "L1001776.jpg",
     "image": "/img/photos/L1001776.jpg",
     "thumbnail": "/img/thumbnails/L1001776.jpg",
