@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1001824.jpg",
+    "image": "/img/photos/L1001824.jpg",
+    "thumbnail": "/img/thumbnails/L1001824.jpg",
+    "opengraph": "/img/open-graph/L1001824.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:11:22 21:27:55",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.519742,
+      "lon": -0.093675
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Constellation of Earthbound Musicians",
+    "alt": "A band performs on a dark stage illuminated by blue stage lights, with five musicians. Circular stage lights create a starfield effect against the black backdrop.",
+    "tags": [
+      "concert",
+      "stage lighting",
+      "musicians",
+      "performance",
+      "drums",
+      "guitar",
+      "keyboard",
+      "blue lighting",
+      "live music",
+      "band",
+      "Barbican",
+      "Tortoise"
+    ],
+    "dateAdded": "2025-11-24T21:42:54.673Z"
+  },
+  {
     "filename": "L1001849.jpg",
     "image": "/img/photos/L1001849.jpg",
     "thumbnail": "/img/thumbnails/L1001849.jpg",
