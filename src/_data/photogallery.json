@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1001833.jpg",
+    "image": "/img/photos/L1001833.jpg",
+    "thumbnail": "/img/thumbnails/L1001833.jpg",
+    "opengraph": "/img/open-graph/L1001833.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/3.2",
+    "dateTaken": "2025:11:22 21:49:01",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 51.519742,
+      "lon": -0.093675
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Rehearsal of Invisible Harmonies",
+    "alt": "Black and white photograph of five musicians performing on a dark stage with dramatic overhead lighting. From left to right: a guitarist, a musician with his back to the audience, a musician at an electronic kit, another musician at another electronic kit, and a musician on the guitar. The stage floor is reflective and the background is completely black, creating a stark, intimate concert atmosphere.",
+    "tags": [
+      "live music",
+      "black and white photography",
+      "stage performance",
+      "musicians",
+      "concert",
+      "dramatic lighting",
+      "drums",
+      "guitar",
+      "intimate venue",
+      "band performance",
+      "Barbican",
+      "Tortoise"
+    ],
+    "dateAdded": "2025-11-24T21:49:51.017Z"
+  },
+  {
     "filename": "L1001824.jpg",
     "image": "/img/photos/L1001824.jpg",
     "thumbnail": "/img/thumbnails/L1001824.jpg",
