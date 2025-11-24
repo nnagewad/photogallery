@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1001830.jpg",
+    "image": "/img/photos/L1001830.jpg",
+    "thumbnail": "/img/thumbnails/L1001830.jpg",
+    "opengraph": "/img/open-graph/L1001830.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/4",
+    "aperture": "f/16.0",
+    "dateTaken": "2025:11:22 21:39:03",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 51.519742,
+      "lon": -0.093675
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Percussion of Shadows and Light",
+    "alt": "Black and white photograph of musicians performing on stage, with a drummer in the center, captured with motion blur that creates ghostly, ethereal effects against the dark background with stage lights visible above",
+    "tags": [
+      "black and white photography",
+      "live music performance",
+      "motion blur",
+      "stage lighting",
+      "drummer",
+      "keyboardist",
+      "concert photography",
+      "artistic blur",
+      "performance art",
+      "atmospheric lighting",
+      "Barbican",
+      "Tortoise"
+    ],
+    "dateAdded": "2025-11-24T22:00:20.166Z"
+  },
+  {
     "filename": "L1001833.jpg",
     "image": "/img/photos/L1001833.jpg",
     "thumbnail": "/img/thumbnails/L1001833.jpg",
