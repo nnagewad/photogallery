@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001716.jpg",
+    "image": "/img/photos/L1001716.jpg",
+    "thumbnail": "/img/thumbnails/L1001716.jpg",
+    "opengraph": "/img/open-graph/L1001716.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:11:08 16:58:44",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 48.847278,
+      "lon": 2.3375529999999998
+    },
+    "localized": "Paris",
+    "country": "France",
+    "title": "The Portrait of Windswept Grace",
+    "alt": "A black and white portrait of a smiling woman with her hand running through her hair, wearing a dark jacket with a cross-body bag strap visible. Behind her is a blurred classical European building with ornate architecture and a cloudy sky.",
+    "tags": [
+      "portrait",
+      "black and white",
+      "woman",
+      "smiling",
+      "hand in hair",
+      "classical architecture",
+      "European building",
+      "cloudy sky",
+      "candid moment",
+      "depth of field"
+    ],
+    "dateAdded": "2025-11-27T21:10:08.485Z"
+  },
+  {
     "filename": "L1001328.jpg",
     "image": "/img/photos/L1001328.jpg",
     "thumbnail": "/img/thumbnails/L1001328.jpg",
