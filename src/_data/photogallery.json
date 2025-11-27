@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001448.jpg",
+    "image": "/img/photos/L1001448.jpg",
+    "thumbnail": "/img/thumbnails/L1001448.jpg",
+    "opengraph": "/img/open-graph/L1001448.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/250",
+    "aperture": "f/1.8",
+    "dateTaken": "2025:10:25 11:12:02",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.500831,
+      "lon": 13.401
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Ascent Through Concrete Dreams",
+    "alt": "A person in dark clothing ascends concrete stairs in a brutalist architectural space with raw concrete walls, textured surfaces, and dramatic angular lighting from above",
+    "tags": [
+      "brutalist architecture",
+      "concrete stairs",
+      "angular geometry",
+      "dramatic lighting",
+      "lone figure",
+      "raw concrete",
+      "architectural photography",
+      "modern design",
+      "vertical composition",
+      "urban solitude"
+    ],
+    "dateAdded": "2025-11-27T21:20:19.541Z"
+  },
+  {
     "filename": "L1001716.jpg",
     "image": "/img/photos/L1001716.jpg",
     "thumbnail": "/img/thumbnails/L1001716.jpg",
