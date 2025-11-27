@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001328.jpg",
+    "image": "/img/photos/L1001328.jpg",
+    "thumbnail": "/img/thumbnails/L1001328.jpg",
+    "opengraph": "/img/open-graph/L1001328.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:11 15:24:21",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.534222,
+      "lon": -0.043217
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Radiance of Ordinary Afternoons",
+    "alt": "A woman with curly dark hair wearing sunglasses, a cream sweater, and beige trench coat stands on a tree-lined street. Golden backlighting creates a luminous halo effect around her hair as she faces the camera with a slight smile.",
+    "tags": [
+      "portrait",
+      "golden hour",
+      "backlit",
+      "street photography",
+      "autumn",
+      "fashion",
+      "sunglasses",
+      "curly hair",
+      "trench coat",
+      "urban"
+    ],
+    "dateAdded": "2025-11-27T20:58:59.817Z"
+  },
+  {
     "filename": "L1001830.jpg",
     "image": "/img/photos/L1001830.jpg",
     "thumbnail": "/img/thumbnails/L1001830.jpg",
