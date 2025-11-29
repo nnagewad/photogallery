@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1001606.jpg",
+    "image": "/img/photos/L1001606.jpg",
+    "thumbnail": "/img/thumbnails/L1001606.jpg",
+    "opengraph": "/img/open-graph/L1001606.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:26 14:35:42",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.523419,
+      "lon": 13.384124
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Operator's Final Transmission",
+    "alt": "A vintage black rotary telephone mounted on a weathered concrete wall, with cream-colored receiver handset hanging below and dark cords extending downward",
+    "tags": [
+      "vintage telephone",
+      "rotary phone",
+      "concrete wall",
+      "industrial",
+      "communication",
+      "retro technology",
+      "mounted device",
+      "monochromatic",
+      "urban decay",
+      "nostalgia",
+      "Boros Collection"
+    ],
+    "dateAdded": "2025-11-29T19:06:36.321Z"
+  },
+  {
     "filename": "L1001561.jpg",
     "image": "/img/photos/L1001561.jpg",
     "thumbnail": "/img/thumbnails/L1001561.jpg",
@@ -15,7 +53,7 @@
       "height": 2048
     },
     "gps": {
-      "lat": 52.50090,
+      "lat": 52.5009,
       "lon": 13.43003
     },
     "localized": "Berlin",
