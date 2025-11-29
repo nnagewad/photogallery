@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001561.jpg",
+    "image": "/img/photos/L1001561.jpg",
+    "thumbnail": "/img/thumbnails/L1001561.jpg",
+    "opengraph": "/img/open-graph/L1001561.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:25 20:07:44",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.50090,
+      "lon": 13.43003
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Language of Unspoken Joy",
+    "alt": "Black and white portrait of a person with curly hair sitting at a table with glasses, smiling warmly while looking to the side in what appears to be a restaurant or cafe setting",
+    "tags": [
+      "portrait",
+      "black and white",
+      "smile",
+      "curly hair",
+      "restaurant",
+      "candid",
+      "joy",
+      "social",
+      "dining",
+      "monochrome"
+    ],
+    "dateAdded": "2025-11-29T18:58:46.178Z"
+  },
+  {
     "filename": "L1001448.jpg",
     "image": "/img/photos/L1001448.jpg",
     "thumbnail": "/img/thumbnails/L1001448.jpg",
