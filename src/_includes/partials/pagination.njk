@@ -2,8 +2,8 @@
   <ul>
     {% if pagination.href.previous %}
       <li>
-        <svg class="pagination-arrow" xmlns="http://www.w3.org/2000/svg" height="13" width="15" aria-hidden="true" focusable="false" viewBox="0 0 15 13">
-          <path d="m6.5938-0.0078125-6.7266 6.7266 6.7441 6.4062 1.377-1.449-4.1856-3.9768h12.896v-2h-12.984l4.2931-4.293-1.414-1.414z"></path>
+        <svg xmlns="http://www.w3.org/2000/svg" class="navigation-icons" width="16.8" height="13.1" aria-hidden="true" focusable="false" viewBox="0 0 16.8 13.1">
+          <path d="M6.7,0L0,6.7l6.7,6.4,1.4-1.4-4.2-4h12.9v-2H3.8L8.1,1.4S6.7,0,6.7,0Z"/>
         </svg>
         <a href="{{ pagination.href.previous }}">
           Previous {% if layout == 'layouts/photogallery.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}
@@ -13,8 +13,8 @@
 
     {% if pagination.href.next %}
       <li>
-        <svg class="pagination-arrow" xmlns="http://www.w3.org/2000/svg" height="13" width="15" aria-hidden="true" focusable="false" viewBox="0 0 15 13">
-          <path d="m8.107-0.0078125-1.4136 1.414 4.2926 4.293h-12.986v2h12.896l-4.1855 3.9766 1.377 1.4492 6.7441-6.4062-6.7246-6.7266z"></path>
+        <svg xmlns="http://www.w3.org/2000/svg" class="navigation-icons" width="16.8" height="13.1" aria-hidden="true" focusable="false" viewBox="0 0 16.8 13.1">
+          <path d="M10.1,0l-1.4,1.4,4.3,4.3H0v2h12.9l-4.2,4,1.4,1.4,6.7-6.4L10.1,0Z"/>
         </svg>
         <a href="{{ pagination.href.next }}">
           Next {% if layout == 'layouts/photogallery.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}
