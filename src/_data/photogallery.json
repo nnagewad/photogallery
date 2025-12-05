@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001542.jpg",
+    "image": "/img/photos/L1001542.jpg",
+    "thumbnail": "/img/thumbnails/L1001542.jpg",
+    "opengraph": "/img/open-graph/L1001542.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:10:25 15:17:06",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 52.52836,
+      "lon": 13.37214
+    },
+    "localized": "Berlin",
+    "country": "Germany",
+    "title": "The Spectrum's Broken Frame",
+    "alt": "A wall-mounted light installation featuring vertical fluorescent tubes in blue, white, yellow, and red colors creating dramatic colored light beams against a dark wall, with visible mounting hardware and power outlets",
+    "tags": [
+      "light installation",
+      "fluorescent tubes",
+      "colored lighting",
+      "wall art",
+      "blue light",
+      "red light",
+      "contemporary art",
+      "electric installation",
+      "color spectrum",
+      "industrial lighting"
+    ],
+    "dateAdded": "2025-12-05T23:53:34.288Z"
+  },
+  {
     "filename": "L1001606.jpg",
     "image": "/img/photos/L1001606.jpg",
     "thumbnail": "/img/thumbnails/L1001606.jpg",
