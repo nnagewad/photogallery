@@ -5,16 +5,21 @@
   {# Look up the correct list page URL using the global map and the current post's URL #}
   {% set listUrl = photoToListMap[page.url] %}
 
-  <a data-pagefind-ignore class="back-to-gallery" href="
-    {% if listUrl %}
-      {{ listUrl }}
-    {% else %}
-    {# Fallback to the root page if the map fails to find an entry #}
-      /
-    {% endif %}
-  ">
-    Back to gallery
-  </a>
+  <div class="back-to-gallery">
+      <svg xmlns="http://www.w3.org/2000/svg" class="navigation-icons" width="7.9" height="13.1" aria-hidden="true" focusable="false" viewBox="0 0 7.9 13.1">
+        <polygon points="7.9 1.4 6.6 0 0 6.6 6.6 13.1 7.9 11.7 2.8 6.6 7.9 1.4"/>
+      </svg>
+      <a data-pagefind-ignore class="back-to-gallery-link" href="
+        {% if listUrl %}
+          {{ listUrl }}
+        {% else %}
+        {# Fallback to the root page if the map fails to find an entry #}
+          /
+        {% endif %}
+      ">
+        Back to gallery
+      </a>
+  </div>
 
   <article id='{{ photo.title | slugify }}' class='photo-details' data-pagefind-body>
     <h1 class='font-size-2 website-page--title grid-container'>{{ photo.title | updateApostrophe }}</h1>
