@@ -96,9 +96,14 @@ a {
   margin-bottom: 0;
 }
 
-.view-map-link {
+.view-map-link, .back-to-gallery {
   @extend .font-size--1;
   @extend .lowercase;
+}
+
+.back-to-gallery {
+  margin-bottom: var(--spacing-6);
+  display: block;
 }
 
 .caption-with-headline {
