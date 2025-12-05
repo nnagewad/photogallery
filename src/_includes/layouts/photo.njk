@@ -1,6 +1,21 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
+ 
+  {# Look up the correct list page URL using the global map and the current post's URL #}
+  {% set listUrl = photoToListMap[page.url] %}
+
+  {% if listUrl %}
+    <p class="back-link-container">
+      <a href="{{ listUrl }}">← Back to Photo Gallery Page</a>
+    </p>
+  {% else %}
+    {# Fallback to the root page if the map fails to find an entry #}
+    <p class="back-link-container">
+      <a href="/">← Back to Photo Gallery</a>
+    </p>
+  {% endif %}
+
   <article id='{{ photo.title | slugify }}' class='photo-details' data-pagefind-body>
     <h1 class='font-size-2 website-page--title grid-container'>{{ photo.title | updateApostrophe }}</h1>
     <figure class="flex-container--wrap">
