@@ -10,6 +10,17 @@ import apiToDate from "./src/_filters/api-to-date.js";
 import apiToTime from "./src/_filters/api-to-time.js";
 import updateApostrophe from "./src/_filters/update-apostrophe.js";
 
+// Basic slugify function to match Nunjucks/11ty's expected behavior
+const slugify = (str) => {
+    return String(str)
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+        .trim()
+        .replace(/[^a-z0-9\s-]/g, '')
+        .replace(/[\s-]+/g, '-');
+};
+
 export default async function(eleventyConfig) {
     // Configuration
     eleventyConfig.setUseGitIgnore(false);
@@ -44,6 +55,7 @@ export default async function(eleventyConfig) {
     eleventyConfig.addFilter('apiToDate', apiToDate);
     eleventyConfig.addFilter('apiToTime', apiToTime);
     eleventyConfig.addFilter('updateApostrophe', updateApostrophe);
+    eleventyConfig.addFilter('slugify', slugify); // Add slugify as an accessible filter
 
     // --- Dynamic Back-to-List Mapping (NEW) ---
     // Builds per-photo -> contact sheet page mapping; keep pageSize aligned with src/index.md pagination.
@@ -64,7 +76,7 @@ export default async function(eleventyConfig) {
         photogallery.forEach((photo, index) => {
             if (!photo.title) return;
 
-            const postUrlSlug = eleventyConfig.getFilter('slug')(photo.title);
+            const postUrlSlug = slugify(photo.title);
             const pageNumber = Math.floor(index / pageSize);
             const listPageUrl = pageNumber === 0 ? "/" : `/${pageNumber + 1}/`;
 
