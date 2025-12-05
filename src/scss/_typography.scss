@@ -96,12 +96,12 @@ a {
   margin-bottom: 0;
 }
 
-.view-map-link, .back-to-gallery-link {
+.view-map-link, .gallery-nav-link {
   @extend .font-size--1;
   @extend .lowercase;
 }
 
-.back-to-gallery {
+.gallery-nav {
   margin-bottom: var(--spacing-6);
   display: block;
 }
