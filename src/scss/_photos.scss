@@ -10,6 +10,7 @@ picture:has(.photo-orientation--landscape) {
 
 picture:has(.photo) {
   margin: 0;
+  outline: var(--pixel-5) solid var(--color-border);
 }
 
 .photo {
