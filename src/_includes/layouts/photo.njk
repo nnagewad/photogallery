@@ -15,7 +15,7 @@
   </div>
 
   <article id='{{ photo.title | slugify }}' class='photo-details' data-pagefind-body>
-    <h1 class='font-size-2 website-page--title grid-container'>{{ photo.title | updateApostrophe }}</h1>
+    <h1 class='font-size-2 website-page--title'>{{ photo.title | updateApostrophe }}</h1>
     <figure>
       <img
         src="{{ photo.image }}"
