@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1001929.jpg",
+    "image": "/img/photos/L1001929.jpg",
+    "thumbnail": "/img/thumbnails/L1001929.jpg",
+    "opengraph": "/img/open-graph/L1001929.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/4.0",
+    "dateTaken": "2025:12:11 21:50:57",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.56376,
+      "lon": -0.10294099999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Council of Midnight Provisions",
+    "alt": "Black and white photograph of four people seated around a table in a pizzeria, with their own pizzas and drinks. Behind them is a chalkboard menu featuring pizza options including 'The Full House' and 'Mr. Lava Lava.' The intimate scene is lit dramatically with strong contrasts between light and shadow.",
+    "tags": [
+      "black and white photography",
+      "pizzeria",
+      "group dining",
+      "chalkboard menu",
+      "dramatic lighting",
+      "social gathering",
+      "food photography",
+      "restaurant interior",
+      "friends"
+    ],
+    "dateAdded": "2025-12-12T15:26:56.379Z"
+  },
+  {
     "filename": "L1001542.jpg",
     "image": "/img/photos/L1001542.jpg",
     "thumbnail": "/img/thumbnails/L1001542.jpg",
