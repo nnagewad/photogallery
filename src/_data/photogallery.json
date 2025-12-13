@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001861.jpg",
+    "image": "/img/photos/L1001861.jpg",
+    "thumbnail": "/img/thumbnails/L1001861.jpg",
+    "opengraph": "/img/open-graph/L1001861.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:12:11 18:32:34",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.565138,
+      "lon": -0.105349
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Microphone's Confessional",
+    "alt": "A group of friends gathered in a dimly lit karaoke room, with one woman in the center holding a microphone and making an exaggerated facial expression with her tongue out, while others smile and laugh around her. The scene is bathed in pink and blue neon lighting typical of karaoke venues.",
+    "tags": [
+      "karaoke",
+      "friends",
+      "nightlife",
+      "microphone",
+      "neon lighting",
+      "social gathering",
+      "performance",
+      "pink lighting",
+      "group portrait",
+      "entertainment"
+    ],
+    "dateAdded": "2025-12-13T09:32:21.578Z"
+  },
+  {
     "filename": "L1001929.jpg",
     "image": "/img/photos/L1001929.jpg",
     "thumbnail": "/img/thumbnails/L1001929.jpg",
