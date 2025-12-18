@@ -1,7 +1,7 @@
 @use "spacing-mixins";
 picture:has(.photo-orientation--portrait),
 picture:has(.photo-orientation--square) {
-  max-width: 70vh;
+  max-width: 66vh;
 }
 
 picture:has(.photo-orientation--landscape) {
