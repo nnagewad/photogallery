@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1001841.jpg",
+    "image": "/img/photos/L1001841.jpg",
+    "thumbnail": "/img/thumbnails/L1001841.jpg",
+    "opengraph": "/img/open-graph/L1001841.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/60",
+    "aperture": "f/4.0",
+    "dateTaken": "2025:11:22 21:56:18",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.519742,
+      "lon": -0.093675
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Symphony of Borrowed Stages",
+    "alt": "A band performing on a dark stage under colored stage lighting. From left to right: a performer working the electronics behind a white drum kit, a guitarist in an orange shirt, a bassist in a blue shirt, and a drummer in an orange beanie at a second drum set. The stage is illuminated with purple and pink lighting against a black background, with various microphone stands and equipment visible.",
+    "tags": [
+      "live music",
+      "concert photography",
+      "stage lighting",
+      "musicians",
+      "drums",
+      "guitar",
+      "bass",
+      "performance",
+      "band",
+      "purple lighting",
+      "Tortoise"
+    ],
+    "dateAdded": "2025-12-20T12:50:37.950Z"
+  },
+  {
     "filename": "L1002001.jpg",
     "image": "/img/photos/L1002001.jpg",
     "thumbnail": "/img/thumbnails/L1002001.jpg",
