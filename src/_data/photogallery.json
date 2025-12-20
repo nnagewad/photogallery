@@ -1,5 +1,40 @@
 [
   {
+    "filename": "L1001894.jpg",
+    "image": "/img/photos/L1001894.jpg",
+    "thumbnail": "/img/thumbnails/L1001894.jpg",
+    "opengraph": "/img/open-graph/L1001894.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/30",
+    "aperture": "f/2.8",
+    "dateTaken": "2025:12:11 19:32:43",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.565138,
+      "lon": -0.105349
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Celebration Behind Purple Glass",
+    "alt": "A woman with glasses and long hair wearing a sparkly dark sweater smiles warmly in the foreground of what appears to be a karaoke room or bar, bathed in purple and blue lighting. Behind her, other people are visible including someone in a patterned sweater, with illuminated display screens and entertainment equipment visible in the background.",
+    "tags": [
+      "karaoke",
+      "nightlife",
+      "purple lighting",
+      "social gathering",
+      "entertainment venue",
+      "neon ambiance",
+      "group celebration",
+      "bar atmosphere"
+    ],
+    "dateAdded": "2025-12-20T12:23:45.267Z"
+  },
+  {
     "filename": "L1001861.jpg",
     "image": "/img/photos/L1001861.jpg",
     "thumbnail": "/img/thumbnails/L1001861.jpg",
