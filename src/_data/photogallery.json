@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002001.jpg",
+    "image": "/img/photos/L1002001.jpg",
+    "thumbnail": "/img/thumbnails/L1002001.jpg",
+    "opengraph": "/img/open-graph/L1002001.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "0.5",
+    "aperture": "f/13.0",
+    "dateTaken": "2025:12:13 16:45:53",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.539597,
+      "lon": -0.160423
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Congregation of Twilight Pilgrims",
+    "alt": "Silhouettes of a large group of people standing on a hillside against a dramatic twilight sky with deep blue clouds above and warm orange light near the horizon. Bare trees frame the scene as the crowd appears to be gathered for an event or gathering during the golden hour.",
+    "tags": [
+      "silhouette",
+      "crowd",
+      "twilight",
+      "gathering",
+      "hillside",
+      "sunset",
+      "community",
+      "dramatic sky",
+      "pilgrimage",
+      "Primrose Hill"
+    ],
+    "dateAdded": "2025-12-20T12:40:10.755Z"
+  },
+  {
     "filename": "L1002028.jpg",
     "image": "/img/photos/L1002028.jpg",
     "thumbnail": "/img/thumbnails/L1002028.jpg",
