@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1002028.jpg",
+    "image": "/img/photos/L1002028.jpg",
+    "thumbnail": "/img/thumbnails/L1002028.jpg",
+    "opengraph": "/img/open-graph/L1002028.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:12:19 16:50:09",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.500078,
+      "lon": -0.20018
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Observer's Red Reflection",
+    "alt": "A person wearing glasses and an orange shirt sits in contemplation in front of a dark red museum wall, beneath a framed red sketch portrait of a bearded man in a knit cap (Bill Murray as Steve Zissou) drawn on sheet music",
+    "tags": [
+      "museum",
+      "portrait",
+      "contemplation",
+      "red artwork",
+      "gallery visitor",
+      "sheet music art",
+      "bearded subject",
+      "orange clothing",
+      "glasses",
+      "cultural space",
+      "Design Museum",
+      "Wes Anderson",
+      "Bill Murray",
+      "Steve Zissou"
+    ],
+    "dateAdded": "2025-12-20T12:28:49.231Z"
+  },
+  {
     "filename": "L1001986.jpg",
     "image": "/img/photos/L1001986.jpg",
     "thumbnail": "/img/thumbnails/L1001986.jpg",
