@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1001986.jpg",
+    "image": "/img/photos/L1001986.jpg",
+    "thumbnail": "/img/thumbnails/L1001986.jpg",
+    "opengraph": "/img/open-graph/L1001986.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 3200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:12:13 14:59:28",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.57055,
+      "lon": -0.145991
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Honky-Tonk Confessional",
+    "alt": "A woman with long red hair wearing a black cowboy hat and red plaid shirt sits at a bar counter in a dimly lit honky-tonk establishment. The background features colorful neon lights, a Tiffany-style lamp, and various bar memorabilia creating an authentic dive bar atmosphere.",
+    "tags": [
+      "cowboy hat",
+      "red hair",
+      "plaid shirt",
+      "bar",
+      "neon lights",
+      "honky-tonk",
+      "nightlife",
+      "western style",
+      "dive bar",
+      "atmospheric lighting"
+    ],
+    "dateAdded": "2025-12-20T12:26:07.806Z"
+  },
+  {
     "filename": "L1001894.jpg",
     "image": "/img/photos/L1001894.jpg",
     "thumbnail": "/img/thumbnails/L1001894.jpg",
