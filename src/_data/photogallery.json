@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1002036.jpg",
+    "image": "/img/photos/L1002036.jpg",
+    "thumbnail": "/img/thumbnails/L1002036.jpg",
+    "opengraph": "/img/open-graph/L1002036.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/9.0",
+    "dateTaken": "2025:12:24 07:23:44",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.5356,
+      "lon": -79.598544
+    },
+    "localized": "Mississauga",
+    "country": "Canada",
+    "title": "The Mirror's Morning Prayer",
+    "alt": "A serene twilight seascape showing a perfectly calm body of water reflecting dramatic clouds and a vibrant orange sunset glow on the horizon, creating a mirror-like surface that doubles the sky's beauty",
+    "tags": [
+      "sunset",
+      "reflection",
+      "seascape",
+      "twilight",
+      "clouds",
+      "calm water",
+      "horizon",
+      "golden hour",
+      "tranquil",
+      "symmetry",
+      "Lake Ontario"
+    ],
+    "dateAdded": "2025-12-24T13:29:00.752Z"
+  },
+  {
     "filename": "L1001841.jpg",
     "image": "/img/photos/L1001841.jpg",
     "thumbnail": "/img/thumbnails/L1001841.jpg",
