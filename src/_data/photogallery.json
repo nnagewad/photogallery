@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002049.jpg",
+    "image": "/img/photos/L1002049.jpg",
+    "thumbnail": "/img/thumbnails/L1002049.jpg",
+    "opengraph": "/img/open-graph/L1002049.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2025:12:29 19:36:32",
+    "dimensions": {
+      "width": 2048,
+      "height": 1349
+    },
+    "gps": {
+      "lat": 43.573063,
+      "lon": -79.561938
+    },
+    "localized": "Mississauga",
+    "country": "Canada",
+    "title": "The Keeper of Maritime Memories",
+    "alt": "A man with a beard sits at a wooden table in a dimly lit nautical-themed bar, smiling warmly at the camera. Behind him, a model sailboat with white sails hangs from the ceiling, and wooden walls display maritime memorabilia including what appears to be a menu board. The atmosphere is cozy and intimate with warm amber lighting.",
+    "tags": [
+      "portrait",
+      "nautical",
+      "pub",
+      "maritime",
+      "model sailboat",
+      "wooden interior",
+      "warm lighting",
+      "beard",
+      "intimate atmosphere",
+      "tavern"
+    ],
+    "dateAdded": "2025-12-30T14:08:07.384Z"
+  },
+  {
     "filename": "L1002036.jpg",
     "image": "/img/photos/L1002036.jpg",
     "thumbnail": "/img/thumbnails/L1002036.jpg",
