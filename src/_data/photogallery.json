@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002052.jpg",
+    "image": "/img/photos/L1002052.jpg",
+    "thumbnail": "/img/thumbnails/L1002052.jpg",
+    "opengraph": "/img/open-graph/L1002052.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/30",
+    "aperture": "f/2.5",
+    "dateTaken": "2025:12:30 22:56:41",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.670111,
+      "lon": -79.429764
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Covenant of Candlelit Conversations",
+    "alt": "Black and white photograph of two men sitting at a table in an intimate restaurant or café setting. An older man in dark clothing leans forward in conversation with a younger man in a light t-shirt who is smiling. A small glass oil lamp or candle provides warm lighting between them. The background shows other diners, decorative plants, and ambient restaurant lighting with a nostalgic, cinematic quality.",
+    "tags": [
+      "conversation",
+      "intergenerational",
+      "restaurant",
+      "candlelight",
+      "black and white",
+      "intimacy",
+      "mentorship",
+      "dining",
+      "atmospheric lighting",
+      "human connection"
+    ],
+    "dateAdded": "2026-01-06T00:51:52.751Z"
+  },
+  {
     "filename": "L1002059.jpg",
     "image": "/img/photos/L1002059.jpg",
     "thumbnail": "/img/thumbnails/L1002059.jpg",
