@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002074.jpg",
+    "image": "/img/photos/L1002074.jpg",
+    "thumbnail": "/img/thumbnails/L1002074.jpg",
+    "opengraph": "/img/open-graph/L1002074.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:01:03 13:31:34",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.663423,
+      "lon": -79.418261
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Interior Cartographer's Portrait",
+    "alt": "A woman with long blonde hair wearing a dark maroon zip-up jumpsuit sits smiling in a modern living room. Behind her are framed artworks on the wall, a cream-colored armchair, and a side table with a distinctive lamp featuring a white shade and dark metallic base. The room has gray walls and warm lighting.",
+    "tags": [
+      "portrait",
+      "interior design",
+      "modern living room",
+      "natural lighting",
+      "contemporary art",
+      "home decor",
+      "residential space",
+      "blonde woman",
+      "cozy atmosphere",
+      "mid-century modern furniture"
+    ],
+    "dateAdded": "2026-01-06T03:06:27.040Z"
+  },
+  {
     "filename": "L1002106.jpg",
     "image": "/img/photos/L1002106.jpg",
     "thumbnail": "/img/thumbnails/L1002106.jpg",
