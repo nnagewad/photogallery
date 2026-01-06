@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1002106.jpg",
+    "image": "/img/photos/L1002106.jpg",
+    "thumbnail": "/img/thumbnails/L1002106.jpg",
+    "opengraph": "/img/open-graph/L1002106.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/4.5",
+    "dateTaken": "2026:01:03 15:10:48",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.654643,
+      "lon": -79.445113
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Gallery of Witnessed Landscapes",
+    "alt": "A woman in a denim shirt stands beside a concrete pillar in a modern gallery space, while several visitors view large photographic prints of natural landscapes displayed on white walls. The industrial ceiling features exposed track lighting.",
+    "tags": [
+      "gallery",
+      "photography exhibition",
+      "concrete architecture",
+      "nature photography",
+      "museum visitors",
+      "contemporary art space",
+      "landscape prints",
+      "industrial interior",
+      "cultural viewing",
+      "Jeff Wall",
+      "Museum of Contemporary Art"
+    ],
+    "dateAdded": "2026-01-06T02:55:22.086Z"
+  },
+  {
     "filename": "L1002069.jpg",
     "image": "/img/photos/L1002069.jpg",
     "thumbnail": "/img/thumbnails/L1002069.jpg",
