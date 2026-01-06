@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002055.jpg",
+    "image": "/img/photos/L1002055.jpg",
+    "thumbnail": "/img/thumbnails/L1002055.jpg",
+    "opengraph": "/img/open-graph/L1002055.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/30",
+    "aperture": "f/2.2",
+    "dateTaken": "2025:12:31 00:09:17",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.670111,
+      "lon": -79.429764
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Laboratory of Suspended Constellations",
+    "alt": "A person with dark hair wearing a brown sweater stands behind dj decks in a dimly lit modern interior space. The scene is illuminated by a desk lamp and ambient lighting, with bokeh light effects creating a constellation-like pattern across the walls and ceiling. The workspace appears to contain various objects and equipment, creating an atmospheric, contemplative setting.",
+    "tags": [
+      "portrait",
+      "workspace",
+      "ambient lighting",
+      "bokeh effects",
+      "contemplation",
+      "modern interior",
+      "desk lamp",
+      "atmospheric",
+      "night photography",
+      "study space"
+    ],
+    "dateAdded": "2026-01-06T02:06:23.323Z"
+  },
+  {
     "filename": "L1002049.jpg",
     "image": "/img/photos/L1002049.jpg",
     "thumbnail": "/img/thumbnails/L1002049.jpg",
