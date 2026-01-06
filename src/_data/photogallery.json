@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002069.jpg",
+    "image": "/img/photos/L1002069.jpg",
+    "thumbnail": "/img/thumbnails/L1002069.jpg",
+    "opengraph": "/img/open-graph/L1002069.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:01:02 13:54:08",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.665637,
+      "lon": -79.473419
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Café Philosopher's Eye",
+    "alt": "A contemplative middle-aged man with dark hair and beard sits in a dimly lit café, his head resting thoughtfully on his hand. Behind him is a poster featuring a stylized blue eye logo for 'Galileo'. On the table are a glass of water, a bottle, and a white coffee cup. The scene has an intimate, philosophical atmosphere with warm lighting contrasting against dark teal walls.",
+    "tags": [
+      "portrait",
+      "contemplation",
+      "café",
+      "philosopher",
+      "introspection",
+      "blue eye",
+      "galileo poster",
+      "coffee shop",
+      "thoughtful pose",
+      "atmospheric lighting"
+    ],
+    "dateAdded": "2026-01-06T00:57:46.407Z"
+  },
+  {
     "filename": "L1002052.jpg",
     "image": "/img/photos/L1002052.jpg",
     "thumbnail": "/img/thumbnails/L1002052.jpg",
