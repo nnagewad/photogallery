@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1002116.jpg",
+    "image": "/img/photos/L1002116.jpg",
+    "thumbnail": "/img/thumbnails/L1002116.jpg",
+    "opengraph": "/img/open-graph/L1002116.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:01:03 15:19:56",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.654643,
+      "lon": -79.445113
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Wanderer's Digital Testament",
+    "alt": "A young woman with dark wavy hair wearing a purple cardigan, dark top, and light jeans stands in a modern institutional hallway with exposed ceiling infrastructure, looking at a wall-mounted digital screen while carrying a dark bag",
+    "tags": [
+      "museum",
+      "gallery",
+      "digital display",
+      "corridor",
+      "contemplation",
+      "technology",
+      "architecture",
+      "institutional space",
+      "visitor",
+      "modern interior",
+      "Jeff Wall",
+      "Museum of Contemporary Art"
+    ],
+    "dateAdded": "2026-01-06T03:12:47.584Z"
+  },
+  {
     "filename": "L1002074.jpg",
     "image": "/img/photos/L1002074.jpg",
     "thumbnail": "/img/thumbnails/L1002074.jpg",
