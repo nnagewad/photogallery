@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1002059.jpg",
+    "image": "/img/photos/L1002059.jpg",
+    "thumbnail": "/img/thumbnails/L1002059.jpg",
+    "opengraph": "/img/open-graph/L1002059.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/30",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:01:01 16:51:23",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.683333,
+      "lon": -79.446389
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Democracy of Shared Blankets",
+    "alt": "Four people of different ages and backgrounds sit together on an orange couch under a colorful crocheted blanket, illuminated by warm evening light from a window, with a floral art poster visible on the wall behind them",
+    "tags": [
+      "friendship",
+      "diversity",
+      "couch",
+      "blanket",
+      "evening light",
+      "togetherness",
+      "community",
+      "domestic scene",
+      "intergenerational",
+      "warmth",
+      "New Year's Day"
+    ],
+    "dateAdded": "2026-01-06T00:46:43.394Z"
+  },
+  {
     "filename": "L1002049.jpg",
     "image": "/img/photos/L1002049.jpg",
     "thumbnail": "/img/thumbnails/L1002049.jpg",
