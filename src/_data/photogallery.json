@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002055.jpg",
+    "image": "/img/photos/L1002055.jpg",
+    "thumbnail": "/img/thumbnails/L1002055.jpg",
+    "opengraph": "/img/open-graph/L1002055.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 6400,
+    "shutterSpeed": "1/30",
+    "aperture": "f/2.2",
+    "dateTaken": "2025:12:31 00:09:17",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.670111,
+      "lon": -79.429764
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Starlight Disc Jockey",
+    "alt": "A person in a tan sweater sits at a desk working under a focused desk lamp in a dimly lit room with projected stars on the walls and ceiling, creating an intimate workspace that blends technology with celestial ambiance",
+    "tags": [
+      "desk lamp",
+      "starlight projection",
+      "workspace",
+      "night scene",
+      "concentration",
+      "ambient lighting",
+      "interior design",
+      "technology",
+      "solitude",
+      "creative space"
+    ],
+    "dateAdded": "2026-01-06T01:02:40.712Z"
+  },
+  {
     "filename": "L1002069.jpg",
     "image": "/img/photos/L1002069.jpg",
     "thumbnail": "/img/thumbnails/L1002069.jpg",
