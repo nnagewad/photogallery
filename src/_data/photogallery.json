@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002069.jpg",
+    "image": "/img/photos/L1002069.jpg",
+    "thumbnail": "/img/thumbnails/L1002069.jpg",
+    "opengraph": "/img/open-graph/L1002069.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:01:02 13:54:08",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.665637,
+      "lon": -79.473419
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Philosopher's Café Paradox",
+    "alt": "A contemplative middle-aged man with beard and gray hair rests his chin on his hand while sitting at a café table, with a glass of water, coffee cup, and bottle visible. Behind him is a white poster featuring a stylized blue eye logo for 'Galileo' against dark vertical blinds, with warm lighting creating an intimate atmosphere.",
+    "tags": [
+      "portrait",
+      "contemplation",
+      "café",
+      "eye symbol",
+      "introspection",
+      "warm lighting",
+      "philosophy",
+      "galileo poster",
+      "pensitive mood",
+      "urban interior"
+    ],
+    "dateAdded": "2026-01-06T02:15:40.737Z"
+  },
+  {
     "filename": "L1002059.jpg",
     "image": "/img/photos/L1002059.jpg",
     "thumbnail": "/img/thumbnails/L1002059.jpg",
