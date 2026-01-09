@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002162.jpg",
+    "image": "/img/photos/L1002162.jpg",
+    "thumbnail": "/img/thumbnails/L1002162.jpg",
+    "opengraph": "/img/open-graph/L1002162.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/500",
+    "aperture": "f/16.0",
+    "dateTaken": "2026:01:07 11:08:50",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.63,
+      "lon": -4.297389
+    },
+    "localized": "Llangennith",
+    "country": "United Kingdom",
+    "title": "The Curvature of Tomorrow",
+    "alt": "Aerial view of Earth's curvature from high altitude showing the thin blue atmosphere layer transitioning from bright blue sky to deep space black, with scattered white clouds and landmasses visible below",
+    "tags": [
+      "aerial photography",
+      "Earth curvature",
+      "atmosphere",
+      "space view",
+      "blue gradient",
+      "clouds",
+      "horizon",
+      "stratosphere",
+      "cosmic perspective",
+      "planetary"
+    ],
+    "dateAdded": "2026-01-09T17:49:51.056Z"
+  },
+  {
     "filename": "L1002116.jpg",
     "image": "/img/photos/L1002116.jpg",
     "thumbnail": "/img/thumbnails/L1002116.jpg",
