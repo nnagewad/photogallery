@@ -1,20 +1,8 @@
-{% from 'macros/socialIcons.njk' import socialIcon %}
-
 <footer class='wrapper flex-container--wrap'>
   {% include 'partials/switch.njk' %}
-  <ul class='list-horizontal horizontal-gap--7'>
-    {% for social in site.socials %}
-      <li>
-        <a class='social-icon' href='{{ social.url }}' rel='noopener noreferrer' target='_blank'>
-          <span class='visually-hidden'>{{ social.name }} (opens in a new tab)</span>
-          {{ socialIcon(social.icon) }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
-  <div class="visually-hidden">
-    <small>Website was designed and built by {{ site.fullName }}</small>
-    <dl>
+  <div>
+    <small class="font-size--2">Designed and developed by <a href="https://nikin.design">{{ site.fullName }}</a></small>
+    <dl class="visually-hidden">
       <dt><small>Last update:</small></dt>
       <dd>
         <time datetime='{{ helpers.builtAtISO }}'>

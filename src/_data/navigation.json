@@ -11,6 +11,10 @@
     {
       "text": "Search",
       "url": "/search/" 
+    },
+    {
+      "text": "RSS",
+      "url": "/feed.xml"
     }
   ]
 }

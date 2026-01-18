@@ -4,17 +4,5 @@
   "url": "https://everydaylens.photos",
   "robots": "/robots.txt",
   "siteMap": "/sitemap.xml",
-  "language": "en",
-  "socials": [
-    {
-      "name": "Nikin's GitHub profile",
-      "url": "https://github.com/nnagewad",
-      "icon": "icons/github.svg"
-    },
-    {
-      "name": "RSS Feed for this site",
-      "url": "/feed.xml",
-      "icon": "icons/rss-feed.svg"      
-    }
-  ]
+  "language": "en"
 }
