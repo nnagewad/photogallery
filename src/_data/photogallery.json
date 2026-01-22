@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1002078.jpg",
+    "image": "/img/photos/L1002078.jpg",
+    "thumbnail": "/img/thumbnails/L1002078.jpg",
+    "opengraph": "/img/open-graph/L1002078.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/30",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:01:03 13:40:36",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.663423,
+      "lon": -79.418261
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Sentinel of Domestic Shadows",
+    "alt": "A black and white portrait of a young black kitten sitting on a wooden floor, gazing directly at the camera with bright, alert eyes. The kitten appears is positioned in front of blurred furniture including what looks like a chair, creating an intimate domestic scene with soft lighting.",
+    "tags": [
+      "kitten",
+      "black cat",
+      "portrait",
+      "domestic",
+      "monochrome",
+      "pet photography",
+      "home interior",
+      "feline",
+      "whiskers"
+    ],
+    "dateAdded": "2026-01-22T22:26:59.788Z"
+  },
+  {
     "filename": "L1002162.jpg",
     "image": "/img/photos/L1002162.jpg",
     "thumbnail": "/img/thumbnails/L1002162.jpg",
