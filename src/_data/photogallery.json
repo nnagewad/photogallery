@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002171.jpg",
+    "image": "/img/photos/L1002171.jpg",
+    "thumbnail": "/img/thumbnails/L1002171.jpg",
+    "opengraph": "/img/open-graph/L1002171.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/250",
+    "aperture": "f/8.0",
+    "dateTaken": "2026:01:29 04:04:53",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.518036,
+      "lon": -0.088919
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Cathedral of Glass and Steel",
+    "alt": "Dramatic low-angle view of modern skyscrapers with glass and steel facades featuring geometric patterns and exposed structural elements, shot against a moody cloudy sky in monochromatic tones",
+    "tags": [
+      "architecture",
+      "skyscrapers",
+      "modern buildings",
+      "geometric design",
+      "urban photography",
+      "monochrome",
+      "structural elements",
+      "glass facades",
+      "dramatic perspective",
+      "contemporary architecture"
+    ],
+    "dateAdded": "2026-01-29T22:57:59.597Z"
+  },
+  {
     "filename": "L1002078.jpg",
     "image": "/img/photos/L1002078.jpg",
     "thumbnail": "/img/thumbnails/L1002078.jpg",
