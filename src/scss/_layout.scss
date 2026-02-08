@@ -9,6 +9,7 @@ header {
   @include borders-mixins.thick-divider(bottom);
   @include spacing-mixins.spacing(top, 6, padding);
   @include spacing-mixins.spacing(bottom, 4, padding);
+  align-items: flex-end;
 }
 
 footer {
