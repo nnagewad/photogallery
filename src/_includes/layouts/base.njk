@@ -1,5 +1,3 @@
-{% set assetHash = global.random() %}
-
 <!DOCTYPE html>
 <html lang="{{ site.language }}" class='no-js'>
   <head>
@@ -11,7 +9,10 @@
     {% if layout == 'layouts/search.njk' %}
       <script src="/pagefind/pagefind-ui.js"></script>
     {% endif %}
-    <link rel='stylesheet' href='/css/style.css?{{ assetHash }}' />
+    {% set css %}
+      {% include "style.css" %}
+    {% endset %}
+    <style>{{ css | cssmin | safe }}</style>
   </head>
   <body>
     {% include 'partials/site-header.njk' %}

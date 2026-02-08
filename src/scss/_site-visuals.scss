@@ -1,13 +1,3 @@
-.icon-size,
-.social-icon {
-  height: var(--pixel-40);
-  width: auto;
-}
-
-.social-icon {
-  display: block;
-}
-
 .site-header-image--placeholder:focus-visible {
   .site-header-image {
     fill: var(--color-focus-text);

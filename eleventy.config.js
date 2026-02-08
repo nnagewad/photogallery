@@ -4,6 +4,7 @@ import { execSync } from 'node:child_process';
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import pluginRss from "@11ty/eleventy-plugin-rss";
 import { minify } from 'terser';
+import CleanCSS from 'clean-css';
 import htmlmin from 'html-minifier-terser';
 import apiToISO from "./src/_filters/api-to-iso.js";
 import apiToDate from "./src/_filters/api-to-date.js";
@@ -26,7 +27,7 @@ export default async function(eleventyConfig) {
     eleventyConfig.setUseGitIgnore(false);
 
     eleventyConfig.setServerOptions({
-        watch: ['./_site/css/**/*.css'],
+        watch: ['./src/_includes/style.css'],
     });
 
     // Plugins (add early so they can be configured)
@@ -86,6 +87,11 @@ export default async function(eleventyConfig) {
         return map;
     });
     // --- End Dynamic Mapping ---
+
+    // Filters
+    eleventyConfig.addFilter('cssmin', function (code) {
+        return new CleanCSS({}).minify(code).styles;
+    });
 
     // Async filters
     eleventyConfig.addNunjucksAsyncFilter('jsmin', async function (

@@ -42,11 +42,3 @@ button {
 .theme-toggle {
   @extend select ;
 }
-/* If there’s no JS, there’s no need to show */
-.no-js .user-toggle {
-  display: none;
-}
-
-.theme-toggle {
-  @extend select ;
-}
