@@ -11,7 +11,7 @@
     "watch:sass": "sass --watch src/scss/style.scss:src/_includes/style.css --style=compressed",
     "watch:eleventy": "eleventy --serve",
     "start": "npm run build:sass && concurrently \"npm run watch:sass\" \"npm run watch:eleventy\"",
-    "build:sass": "sass src/scss/style.scss:src/_includes/style.css --style=compressed --no-source-map",
+    "build:sass": "sass src/scss/style.scss:src/_includes/style.css --style=compressed",
     "build": "npm run build:sass && eleventy"
   },
   "repository": {
