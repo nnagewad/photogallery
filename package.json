@@ -8,10 +8,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "update-gallery": "node scripts/update-gallery.js",
     "delete-photos": "node scripts/delete-photos.js",
-    "watch:sass": "sass --watch src/scss:_site/css --style=compressed",
+    "watch:sass": "sass --watch src/scss/style.scss:src/_includes/style.css --style=compressed",
     "watch:eleventy": "eleventy --serve",
-    "start": "concurrently \"npm run watch:sass\" \"npm run watch:eleventy\"",
-    "build": "concurrently \"sass src/scss:_site/css --style=compressed\" \"eleventy\""
+    "start": "npm run build:sass && concurrently \"npm run watch:sass\" \"npm run watch:eleventy\"",
+    "build:sass": "sass src/scss/style.scss:src/_includes/style.css --style=compressed --no-source-map",
+    "build": "npm run build:sass && eleventy"
   },
   "repository": {
     "type": "git",
@@ -34,6 +35,7 @@
     "luxon": "^3.7.2"
   },
   "devDependencies": {
+    "clean-css": "^5.3.3",
     "concurrently": "^9.2.1",
     "html-minifier-terser": "^7.2.0",
     "netlify-plugin-cache": "^1.0.3",
