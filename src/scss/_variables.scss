@@ -72,16 +72,10 @@
   :root {
     color-scheme: dark;
   }
-  :root:not([data-user-color-scheme]) {
-    color-scheme: dark;
-  }
 }
 
 @media (prefers-color-scheme: light) {
   :root {
-    color-scheme: light;
-  }
-  :root:not([data-user-color-scheme]) {
     color-scheme: light;
   }
 }

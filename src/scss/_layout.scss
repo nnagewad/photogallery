@@ -7,23 +7,23 @@ body {
 
 header {
   @include borders-mixins.thick-divider(bottom);
-  @include spacing-mixins.top-6(padding);
-  @include spacing-mixins.bottom-4(padding);
+  @include spacing-mixins.spacing(top, 6, padding);
+  @include spacing-mixins.spacing(bottom, 4, padding);
 }
 
 footer {
   @include borders-mixins.thick-divider(top);
-  @include spacing-mixins.top-6(padding);
-  @include spacing-mixins.bottom-6(padding);
+  @include spacing-mixins.spacing(top, 6, padding);
+  @include spacing-mixins.spacing(bottom, 6, padding);
 }
 
 main {
-  @include spacing-mixins.top-6(padding);
-  @include spacing-mixins.bottom-8(padding);
+  @include spacing-mixins.spacing(top, 6, padding);
+  @include spacing-mixins.spacing(bottom, 8, padding);
 }
 
 .about-page {
-  @include spacing-mixins.bottom-9(padding);
+  @include spacing-mixins.spacing(bottom, 9, padding);
 }
 
 .wrapper {
@@ -60,10 +60,6 @@ main {
   img {
     margin: 0;
   }
-}
-
-.vertical-align-bottom {
-  align-items: flex-end;
 }
 
 .grid-container {

@@ -1,7 +1,7 @@
 @use "spacing-mixins";
 
 .pagination {
-  @include spacing-mixins.top-9(margin);
+  @include spacing-mixins.spacing(top, 9, margin);
 }
 
 .pagination > ul {
