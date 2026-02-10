@@ -1,4 +1,3 @@
-@use "sass:math";
 @use "spacing-mixins";
 
 body {
@@ -15,13 +14,29 @@ p {
 
 a {
   text-underline-offset: 0.3125em;
-  text-decoration-thickness: math.max(0.0625rem);
+  text-decoration-thickness: 0.0625rem;
+  color: var(--color-link);
   @media (hover: hover) {
     &:hover,
     &[aria-current=page] {
-      text-decoration-thickness: math.max(0.188rem);
+      text-decoration-thickness: 0.188rem;
       text-decoration-skip-ink: none;
     }
+    &:hover {
+      color: var(--color-hover);
+    }
+  }
+  &:active {
+    color: var(--color-active);
+  }
+  &:focus-visible {
+    box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--focus-underline) var(--color-focus-border);
+    background: var(--color-focus);
+    color: var(--color-focus-text);
+    text-decoration-skip-ink: none;
+    --focus-background: -0.55rem;
+    text-decoration: none;
+    outline: var(--spacing-0) solid transparent;
   }
 }
 
@@ -102,7 +117,7 @@ a {
   margin-bottom: 0;
 }
 
-.view-map-link, .gallery-nav-link {
+.gallery-nav-link {
   @extend .font-size--1;
   @extend .lowercase;
 }
@@ -138,7 +153,6 @@ ul {
 .list-horizontal {
   display: flex;
   flex-wrap: wrap;
-  justify-content: flex-start;
   li {
     flex-basis: max-content;
     margin-bottom: 0;
@@ -151,29 +165,6 @@ ul {
   }
 }
 
-a:focus-visible {
-  box-shadow: 0 var(--focus-background) var(--color-focus),0 var(--focus-underline) var(--color-focus-border);
-}
-
-a {
-  color: var(--color-link);
-  @media (hover: hover) {
-    &:hover {
-      color: var(--color-hover);
-    }
-  }
-  &:active {
-    color: var(--color-active);
-  }
-  &:focus-visible {
-    background: var(--color-focus);
-    color: var(--color-focus-text);
-    text-decoration-skip-ink: none;
-    --focus-background: -0.55rem;
-    text-decoration: none;
-    outline: var(--spacing-0) solid transparent;
-  }
-}
 
 .header-menu-items {
   font-weight: var(--font-weight-semibold);

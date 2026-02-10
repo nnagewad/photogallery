@@ -64,8 +64,8 @@
   --color-secondary-button-background: var(--color-background);
   --color-secondary-button-text: var(--color-link);
   --color-secondary-button-border: var(--color-link);
-  --color-mark-background: light-dark(var(--color-orange), var(--color-orange));
-  --color-mark-text: light-dark(var(--color-black), var(--color-black));
+  --color-mark-background: var(--color-orange);
+  --color-mark-text: var(--color-black);
 }
 
 [data-user-color-scheme='dark'] {
