@@ -33,22 +33,14 @@
   <meta property="og:description" content="{{ metaDesc }}" />
 {% endif %}
 
-{% if layout == 'layouts/photogallery.njk' %}
-  <meta property="og:image" content="/img/open-graph/homepage.png" />
-  <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:alt" content="A blue eye icon with a globe design in the center on a light grey background." />
-{% elif layout == 'layouts/about.njk' %}
-  <meta property="og:image" content="/img/open-graph/about.png" />
-  <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:alt" content="Yellow-green eye shape with a black globe in the center on a black background." />
-{% elif layout == 'layouts/404.njk' %}
-  <meta property="og:image" content="/img/open-graph/404.png" />
-  <meta property="og:image:type" content="image/png" />
-  <meta property="og:image:alt" content="A stylized dark blue eye containing a lime green globe on a lime green background." />
-{% elif layout == 'layouts/photo.njk' %}
+{% if layout == 'layouts/photo.njk' %}
   <meta property="og:image" content="{{ opengraph }}" />
   <meta property="og:image:type" content="image/jpg" />
   <meta property="og:image:alt" content="{{ alt }}" />
+{% else %}
+  <meta property="og:image" content="/img/open-graph/default.png" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:alt" content="A blue eye icon with a globe design in the center on a light grey background." />
 {% endif %}
 
 {% if noFollow %}
