@@ -10,7 +10,7 @@
         <polygon points="7.9 1.4 6.6 0 0 6.6 6.6 13.1 7.9 11.7 2.8 6.6 7.9 1.4"/>
       </svg>
       <a data-pagefind-ignore class="gallery-nav-link" href="{{ backUrl }}">
-        Back to gallery
+        Back
       </a>
   </nav>
 
@@ -53,7 +53,7 @@
             <div class='list-horizontal horizontal-gap--2'>
               <dt class='data-key' data-pagefind-ignore>Location:</dt>
               <dd class='data-value'>
-                <span>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</span> <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link" data-pagefind-ignore>(view in Google Maps)</a>
+                <span>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</span>
               </dd>
             </div>
           {% endif %}
