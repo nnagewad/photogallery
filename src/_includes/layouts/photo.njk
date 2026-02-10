@@ -53,7 +53,7 @@
             <div class='list-horizontal horizontal-gap--2'>
               <dt class='data-key' data-pagefind-ignore>Location:</dt>
               <dd class='data-value'>
-                <span>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</span> <a href="https://www.google.com/maps?q={{ photo.gps.lat }},{{ photo.gps.lon }}" rel="noopener noreferrer" target="_blank" class="view-map-link" data-pagefind-ignore>(view in Google Maps)</a>
+                <span>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</span>
               </dd>
             </div>
           {% endif %}
