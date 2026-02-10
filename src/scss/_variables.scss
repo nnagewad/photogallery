@@ -68,18 +68,6 @@
   --color-mark-text: light-dark(var(--color-black), var(--color-black));
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    color-scheme: dark;
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color-scheme: light;
-  }
-}
-
 [data-user-color-scheme='dark'] {
   color-scheme: dark;
 }
