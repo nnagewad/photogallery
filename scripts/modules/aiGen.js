@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 
 const CLAUDE_API_KEY = process.env.CLAUDE_API_KEY;
 
-export async function analyzeImage(filePath, existingTitles = []) {
+export async function analyzeImage(filePath, existingTitles = [], existingTags = []) {
   const imageBuffer = await fs.readFile(filePath);
   const base64Image = imageBuffer.toString('base64');
 
@@ -37,6 +37,8 @@ export async function analyzeImage(filePath, existingTitles = []) {
             ${existingTitles.length > 0 ? `IMPORTANT: Avoid using any of these existing titles that are already used in the gallery:
             ${existingTitles.map(title => `- "${title}"`).join('\n')}
             Make sure your title is completely different and unique from all of the above.` : ''}
+            ${existingTags.length > 0 ? `IMPORTANT: Before creating new tags, check this list of existing tags used in the gallery and reuse them where they fit. Only create a new tag if none of the existing tags adequately describe the concept:
+            ${existingTags.map(tag => `"${tag}"`).join(', ')}` : ''}
             Respond only as JSON like:
             {
               "title": "...",

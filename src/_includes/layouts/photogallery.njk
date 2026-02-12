@@ -1,10 +1,22 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
+  {% if tag or country or city %}
+    {% include 'partials/back-link.njk' %}
+  {% endif %}
   <section>
     {% include 'partials/photogallery-page-title.njk' %}
     <div class="photogallery-container">
-      {% for photo in photogallery %}
+      {% if tag %}
+        {% set photos = photosByTag[tag] %}
+      {% elif country %}
+        {% set photos = photosByCountry[country] %}
+      {% elif city %}
+        {% set photos = photosByCity[city] %}
+      {% else %}
+        {% set photos = photogallery %}
+      {% endif %}
+      {% for photo in photos %}
         <a href="/photo/{{ photo.title | slugify }}/index.html" class="gallery-image">
           <span class="visually-hidden">Information about the photograph entitled: {{ photo.title | updateApostrophe }}</span>
           <figure>
@@ -14,5 +26,4 @@
       {% endfor %}
     </div>
   </section>
-  {% include 'partials/pagination.njk' %}
 {% endblock %}
