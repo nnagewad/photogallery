@@ -25,11 +25,12 @@ const knownFilenames = knownFiles.map(item => item.filename);
 const newFiles = filteredCurrentFiles.filter(f => !knownFilenames.includes(f));
 
 if (newFiles.length > 0) {
-  // Extract existing titles for AI to avoid duplicates
+  // Extract existing titles and tags for AI to avoid duplicates
   const existingTitles = knownFiles.map(item => item.title).filter(Boolean);
-  
+  const existingTags = [...new Set(knownFiles.flatMap(item => item.tags || []))];
+
   const newEntries = await Promise.all(
-    newFiles.map(file => processPhoto(file, folderPath, existingTitles))
+    newFiles.map(file => processPhoto(file, folderPath, existingTitles, existingTags))
   );
   knownFiles = [...newEntries, ...knownFiles];
   console.log(`Added ${newEntries.length} new file(s):`, newFiles);

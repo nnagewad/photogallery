@@ -5,7 +5,7 @@ import path from 'path';
 import sharp from 'sharp';
 import fs from 'fs/promises';
 
-export async function processPhoto(file, folderPath, existingTitles = []) {
+export async function processPhoto(file, folderPath, existingTitles = [], existingTags = []) {
   const filePath = path.join(folderPath, file);
 
   // Extract EXIF
@@ -22,7 +22,7 @@ export async function processPhoto(file, folderPath, existingTitles = []) {
   // Analyze with Claude
   let title = null, alt = '', tags = [];
   try {
-    const result = await analyzeImage(filePath, existingTitles);
+    const result = await analyzeImage(filePath, existingTitles, existingTags);
     title = result.title;
     tags = result.tags;
     alt = result.alt;
