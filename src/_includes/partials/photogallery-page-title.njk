@@ -7,6 +7,24 @@
       </span>
     </span>
   </h1>
+{% elif country %}
+  <h1>
+    <span class="caption-with-headline">
+      <span class="headline-caption">Country</span>
+      <span class="font-size-2 website-page--title">
+        {{ country }}
+      </span>
+    </span>
+  </h1>
+{% elif city %}
+  <h1>
+    <span class="caption-with-headline">
+      <span class="headline-caption">City</span>
+      <span class="font-size-2 website-page--title">
+        {{ city }}
+      </span>
+    </span>
+  </h1>
 {% else %}
   <h1>
     {% if pagination.href.previous or pagination.href.next %}
