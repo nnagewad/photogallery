@@ -1,10 +1,21 @@
-<h1>
-  {% if pagination.href.previous or pagination.href.next %}
+{% if tag %}
+  <h1>
     <span class="caption-with-headline">
-      <span class="headline-caption">Page {{ pagination.pageNumber + 1 }} <span class="visually-hidden">of</span></span>
-      <span class="font-size-2 website-page--title">{{ site.siteName }}</span>
+      <span class="headline-caption">Tag</span>
+      <span class="font-size-2 website-page--title">
+        {{ tag }}
+      </span>
     </span>
-  {% else %}
-    <span class="font-size-2 website-page--title">{{ site.siteName }}</span>
-  {% endif %}
-</h1>
+  </h1>
+{% else %}
+  <h1>
+    {% if pagination.href.previous or pagination.href.next %}
+      <span class="caption-with-headline">
+        <span class="headline-caption">Page {{ pagination.pageNumber + 1 }} <span class="visually-hidden">of</span></span>
+        <span class="font-size-2 website-page--title">{{ site.siteName }}</span>
+      </span>
+    {% else %}
+      <span class="font-size-2 website-page--title">{{ site.siteName }}</span>
+    {% endif %}
+  </h1>
+{% endif %}
