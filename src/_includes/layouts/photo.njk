@@ -5,14 +5,7 @@
   {# Look up the correct list page URL using the global map and the current post's URL #}
   {% set listUrl = photoToListMap[page.url] %}
   {% set backUrl = listUrl if listUrl else "/" %}
-  <nav class="gallery-nav">
-      <svg xmlns="http://www.w3.org/2000/svg" class="navigation-icons" width="7.9" height="13.1" aria-hidden="true" focusable="false" viewBox="0 0 7.9 13.1">
-        <polygon points="7.9 1.4 6.6 0 0 6.6 6.6 13.1 7.9 11.7 2.8 6.6 7.9 1.4"/>
-      </svg>
-      <a data-pagefind-ignore class="gallery-nav-link" href="{{ backUrl }}" onclick="if (document.referrer) { history.back(); return false; }">
-        Back
-      </a>
-  </nav>
+  {% include 'partials/back-link.njk' %}
 
   <article id='{{ photo.title | slugify }}' class='photo-details' data-pagefind-body>
     <h1 class='font-size-2 website-page--title'>{{ photo.title | updateApostrophe }}</h1>
@@ -34,30 +27,6 @@
       <figcaption class="photograph-details">
         <dl>
           <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key' data-pagefind-ignore>Date:</dt>
-            <dd class='data-value'>
-              <time datetime="{{ photo.dateTaken | apiToISO }}">
-                {{ photo.dateTaken | apiToDate }}
-              </time>
-            </dd>
-          </div>
-          <div class='list-horizontal horizontal-gap--2'>
-            <dt class='data-key' data-pagefind-ignore>Time:</dt>
-            <dd class='data-value'>
-              <time datetime="{{ photo.dateTaken | apiToISO }}">
-                {{ photo.dateTaken | apiToTime }}
-              </time>
-            </dd>
-          </div>
-          {% if photo.gps != null %}
-            <div class='list-horizontal horizontal-gap--2'>
-              <dt class='data-key' data-pagefind-ignore>Location:</dt>
-              <dd class='data-value'>
-                <span>{% if photo.localized != null %}{{ photo.localized }}, {% endif %}{{ photo.country }}</span>
-              </dd>
-            </div>
-          {% endif %}
-          <div class='list-horizontal horizontal-gap--2'>
             <dt class='data-key' data-pagefind-ignore>Camera:</dt>
             <dd class='data-value'>{{ photo.camera }}</dd>
           </div>
@@ -77,6 +46,30 @@
             <dt class='data-key' data-pagefind-ignore>Shutter speed:</dt>
             <dd class='data-value'>{{ photo.shutterSpeed }}</dd>
           </div>
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key' data-pagefind-ignore>Date:</dt>
+            <dd class='data-value'>
+              <time datetime="{{ photo.dateTaken | apiToISO }}">
+                {{ photo.dateTaken | apiToDate }}
+              </time>
+            </dd>
+          </div>
+          <div class='list-horizontal horizontal-gap--2'>
+            <dt class='data-key' data-pagefind-ignore>Time:</dt>
+            <dd class='data-value'>
+              <time datetime="{{ photo.dateTaken | apiToISO }}">
+                {{ photo.dateTaken | apiToTime }}
+              </time>
+            </dd>
+          </div>
+          {% if photo.gps != null %}
+            <div class='list-horizontal horizontal-gap--2'>
+              <dt class='data-key' data-pagefind-ignore>Location:</dt>
+              <dd class='data-value'>
+                <span>{% if photo.localized != null %}<a href="/city/{{ photo.localized | slugify }}/">{{ photo.localized }}</a>, {% endif %}<a href="/country/{{ photo.country | slugify }}/">{{ photo.country }}</a></span>
+              </dd>
+            </div>
+          {% endif %}
           <div class='list-horizontal horizontal-gap--2'>
             <dt class='data-key' data-pagefind-ignore>Tags:</dt>
             <dd>
