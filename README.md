@@ -26,6 +26,7 @@
     - [Utopia Fluid Typography calculator](https://utopia.fyi/type/calculator)
 - [Inline Minified CSS](https://www.11ty.dev/docs/quicktips/inline-css/)
 - [Inline Minified JavaScript](https://www.11ty.dev/docs/quicktips/inline-js/)
+- [Zero Maintenance Tag Pages](https://www.11ty.dev/docs/quicktips/tag-pages/)
 - [Adding a 404 Not Found Page to your Static Site](https://www.11ty.dev/docs/quicktips/not-found/)
 - [Minify HTML Output](https://www.11ty.dev/docs/config/#transforms-example-minify-html-output)
 - [Trigger a Netlify Build Every Day with IFTTT](https://www.11ty.dev/docs/quicktips/netlify-ifttt/)
