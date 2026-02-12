@@ -25,12 +25,12 @@
     "tags": [
       "architecture",
       "skyscrapers",
-      "modern buildings",
+      "modern",
       "geometric design",
-      "urban photography",
-      "monochrome",
+      "urban",
+      "black and white",
       "structural elements",
-      "glass facades",
+      "glass facade",
       "dramatic perspective",
       "contemporary architecture"
     ],
@@ -64,8 +64,8 @@
       "black cat",
       "portrait",
       "domestic",
-      "monochrome",
-      "pet photography",
+      "black and white",
+      "pet",
       "home interior",
       "feline",
       "whiskers"
@@ -96,7 +96,7 @@
     "title": "The Curvature of Tomorrow",
     "alt": "Aerial view of Earth's curvature from high altitude showing the thin blue atmosphere layer transitioning from bright blue sky to deep space black, with scattered white clouds and landmasses visible below",
     "tags": [
-      "aerial photography",
+      "aerial",
       "Earth curvature",
       "atmosphere",
       "space view",
@@ -142,7 +142,7 @@
       "architecture",
       "institutional space",
       "visitor",
-      "modern interior",
+      "modern",
       "Jeff Wall",
       "Museum of Contemporary Art"
     ],
@@ -175,7 +175,7 @@
       "portrait",
       "interior design",
       "modern living room",
-      "natural lighting",
+      "natural light",
       "contemporary art",
       "home decor",
       "residential space",
@@ -210,10 +210,10 @@
     "alt": "A woman in a denim shirt stands beside a concrete pillar in a modern gallery space, while several visitors view large photographic prints of natural landscapes displayed on white walls. The industrial ceiling features exposed track lighting.",
     "tags": [
       "gallery",
-      "photography exhibition",
-      "concrete architecture",
-      "nature photography",
-      "museum visitors",
+      "exhibition",
+      "concrete",
+      "nature",
+      "museum visitor",
       "contemporary art space",
       "landscape prints",
       "industrial interior",
@@ -251,8 +251,7 @@
       "contemplation",
       "café",
       "eye symbol",
-      "introspection",
-      "warm lighting",
+      "warm light",
       "philosophy",
       "galileo poster",
       "pensitive mood",
@@ -290,8 +289,8 @@
       "togetherness",
       "blankets",
       "couch",
-      "warm lighting",
-      "domestic life",
+      "warm light",
+      "domestic",
       "companionship",
       "comfort"
     ],
@@ -324,12 +323,12 @@
       "portrait",
       "workspace",
       "ambient lighting",
-      "bokeh effects",
+      "bokeh",
       "contemplation",
-      "modern interior",
+      "modern",
       "desk lamp",
       "atmospheric",
-      "night photography",
+      "night",
       "study space"
     ],
     "dateAdded": "2026-01-06T02:06:23.323Z"
@@ -364,7 +363,7 @@
       "maritime",
       "model sailboat",
       "wooden interior",
-      "warm lighting",
+      "warm light",
       "beard",
       "intimate atmosphere",
       "tavern"
@@ -433,10 +432,9 @@
     "title": "The Symphony of Borrowed Stages",
     "alt": "A band performing on a dark stage under colored stage lighting. From left to right: a performer working the electronics behind a white drum kit, a guitarist in an orange shirt, a bassist in a blue shirt, and a drummer in an orange beanie at a second drum set. The stage is illuminated with purple and pink lighting against a black background, with various microphone stands and equipment visible.",
     "tags": [
-      "live music",
-      "concert photography",
+      "concert",
       "stage lighting",
-      "musicians",
+      "musician",
       "drums",
       "guitar",
       "bass",
@@ -513,7 +511,7 @@
       "portrait",
       "contemplation",
       "red artwork",
-      "gallery visitor",
+      "gallery",
       "sheet music art",
       "bearded subject",
       "orange clothing",
@@ -554,7 +552,7 @@
       "red hair",
       "plaid shirt",
       "bar",
-      "neon lights",
+      "neon light",
       "honky-tonk",
       "nightlife",
       "western style",
@@ -591,7 +589,7 @@
       "karaoke",
       "nightlife",
       "purple lighting",
-      "social gathering",
+      "gathering",
       "entertainment venue",
       "neon ambiance",
       "group celebration",
@@ -625,11 +623,11 @@
     "alt": "A group of friends gathered in a dimly lit karaoke room, with one woman in the center holding a microphone and making an exaggerated facial expression with her tongue out, while others smile and laugh around her. The scene is bathed in pink and blue neon lighting typical of karaoke venues.",
     "tags": [
       "karaoke",
-      "friends",
+      "friendship",
       "nightlife",
       "microphone",
-      "neon lighting",
-      "social gathering",
+      "neon light",
+      "gathering",
       "performance",
       "pink lighting",
       "group portrait",
@@ -662,15 +660,15 @@
     "title": "The Council of Midnight Provisions",
     "alt": "Black and white photograph of four people seated around a table in a pizzeria, with their own pizzas and drinks. Behind them is a chalkboard menu featuring pizza options including 'The Full House' and 'Mr. Lava Lava.' The intimate scene is lit dramatically with strong contrasts between light and shadow.",
     "tags": [
-      "black and white photography",
+      "black and white",
       "pizzeria",
       "group dining",
       "chalkboard menu",
       "dramatic lighting",
-      "social gathering",
-      "food photography",
-      "restaurant interior",
-      "friends",
+      "gathering",
+      "food",
+      "restaurant",
+      "friendship",
       "Yard Sale Pizza"
     ],
     "dateAdded": "2025-12-12T15:26:56.379Z"
@@ -738,12 +736,12 @@
     "tags": [
       "vintage telephone",
       "rotary phone",
-      "concrete wall",
+      "concrete",
       "industrial",
       "communication",
       "retro technology",
       "mounted device",
-      "monochromatic",
+      "black and white",
       "urban decay",
       "nostalgia",
       "Boros Collection"
@@ -782,8 +780,7 @@
       "candid",
       "joy",
       "social",
-      "dining",
-      "monochrome"
+      "dining"
     ],
     "dateAdded": "2025-11-29T18:58:46.178Z"
   },
@@ -811,16 +808,15 @@
     "title": "The Ascent Through Concrete Dreams",
     "alt": "A person in dark clothing ascends concrete stairs in a brutalist architectural space with raw concrete walls, textured surfaces, and dramatic angular lighting from above",
     "tags": [
-      "brutalist architecture",
-      "concrete stairs",
+      "brutalist",
+      "concrete",
       "angular geometry",
       "dramatic lighting",
-      "lone figure",
-      "raw concrete",
-      "architectural photography",
-      "modern design",
+      "solitude",
+      "architecture",
+      "modern",
       "vertical composition",
-      "urban solitude"
+      "urban"
     ],
     "dateAdded": "2025-11-27T21:20:19.541Z"
   },
@@ -851,12 +847,12 @@
       "portrait",
       "black and white",
       "woman",
-      "smiling",
+      "smile",
       "hand in hair",
       "classical architecture",
       "European building",
       "cloudy sky",
-      "candid moment",
+      "candid",
       "depth of field"
     ],
     "dateAdded": "2025-11-27T21:10:08.485Z"
@@ -888,7 +884,7 @@
       "portrait",
       "golden hour",
       "backlit",
-      "street photography",
+      "street",
       "autumn",
       "fashion",
       "sunglasses",
@@ -922,13 +918,12 @@
     "title": "The Percussion of Shadows and Light",
     "alt": "Black and white photograph of musicians performing on stage, with a drummer in the center, captured with motion blur that creates ghostly, ethereal effects against the dark background with stage lights visible above",
     "tags": [
-      "black and white photography",
-      "live music performance",
+      "black and white",
+      "concert",
       "motion blur",
       "stage lighting",
       "drummer",
       "keyboardist",
-      "concert photography",
       "artistic blur",
       "performance art",
       "atmospheric lighting",
@@ -961,11 +956,10 @@
     "title": "The Rehearsal of Invisible Harmonies",
     "alt": "Black and white photograph of five musicians performing on a dark stage with dramatic overhead lighting. From left to right: a guitarist, a musician with his back to the audience, a musician at an electronic kit, another musician at another electronic kit, and a musician on the guitar. The stage floor is reflective and the background is completely black, creating a stark, intimate concert atmosphere.",
     "tags": [
-      "live music",
-      "black and white photography",
-      "stage performance",
-      "musicians",
       "concert",
+      "black and white",
+      "stage performance",
+      "musician",
       "dramatic lighting",
       "drums",
       "guitar",
@@ -1002,13 +996,12 @@
     "tags": [
       "concert",
       "stage lighting",
-      "musicians",
+      "musician",
       "performance",
       "drums",
       "guitar",
       "keyboard",
-      "blue lighting",
-      "live music",
+      "blue light",
       "band",
       "Barbican",
       "Tortoise"
@@ -1040,15 +1033,13 @@
     "alt": "Black and white photograph of five jazz musicians performing on a dark stage, with a bassist on the left, drummer in center, and three other musicians on the right, all illuminated by stage lights against a black background",
     "tags": [
       "jazz",
-      "live music",
+      "concert",
       "performance",
       "black and white",
       "stage lighting",
-      "musicians",
+      "musician",
       "drums",
       "bass",
-      "concert",
-      "monochrome",
       "Barbican",
       "Tortoise"
     ],
@@ -1079,11 +1070,11 @@
     "alt": "Black and white photograph of two musicians performing on a dimly lit stage, with one seated playing violin while another stands at electronic equipment, surrounded by drum kit and various musical instruments under dramatic spotlighting",
     "tags": [
       "performance",
-      "musicians",
+      "musician",
       "stage lighting",
       "violin",
       "electronics",
-      "monochrome",
+      "black and white",
       "concert",
       "collaboration",
       "instruments",
@@ -1118,7 +1109,7 @@
     "title": "The Duet of Wires and Strings",
     "alt": "Black and white photograph of two musicians performing on stage - one playing violin on the left, another working with electronic equipment on the right, surrounded by cables, microphones, and musical gear against a dark background",
     "tags": [
-      "musicians",
+      "musician",
       "performance",
       "violin",
       "electronic music",
@@ -1126,7 +1117,7 @@
       "black and white",
       "collaboration",
       "experimental music",
-      "live concert",
+      "concert",
       "artistic",
       "Barbican",
       "Jeremiah Chiu",
@@ -1197,7 +1188,7 @@
     "alt": "A contemporary art gallery scene showing a silhouetted figure in a suit sitting on a chair in the background, while in the foreground a large rocky sculptural piece mounted on wooden supports dominates the space, with yellow and beige cylindrical forms emerging from or embedded within the rough-textured stone mass",
     "tags": [
       "contemporary art",
-      "gallery space",
+      "gallery",
       "sculpture",
       "stone artwork",
       "industrial materials",
@@ -1205,7 +1196,6 @@
       "mixed media",
       "installation art",
       "modern art",
-      "gallery exhibition",
       "Palais de Tokyo"
     ],
     "dateAdded": "2025-11-22T12:07:37.001Z"
@@ -1235,14 +1225,14 @@
     "alt": "A motion-blurred photograph of an art gallery interior showing a ghostly figure moving through the space, with colorful paintings on white walls, fluorescent ceiling lights, and a dark circular element on the floor",
     "tags": [
       "motion blur",
-      "art gallery",
+      "gallery",
       "contemporary art",
       "fluorescent lighting",
       "ghostly figure",
       "interior architecture",
       "movement",
       "exhibition space",
-      "abstract photography",
+      "abstract",
       "Palais de Tokyo"
     ],
     "dateAdded": "2025-11-22T12:00:04.001Z"
@@ -1271,16 +1261,16 @@
     "title": "The Brotherhood of Borrowed Time",
     "alt": "Black and white photograph of two smiling men with mustaches standing behind a counter in what appears to be a small restaurant or cafe, with menu boards visible in the background and another person partially visible to the left",
     "tags": [
-      "black and white photography",
-      "restaurant workers",
-      "mustaches",
+      "black and white",
+      "restaurant",
+      "mustache",
       "camaraderie",
       "small business",
       "service industry",
       "friendship",
       "menu boards",
-      "cafe interior",
-      "documentary photography",
+      "café",
+      "documentary",
       "Septime La Cave"
     ],
     "dateAdded": "2025-11-16T19:15:16.335Z"
@@ -1347,15 +1337,15 @@
     "title": "The Brutalist Amphitheater",
     "alt": "Black and white photograph showing a multi-level concrete interior space with exposed ceiling beams. Several people stand on an upper level near windows and directional signage, while a solitary figure in dark clothing sits on stairs in the lower level. The stark brutalist architecture creates dramatic shadows and geometric forms.",
     "tags": [
-      "brutalist architecture",
-      "concrete interior",
+      "brutalist",
+      "concrete",
       "multi-level space",
       "geometric shadows",
-      "urban solitude",
+      "urban",
       "institutional building",
       "stark lighting",
       "human scale",
-      "modernist design",
+      "modernist",
       "Palais de Tokyo"
     ],
     "dateAdded": "2025-11-16T17:38:29.884Z"
@@ -1389,8 +1379,8 @@
       "geometric lighting",
       "interior perspective",
       "storage",
-      "documentary photography",
-      "minimalist composition",
+      "documentary",
+      "minimalist",
       "white panels",
       "shadows",
       "Palais de Tokyo"
@@ -1459,16 +1449,16 @@
     "title": "The Intimacy of Crowded Tables",
     "alt": "Black and white photograph of people gathered around tables under a covered outdoor area or market, with classical European architecture visible in the background. The scene captures intimate conversations and social interaction in what appears to be a café or restaurant setting.",
     "tags": [
-      "black and white photography",
+      "black and white",
       "outdoor dining",
-      "social gathering",
+      "gathering",
       "European architecture",
-      "café culture",
-      "street photography",
-      "urban life",
+      "café",
+      "street",
+      "urban",
       "community",
       "conversation",
-      "candid moment",
+      "candid",
       "The Butcher of Paris"
     ],
     "dateAdded": "2025-11-16T16:37:38.170Z"
@@ -1538,12 +1528,11 @@
       "marble statue",
       "classical sculpture",
       "contemplation",
-      "black and white photography",
+      "black and white",
       "dramatic sky",
       "low angle",
       "bearded figure",
       "historic architecture",
-      "thoughtful pose",
       "monumental art"
     ],
     "dateAdded": "2025-11-16T16:01:11.372Z"
@@ -1572,7 +1561,7 @@
     "title": "The Digital Keepers of Ancient Spirits",
     "alt": "Two bartenders working behind an ornate bar with decorative murals on the walls and ceiling. A woman in black operates a beer tap while a man with glasses stands behind her. Glass shelves display glassware, and laptops are visible on the bar counter, blending traditional pub atmosphere with modern technology.",
     "tags": [
-      "bartenders",
+      "bartender",
       "pub interior",
       "beer tap",
       "decorative murals",
@@ -1650,11 +1639,11 @@
       "motion blur",
       "graffiti",
       "street art",
-      "urban photography",
+      "urban",
       "movement",
       "brick wall",
       "color contrast",
-      "street photography",
+      "street",
       "Parkland Walk"
     ],
     "dateAdded": "2025-11-14T22:02:57.099Z"
@@ -1719,7 +1708,7 @@
     "alt": "A group of people walking through a dark tunnel or underpass toward bright daylight at the far end. The tunnel walls are concrete, and warm orange light illuminates the ceiling and upper walls, creating dramatic contrast with the bright white light visible at the tunnel's exit where silhouetted figures can be seen moving.",
     "tags": [
       "tunnel",
-      "silhouettes",
+      "silhouette",
       "light and shadow",
       "urban architecture",
       "concrete",
@@ -1757,10 +1746,8 @@
     "tags": [
       "gallery",
       "contemplation",
-      "photography",
       "art viewing",
       "black and white",
-      "introspection",
       "exhibition",
       "cultural space",
       "human gesture",
@@ -1792,7 +1779,7 @@
     "title": "The Concrete Labyrinth",
     "alt": "A stark concrete interior featuring multiple levels connected by dark geometric platforms or bridges, with natural light filtering down from skylights above, creating dramatic shadows and highlighting the raw concrete textures and brutalist architectural forms",
     "tags": [
-      "brutalist architecture",
+      "brutalist",
       "concrete",
       "geometric",
       "natural light",
@@ -1800,8 +1787,8 @@
       "interior space",
       "minimalist",
       "industrial design",
-      "architectural photography",
-      "modern architecture"
+      "architecture",
+      "modern"
     ],
     "dateAdded": "2025-11-02T13:16:29.208Z"
   },
@@ -1834,7 +1821,7 @@
       "London street",
       "bicycles",
       "Victorian architecture",
-      "urban photography",
+      "urban",
       "transportation",
       "brick buildings",
       "metal railings",
@@ -1903,13 +1890,13 @@
     "title": "The Precision of Thin Cuts",
     "alt": "Black and white photograph showing a person in white chef's coat operating a vintage meat slicer in what appears to be a restaurant or delicatessen, with bottles lining shelves in the background and another person visible on the left side of the frame",
     "tags": [
-      "black and white photography",
+      "black and white",
       "meat slicer",
       "chef",
-      "restaurant kitchen",
+      "restaurant",
       "food preparation",
       "vintage equipment",
-      "culinary arts",
+      "culinary",
       "professional kitchen",
       "deli counter",
       "workplace"
@@ -1978,9 +1965,9 @@
     "alt": "Interior of a modern art gallery with a dramatic large black sculptural form resembling a mountain or angular mass dominating the space. Two visitors in coats observe the installation - one person in brown/tan clothing in the foreground and another in black clothing in the background. The room features white walls, polished wooden floors, and a distinctive curved glass ceiling with geometric grid patterns that allows natural light to filter in from above.",
     "tags": [
       "contemporary art",
-      "gallery interior",
+      "gallery",
       "black sculpture",
-      "museum visitors",
+      "museum visitor",
       "geometric ceiling",
       "natural light",
       "minimal architecture",
@@ -2018,12 +2005,12 @@
       "concrete",
       "monuments",
       "narrow passage",
-      "solitary figure",
+      "solitude",
       "cobblestone",
       "shadows",
       "perspective",
-      "architectural",
-      "contemplative"
+      "architecture",
+      "contemplation"
     ],
     "dateAdded": "2025-10-29T22:21:34.973Z"
   },
@@ -2051,16 +2038,16 @@
     "title": "The Scholar's Angular Sanctuary",
     "alt": "A modern interior space with exposed concrete walls and industrial ceiling elements. A person in a brown coat sits alone at a white round table in the background, reading or writing. The foreground features wooden bench seating with red plastic chairs and small white round tables. Colorful spherical light fixtures - yellow and pink orbs - hang from the ceiling, creating warm accent lighting against the brutalist architecture.",
     "tags": [
-      "brutalist architecture",
-      "modern interior design",
+      "brutalist",
+      "modern",
       "industrial space",
-      "solitary figure",
-      "concrete walls",
+      "solitude",
+      "concrete",
       "colorful lighting",
-      "cafe setting",
+      "café",
       "geometric furniture",
-      "urban contemplation",
-      "architectural photography"
+      "urban",
+      "architecture"
     ],
     "dateAdded": "2025-10-28T23:04:50.704Z"
   },
@@ -2089,9 +2076,9 @@
     "alt": "A dramatic low-angle view of a modern building with a dark textured facade featuring horizontal strip windows on multiple floors, topped by a distinctive white geometric crown structure against a brilliant blue sky. The word 'ST AGNES' is visible on the building's lower portion.",
     "tags": [
       "architecture",
-      "modern building",
+      "modern",
       "geometric design",
-      "urban photography",
+      "urban",
       "minimalist",
       "contrast",
       "blue sky",
@@ -2163,7 +2150,7 @@
     "tags": [
       "dahlia",
       "flower",
-      "macro photography",
+      "macro",
       "pink petals",
       "white petals",
       "magenta center",
@@ -2273,10 +2260,10 @@
     "tags": [
       "record store",
       "vinyl records",
-      "neon lighting",
+      "neon light",
       "young adults",
       "music shopping",
-      "interior photography",
+      "interior",
       "colorful lighting",
       "retail space",
       "conversation",
@@ -2308,11 +2295,11 @@
     "title": "The Cartoon Oracle's Meditation",
     "alt": "Black and white photograph of a man with sunglasses and white t-shirt sitting at a cafe table, with cartoon character decals visible on the window behind him and another person partially visible on the right",
     "tags": [
-      "street photography",
+      "street",
       "black and white",
-      "cafe scene",
-      "window reflections",
-      "urban life",
+      "café",
+      "reflection",
+      "urban",
       "sunglasses",
       "cartoon imagery",
       "contemplation"
@@ -2350,8 +2337,7 @@
       "introspective",
       "young man",
       "cap",
-      "thoughtful pose",
-      "shallow depth of field"
+      "depth of field"
     ],
     "dateAdded": "2025-10-17T18:25:36.520Z"
   },
@@ -2419,13 +2405,12 @@
     "alt": "A dimly lit concert venue with dramatic stage lighting illuminating musicians performing on keyboards and other instruments. The scene is captured from an elevated angle showing the ornate theater architecture, audience members in silhouette on the left, and vibrant neon lighting creating colorful streaks and atmospheric haze throughout the space.",
     "tags": [
       "concert",
-      "live music",
       "theater",
       "stage lighting",
       "atmospheric",
       "neon",
       "performance",
-      "musicians",
+      "musician",
       "dramatic lighting",
       "Matt Berninger"
     ],
@@ -2459,9 +2444,9 @@
       "dramatic lighting",
       "chiaroscuro",
       "industrial interior",
-      "contemplative mood",
+      "contemplation",
       "shadow and light",
-      "urban setting",
+      "urban",
       "cinematic composition"
     ],
     "dateAdded": "2025-10-14T19:47:54.683Z"
@@ -2527,8 +2512,8 @@
     "title": "The Electric Meridian",
     "alt": "Black and white photograph of an elderly person in dark clothing walking alone down a narrow street in a Japanese residential neighborhood, with power lines overhead, a multi-story apartment building on the left, and smaller houses on the right",
     "tags": [
-      "street photography",
-      "urban solitude",
+      "street",
+      "urban",
       "power lines",
       "Japanese architecture",
       "black and white",
@@ -2564,8 +2549,8 @@
     "alt": "A flowering camellia bush with vibrant pink, coral, and burgundy blooms in various stages of bloom and decay, surrounded by dark green glossy leaves, photographed from below looking up through dappled natural light",
     "tags": [
       "camellia",
-      "flowers",
-      "blooms",
+      "flower",
+      "bloom",
       "petals",
       "garden",
       "nature",
@@ -2607,7 +2592,7 @@
       "contemporary art",
       "colorful artwork",
       "artistic process",
-      "gallery wall",
+      "gallery",
       "painter at work"
     ],
     "dateAdded": "2025-10-01T22:38:39.152Z"
@@ -2636,15 +2621,14 @@
     "title": "The Spiral of Urban Dreams",
     "alt": "A modern white apartment building with distinctive curved spiral balconies stands prominently in the center, flanked by beige and dark brick residential buildings. A blurred car passes by on the wet street in the foreground, with bare winter trees and an overcast sky completing the urban scene.",
     "tags": [
-      "modern architecture",
+      "modern",
       "spiral balconies",
-      "urban landscape",
+      "urban",
       "apartment buildings",
       "motion blur",
       "wet pavement",
       "overcast sky",
       "contemporary design",
-      "city street",
       "residential complex"
     ],
     "dateAdded": "2025-09-26T21:14:08.308Z"
@@ -2713,9 +2697,9 @@
       "friendship",
       "laughter",
       "outdoor dining",
-      "black and white photography",
-      "candid moment",
-      "social gathering",
+      "black and white",
+      "candid",
+      "gathering",
       "evening meal",
       "genuine emotion",
       "intimate atmosphere",
@@ -2824,10 +2808,10 @@
       "photographer",
       "mustard yellow shirt",
       "architectural background",
-      "contemplative",
+      "contemplation",
       "professional",
       "minimalist setting",
-      "natural lighting",
+      "natural light",
       "creative professional"
     ],
     "dateAdded": "2025-09-26T20:42:56.368Z"
@@ -2859,7 +2843,7 @@
       "parcel locker",
       "Royal Mail",
       "urban technology",
-      "night photography",
+      "night",
       "automated service",
       "brick wall",
       "red illumination",
@@ -2893,13 +2877,13 @@
     "title": "The Communion of Ordinary Vessels",
     "alt": "Black and white photograph of three people at an outdoor brewery or beer garden, with two men in the foreground drinking from glasses while a woman with sunglasses on her head drinks from a glass in the middle ground. The setting appears casual and social, with 'The Five P Brewing' signage visible in the background and foliage on the left side.",
     "tags": [
-      "black and white photography",
-      "social gathering",
+      "black and white",
+      "gathering",
       "brewery",
       "beer garden",
       "drinking",
       "outdoor venue",
-      "candid moment",
+      "candid",
       "friendship",
       "casual atmosphere",
       "urban leisure"
@@ -3004,7 +2988,7 @@
     "title": "The Persistence of Golden Hours",
     "alt": "Small golden-orange flowers emerge from dark foliage in a moody, low-light botanical scene with shallow depth of field creating a dreamy, contemplative atmosphere",
     "tags": [
-      "flowers",
+      "flower",
       "golden",
       "orange",
       "botanical",
@@ -3012,7 +2996,7 @@
       "moody",
       "low light",
       "shallow focus",
-      "contemplative",
+      "contemplation",
       "organic"
     ],
     "dateAdded": "2025-09-26T20:02:20.880Z"
@@ -3044,12 +3028,10 @@
       "contemplation",
       "portrait",
       "glasses",
-      "cafe",
-      "thoughtful",
-      "introspection",
+      "café",
       "indoor",
       "tiles",
-      "warm lighting",
+      "warm light",
       "philosophy"
     ],
     "dateAdded": "2025-09-26T19:57:41.537Z"
@@ -3081,11 +3063,11 @@
       "harbor",
       "low tide",
       "lighthouse",
-      "boats",
+      "boat",
       "pier",
       "coastal",
       "maritime",
-      "moody sky",
+      "moody",
       "seaside town",
       "tidal"
     ],
@@ -3115,16 +3097,16 @@
     "title": "The Repository of Human Stories",
     "alt": "A multi-level brutalist concrete museum or archive building with glass windows showing visitors on different floors. People can be seen walking on the upper level balconies and gathering around displays on the middle floor, while the lower levels contain storage or exhibition spaces. The industrial architecture features raw concrete, steel framework, and geometric divisions creating a honeycomb-like structure of human activity.",
     "tags": [
-      "brutalist architecture",
+      "brutalist",
       "museum interior",
-      "concrete structure",
+      "concrete",
       "multi-level building",
-      "visitors",
+      "visitor",
       "institutional space",
       "geometric design",
       "cultural institution",
       "public space",
-      "modernist architecture"
+      "modernist"
     ],
     "dateAdded": "2025-09-26T19:47:48.924Z"
   },
@@ -3152,12 +3134,12 @@
     "title": "Light Between Shadows",
     "alt": "A lone individual in a red shirt runs across a sunlit concrete plaza between modern glass and brick buildings, casting a long shadow on the geometric paved surface while surrounded by urban architecture",
     "tags": [
-      "concrete plaza",
+      "concrete",
       "Barbican",
       "geometric shadows",
-      "modern architecture",
-      "solitary figure",
-      "brutalist design",
+      "modern",
+      "solitude",
+      "brutalist",
       "sunlight and shadow",
       "architectural geometry"
     ],
@@ -3187,16 +3169,16 @@
     "title": "The Choreography of Ascent",
     "alt": "A modern architectural interior with dramatic angular black structural beams cutting across a curved white ceiling. Floor-to-ceiling windows reveal a waterfront cityscape. Multiple levels of staircases with glass railings create geometric patterns, with silhouetted figures positioned throughout the space - one person on an upper staircase and others gathered on a lower level.",
     "tags": [
-      "modern architecture",
+      "modern",
       "geometric design",
       "staircase",
-      "silhouettes",
+      "silhouette",
       "angular beams",
       "glass railings",
       "waterfront view",
       "interior space",
       "structural elements",
-      "urban landscape"
+      "urban"
     ],
     "dateAdded": "2025-09-20T11:08:05.707Z"
   },
@@ -3229,10 +3211,9 @@
       "woman",
       "tattoos",
       "bar",
-      "contemplative",
+      "contemplation",
       "ambient lighting",
-      "restaurant interior",
-      "thoughtful expression",
+      "restaurant",
       "dramatic shadows"
     ],
     "dateAdded": "2025-09-20T10:44:08.352Z"
@@ -3261,16 +3242,16 @@
     "title": "The Gesture of Concealment",
     "alt": "A black and white photograph of a person in a dark shirt and watch covering their face with their hand while sitting in what appears to be a restaurant or cafe, with blurred signage and lighting visible in the background",
     "tags": [
-      "black and white photography",
+      "black and white",
       "portrait",
       "hand gesture",
       "concealment",
-      "restaurant interior",
-      "urban solitude",
+      "restaurant",
+      "urban",
       "contemplation",
       "privacy",
       "emotional expression",
-      "cafe setting"
+      "café"
     ],
     "dateAdded": "2025-09-20T10:41:44.544Z"
   },
@@ -3303,7 +3284,7 @@
       "data visualization",
       "mathematical art",
       "translucent material",
-      "monochromatic",
+      "black and white",
       "digital age metaphor"
     ],
     "dateAdded": "2025-09-13T18:40:43.876Z"
@@ -3334,9 +3315,9 @@
     "tags": [
       "interior architecture",
       "modern lobby",
-      "silhouettes",
+      "silhouette",
       "dramatic lighting",
-      "concrete pillars",
+      "concrete",
       "waiting area",
       "glass windows",
       "urban space",
@@ -3369,14 +3350,13 @@
     "title": "Between Steel and Sky",
     "alt": "Black and white photograph looking up from a Toronto street between tall modern buildings and skyscrapers, with the iconic CN Tower visible in the distance against an overcast sky. Power lines cross the frame horizontally, and urban infrastructure including street signs and construction barriers are visible at street level.",
     "tags": [
-      "urban photography",
+      "urban",
       "CN Tower",
       "Toronto",
       "black and white",
       "architecture",
       "skyscrapers",
       "street level view",
-      "city canyon",
       "power lines",
       "overcast sky"
     ],
@@ -3411,7 +3391,7 @@
       "concrete",
       "dramatic lighting",
       "minimalist",
-      "architectural",
+      "architecture",
       "underground",
       "ascent",
       "shadows",
@@ -3444,7 +3424,7 @@
     "alt": "A dramatic upward view through a complex geometric structure of glass panels and metal framework, showing fragmented reflections of colorful patterned displays and people below, creating a kaleidoscopic effect with strong contrast between the dark industrial beams and bright illuminated surfaces.",
     "tags": [
       "geometric architecture",
-      "glass reflections",
+      "reflection",
       "industrial structure",
       "fragmented view",
       "kaleidoscopic",
@@ -3519,12 +3499,12 @@
     "tags": [
       "attic",
       "exposed beams",
-      "pendant lights",
-      "photography gallery",
+      "pendant light",
+      "gallery",
       "intimate lighting",
-      "architectural photography",
+      "architecture",
       "minimalist interior",
-      "black and white photography",
+      "black and white",
       "slanted ceiling",
       "dramatic shadows"
     ],
@@ -3560,7 +3540,7 @@
       "modernist",
       "interior",
       "shadows",
-      "monochrome",
+      "black and white",
       "sculptural",
       "geometric",
       "minimalist"
@@ -3595,7 +3575,7 @@
       "checkered tiles",
       "blue gray interior",
       "minimalist design",
-      "natural lighting",
+      "natural light",
       "geometric patterns",
       "contemporary architecture",
       "glass shower",
@@ -3629,7 +3609,7 @@
     "alt": "A crowd of museum visitors gathered in front of a classical Dutch group portrait painting, with motion blur suggesting the movement of people while the artwork remains still and illuminated against a dark gallery wall",
     "tags": [
       "museum",
-      "art gallery",
+      "gallery",
       "classical painting",
       "crowd",
       "motion blur",
@@ -3781,7 +3761,7 @@
       "doorway",
       "gesture",
       "ornate stonework",
-      "public gathering",
+      "gathering",
       "pointing",
       "bottle",
       "historic building"
@@ -3813,13 +3793,13 @@
     "alt": "A modern gallery space with white walls covered in colorful small sculptural objects and artworks. Motion-blurred visitors walk along dark wooden floors, examining the dense installation that extends from floor to ceiling. Natural light filters through large windows on the left.",
     "tags": [
       "contemporary art",
-      "gallery installation",
+      "gallery",
       "motion blur",
       "colorful sculptures",
-      "museum visitors",
+      "museum visitor",
       "white walls",
       "wooden floors",
-      "natural lighting",
+      "natural light",
       "dense arrangement",
       "art exhibition"
     ],
@@ -3885,13 +3865,13 @@
     "title": "The Silhouette of Home",
     "alt": "Two people in a modern museum gallery space with transparent turquoise glass architectural elements overhead and warm orange-tinted wooden framework creating a geometric entrance. One person wearing a mask stands in the foreground while another walks through the gallery space, which features white walls with colorful artwork or displays.",
     "tags": [
-      "modern architecture",
+      "modern",
       "museum interior",
       "geometric design",
       "glass ceiling",
       "contemporary art gallery",
       "wooden framework",
-      "visitors",
+      "visitor",
       "institutional space",
       "transparency",
       "color contrast"
@@ -3959,14 +3939,14 @@
     "title": "The Weight of Tender Moments",
     "alt": "Black and white photograph of two women embracing closely on a busy street, one resting her head against the other's shoulder in an intimate moment of connection, with blurred pedestrians and historic buildings visible in the background",
     "tags": [
-      "black and white photography",
-      "street photography",
+      "black and white",
+      "street",
       "intimate moment",
       "friendship",
       "urban scene",
-      "candid portrait",
+      "candid",
       "human connection",
-      "city life",
+      "urban",
       "emotional documentary",
       "tender embrace"
     ],
@@ -3996,15 +3976,14 @@
     "title": "Reflections in Glass",
     "alt": "Black and white photograph of a person in a patterned shirt walking past a large glass storefront or building facade covered in graffiti. The person's reflection is visible in the glass panels, creating multiple layered images. The scene appears to be in an urban setting with concrete flooring.",
     "tags": [
-      "black and white photography",
-      "urban photography",
-      "street photography",
-      "reflections",
+      "black and white",
+      "urban",
+      "street",
+      "reflection",
       "glass facade",
       "graffiti",
       "motion blur",
-      "architectural photography",
-      "city life",
+      "architecture",
       "layered imagery"
     ],
     "dateAdded": "2025-08-10T10:04:49.194Z"
@@ -4040,12 +4019,11 @@
       "guitar",
       "microphone",
       "dramatic lighting",
-      "live music",
       "performer",
       "atmospheric",
       "Barbican",
       "A Warp Happening",
-      " Slauson Malone 1"
+      "Slauson Malone 1"
     ],
     "dateAdded": "2025-08-10T09:55:21.730Z"
   },
@@ -4112,12 +4090,12 @@
     "tags": [
       "white flowers",
       "spring blooms",
-      "macro photography",
-      "shallow depth of field",
+      "macro",
+      "depth of field",
       "botanical",
       "spirea",
       "cluster flowers",
-      "nature photography",
+      "nature",
       "delicate petals",
       "garden flowers"
     ],
@@ -4258,16 +4236,15 @@
     "title": "The Weight of Memory",
     "alt": "Black and white portrait of an elderly man with glasses and weathered features, wearing a dark sweater, leaning contemplatively against a wooden fence railing. He's surrounded by lush foliage and trees, with residential buildings visible in the soft-focused background, creating an intimate neighborhood setting.",
     "tags": [
-      "black and white photography",
+      "black and white",
       "elderly man",
       "portrait",
-      "contemplative",
+      "contemplation",
       "wooden fence",
       "residential setting",
       "glasses",
       "neighborhood",
-      "mature subject",
-      "thoughtful expression"
+      "mature subject"
     ],
     "dateAdded": "2025-07-29T20:30:28.918Z"
   },
@@ -4297,7 +4274,7 @@
     "tags": [
       "stairs",
       "architecture",
-      "modern interior",
+      "modern",
       "dramatic lighting",
       "person climbing",
       "wooden steps",
@@ -4334,12 +4311,12 @@
     "alt": "Low-angle architectural photograph showing the angular corner of a modern white concrete building with distinctive red geometric overhangs, power lines crossing overhead against a pale sky, and part of an adjacent gray building visible on the right",
     "tags": [
       "architecture",
-      "modern building",
+      "modern",
       "concrete",
       "geometric design",
       "red accents",
       "power lines",
-      "urban photography",
+      "urban",
       "angular composition",
       "minimalist",
       "brutalist"
@@ -4377,7 +4354,7 @@
       "atmospheric",
       "chiaroscuro",
       "performance space",
-      "silhouettes",
+      "silhouette",
       "theatrical",
       "moody",
       "Barbican",
@@ -4415,11 +4392,11 @@
       "multi-level",
       "industrial design",
       "cultural space",
-      "visitors",
+      "visitor",
       "exhibition",
       "interior",
       "walkways",
-      "modern building",
+      "modern",
       "V&A East Storehouse"
     ],
     "dateAdded": "2025-07-26T18:58:01.832Z"
@@ -4453,8 +4430,8 @@
       "backlit",
       "golden hour",
       "blue sky",
-      "nature photography",
-      "shallow depth of field",
+      "nature",
+      "depth of field",
       "warm light",
       "botanical",
       "sunset lighting"
@@ -4486,14 +4463,14 @@
     "alt": "A moody photograph of blue flowers with spherical, densely clustered blooms scattered across dark green foliage. One flower in the center foreground is in sharp focus while others fade into soft blur, creating dramatic depth of field against the shadowy background.",
     "tags": [
       "blue flowers",
-      "shallow depth of field",
-      "botanical photography",
-      "moody lighting",
+      "depth of field",
+      "botanical",
+      "moody",
       "spherical blooms",
       "dark background",
       "selective focus",
       "garden flowers",
-      "artistic photography",
+      "artistic",
       "nature"
     ],
     "dateAdded": "2025-07-25T21:15:08Z"
@@ -4523,7 +4500,7 @@
     "alt": "A crowd of passengers with luggage stands beside a stopped Eurostar train on railway tracks in a rural setting, with overhead power lines and trees visible under a cloudy sky.",
     "tags": [
       "train",
-      "passengers",
+      "passenger",
       "Eurostar",
       "railway",
       "crowd",
@@ -4605,7 +4582,7 @@
       "athletic competition",
       "bicycles",
       "crowd barriers",
-      "urban setting"
+      "urban"
     ],
     "dateAdded": "2025-07-24T21:20:04.695Z"
   },
@@ -4637,11 +4614,10 @@
       "street scene",
       "Tour de France",
       "traffic sign",
-      "urban gathering",
+      "urban",
       "summer clothing",
       "lamp posts",
       "banners",
-      "city street",
       "public event"
     ],
     "dateAdded": "2025-07-24T20:25:04.695Z"
@@ -4672,8 +4648,8 @@
     "tags": [
       "noir",
       "atmospheric",
-      "neon lighting",
-      "silhouettes",
+      "neon light",
+      "silhouette",
       "concert",
       "nighttime",
       "moody",
@@ -4710,14 +4686,14 @@
     "tags": [
       "wilted flower",
       "decay",
-      "nature photography",
+      "nature",
       "botanical",
       "melancholy",
       "aging",
       "delicate",
       "atmospheric",
-      "moody lighting",
-      "shallow depth of field"
+      "moody",
+      "depth of field"
     ],
     "dateAdded": "2025-07-22T22:15:04.695Z"
   },
@@ -4754,7 +4730,7 @@
       "Georgian architecture",
       "Ferris wheel",
       "maritime",
-      "moody atmosphere"
+      "moody"
     ],
     "dateAdded": "2025-07-21T21:25:04.695Z"
   },
@@ -4783,11 +4759,11 @@
     "alt": "A heavily motion-blurred photograph showing the curved interior of what appears to be numerous everyday objects, creating an abstract impression of rapid movement through an urban environment.",
     "tags": [
       "motion blur",
-      "abstract photography",
+      "abstract",
       "speed",
       "movement",
       "kinetic",
-      "windows",
+      "window",
       "interior view",
       "art installation"
     ],
@@ -4822,7 +4798,7 @@
       "industrial",
       "smoke",
       "dramatic lighting",
-      "solitary figure",
+      "solitude",
       "cinematic",
       "moody",
       "dark",
@@ -4897,7 +4873,7 @@
       "atrium",
       "vertical space",
       "metal grating",
-      "silhouettes",
+      "silhouette",
       "industrial design",
       "natural light",
       "multi-level",
@@ -4932,7 +4908,7 @@
     "alt": "A narrow Japanese street with white Japanese characters painted on dark asphalt, lined with traditional buildings including one with distinctive bright green bamboo-style facade screening. A blurred figure walks down the center of the street past small shops and restaurants with various signage.",
     "tags": [
       "Japanese street",
-      "urban photography",
+      "urban",
       "motion blur",
       "traditional architecture",
       "street signage",
