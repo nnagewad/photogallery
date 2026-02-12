@@ -82,7 +82,7 @@
             <dd>
               <ul class='list-horizontal horizontal-gap--4'>
                 {% for tag in photo.tags %}
-                  <li class='data-value'>{{ tag }}</li>
+                  <li class='data-value'><a href="/tag/{{ tag | slugify }}/">{{ tag }}</a></li>
                 {% endfor %}
               </ul>
             </dd>
