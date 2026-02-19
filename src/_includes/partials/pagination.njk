@@ -1,20 +1,19 @@
 <nav class="pagination">
   <ul>
-    {% if pagination.href.previous %}
-      <li>
-        <svg xmlns="http://www.w3.org/2000/svg" class="navigation-icons" width="16.8" height="13.4" aria-hidden="true" focusable="false" viewBox="0 0 16.8 13.4"><polygon points="0 6.7 0 6.7 0 6.7 6.7 13.4 8.1 12 3.8 7.7 16.8 7.7 16.8 6.7 16.8 6.7 16.8 5.7 3.8 5.7 8.1 1.4 6.7 0 0 6.7 0 6.7 0 6.7"/></svg>
-        <a href="{{ pagination.href.previous }}">
-          Previous {% if layout == 'layouts/photogallery.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}
-        </a>  
-      </li>
-    {% endif %}
-
     {% if pagination.href.next %}
       <li>
         <svg xmlns="http://www.w3.org/2000/svg" class="navigation-icons" width="16.8" height="13.4" aria-hidden="true" focusable="false" viewBox="0 0 16.8 13.4"><polygon points="16.8 6.7 16.8 6.7 16.8 6.7 10.1 0 8.7 1.4 13 5.7 0 5.7 0 6.7 0 6.7 0 7.7 13 7.7 8.7 12 10.1 13.4 16.8 6.7 16.8 6.7 16.8 6.7"/></svg>
         <a href="{{ pagination.href.next }}">
           Next {% if layout == 'layouts/photogallery.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}
         </a>
+      </li>
+    {% endif %}
+    {% if pagination.href.previous %}
+      <li>
+        <svg xmlns="http://www.w3.org/2000/svg" class="navigation-icons" width="16.8" height="13.4" aria-hidden="true" focusable="false" viewBox="0 0 16.8 13.4"><polygon points="0 6.7 0 6.7 0 6.7 6.7 13.4 8.1 12 3.8 7.7 16.8 7.7 16.8 6.7 16.8 6.7 16.8 5.7 3.8 5.7 8.1 1.4 6.7 0 0 6.7 0 6.7 0 6.7"/></svg>
+        <a href="{{ pagination.href.previous }}">
+          Previous {% if layout == 'layouts/photogallery.njk' %}page{% elif layout == 'layouts/photo.njk' %}photo{% endif %}
+        </a>  
       </li>
     {% endif %}
   </ul>
