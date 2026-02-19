@@ -1,12 +1,6 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
- 
-  {# Look up the correct list page URL using the global map and the current post's URL #}
-  {% set listUrl = photoToListMap[page.url] %}
-  {% set backUrl = listUrl if listUrl else "/" %}
-  {% include 'partials/back-link.njk' %}
-
   <article id='{{ photo.title | slugify }}' class='photo-details' data-pagefind-body>
     <h1 class='font-size-2 website-page--title'>{{ photo.title | updateApostrophe }}</h1>
     <figure>
