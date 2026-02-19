@@ -11,7 +11,7 @@ There’s no particular theme or big idea behind this gallery. These photos capt
 
 The technology behind this site includes:
 
-- <a href="https://www.npmjs.com/package/exifreader" rel="noopener noreferrer" target="_blank">Exifr</a> — for extracting the photo’s metadata
+- <a href="https://www.npmjs.com/package/exifreader" rel="noopener noreferrer" target="_blank">Exifreader</a> — for extracting the photo’s metadata
 - <a href="https://opencagedata.com" rel="noopener noreferrer" target="_blank">OpenCage</a> — to translate GPS coordinates into human-readable locations
 - <a href="https://www.anthropic.com/api" rel="noopener noreferrer" target="_blank">Claude AI</a> — for generating titles, alt-text, and tags for each photo
 - <a href="https://www.11ty.dev" rel="noopener noreferrer" target="_blank">11ty</a> — the static site generator used to build this website
