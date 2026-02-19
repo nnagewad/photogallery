@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1002201.jpg",
+    "image": "/img/photos/L1002201.jpg",
+    "thumbnail": "/img/thumbnails/L1002201.jpg",
+    "opengraph": "/img/open-graph/L1002201.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:02:14 16:02:54",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.501128,
+      "lon": -0.082092
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Passenger's Digital Reverie",
+    "alt": "An elderly man with glasses and a red scarf sits in what appears to be a train or bus interior, looking down at his smartphone. The wooden-paneled ceiling and warm ambient lighting create an intimate atmosphere as he concentrates on his device during his journey.",
+    "tags": [
+      "elderly man",
+      "glasses",
+      "red scarf",
+      "smartphone",
+      "train",
+      "interior",
+      "wooden panels",
+      "warm lighting",
+      "travel",
+      "technology",
+      "passenger",
+      "contemplation",
+      "journey",
+      "transport"
+    ],
+    "dateAdded": "2026-02-19T20:36:49.063Z"
+  },
+  {
     "filename": "L1002187.jpg",
     "image": "/img/photos/L1002187.jpg",
     "thumbnail": "/img/thumbnails/L1002187.jpg",
