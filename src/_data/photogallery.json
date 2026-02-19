@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002226.jpg",
+    "image": "/img/photos/L1002226.jpg",
+    "thumbnail": "/img/thumbnails/L1002226.jpg",
+    "opengraph": "/img/open-graph/L1002226.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/60",
+    "aperture": "f/3.5",
+    "dateTaken": "2026:02:15 12:42:56",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.518139,
+      "lon": -0.089925
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Phoenix's Electric Confession",
+    "alt": "A striking Bird of Paradise flower in full bloom, featuring vibrant orange and red petals with bright blue accents, photographed against a soft-focused dark green foliage background",
+    "tags": [
+      "flower",
+      "Bird of Paradise",
+      "orange petals",
+      "blue flowers",
+      "botanical",
+      "macro",
+      "dramatic lighting",
+      "tropical",
+      "selective focus",
+      "garden"
+    ],
+    "dateAdded": "2026-02-19T18:43:24.258Z"
+  },
+  {
     "filename": "L1002171.jpg",
     "image": "/img/photos/L1002171.jpg",
     "thumbnail": "/img/thumbnails/L1002171.jpg",
