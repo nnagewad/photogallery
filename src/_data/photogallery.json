@@ -1,5 +1,41 @@
 [
   {
+    "filename": "L1002248.jpg",
+    "image": "/img/photos/L1002248.jpg",
+    "thumbnail": "/img/thumbnails/L1002248.jpg",
+    "opengraph": "/img/open-graph/L1002248.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/3.2",
+    "dateTaken": "2026:02:21 13:16:03",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.506364,
+      "lon": -0.13081700000000002
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Ascent Into Checkered Dreams",
+    "alt": "A woman with brown hair walking up the stairs, holding her laptop. She's positioned above black stairs with white triangular patterns, while below her is a large black and white checkered pattern on the floor. The space has white walls, handrails, and is lit by a single spherical pendant light hanging from an arched ceiling.",
+    "tags": [
+      "woman",
+      "staircase",
+      "checkered tiles",
+      "geometric patterns",
+      "pendant light",
+      "handrails",
+      "architectural interior",
+      "ascent",
+      "Institute of Contemporary Arts"
+    ],
+    "dateAdded": "2026-02-21T17:42:11.923Z"
+  },
+  {
     "filename": "L1002214.jpg",
     "image": "/img/photos/L1002214.jpg",
     "thumbnail": "/img/thumbnails/L1002214.jpg",
