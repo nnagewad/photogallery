@@ -58,35 +58,6 @@ export default async function(eleventyConfig) {
     eleventyConfig.addFilter('updateApostrophe', updateApostrophe);
     eleventyConfig.addFilter('slugify', slugify); // Add slugify as an accessible filter
 
-    // --- Dynamic Back-to-List Mapping (NEW) ---
-    // Builds per-photo -> contact sheet page mapping; keep pageSize aligned with src/index.md pagination.
-    eleventyConfig.addGlobalData("photoToListMap", () => {
-        const map = {};
-        const dataPath = path.join("src", "_data", "photogallery.json");
-
-        let photogallery;
-        try {
-            photogallery = JSON.parse(fs.readFileSync(dataPath, "utf8"));
-        } catch (err) {
-            console.warn("⚠️ Unable to load photogallery data for photoToListMap:", err.message);
-            return map;
-        }
-
-        const pageSize = 20; // Matches pagination.size in src/index.md
-
-        photogallery.forEach((photo, index) => {
-            if (!photo.title) return;
-
-            const postUrlSlug = slugify(photo.title);
-            const pageNumber = Math.floor(index / pageSize);
-            const listPageUrl = pageNumber === 0 ? "/" : `/${pageNumber + 1}/`;
-
-            map[`/photo/${postUrlSlug}/`] = listPageUrl;
-        });
-
-        return map;
-    });
-    // --- End Dynamic Mapping ---
 
     // Filters
     eleventyConfig.addFilter('cssmin', function (code) {
