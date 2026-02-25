@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002264.jpg",
+    "image": "/img/photos/L1002264.jpg",
+    "thumbnail": "/img/thumbnails/L1002264.jpg",
+    "opengraph": "/img/open-graph/L1002264.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/250",
+    "aperture": "f/9.0",
+    "dateTaken": "2026:02:25 12:32:56",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.516349,
+      "lon": -0.074933
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Merchant Street's Midday Convergence",
+    "alt": "A bustling street market scene with crowds of people gathered around food stalls and vendors on a busy urban street, with modern skyscrapers visible in the background and traditional brick buildings lining both sides of the narrow street",
+    "tags": [
+      "street",
+      "crowd",
+      "urban",
+      "market",
+      "food stalls",
+      "skyscrapers",
+      "brick buildings",
+      "gathering",
+      "vendors",
+      "cityscape"
+    ],
+    "dateAdded": "2026-02-25T19:00:57.007Z"
+  },
+  {
     "filename": "L1002248.jpg",
     "image": "/img/photos/L1002248.jpg",
     "thumbnail": "/img/thumbnails/L1002248.jpg",
