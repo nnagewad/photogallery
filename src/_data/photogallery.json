@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1002294.jpg",
+    "image": "/img/photos/L1002294.jpg",
+    "thumbnail": "/img/thumbnails/L1002294.jpg",
+    "opengraph": "/img/open-graph/L1002294.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/8",
+    "aperture": "f/3.2",
+    "dateTaken": "2026:03:14 19:33:35",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.506087,
+      "lon": -0.131163
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Disciples of Electric Communion",
+    "alt": "A DJ performs at a small venue bathed in intense blue and purple stage lighting, with several silhouetted audience members standing in the foreground watching the performance. The atmospheric lighting creates a moody, intimate club environment with dramatic contrasts between light and shadow.",
+    "tags": [
+      "DJ",
+      "electronic music",
+      "blue light",
+      "purple lighting",
+      "silhouette",
+      "performance",
+      "nightclub",
+      "atmospheric lighting",
+      "audience",
+      "live performance",
+      "Institute of Contemporary Arts"
+    ],
+    "dateAdded": "2026-03-15T14:27:17.887Z"
+  },
+  {
     "filename": "L1002280.jpg",
     "image": "/img/photos/L1002280.jpg",
     "thumbnail": "/img/thumbnails/L1002280.jpg",
