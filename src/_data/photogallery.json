@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1002338.jpg",
+    "image": "/img/photos/L1002338.jpg",
+    "thumbnail": "/img/thumbnails/L1002338.jpg",
+    "opengraph": "/img/open-graph/L1002338.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/15",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:03:14 21:05:20",
+    "dimensions": {
+      "width": 2048,
+      "height": 1368
+    },
+    "gps": {
+      "lat": 51.506087,
+      "lon": -0.131163
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Architect of Electronic Meditation",
+    "alt": "Black and white photograph of a bearded man with glasses wearing dark clothing, hunched over an electronic music setup with synthesizers, cables, and equipment on a table under dramatic lighting in what appears to be a performance or studio space",
+    "tags": [
+      "electronic music",
+      "synthesizer",
+      "black and white",
+      "Institute of Contemporary Arts",
+      "glasses",
+      "beard",
+      "performance",
+      "atmospheric lighting",
+      "cables",
+      "equipment",
+      "studio",
+      "musician",
+      "experimental music",
+      "dramatic lighting",
+      "concentration",
+      "Jan Jelinek"
+    ],
+    "dateAdded": "2026-03-15T14:30:44.806Z"
+  },
+  {
     "filename": "L1002294.jpg",
     "image": "/img/photos/L1002294.jpg",
     "thumbnail": "/img/thumbnails/L1002294.jpg",
