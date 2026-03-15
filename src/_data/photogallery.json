@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002273.jpg",
+    "image": "/img/photos/L1002273.jpg",
+    "thumbnail": "/img/thumbnails/L1002273.jpg",
+    "opengraph": "/img/open-graph/L1002273.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:03:14 12:02:02",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.560398,
+      "lon": -0.15529800000000002
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Walker's Quiet Revolution",
+    "alt": "A black and white portrait of a woman in profile wearing a dark coat, holding a dog lead, standing in an open field with trees and buildings blurred in the background under an overcast sky",
+    "tags": [
+      "black and white",
+      "portrait",
+      "woman",
+      "Hampstead Heath",
+      "overcast sky",
+      "field",
+      "trees",
+      "contemplation",
+      "profile",
+      "Ludivine Pingeot"
+    ],
+    "dateAdded": "2026-03-15T14:20:52.130Z"
+  },
+  {
     "filename": "L1002264.jpg",
     "image": "/img/photos/L1002264.jpg",
     "thumbnail": "/img/thumbnails/L1002264.jpg",
