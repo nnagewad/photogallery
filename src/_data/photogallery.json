@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1002280.jpg",
+    "image": "/img/photos/L1002280.jpg",
+    "thumbnail": "/img/thumbnails/L1002280.jpg",
+    "opengraph": "/img/open-graph/L1002280.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/250",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:03:14 15:42:48",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.546798,
+      "lon": -0.144449
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Ritual of Shuffled Fortunes",
+    "alt": "Black and white photograph of three women sitting at a table in what appears to be a pub or restaurant, playing cards together. The woman on the left is smiling and leaning back, while the middle woman deals cards. Various drinks including beer and wine glasses are visible on the dark wooden table. Large windows show urban buildings in the background.",
+    "tags": [
+      "black and white",
+      "women",
+      "cards",
+      "pub",
+      "beer",
+      "wine glasses",
+      "friendship",
+      "table",
+      "urban",
+      "interior",
+      "social",
+      "game"
+    ],
+    "dateAdded": "2026-03-15T14:25:17.843Z"
+  },
+  {
     "filename": "L1002273.jpg",
     "image": "/img/photos/L1002273.jpg",
     "thumbnail": "/img/thumbnails/L1002273.jpg",
