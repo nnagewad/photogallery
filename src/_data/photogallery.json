@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1002371.jpg",
+    "image": "/img/photos/L1002371.jpg",
+    "thumbnail": "/img/thumbnails/L1002371.jpg",
+    "opengraph": "/img/open-graph/L1002371.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:03:18 20:06:53",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.510824,
+      "lon": -0.123402
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Teppanyaki Master's Flaming Symphony",
+    "alt": "A chef in white uniform and red hat performs teppanyaki cooking at a restaurant, creating dramatic flames on the griddle while customers watch from surrounding tables in dimly lit dining room",
+    "tags": [
+      "chef",
+      "cooking",
+      "fire",
+      "flames",
+      "teppanyaki",
+      "restaurant",
+      "performance",
+      "dramatic lighting",
+      "culinary",
+      "dining",
+      "audience",
+      "kitchen",
+      "food service",
+      "atmospheric",
+      "theatrical",
+      "Benihana"
+    ],
+    "dateAdded": "2026-03-24T09:15:54.380Z"
+  },
+  {
     "filename": "L1002338.jpg",
     "image": "/img/photos/L1002338.jpg",
     "thumbnail": "/img/thumbnails/L1002338.jpg",
