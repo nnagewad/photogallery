@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002377.jpg",
+    "image": "/img/photos/L1002377.jpg",
+    "thumbnail": "/img/thumbnails/L1002377.jpg",
+    "opengraph": "/img/open-graph/L1002377.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/4.5",
+    "dateTaken": "2026:03:28 13:43:10",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.561992000000004,
+      "lon": -0.080097
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Tenderness of Shared Sustenance",
+    "alt": "Black and white photograph of a couple at a restaurant counter by large windows. A man in glasses stands behind a woman who is also wearing sunglasses and smiling. She holds what appears to be a taco. The scene is lit by natural daylight streaming through the windows, with urban street views visible outside.",
+    "tags": [
+      "couple",
+      "restaurant",
+      "black and white",
+      "sunglasses",
+      "food",
+      "urban",
+      "intimacy",
+      "dining",
+      "togetherness",
+      "candid"
+    ],
+    "dateAdded": "2026-03-28T20:36:43.259Z"
+  },
+  {
     "filename": "L1002371.jpg",
     "image": "/img/photos/L1002371.jpg",
     "thumbnail": "/img/thumbnails/L1002371.jpg",
