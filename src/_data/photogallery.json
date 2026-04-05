@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1002428.jpg",
+    "image": "/img/photos/L1002428.jpg",
+    "thumbnail": "/img/thumbnails/L1002428.jpg",
+    "opengraph": "/img/open-graph/L1002428.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/60",
+    "aperture": "f/5.0",
+    "dateTaken": "2026:04:02 16:17:01",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.501719,
+      "lon": -0.125911
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Publican's Cathedral of Murmured Histories",
+    "alt": "Interior of a traditional pub with dark wood paneling, ornate chandelier, and plates displayed on walls. Several patrons are silhouetted against bright windows with stained glass elements, creating a moody atmosphere with strong contrast between light and shadow.",
+    "tags": [
+      "pub",
+      "interior",
+      "chandelier",
+      "wood paneling",
+      "silhouette",
+      "atmospheric",
+      "traditional",
+      "ornate architecture",
+      "stained glass",
+      "social",
+      "gathering",
+      "dramatic lighting",
+      "shadows",
+      "plates",
+      "decorative",
+      "hospitality"
+    ],
+    "dateAdded": "2026-04-05T15:14:59.721Z"
+  },
+  {
     "filename": "L1002377.jpg",
     "image": "/img/photos/L1002377.jpg",
     "thumbnail": "/img/thumbnails/L1002377.jpg",
