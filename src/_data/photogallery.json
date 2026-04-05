@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1002385.jpg",
+    "image": "/img/photos/L1002385.jpg",
+    "thumbnail": "/img/thumbnails/L1002385.jpg",
+    "opengraph": "/img/open-graph/L1002385.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/250",
+    "aperture": "f/6.3",
+    "dateTaken": "2026:04:02 13:20:57",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.490822,
+      "lon": -0.127058
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Pantheon's Circular Testimony",
+    "alt": "Black and white upward view of a classical domed interior featuring ornate Corinthian columns, decorative molding, and a dramatic circular glass ceiling with geometric grid pattern letting in bright natural light",
+    "tags": [
+      "classical architecture",
+      "dome",
+      "columns",
+      "ornate architecture",
+      "geometric",
+      "black and white",
+      "upward perspective",
+      "glass ceiling",
+      "dramatic lighting",
+      "interior",
+      "architectural interior",
+      "Tate Britain"
+    ],
+    "dateAdded": "2026-04-05T15:26:40.799Z"
+  },
+  {
     "filename": "L1002428.jpg",
     "image": "/img/photos/L1002428.jpg",
     "thumbnail": "/img/thumbnails/L1002428.jpg",
