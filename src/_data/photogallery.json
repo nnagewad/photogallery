@@ -1,5 +1,45 @@
 [
   {
+    "filename": "L1002417.jpg",
+    "image": "/img/photos/L1002417.jpg",
+    "thumbnail": "/img/thumbnails/L1002417.jpg",
+    "opengraph": "/img/open-graph/L1002417.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/7.1",
+    "dateTaken": "2026:04:02 15:12:27",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.492697,
+      "lon": -0.125189
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Colonnade of Modern Loneliness",
+    "alt": "Black and white photograph showing a covered walkway with concrete columns supporting a flat ceiling. The space features a geometric paved floor and opens to views of modernist buildings and bare trees. A sign reading 'LLBANK CENTRE' is visible on the right, and bicycles can be seen parked in the distance.",
+    "tags": [
+      "black and white",
+      "concrete",
+      "columns",
+      "geometric",
+      "modernist",
+      "architectural interior",
+      "urban",
+      "brutalist",
+      "shadows",
+      "solitude",
+      "institutional space",
+      "covered walkway",
+      "geometric patterns"
+    ],
+    "dateAdded": "2026-04-05T16:20:37.681Z"
+  },
+  {
     "filename": "L1002385.jpg",
     "image": "/img/photos/L1002385.jpg",
     "thumbnail": "/img/thumbnails/L1002385.jpg",
