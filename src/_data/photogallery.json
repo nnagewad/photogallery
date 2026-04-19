@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002457.jpg",
+    "image": "/img/photos/L1002457.jpg",
+    "thumbnail": "/img/thumbnails/L1002457.jpg",
+    "opengraph": "/img/open-graph/L1002457.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:04:18 17:36:01",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 51.515794,
+      "lon": -0.116558
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Solitary Champion's Practice",
+    "alt": "Black and white photograph of a tennis player mid-serve on an outdoor court, captured from behind as they reach up with their racket. The court is surrounded by trees and has tennis balls scattered across the surface, creating dramatic shadows in the natural lighting.",
+    "tags": [
+      "black and white",
+      "tennis",
+      "sports",
+      "outdoor court",
+      "trees",
+      "shadows",
+      "athletic",
+      "practice",
+      "solitude",
+      "dramatic lighting"
+    ],
+    "dateAdded": "2026-04-19T12:45:45.802Z"
+  },
+  {
     "filename": "L1002417.jpg",
     "image": "/img/photos/L1002417.jpg",
     "thumbnail": "/img/thumbnails/L1002417.jpg",
