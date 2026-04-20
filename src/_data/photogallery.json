@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1002484.jpg",
+    "image": "/img/photos/L1002484.jpg",
+    "thumbnail": "/img/thumbnails/L1002484.jpg",
+    "opengraph": "/img/open-graph/L1002484.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/2.0",
+    "dateTaken": "2026:04:20 12:30:04",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.54198,
+      "lon": -0.013548000000000001
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Brotherhood of Parallel Journeys",
+    "alt": "Black and white photograph of two young men with dreadlocks standing side by side in a museum gift shop. The man on the left wears glasses and a leather jacket, while the man on the right wears a longer coat with text on it. Behind them are illuminated storefronts and display cases. The composition creates a sense of solidarity and shared presence in an urban commercial environment.",
+    "tags": [
+      "black and white",
+      "portrait",
+      "dreadlocks",
+      "leather jacket",
+      "museum gift shop",
+      "friendship",
+      "urban",
+      "young men",
+      "glasses",
+      "storefronts",
+      "illuminated",
+      "solidarity",
+      "contemporary",
+      "V&A East Museum"
+    ],
+    "dateAdded": "2026-04-20T16:58:54.931Z"
+  },
+  {
     "filename": "L1002457.jpg",
     "image": "/img/photos/L1002457.jpg",
     "thumbnail": "/img/thumbnails/L1002457.jpg",
