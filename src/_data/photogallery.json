@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1002500.jpg",
+    "image": "/img/photos/L1002500.jpg",
+    "thumbnail": "/img/thumbnails/L1002500.jpg",
+    "opengraph": "/img/open-graph/L1002500.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/16.0",
+    "dateTaken": "2026:04:20 13:59:08",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.541836,
+      "lon": -0.013810999999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Angular Procession",
+    "alt": "Black and white photograph showing a person walking past the striking geometric facade of the V&A East Museum, with angular metallic cladding creating dramatic shadows and patterns. White circular markers are embedded in the ground forming a pathway, while the building's modern architecture features sharp triangular forms and a bold V&A sign.",
+    "tags": [
+      "black and white",
+      "V&A East Museum",
+      "geometric",
+      "angular geometry",
+      "modern",
+      "architecture",
+      "walking",
+      "geometric patterns",
+      "dramatic shadows",
+      "metallic framework",
+      "contemporary architecture",
+      "museum",
+      "urban",
+      "structural elements",
+      "V&A East Museum"
+    ],
+    "dateAdded": "2026-04-24T11:15:26.947Z"
+  },
+  {
     "filename": "L1002484.jpg",
     "image": "/img/photos/L1002484.jpg",
     "thumbnail": "/img/thumbnails/L1002484.jpg",
