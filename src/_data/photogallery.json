@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1002512.jpg",
+    "image": "/img/photos/L1002512.jpg",
+    "thumbnail": "/img/thumbnails/L1002512.jpg",
+    "opengraph": "/img/open-graph/L1002512.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/6.3",
+    "dateTaken": "2026:04:26 16:37:58",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.555087,
+      "lon": -0.108401
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Stadium Oracle's Amplified Call",
+    "alt": "A black and white photograph of a man in a baseball cap cupping his hand around his mouth to amplify his voice while shouting at a football stadium. He has a mustache and goatee, and other spectators are visible in the blurred background. The stadium's distinctive architecture with its curved roof and multiple tiers is visible.",
+    "tags": [
+      "black and white",
+      "portrait",
+      "stadium",
+      "football",
+      "spectator",
+      "shouting",
+      "cap",
+      "mustache",
+      "crowd",
+      "sports",
+      "Arsenal Football Club",
+      "Emirates Stadium"
+    ],
+    "dateAdded": "2026-04-27T13:23:00.163Z"
+  },
+  {
     "filename": "L1002471.jpg",
     "image": "/img/photos/L1002471.jpg",
     "thumbnail": "/img/thumbnails/L1002471.jpg",
