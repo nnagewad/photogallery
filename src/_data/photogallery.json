@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1002491.jpg",
+    "image": "/img/photos/L1002491.jpg",
+    "thumbnail": "/img/thumbnails/L1002491.jpg",
+    "opengraph": "/img/open-graph/L1002491.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/6.3",
+    "dateTaken": "2026:04:20 13:45:24",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.541695,
+      "lon": -0.013045
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Ascent of Concrete Rings",
+    "alt": "Black and white photograph taken from below showing a dramatic upward view of curved concrete steps or levels ascending in a spiral pattern, framed by vertical concrete pillars and glass panels, creating strong geometric shadows and architectural depth",
+    "tags": [
+      "black and white",
+      "concrete",
+      "geometric",
+      "architecture",
+      "brutalist",
+      "spiral",
+      "upward perspective",
+      "geometric patterns",
+      "dramatic shadows",
+      "modernist",
+      "structural elements",
+      "vertical composition"
+    ],
+    "dateAdded": "2026-04-27T09:26:15.526Z"
+  },
+  {
     "filename": "L1002500.jpg",
     "image": "/img/photos/L1002500.jpg",
     "thumbnail": "/img/thumbnails/L1002500.jpg",
