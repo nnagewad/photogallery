@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1002522.jpg",
+    "image": "/img/photos/L1002522.jpg",
+    "thumbnail": "/img/thumbnails/L1002522.jpg",
+    "opengraph": "/img/open-graph/L1002522.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:04:26 17:09:22",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 51.555087,
+      "lon": -0.108401
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Euphoria of Collective Triumph",
+    "alt": "Black and white photograph of excited sports fans in a stadium, with a man in glasses and scarf celebrating with raised hands while another fan in a cap looks on, stadium architecture visible in the background",
+    "tags": [
+      "black and white",
+      "stadium",
+      "sports",
+      "celebration",
+      "crowd",
+      "spectator",
+      "glasses",
+      "scarf",
+      "cap",
+      "joy",
+      "collective triumph",
+      "football",
+      "Arsenal Football Club",
+      "Emirates Stadium"
+    ],
+    "dateAdded": "2026-04-27T13:39:12.764Z"
+  },
+  {
     "filename": "L1002512.jpg",
     "image": "/img/photos/L1002512.jpg",
     "thumbnail": "/img/thumbnails/L1002512.jpg",
