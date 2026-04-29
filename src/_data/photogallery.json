@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1002529.jpg",
+    "image": "/img/photos/L1002529.jpg",
+    "thumbnail": "/img/thumbnails/L1002529.jpg",
+    "opengraph": "/img/open-graph/L1002529.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:04:28 12:53:06",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.512543,
+      "lon": -0.10998899999999999
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Season of Purple Reveries",
+    "alt": "A woman wearing dark sunglasses and gold jewelry looks upward with her face tilted toward the sky, surrounded by blooming purple flowers that create a dreamy, overexposed background",
+    "tags": [
+      "woman",
+      "sunglasses",
+      "purple",
+      "flowers",
+      "spring",
+      "upward gaze",
+      "gold jewelry",
+      "portrait",
+      "bloom",
+      "contemplation",
+      "dreamy",
+      "overexposed",
+      "seasonal",
+      "Nancy Hong"
+    ],
+    "dateAdded": "2026-04-29T10:11:28.203Z"
+  },
+  {
     "filename": "L1002522.jpg",
     "image": "/img/photos/L1002522.jpg",
     "thumbnail": "/img/thumbnails/L1002522.jpg",
