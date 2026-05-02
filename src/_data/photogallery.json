@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002562.jpg",
+    "image": "/img/photos/L1002562.jpg",
+    "thumbnail": "/img/thumbnails/L1002562.jpg",
+    "opengraph": "/img/open-graph/L1002562.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:05:02 15:40:40",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.533837,
+      "lon": -0.099709
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Merchant's Quiet Testimony",
+    "alt": "A bearded man wearing a black baseball cap and green Bodegas t-shirt stands in what appears to be a grocery store or market, with product shelves visible behind him. He has a slight smile and is looking directly at the camera.",
+    "tags": [
+      "man",
+      "beard",
+      "mustache",
+      "portrait",
+      "baseball cap",
+      "grocery store",
+      "small business",
+      "Bodegas",
+      "retail",
+      "contemplation"
+    ],
+    "dateAdded": "2026-05-02T22:15:44.843Z"
+  },
+  {
     "filename": "L1002557.jpg",
     "image": "/img/photos/L1002557.jpg",
     "thumbnail": "/img/thumbnails/L1002557.jpg",
