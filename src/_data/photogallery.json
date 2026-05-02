@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1002557.jpg",
+    "image": "/img/photos/L1002557.jpg",
+    "thumbnail": "/img/thumbnails/L1002557.jpg",
+    "opengraph": "/img/open-graph/L1002557.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:04:30 19:32:02",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.52865,
+      "lon": -0.133791
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Departure Gate Confessor",
+    "alt": "A man with black-rimmed glasses and a mustache wearing a dark jacket and gray t-shirt stands in the foreground of what appears to be an airport terminal, with bright overhead lighting and blurred crowds of travelers in the background",
+    "tags": [
+      "man",
+      "glasses",
+      "mustache",
+      "Euston Station",
+      "terminal",
+      "portrait",
+      "travel",
+      "beard",
+      "contemplation",
+      "urban",
+      "crowd",
+      "transportation"
+    ],
+    "dateAdded": "2026-05-02T09:57:31.837Z"
+  },
+  {
     "filename": "L1002529.jpg",
     "image": "/img/photos/L1002529.jpg",
     "thumbnail": "/img/thumbnails/L1002529.jpg",
