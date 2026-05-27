@@ -41,6 +41,6 @@
     "netlify-plugin-cache": "^1.0.3",
     "pagefind": "^1.5.2",
     "sass": "^1.100.0",
-    "terser": "^5.47.1"
+    "terser": "^5.48.0"
   }
 }
