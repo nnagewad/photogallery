@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1002625.jpg",
+    "image": "/img/photos/L1002625.jpg",
+    "thumbnail": "/img/thumbnails/L1002625.jpg",
+    "opengraph": "/img/open-graph/L1002625.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:05:06 15:18:52",
+    "dimensions": {
+      "width": 1368,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 41.891733,
+      "lon": 12.469147
+    },
+    "localized": "Rome",
+    "country": "Italy",
+    "title": "The Alchemist's Hour of Amber Light",
+    "alt": "Interior of a dimly lit traditional pub with wooden bar stools and beer taps. A man in a blue sweater stands at the bar while another person sits on a stool facing away from camera. Warm lighting creates atmospheric shadows, with a clock visible on the wood-paneled wall and bright daylight streaming through windows.",
+    "tags": [
+      "atmospheric",
+      "warm lighting",
+      "beer tap",
+      "wood paneling",
+      "man",
+      "blue sweater",
+      "bar",
+      "traditional",
+      "interior",
+      "social",
+      "gathering"
+    ],
+    "dateAdded": "2026-05-31T21:28:45.960Z"
+  },
+  {
     "filename": "L1002562.jpg",
     "image": "/img/photos/L1002562.jpg",
     "thumbnail": "/img/thumbnails/L1002562.jpg",
