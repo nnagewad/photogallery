@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002607.jpg",
+    "image": "/img/photos/L1002607.jpg",
+    "thumbnail": "/img/thumbnails/L1002607.jpg",
+    "opengraph": "/img/open-graph/L1002607.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/8.0",
+    "dateTaken": "2026:05:06 13:13:51",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 41.896156,
+      "lon": 12.485467
+    },
+    "localized": "Rome",
+    "country": "Italy",
+    "title": "The Column's Silent Testimony",
+    "alt": "A black and white photograph taken from between two buildings showing a narrow urban view of a tall monument or column with a statue on top, surrounded by historic architecture, parked cars, and people in a European city square",
+    "tags": [
+      "black and white",
+      "monuments",
+      "European architecture",
+      "urban scene",
+      "historic architecture",
+      "street scene",
+      "column",
+      "statue",
+      "cityscape",
+      "perspective"
+    ],
+    "dateAdded": "2026-06-01T02:13:24.053Z"
+  },
+  {
     "filename": "L1002625.jpg",
     "image": "/img/photos/L1002625.jpg",
     "thumbnail": "/img/thumbnails/L1002625.jpg",
