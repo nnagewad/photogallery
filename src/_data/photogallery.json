@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1002637.jpg",
+    "image": "/img/photos/L1002637.jpg",
+    "thumbnail": "/img/thumbnails/L1002637.jpg",
+    "opengraph": "/img/open-graph/L1002637.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:05:07 11:31:08",
+    "dimensions": {
+      "width": 1368,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 41.897841,
+      "lon": 12.516579
+    },
+    "localized": "Rome",
+    "country": "Italy",
+    "title": "The Vandal's Sacred Manifesto",
+    "alt": "A weathered concrete wall covered in layered graffiti and street art, featuring a demonic cartoon face with wild hair and sharp teeth painted in bright colors, overlaid on torn political posters including one that reads 'CUP SOCIAL' in Italian. The artwork shows multiple layers of urban expression, with various tags, drawings, and text in different languages creating a palimpsest of street culture.",
+    "tags": [
+      "graffiti",
+      "street art",
+      "concrete",
+      "urban decay",
+      "political posters",
+      "layered",
+      "cartoon imagery",
+      "demon",
+      "Italian text",
+      "torn paper",
+      "vandalism",
+      "urban culture"
+    ],
+    "dateAdded": "2026-06-03T17:15:53.128Z"
+  },
+  {
     "filename": "L1002569.jpg",
     "image": "/img/photos/L1002569.jpg",
     "thumbnail": "/img/thumbnails/L1002569.jpg",
