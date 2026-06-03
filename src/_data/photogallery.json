@@ -1,5 +1,45 @@
 [
   {
+    "filename": "L1002569.jpg",
+    "image": "/img/photos/L1002569.jpg",
+    "thumbnail": "/img/thumbnails/L1002569.jpg",
+    "opengraph": "/img/open-graph/L1002569.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/1000",
+    "aperture": "f/2.8",
+    "dateTaken": "2026:05:06 12:34:04",
+    "dimensions": {
+      "width": 1368,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 41.890775,
+      "lon": 12.496628
+    },
+    "localized": "Rome",
+    "country": "Italy",
+    "title": "The Bronze Philosopher's Mediterranean Dream",
+    "alt": "A bronze statue of a robed figure stands on a pedestal against a backdrop of palm trees and blue sky with white clouds, photographed from a low angle that emphasizes the monument's stature",
+    "tags": [
+      "statue",
+      "bronze",
+      "monument",
+      "palm trees",
+      "blue sky",
+      "clouds",
+      "low angle",
+      "memorial",
+      "classical sculpture",
+      "robed figure",
+      "pedestal",
+      "Mediterranean",
+      "upward perspective"
+    ],
+    "dateAdded": "2026-06-03T17:07:28.491Z"
+  },
+  {
     "filename": "L1002607.jpg",
     "image": "/img/photos/L1002607.jpg",
     "thumbnail": "/img/thumbnails/L1002607.jpg",
