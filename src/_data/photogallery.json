@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1002936.jpg",
+    "image": "/img/photos/L1002936.jpg",
+    "thumbnail": "/img/thumbnails/L1002936.jpg",
+    "opengraph": "/img/open-graph/L1002936.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/500",
+    "aperture": "f/4.5",
+    "dateTaken": "2026:05:10 18:17:39",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.771456,
+      "lon": 11.251686
+    },
+    "localized": "Florence",
+    "country": "Italy",
+    "title": "The Convergence of Ancient Streets",
+    "alt": "A narrow European street scene shot from behind pedestrians walking toward bright sunlight. Historic buildings with balconies and shutters line both sides of the cobblestone street, creating dramatic shadows and backlighting. A small bird flies overhead in the cloudy sky.",
+    "tags": [
+      "street",
+      "European architecture",
+      "cobblestone",
+      "backlit",
+      "historic architecture",
+      "balconies",
+      "dramatic shadows",
+      "pedestrian",
+      "bird",
+      "sunlight",
+      "narrow passage",
+      "atmospheric",
+      "urban scene",
+      "walking"
+    ],
+    "dateAdded": "2026-06-09T01:18:47.104Z"
+  },
+  {
     "filename": "L1002637.jpg",
     "image": "/img/photos/L1002637.jpg",
     "thumbnail": "/img/thumbnails/L1002637.jpg",
