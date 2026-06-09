@@ -31,7 +31,7 @@
     "@11ty/eleventy-img": "^6.0.4",
     "@11ty/eleventy-plugin-rss": "^3.0.0",
     "dotenv": "^17.4.2",
-    "exifreader": "^4.40.5",
+    "exifreader": "^4.41.0",
     "luxon": "^3.7.2"
   },
   "devDependencies": {
