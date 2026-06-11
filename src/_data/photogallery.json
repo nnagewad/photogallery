@@ -1,5 +1,44 @@
 [
   {
+    "filename": "L1002741.jpg",
+    "image": "/img/photos/L1002741.jpg",
+    "thumbnail": "/img/thumbnails/L1002741.jpg",
+    "opengraph": "/img/open-graph/L1002741.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/250",
+    "aperture": "f/6.3",
+    "dateTaken": "2026:05:08 10:05:08",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 41.897861,
+      "lon": 12.516811
+    },
+    "localized": "Rome",
+    "country": "Italy",
+    "title": "The Rooftop Oracle's Silent Broadcast",
+    "alt": "A low-angle view of a rooftop showing television antennas, a cactus, and weathered roof tiles against a cloudy sky, with a cylindrical chimney visible on the left side",
+    "tags": [
+      "rooftop",
+      "television antennas",
+      "roof tiles",
+      "chimney",
+      "cloudy sky",
+      "low angle",
+      "weathered",
+      "communication",
+      "broadcast",
+      "Mediterranean",
+      "atmospheric",
+      "cactus"
+    ],
+    "dateAdded": "2026-06-11T01:31:47.956Z"
+  },
+  {
     "filename": "L1002936.jpg",
     "image": "/img/photos/L1002936.jpg",
     "thumbnail": "/img/thumbnails/L1002936.jpg",
