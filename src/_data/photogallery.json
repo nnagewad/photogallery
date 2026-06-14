@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1002783.jpg",
+    "image": "/img/photos/L1002783.jpg",
+    "thumbnail": "/img/thumbnails/L1002783.jpg",
+    "opengraph": "/img/open-graph/L1002783.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:05:09 10:46:54",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 44.49141,
+      "lon": 11.347301999999999
+    },
+    "localized": "Bologna",
+    "country": "Italy",
+    "title": "The Barista's Dawn Ritual",
+    "alt": "A barista in white shirt and dark apron working behind an espresso machine in a modern coffee shop, with wooden shelves displaying bottles and glasses, coffee grinders visible, and warm lighting throughout the space",
+    "tags": [
+      "barista",
+      "coffee shop",
+      "espresso machine",
+      "service industry",
+      "wooden shelves",
+      "warm lighting",
+      "professional",
+      "hospitality",
+      "interior",
+      "beard",
+      "coffee grinders",
+      "bottles",
+      "glasses",
+      "contemporary"
+    ],
+    "dateAdded": "2026-06-14T19:51:11.045Z"
+  },
+  {
     "filename": "L1002741.jpg",
     "image": "/img/photos/L1002741.jpg",
     "thumbnail": "/img/thumbnails/L1002741.jpg",
