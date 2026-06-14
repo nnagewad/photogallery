@@ -1,5 +1,45 @@
 [
   {
+    "filename": "L1002861.jpg",
+    "image": "/img/photos/L1002861.jpg",
+    "thumbnail": "/img/thumbnails/L1002861.jpg",
+    "opengraph": "/img/open-graph/L1002861.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/250",
+    "aperture": "f/10.0",
+    "dateTaken": "2026:05:09 18:34:23",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 44.492342,
+      "lon": 11.348206
+    },
+    "localized": "Bologna",
+    "country": "Italy",
+    "title": "The Portico's Commerce of Memory",
+    "alt": "A bustling outdoor market scene under historic Renaissance arches with warm terracotta-colored walls. Multiple people browse market stalls with white canopies, including an elderly man in a red cardigan prominently featured in the center. The architecture features classical columns and arched openings typical of Italian piazzas.",
+    "tags": [
+      "market",
+      "archway",
+      "Renaissance architecture",
+      "terracotta",
+      "elderly man",
+      "red cardigan",
+      "outdoor market",
+      "white canopies",
+      "classical columns",
+      "Italian architecture",
+      "crowd",
+      "vendors",
+      "historic architecture"
+    ],
+    "dateAdded": "2026-06-14T21:29:08.621Z"
+  },
+  {
     "filename": "L1002847.jpg",
     "image": "/img/photos/L1002847.jpg",
     "thumbnail": "/img/thumbnails/L1002847.jpg",
