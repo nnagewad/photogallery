@@ -1,5 +1,45 @@
 [
   {
+    "filename": "L1002847.jpg",
+    "image": "/img/photos/L1002847.jpg",
+    "thumbnail": "/img/thumbnails/L1002847.jpg",
+    "opengraph": "/img/open-graph/L1002847.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/4",
+    "aperture": "f/11.0",
+    "dateTaken": "2026:05:09 15:48:27",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 44.493603,
+      "lon": 11.347881
+    },
+    "localized": "Bologna",
+    "country": "Italy",
+    "title": "The Velocity of Ancient Passages",
+    "alt": "A narrow cobblestone alley in an Italian city with warm terracotta and brick walls. A person in a striped shirt walks quickly through the passage, creating motion blur. The alley opens to a brighter square with classical architecture and arched doorways visible in the background.",
+    "tags": [
+      "motion blur",
+      "cobblestone",
+      "narrow alley",
+      "Italian architecture",
+      "terracotta",
+      "brick wall",
+      "pedestrian",
+      "European street",
+      "historic architecture",
+      "arched doorways",
+      "classical architecture",
+      "urban scene",
+      "walking"
+    ],
+    "dateAdded": "2026-06-14T20:37:52.930Z"
+  },
+  {
     "filename": "L1002783.jpg",
     "image": "/img/photos/L1002783.jpg",
     "thumbnail": "/img/thumbnails/L1002783.jpg",
