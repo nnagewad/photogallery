@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1002941.jpg",
+    "image": "/img/photos/L1002941.jpg",
+    "thumbnail": "/img/thumbnails/L1002941.jpg",
+    "opengraph": "/img/open-graph/L1002941.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/4.0",
+    "dateTaken": "2026:05:10 19:32:42",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.770438,
+      "lon": 11.263294
+    },
+    "localized": "Florence",
+    "country": "Italy",
+    "title": "The Geometry of Evening Pilgrimages",
+    "alt": "A narrow European street at golden hour with silhouetted figures walking along cobblestone sidewalks between tall buildings with shuttered windows, creating dramatic shadows and warm backlighting",
+    "tags": [
+      "European street",
+      "golden hour",
+      "silhouette",
+      "cobblestone",
+      "dramatic shadows",
+      "backlit",
+      "narrow passage",
+      "pedestrian",
+      "sunset lighting",
+      "European architecture"
+    ],
+    "dateAdded": "2026-06-14T21:43:22.269Z"
+  },
+  {
     "filename": "L1002861.jpg",
     "image": "/img/photos/L1002861.jpg",
     "thumbnail": "/img/thumbnails/L1002861.jpg",
