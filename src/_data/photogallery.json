@@ -1,5 +1,45 @@
 [
   {
+    "filename": "L1002985.jpg",
+    "image": "/img/photos/L1002985.jpg",
+    "thumbnail": "/img/thumbnails/L1002985.jpg",
+    "opengraph": "/img/open-graph/L1002985.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/5.0",
+    "dateTaken": "2026:05:11 17:16:31",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 44.652131,
+      "lon": 10.936564
+    },
+    "localized": "Modena",
+    "country": "Italy",
+    "title": "The Cathedral of Velocity",
+    "alt": "Interior of a modern Ferrari museum with multiple levels displaying classic and contemporary Ferrari sports cars. Visitors walk among red Ferrari models on white platforms in a minimalist white gallery space with dramatic lighting. The architecture features clean lines and geometric design, creating a temple-like atmosphere for automotive appreciation.",
+    "tags": [
+      "museum interior",
+      "Ferrari",
+      "sports cars",
+      "red",
+      "automotive",
+      "exhibition",
+      "contemporary architecture",
+      "visitors",
+      "multi-level",
+      "white walls",
+      "dramatic lighting",
+      "luxury vehicles",
+      "cultural institution"
+    ],
+    "dateAdded": "2026-06-15T00:07:13.362Z"
+  },
+  {
     "filename": "L1002941.jpg",
     "image": "/img/photos/L1002941.jpg",
     "thumbnail": "/img/thumbnails/L1002941.jpg",
