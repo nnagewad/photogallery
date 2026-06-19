@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003161.jpg",
+    "image": "/img/photos/L1003161.jpg",
+    "thumbnail": "/img/thumbnails/L1003161.jpg",
+    "opengraph": "/img/open-graph/L1003161.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/10.0",
+    "dateTaken": "2026:05:13 20:01:48",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.426006,
+      "lon": 12.330094
+    },
+    "localized": "Venice",
+    "country": "Italy",
+    "title": "The Lagoon's Golden Passage",
+    "alt": "Passengers on a vaporetto water bus silhouetted against a blazing sunset over a Venetian canal, with historic buildings lining the waterway and warm golden light reflecting off the water",
+    "tags": [
+      "sunset",
+      "silhouette",
+      "canal",
+      "boat",
+      "Venice",
+      "golden hour",
+      "backlit",
+      "waterway",
+      "European architecture",
+      "travel",
+      "transport",
+      "passengers",
+      "lens flare",
+      "atmospheric",
+      "visitors"
+    ],
+    "dateAdded": "2026-06-19T01:01:54.560Z"
+  },
+  {
     "filename": "L1003042.jpg",
     "image": "/img/photos/L1003042.jpg",
     "thumbnail": "/img/thumbnails/L1003042.jpg",
