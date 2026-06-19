@@ -12,12 +12,11 @@ export async function analyzeImage(filePath, existingTitles = [], existingTags =
     headers: {
       'x-api-key': CLAUDE_API_KEY,
       'anthropic-version': '2023-06-01',
-      'X-Anthropic-Beta': 'interleaved-thinking-2025-05-14',
       'content-type': 'application/json'
     },
     body: JSON.stringify({
-    model: 'claude-sonnet-4-20250514',
-    max_tokens: 300,
+    model: 'claude-sonnet-4-6',
+    max_tokens: 400,
     system: 'You are a perceptive photograher and accessibility expert.',
     messages: [
       {
@@ -58,14 +57,19 @@ export async function analyzeImage(filePath, existingTitles = [], existingTags =
   }
 
   const data = await response.json();
-  const msg = data.content[0];
+  const msg = data.content.find(block => block.type === 'text');
   if (data.stop_reason === 'refusal') {
     throw new Error('Claude refused to generate content');
   }
 
+  if (!msg) {
+    throw new Error(`No text block in response. stop_reason: ${data.stop_reason}, blocks: ${JSON.stringify(data.content.map(b => b.type))}`);
+  }
+
   try {
-    return JSON.parse(msg.text);
+    const cleaned = msg.text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```\s*$/, '').trim();
+    return JSON.parse(cleaned);
   } catch {
-    throw new Error('Claude response is not valid JSON');
+    throw new Error(`Claude response is not valid JSON: ${msg.text}`);
   }
 }
