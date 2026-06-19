@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003042.jpg",
+    "image": "/img/photos/L1003042.jpg",
+    "thumbnail": "/img/thumbnails/L1003042.jpg",
+    "opengraph": "/img/open-graph/L1003042.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/8",
+    "aperture": "f/16.0",
+    "dateTaken": "2026:05:12 11:53:01",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 44.494161,
+      "lon": 11.342608
+    },
+    "localized": "Bologna",
+    "country": "Italy",
+    "title": "The Ghost of Piazza Maggiore",
+    "alt": "Black and white photograph of Bologna's Palazzo d'Accursio and Palazzo del Podestà in rainy weather, with a ghostly motion-blurred figure in the foreground and scattered pedestrians crossing the wet cobblestone piazza beneath a grey sky",
+    "tags": [
+      "black and white",
+      "motion blur",
+      "Italian architecture",
+      "historic architecture",
+      "cobblestone",
+      "crowd",
+      "wet pavement",
+      "classical architecture",
+      "ghostly figure",
+      "urban scene",
+      "pedestrian",
+      "Renaissance architecture",
+      "atmospheric",
+      "rain",
+      "Bologna"
+    ],
+    "dateAdded": "2026-06-19T00:43:08.288Z"
+  },
+  {
     "filename": "L1002985.jpg",
     "image": "/img/photos/L1002985.jpg",
     "thumbnail": "/img/thumbnails/L1002985.jpg",
