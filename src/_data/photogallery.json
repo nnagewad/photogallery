@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003380.jpg",
+    "image": "/img/photos/L1003380.jpg",
+    "thumbnail": "/img/thumbnails/L1003380.jpg",
+    "opengraph": "/img/open-graph/L1003380.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/3.2",
+    "dateTaken": "2026:05:17 14:13:05",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 45.815375,
+      "lon": 9.080258
+    },
+    "localized": "Como",
+    "country": "Italy",
+    "title": "The Blade's Celestial Ambition",
+    "alt": "A low-angle view looking up at a towering abstract metal sculpture with sharp, blade-like forms and polished reflective surfaces, set against a vivid blue sky with scattered clouds and bright sunlight.",
+    "tags": [
+      "sculpture",
+      "low angle",
+      "blue sky",
+      "clouds",
+      "upward perspective",
+      "abstract",
+      "metallic",
+      "dramatic perspective",
+      "sunlight",
+      "sculptural",
+      "contemporary",
+      "reflective",
+      "angular geometry",
+      "outdoor",
+      "monument"
+    ],
+    "dateAdded": "2026-06-24T00:58:01.608Z"
+  },
+  {
     "filename": "L1003351.jpg",
     "image": "/img/photos/L1003351.jpg",
     "thumbnail": "/img/thumbnails/L1003351.jpg",
