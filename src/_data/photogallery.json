@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003351.jpg",
+    "image": "/img/photos/L1003351.jpg",
+    "thumbnail": "/img/thumbnails/L1003351.jpg",
+    "opengraph": "/img/open-graph/L1003351.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/9.0",
+    "dateTaken": "2026:05:17 13:25:09",
+    "dimensions": {
+      "width": 2048,
+      "height": 1231
+    },
+    "gps": {
+      "lat": 45.814886,
+      "lon": 9.082817
+    },
+    "localized": "Como",
+    "country": "Italy",
+    "title": "The Stillness Between Departures",
+    "alt": "People resting on stone steps and walls along a lakeside promenade, with boats on the water and a hillside town visible across the lake under a partly cloudy sky",
+    "tags": [
+      "lake",
+      "waterfront view",
+      "travel",
+      "contemplation",
+      "steps",
+      "European architecture",
+      "boats",
+      "hillside",
+      "community",
+      "sunlight",
+      "visitors",
+      "outdoor",
+      "tranquil",
+      "landscape",
+      "cobblestone"
+    ],
+    "dateAdded": "2026-06-24T00:48:02.223Z"
+  },
+  {
     "filename": "L1003161.jpg",
     "image": "/img/photos/L1003161.jpg",
     "thumbnail": "/img/thumbnails/L1003161.jpg",
