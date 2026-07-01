@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1002678.jpg",
+    "image": "/img/photos/L1002678.jpg",
+    "thumbnail": "/img/thumbnails/L1002678.jpg",
+    "opengraph": "/img/open-graph/L1002678.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/2.2",
+    "dateTaken": "2026:05:07 12:48:30",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 41.928875,
+      "lon": 12.466506
+    },
+    "localized": "Rome",
+    "country": "Italy",
+    "title": "The Witness Before the Earth's Wall",
+    "alt": "A lone silhouetted figure stands in a darkened museum gallery, gazing at a large illuminated artwork depicting a textured rock or earth surface, framed by a bright doorway at the end of a long, shadowy corridor.",
+    "tags": [
+      "silhouette",
+      "museum interior",
+      "dramatic lighting",
+      "contemplation",
+      "art viewing",
+      "gallery",
+      "interior",
+      "chiaroscuro",
+      "exhibition space",
+      "corridor",
+      "visitor",
+      "contemporary art",
+      "dark",
+      "light and shadow",
+      "solitude",
+      "MAXXI National Museum of 21st Century Arts"
+    ],
+    "dateAdded": "2026-07-01T19:08:18.329Z"
+  },
+  {
     "filename": "L1002591.jpg",
     "image": "/img/photos/L1002591.jpg",
     "thumbnail": "/img/thumbnails/L1002591.jpg",
