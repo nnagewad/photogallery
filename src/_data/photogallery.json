@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1003088.jpg",
+    "image": "/img/photos/L1003088.jpg",
+    "thumbnail": "/img/thumbnails/L1003088.jpg",
+    "opengraph": "/img/open-graph/L1003088.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/250",
+    "aperture": "f/3.5",
+    "dateTaken": "2026:05:13 12:37:55",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.428006,
+      "lon": 12.358597
+    },
+    "localized": "Venice",
+    "country": "Italy",
+    "title": "The Threshold of Illuminated Mysteries",
+    "alt": "Visitors in silhouette stand in a darkened gallery space before a brightly lit doorway, beyond which a large sculptural form and cream curtains are visible in an adjacent exhibition room.",
+    "tags": [
+      "silhouette",
+      "gallery",
+      "exhibition space",
+      "contemporary art",
+      "visitors",
+      "light and shadow",
+      "dramatic lighting",
+      "doorway",
+      "sculpture",
+      "art exhibition",
+      "interior",
+      "museum",
+      "chiaroscuro",
+      "cinematic composition",
+      "contemplation",
+      "Biennale di Venezia"
+    ],
+    "dateAdded": "2026-07-01T20:02:21.260Z"
+  },
+  {
     "filename": "L1003082.jpg",
     "image": "/img/photos/L1003082.jpg",
     "thumbnail": "/img/thumbnails/L1003082.jpg",
