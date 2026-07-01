@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1002591.jpg",
+    "image": "/img/photos/L1002591.jpg",
+    "thumbnail": "/img/thumbnails/L1002591.jpg",
+    "opengraph": "/img/open-graph/L1002591.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/250",
+    "aperture": "f/2.8",
+    "dateTaken": "2026:05:06 12:52:17",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 41.891567,
+      "lon": 12.490764
+    },
+    "localized": "Rome",
+    "country": "Italy",
+    "title": "The Colosseum's Quiet Witness",
+    "alt": "A middle-aged man wearing glasses and a black shirt holds a smartphone while standing in front of the Colosseum in Rome, surrounded by other tourists on a sunny day. The image is in black and white.",
+    "tags": [
+      "black and white",
+      "man",
+      "smartphone",
+      "Rome",
+      "historic architecture",
+      "classical architecture",
+      "travel",
+      "crowd",
+      "outdoor",
+      "monument",
+      "Italian architecture",
+      "visitors",
+      "portrait",
+      "contemplation",
+      "urban scene"
+    ],
+    "dateAdded": "2026-07-01T18:57:19.363Z"
+  },
+  {
     "filename": "L1003380.jpg",
     "image": "/img/photos/L1003380.jpg",
     "thumbnail": "/img/thumbnails/L1003380.jpg",
