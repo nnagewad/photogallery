@@ -1,5 +1,53 @@
 [
   {
+    "filename": "L1003437.jpg",
+    "image": "/img/photos/L1003437.jpg",
+    "thumbnail": "/img/thumbnails/L1003437.jpg",
+    "opengraph": "/img/open-graph/L1003437.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/500",
+    "aperture": "f/3.5",
+    "dateTaken": "2026:06:20 11:26:14",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.536415,
+      "lon": -73.615401
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Shuckers of the Tidal Hour",
+    "alt": "Two workers in aprons shuck oysters at an outdoor market stall called La Boîte aux Huîtres, with trays of fresh oysters on ice and price signs visible in the foreground.",
+    "tags": [
+      "outdoor market",
+      "food service",
+      "oysters",
+      "seafood",
+      "vendors",
+      "apron",
+      "baseball cap",
+      "man",
+      "woman",
+      "market",
+      "food",
+      "ice",
+      "cinematic composition",
+      "documentary",
+      "small business",
+      "professional",
+      "food stalls",
+      "shallow focus",
+      "depth of field",
+      "atmospheric",
+      "La Boite Aux Huîtres"
+    ],
+    "dateAdded": "2026-07-01T23:58:52.302Z"
+  },
+  {
     "filename": "L1003428.jpg",
     "image": "/img/photos/L1003428.jpg",
     "thumbnail": "/img/thumbnails/L1003428.jpg",
