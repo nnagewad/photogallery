@@ -1,5 +1,43 @@
 [
   {
+    "filename": "L1003021.jpg",
+    "image": "/img/photos/L1003021.jpg",
+    "thumbnail": "/img/thumbnails/L1003021.jpg",
+    "opengraph": "/img/open-graph/L1003021.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:05:12 10:57:08",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 44.492291,
+      "lon": 11.351944
+    },
+    "localized": "Bologna",
+    "country": "Italy",
+    "title": "The Penitent's Timeless Vigil",
+    "alt": "A dark, weathered sculpture of a robed and hooded female figure standing on a circular base, photographed in black and white with dramatic chiaroscuro lighting against a bright white background.",
+    "tags": [
+      "sculpture",
+      "statue",
+      "black and white",
+      "chiaroscuro",
+      "robed figure",
+      "dramatic lighting",
+      "dark",
+      "contemplation",
+      "gallery",
+      "classical sculpture",
+      "Museo Davia Bargellini"
+    ],
+    "dateAdded": "2026-07-01T19:24:38.104Z"
+  },
+  {
     "filename": "L1002982.jpg",
     "image": "/img/photos/L1002982.jpg",
     "thumbnail": "/img/thumbnails/L1002982.jpg",
