@@ -1,5 +1,49 @@
 [
   {
+    "filename": "L1003082.jpg",
+    "image": "/img/photos/L1003082.jpg",
+    "thumbnail": "/img/thumbnails/L1003082.jpg",
+    "opengraph": "/img/open-graph/L1003082.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.0",
+    "dateTaken": "2026:05:13 12:23:31",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.427711,
+      "lon": 12.358358
+    },
+    "localized": "Venice",
+    "country": "Italy",
+    "title": "The Pilgrim Before the Floating World",
+    "alt": "An elderly person wearing a straw hat and carrying a Nike bag and patterned tote bag stands before a glass exhibition case containing a large photographic artwork depicting lily pads on still water, their reflection merging with the artwork behind the glass.",
+    "tags": [
+      "elderly person",
+      "museum visitor",
+      "reflection",
+      "glass",
+      "exhibition space",
+      "contemporary art",
+      "straw hat",
+      "art viewing",
+      "visitor",
+      "layered imagery",
+      "interior",
+      "light and shadow",
+      "gallery",
+      "contemplation",
+      "watercolor painting",
+      "Biennale di Venezia",
+      "Canada Pavilion"
+    ],
+    "dateAdded": "2026-07-01T19:40:41.738Z"
+  },
+  {
     "filename": "L1003021.jpg",
     "image": "/img/photos/L1003021.jpg",
     "thumbnail": "/img/thumbnails/L1003021.jpg",
