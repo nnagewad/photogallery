@@ -1,5 +1,54 @@
 [
   {
+    "filename": "L1003124.jpg",
+    "image": "/img/photos/L1003124.jpg",
+    "thumbnail": "/img/thumbnails/L1003124.jpg",
+    "opengraph": "/img/open-graph/L1003124.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/250",
+    "aperture": "f/4.0",
+    "dateTaken": "2026:05:13 14:42:37",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.429342,
+      "lon": 12.357325
+    },
+    "localized": "Venice",
+    "country": "Italy",
+    "title": "The Archive of Ten Thousand Glances",
+    "alt": "Visitors stand in a large contemporary gallery space whose floor-to-ceiling walls are completely covered in a dense grid of thousands of small images. A bearded man in black stands in the foreground with arms crossed, while a silhouetted figure raises a smartphone to photograph the installation. Further back, visitors with a pram explore the space, and additional rooms visible through doorways reveal more image-covered walls.",
+    "tags": [
+      "contemporary art",
+      "installation art",
+      "gallery",
+      "exhibition space",
+      "museum",
+      "visitors",
+      "silhouette",
+      "interior",
+      "art exhibition",
+      "dramatic lighting",
+      "light and shadow",
+      "contemplation",
+      "visitor",
+      "museum visitor",
+      "beard",
+      "smartphone",
+      "cinematic composition",
+      "dense arrangement",
+      "art viewing",
+      "contemporary art gallery",
+      "Padiglione della Spagna",
+      "Biennale di Venezia"
+    ],
+    "dateAdded": "2026-07-01T20:29:59.536Z"
+  },
+  {
     "filename": "L1003102.jpg",
     "image": "/img/photos/L1003102.jpg",
     "thumbnail": "/img/thumbnails/L1003102.jpg",
