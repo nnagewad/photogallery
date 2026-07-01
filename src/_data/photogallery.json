@@ -1,5 +1,51 @@
 [
   {
+    "filename": "L1002927.jpg",
+    "image": "/img/photos/L1002927.jpg",
+    "thumbnail": "/img/thumbnails/L1002927.jpg",
+    "opengraph": "/img/open-graph/L1002927.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/500",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:05:10 18:07:35",
+    "dimensions": {
+      "width": 2048,
+      "height": 1346
+    },
+    "gps": {
+      "lat": 43.769457,
+      "lon": 11.255769
+    },
+    "localized": "Florence",
+    "country": "Italy",
+    "title": "The Marble Guardians of Living Pilgrims",
+    "alt": "Black and white photograph of tourists gathered at the Loggia dei Lanzi in Florence, Italy, where a security guard stands on the steps pointing toward an information sign, surrounded by Renaissance sculptures including lions and classical figures, while visitors of diverse backgrounds mill about in the foreground.",
+    "tags": [
+      "black and white",
+      "sculpture",
+      "classical sculpture",
+      "visitors",
+      "historic architecture",
+      "Renaissance architecture",
+      "steps",
+      "outdoor",
+      "travel",
+      "monument",
+      "crowd",
+      "statue",
+      "classical architecture",
+      "Italian architecture",
+      "columns",
+      "European architecture",
+      "documentary",
+      "urban scene",
+      "Loggia dei Lanzi"
+    ],
+    "dateAdded": "2026-07-01T19:15:35.494Z"
+  },
+  {
     "filename": "L1002678.jpg",
     "image": "/img/photos/L1002678.jpg",
     "thumbnail": "/img/thumbnails/L1002678.jpg",
