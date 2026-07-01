@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1002982.jpg",
+    "image": "/img/photos/L1002982.jpg",
+    "thumbnail": "/img/thumbnails/L1002982.jpg",
+    "opengraph": "/img/open-graph/L1002982.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.0",
+    "dateTaken": "2026:05:11 17:13:40",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 44.652131,
+      "lon": 10.936564
+    },
+    "localized": "Modena",
+    "country": "Italy",
+    "title": "The Shrine of Frozen Motion",
+    "alt": "A red Ferrari sports car displayed on a white platform in the foreground of a sleek museum gallery, with several classic cars arranged on an elevated mezzanine level behind a glass partition, all illuminated by dramatic track lighting against curved white walls.",
+    "tags": [
+      "Ferrari",
+      "sports cars",
+      "red",
+      "automotive",
+      "exhibition",
+      "contemporary architecture",
+      "multi-level",
+      "white walls",
+      "luxury vehicles",
+      "cultural institution",
+      "museum interior",
+      "dramatic lighting",
+      "gallery",
+      "Enzo Ferrari Museum"
+    ],
+    "dateAdded": "2026-07-01T19:19:54.697Z"
+  },
+  {
     "filename": "L1002927.jpg",
     "image": "/img/photos/L1002927.jpg",
     "thumbnail": "/img/thumbnails/L1002927.jpg",
