@@ -1,5 +1,53 @@
 [
   {
+    "filename": "L1003130.jpg",
+    "image": "/img/photos/L1003130.jpg",
+    "thumbnail": "/img/thumbnails/L1003130.jpg",
+    "opengraph": "/img/open-graph/L1003130.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/500",
+    "aperture": "f/2.8",
+    "dateTaken": "2026:05:13 15:35:59",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.430886,
+      "lon": 12.353431
+    },
+    "localized": "Venice",
+    "country": "Italy",
+    "title": "Beneath the Canopy of Desire",
+    "alt": "An upward-looking close-up photograph of red roses and buds on a climbing rose bush, shot from below against a softly bokeh-blurred background of tree canopy and bright sky, with dramatic backlighting illuminating the petals.",
+    "tags": [
+      "rose",
+      "garden",
+      "upward perspective",
+      "bokeh",
+      "backlit",
+      "lens flare",
+      "low angle",
+      "depth of field",
+      "flower",
+      "shallow focus",
+      "red",
+      "petals",
+      "floral",
+      "dramatic lighting",
+      "outdoor",
+      "nature",
+      "sunlight",
+      "atmospheric",
+      "bloom",
+      "organic",
+      "Park Giardini Marinaressa"
+    ],
+    "dateAdded": "2026-07-01T20:35:52.099Z"
+  },
+  {
     "filename": "L1003124.jpg",
     "image": "/img/photos/L1003124.jpg",
     "thumbnail": "/img/thumbnails/L1003124.jpg",
