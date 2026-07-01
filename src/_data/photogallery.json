@@ -1,5 +1,53 @@
 [
   {
+    "filename": "L1003102.jpg",
+    "image": "/img/photos/L1003102.jpg",
+    "thumbnail": "/img/thumbnails/L1003102.jpg",
+    "opengraph": "/img/open-graph/L1003102.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/250",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:05:13 13:10:01",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.42819,
+      "lon": 12.359495
+    },
+    "localized": "Venice",
+    "country": "Italy",
+    "title": "The Fallen Colossus Before the Brick Threshold",
+    "alt": "A man in black clothing sits on a stone ledge outside an ornate red brick building with Moorish arched entrances, while a massive dark sculptural figure lies collapsed on the steps nearby, with other visitors examining it in bright afternoon sunlight.",
+    "tags": [
+      "sculpture",
+      "Biennale di Venezia",
+      "Venice",
+      "steps",
+      "outdoor",
+      "classical architecture",
+      "columns",
+      "historic architecture",
+      "Italian architecture",
+      "brick wall",
+      "arched doorways",
+      "contemporary art",
+      "visitors",
+      "monument",
+      "terracotta",
+      "man",
+      "sunglasses",
+      "exhibition",
+      "elderly man",
+      "installation art",
+      "Padiglione della Grecia"
+    ],
+    "dateAdded": "2026-07-01T20:21:14.139Z"
+  },
+  {
     "filename": "L1003088.jpg",
     "image": "/img/photos/L1003088.jpg",
     "thumbnail": "/img/thumbnails/L1003088.jpg",
