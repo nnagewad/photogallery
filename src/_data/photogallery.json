@@ -1,5 +1,52 @@
 [
   {
+    "filename": "L1003562.jpg",
+    "image": "/img/photos/L1003562.jpg",
+    "thumbnail": "/img/thumbnails/L1003562.jpg",
+    "opengraph": "/img/open-graph/L1003562.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/3.2",
+    "dateTaken": "2026:06:21 17:15:50",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 45.521621,
+      "lon": -73.594314
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Sovereign of Amber Shelves",
+    "alt": "A young male bartender with a mustache and ear piercings stands confidently behind a bar, wearing a white t-shirt with a service towel draped over his shoulder, surrounded by shelves of liquor bottles and warm ambient lighting.",
+    "tags": [
+      "bartender",
+      "man",
+      "mustache",
+      "bar",
+      "restaurant",
+      "portrait",
+      "warm lighting",
+      "bottles",
+      "hospitality",
+      "cinematic",
+      "bokeh",
+      "depth of field",
+      "atmospheric",
+      "indoor",
+      "young man",
+      "service industry",
+      "craft cocktails",
+      "wooden shelves",
+      "apron",
+      "Bar Henrietta"
+    ],
+    "dateAdded": "2026-07-02T00:25:45.415Z"
+  },
+  {
     "filename": "L1003541.jpg",
     "image": "/img/photos/L1003541.jpg",
     "thumbnail": "/img/thumbnails/L1003541.jpg",
