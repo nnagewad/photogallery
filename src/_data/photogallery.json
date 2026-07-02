@@ -1,5 +1,52 @@
 [
   {
+    "filename": "L1003507.jpg",
+    "image": "/img/photos/L1003507.jpg",
+    "thumbnail": "/img/thumbnails/L1003507.jpg",
+    "opengraph": "/img/open-graph/L1003507.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:06:20 16:33:27",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 45.469661,
+      "lon": -73.580767
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Oracle of String Lights",
+    "alt": "A woman with dark hair streaked with grey, wearing a white and black striped long-sleeve shirt, sits at a wooden table in a dimly lit outdoor venue. She gazes upward with a contemplative expression, illuminated by dramatic side lighting. Warm string lights and blurred figures populate the background.",
+    "tags": [
+      "portrait",
+      "woman",
+      "contemplation",
+      "upward gaze",
+      "bokeh",
+      "warm lighting",
+      "atmospheric",
+      "dramatic lighting",
+      "shallow focus",
+      "indoor",
+      "restaurant",
+      "bar",
+      "introspective",
+      "cinematic",
+      "depth of field",
+      "string lights",
+      "chiaroscuro",
+      "low light",
+      "moody",
+      "Messorem"
+    ],
+    "dateAdded": "2026-07-02T00:07:04.315Z"
+  },
+  {
     "filename": "L1003437.jpg",
     "image": "/img/photos/L1003437.jpg",
     "thumbnail": "/img/thumbnails/L1003437.jpg",
