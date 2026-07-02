@@ -1,5 +1,53 @@
 [
   {
+    "filename": "L1003545.jpg",
+    "image": "/img/photos/L1003545.jpg",
+    "thumbnail": "/img/thumbnails/L1003545.jpg",
+    "opengraph": "/img/open-graph/L1003545.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/4",
+    "aperture": "f/16.0",
+    "dateTaken": "2026:06:21 13:05:33",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.540964,
+      "lon": -73.612511
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Phantom of the Outdoor Passage",
+    "alt": "A long-exposure photograph of two people walking past an outdoor restaurant patio, creating a ghostly motion blur effect. Green picnic tables and wooden planters filled with colorful flowers line the deck, with brick buildings visible in the background. A bicycle is parked to the left.",
+    "tags": [
+      "motion blur",
+      "ghostly figure",
+      "outdoor dining",
+      "restaurant",
+      "wet pavement",
+      "pedestrian",
+      "graffiti",
+      "brick wall",
+      "bicycles",
+      "rain",
+      "cinematic",
+      "atmospheric",
+      "documentary",
+      "urban",
+      "planters",
+      "street scene",
+      "outdoor",
+      "moody",
+      "walking",
+      "blur",
+      "Mellön"
+    ],
+    "dateAdded": "2026-07-02T00:36:44.673Z"
+  },
+  {
     "filename": "L1003562.jpg",
     "image": "/img/photos/L1003562.jpg",
     "thumbnail": "/img/thumbnails/L1003562.jpg",
