@@ -1,5 +1,52 @@
 [
   {
+    "filename": "L1003541.jpg",
+    "image": "/img/photos/L1003541.jpg",
+    "thumbnail": "/img/thumbnails/L1003541.jpg",
+    "opengraph": "/img/open-graph/L1003541.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:06:21 12:48:12",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 45.540959,
+      "lon": -73.612509
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Custodian of Curated Walls",
+    "alt": "A young male bartender with a mustache, tattoos, and a black 'Mellon' baseball cap smiles warmly behind a bar counter. The eclectic wall behind him features framed artwork including a painted portrait, shelves with decorative objects, a 'Plats Froids' menu board, and a numbered list, suggesting a French-language establishment.",
+    "tags": [
+      "bartender",
+      "man",
+      "mustache",
+      "tattoos",
+      "baseball cap",
+      "bar",
+      "restaurant",
+      "indoor",
+      "portrait",
+      "warm lighting",
+      "menu boards",
+      "framed art",
+      "eclectic decor",
+      "hospitality",
+      "cinematic",
+      "shallow focus",
+      "French",
+      "smile",
+      "cozy",
+      "Mellön"
+    ],
+    "dateAdded": "2026-07-02T00:14:50.885Z"
+  },
+  {
     "filename": "L1003507.jpg",
     "image": "/img/photos/L1003507.jpg",
     "thumbnail": "/img/thumbnails/L1003507.jpg",
