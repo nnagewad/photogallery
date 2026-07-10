@@ -1,5 +1,51 @@
 [
   {
+    "filename": "L1003498.jpg",
+    "image": "/img/photos/L1003498.jpg",
+    "thumbnail": "/img/thumbnails/L1003498.jpg",
+    "opengraph": "/img/open-graph/L1003498.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/500",
+    "aperture": "f/5.0",
+    "dateTaken": "2026:06:20 15:42:33",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.500303,
+      "lon": -73.543564
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Brutalist Shore's Silent Dominion",
+    "alt": "Black and white photograph taken from an elevated position beside a striking brutalist concrete building with angular stepped terraces and rooftop vegetation, looking out across a wide river toward a dense urban skyline under a cloudy sky. A small boat and waterfront promenade are visible in the foreground below.",
+    "tags": [
+      "black and white",
+      "brutalist",
+      "cityscape",
+      "waterfront view",
+      "urban architecture",
+      "concrete",
+      "clouds",
+      "dramatic sky",
+      "skyline",
+      "river",
+      "boats",
+      "cinematic",
+      "angular geometry",
+      "moody",
+      "outdoor",
+      "landscape",
+      "rooftop",
+      "modernist",
+      "Habitat 67"
+    ],
+    "dateAdded": "2026-07-10T01:59:46.259Z"
+  },
+  {
     "filename": "L1003549.jpg",
     "image": "/img/photos/L1003549.jpg",
     "thumbnail": "/img/thumbnails/L1003549.jpg",
