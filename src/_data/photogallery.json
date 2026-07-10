@@ -1,5 +1,53 @@
 [
   {
+    "filename": "L1003549.jpg",
+    "image": "/img/photos/L1003549.jpg",
+    "thumbnail": "/img/thumbnails/L1003549.jpg",
+    "opengraph": "/img/open-graph/L1003549.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "0.5",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:06:21 15:02:03",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.539211,
+      "lon": -73.61375
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Drift of Passing Souls",
+    "alt": "A long exposure photograph taken inside a pedestrian tunnel with an arched brick ceiling and warm orange tiled floor. Motion-blurred figures walk through the dimly lit underground passage, illuminated by a row of fluorescent ceiling lights receding into the distance. The closest figure carries a bag and appears ghost-like due to the long shutter speed.",
+    "tags": [
+      "tunnel",
+      "motion blur",
+      "ghostly figure",
+      "underground",
+      "pedestrian",
+      "urban",
+      "corridor",
+      "atmospheric",
+      "cinematic",
+      "passage",
+      "indoor",
+      "people walking",
+      "blur",
+      "fluorescent lighting",
+      "urban architecture",
+      "moody",
+      "dramatic lighting",
+      "underpass",
+      "low light",
+      "tiles",
+      "Métro de Montréal"
+    ],
+    "dateAdded": "2026-07-10T00:52:23.051Z"
+  },
+  {
     "filename": "L1003545.jpg",
     "image": "/img/photos/L1003545.jpg",
     "thumbnail": "/img/thumbnails/L1003545.jpg",
