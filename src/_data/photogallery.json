@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003488.jpg",
+    "image": "/img/photos/L1003488.jpg",
+    "thumbnail": "/img/thumbnails/L1003488.jpg",
+    "opengraph": "/img/open-graph/L1003488.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/60",
+    "aperture": "f/11.0",
+    "dateTaken": "2026:06:20 15:36:17",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.499843,
+      "lon": -73.543729
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Pilgrims of Stacked Stone",
+    "alt": "Black and white photograph taken from inside Habitat 67 in Montreal, looking out across a terraced concrete walkway where small groups of visitors wander and converse. The stacked modular brutalist housing units rise in the background, with the St. Lawrence River and distant city skyline visible beyond. A concrete overhang frames the top of the composition.",
+    "tags": [
+      "black and white",
+      "brutalist",
+      "Habitat 67",
+      "concrete",
+      "urban architecture",
+      "modernist",
+      "waterfront view",
+      "people walking",
+      "outdoor",
+      "documentary",
+      "rooftop",
+      "cinematic",
+      "river",
+      "urban",
+      "angular geometry"
+    ],
+    "dateAdded": "2026-07-16T01:15:26.258Z"
+  },
+  {
     "filename": "L1003498.jpg",
     "image": "/img/photos/L1003498.jpg",
     "thumbnail": "/img/thumbnails/L1003498.jpg",
