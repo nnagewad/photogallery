@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1003490.jpg",
+    "image": "/img/photos/L1003490.jpg",
+    "thumbnail": "/img/thumbnails/L1003490.jpg",
+    "opengraph": "/img/open-graph/L1003490.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/16.0",
+    "dateTaken": "2026:06:20 15:37:18",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.49983,
+      "lon": -73.543715
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Industrial Shore's Grey Dominion",
+    "alt": "A moody, dark cityscape viewed from beside a weathered concrete building, with a cargo ship navigating a wide river in the foreground and Montreal's downtown skyline stretching across the horizon under a dramatically overcast sky.",
+    "tags": [
+      "cityscape",
+      "river",
+      "skyline",
+      "moody",
+      "dramatic sky",
+      "clouds",
+      "cinematic",
+      "waterfront view",
+      "boats",
+      "urban",
+      "concrete",
+      "atmospheric",
+      "brutalist",
+      "landscape",
+      "maritime",
+      "Habitat 67"
+    ],
+    "dateAdded": "2026-07-16T01:24:35.872Z"
+  },
+  {
     "filename": "L1003488.jpg",
     "image": "/img/photos/L1003488.jpg",
     "thumbnail": "/img/thumbnails/L1003488.jpg",
