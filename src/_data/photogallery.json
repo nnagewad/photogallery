@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003604.jpg",
+    "image": "/img/photos/L1003604.jpg",
+    "thumbnail": "/img/thumbnails/L1003604.jpg",
+    "opengraph": "/img/open-graph/L1003604.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "1/60",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:08:02 14:36:24",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.645731,
+      "lon": -79.350233
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Helix of Darkened Timber",
+    "alt": "A dramatic low-light view looking up through a wooden spiral staircase with dark red curved railings, receding into a dim tunnel-like structure with minimal lighting visible at the top",
+    "tags": [
+      "staircase",
+      "spiral",
+      "wood",
+      "interior",
+      "dramatic lighting",
+      "low light",
+      "red accents",
+      "wooden steps",
+      "curves",
+      "architectural interior",
+      "dark",
+      "tunnel",
+      "structural",
+      "vertical space",
+      "moody"
+    ],
+    "dateAdded": "2026-08-08T17:13:36.708Z"
+  },
+  {
     "filename": "L1003592.jpg",
     "image": "/img/photos/L1003592.jpg",
     "thumbnail": "/img/thumbnails/L1003592.jpg",
