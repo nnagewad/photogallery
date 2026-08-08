@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003592.jpg",
+    "image": "/img/photos/L1003592.jpg",
+    "thumbnail": "/img/thumbnails/L1003592.jpg",
+    "opengraph": "/img/open-graph/L1003592.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/8",
+    "aperture": "f/16.0",
+    "dateTaken": "2026:08:02 14:24:46",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.647578,
+      "lon": -79.347083
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Iron Covenant of Passing Giants",
+    "alt": "A motion-blurred white transport truck crosses a modern arch bridge with striking red and white steel arches under an overcast grey sky, with power transmission towers visible in the background.",
+    "tags": [
+      "bridge",
+      "motion blur",
+      "urban",
+      "overcast sky",
+      "cinematic",
+      "infrastructure",
+      "dramatic sky",
+      "transport",
+      "red",
+      "Toronto",
+      "dramatic",
+      "speed",
+      "clouds",
+      "moody",
+      "contemporary architecture"
+    ],
+    "dateAdded": "2026-08-08T17:11:38.397Z"
+  },
+  {
     "filename": "L1003645.jpg",
     "image": "/img/photos/L1003645.jpg",
     "thumbnail": "/img/thumbnails/L1003645.jpg",
