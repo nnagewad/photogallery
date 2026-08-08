@@ -1,5 +1,51 @@
 [
   {
+    "filename": "L1003676.jpg",
+    "image": "/img/photos/L1003676.jpg",
+    "thumbnail": "/img/thumbnails/L1003676.jpg",
+    "opengraph": "/img/open-graph/L1003676.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/125",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:08:02 16:12:30",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.642675,
+      "lon": -79.356872
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Angler's Urban Covenant",
+    "alt": "A man stands fishing from a waterfront pier in black and white, holding a fishing rod over calm water, with a dramatic cloudy sky above and a dense city skyline including a prominent skyscraper visible across the harbour. A wire fishing trap and gear rest nearby on the dock.",
+    "tags": [
+      "black and white",
+      "cityscape",
+      "skyline",
+      "waterfront view",
+      "moody",
+      "dramatic sky",
+      "clouds",
+      "cinematic",
+      "silhouette",
+      "solitude",
+      "man",
+      "Toronto",
+      "CN Tower",
+      "harbor",
+      "fishing",
+      "pier",
+      "atmospheric",
+      "urban",
+      "contemplation"
+    ],
+    "dateAdded": "2026-08-08T17:07:39.747Z"
+  },
+  {
     "filename": "L1003490.jpg",
     "image": "/img/photos/L1003490.jpg",
     "thumbnail": "/img/thumbnails/L1003490.jpg",
