@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003695.jpg",
+    "image": "/img/photos/L1003695.jpg",
+    "thumbnail": "/img/thumbnails/L1003695.jpg",
+    "opengraph": "/img/open-graph/L1003695.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/125",
+    "aperture": "f/3.2",
+    "dateTaken": "2026:08:02 17:41:14",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.64235,
+      "lon": -79.372903
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Ziggurat's Monochrome Ambition",
+    "alt": "A dramatic low-angle black and white photograph of a modern high-rise tower with staggered, angular balconies that taper toward the top, resembling a ziggurat, shot against an overcast grey sky with a tree silhouette visible at the base.",
+    "tags": [
+      "black and white",
+      "urban architecture",
+      "contemporary architecture",
+      "angular geometry",
+      "overcast sky",
+      "low angle",
+      "upward perspective",
+      "concrete",
+      "modernist",
+      "dramatic",
+      "silhouette",
+      "cinematic",
+      "geometric patterns",
+      "balconies",
+      "structural"
+    ],
+    "dateAdded": "2026-08-08T17:15:37.007Z"
+  },
+  {
     "filename": "L1003604.jpg",
     "image": "/img/photos/L1003604.jpg",
     "thumbnail": "/img/thumbnails/L1003604.jpg",
