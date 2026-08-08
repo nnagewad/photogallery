@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003645.jpg",
+    "image": "/img/photos/L1003645.jpg",
+    "thumbnail": "/img/thumbnails/L1003645.jpg",
+    "opengraph": "/img/open-graph/L1003645.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/500",
+    "aperture": "f/3.5",
+    "dateTaken": "2026:08:02 15:14:32",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.645008,
+      "lon": -79.344028
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Prairie Spire's Violet Soliloquy",
+    "alt": "Two tall Liatris spicata wildflowers with fuzzy purple blooms rising above a blurred meadow backdrop under an overcast sky, with shallow depth of field highlighting the foreground spike",
+    "tags": [
+      "purple",
+      "flowers",
+      "nature",
+      "bokeh",
+      "depth of field",
+      "shallow focus",
+      "outdoor",
+      "moody",
+      "overcast sky",
+      "floral",
+      "bloom",
+      "landscape",
+      "atmospheric",
+      "organic",
+      "cloudy sky"
+    ],
+    "dateAdded": "2026-08-08T17:09:56.234Z"
+  },
+  {
     "filename": "L1003676.jpg",
     "image": "/img/photos/L1003676.jpg",
     "thumbnail": "/img/thumbnails/L1003676.jpg",
