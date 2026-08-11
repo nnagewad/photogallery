@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1003297.jpg",
+    "image": "/img/photos/L1003297.jpg",
+    "thumbnail": "/img/thumbnails/L1003297.jpg",
+    "opengraph": "/img/open-graph/L1003297.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 800,
+    "shutterSpeed": "1/60",
+    "aperture": "f/5.0",
+    "dateTaken": "2026:05:16 14:17:50",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.472303,
+      "lon": 9.173953
+    },
+    "localized": "Milan",
+    "country": "Italy",
+    "title": "The Descent Into Civic Memory",
+    "alt": "View from above looking down a wide stone staircase into a museum lobby featuring a geometric mosaic floor, curved modular seating, and visitors exploring an exhibition space with dramatic dark curtained installation beyond, flanked by copper-accented stone walls and upper gallery balconies.",
+    "tags": [
+      "museum",
+      "staircase",
+      "interior architecture",
+      "mosaic",
+      "visitors",
+      "gallery",
+      "geometric patterns",
+      "Art Gallery of Ontario",
+      "copper accents",
+      "contemporary art",
+      "exhibition space",
+      "architectural interior",
+      "multi-level",
+      "overhead photography",
+      "cultural institution",
+      "Triennale di Milano"
+    ],
+    "dateAdded": "2026-08-11T00:45:42.433Z"
+  },
+  {
     "filename": "L1003695.jpg",
     "image": "/img/photos/L1003695.jpg",
     "thumbnail": "/img/thumbnails/L1003695.jpg",
