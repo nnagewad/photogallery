@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003755.jpg",
+    "image": "/img/photos/L1003755.jpg",
+    "thumbnail": "/img/thumbnails/L1003755.jpg",
+    "opengraph": "/img/open-graph/L1003755.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/14.0",
+    "dateTaken": "2026:08:21 19:59:14",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.630778,
+      "lon": -79.3561
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Ember Crown of a Sleeping Metropolis",
+    "alt": "Silhouette of the Toronto skyline including the CN Tower viewed across Lake Ontario at sunset, with a figure in the foreground and dramatic orange and blue sky with wispy clouds overhead.",
+    "tags": [
+      "Toronto",
+      "CN Tower",
+      "skyline",
+      "sunset",
+      "silhouette",
+      "Lake Ontario",
+      "cityscape",
+      "dramatic sky",
+      "golden hour",
+      "waterfront view",
+      "moody",
+      "cinematic",
+      "urban",
+      "water",
+      "atmospheric"
+    ],
+    "dateAdded": "2026-08-26T02:08:29.093Z"
+  },
+  {
     "filename": "L1003705.jpg",
     "image": "/img/photos/L1003705.jpg",
     "thumbnail": "/img/thumbnails/L1003705.jpg",
