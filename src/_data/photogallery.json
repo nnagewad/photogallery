@@ -1,5 +1,52 @@
 [
   {
+    "filename": "L1003743.jpg",
+    "image": "/img/photos/L1003743.jpg",
+    "thumbnail": "/img/thumbnails/L1003743.jpg",
+    "opengraph": "/img/open-graph/L1003743.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/125",
+    "aperture": "f/7.1",
+    "dateTaken": "2026:08:21 16:34:58",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.612075,
+      "lon": -79.382089
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Sentinel of the Crumbling Jetty",
+    "alt": "A seagull stands on a weathered, rust-stained concrete pier jutting into a choppy dark green lake, with waves washing over the structure. Two small sailboats are visible on the distant horizon beneath a clear blue sky.",
+    "tags": [
+      "seagull",
+      "bird",
+      "pier",
+      "lake",
+      "water",
+      "sailboat",
+      "horizon",
+      "waves",
+      "coastal",
+      "solitude",
+      "cinematic",
+      "landscape",
+      "outdoor",
+      "moody",
+      "wildlife",
+      "boats",
+      "blue sky",
+      "maritime",
+      "nature",
+      "weathered"
+    ],
+    "dateAdded": "2026-08-26T02:10:08.478Z"
+  },
+  {
     "filename": "L1003755.jpg",
     "image": "/img/photos/L1003755.jpg",
     "thumbnail": "/img/thumbnails/L1003755.jpg",
