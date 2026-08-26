@@ -1,5 +1,52 @@
 [
   {
+    "filename": "L1003705.jpg",
+    "image": "/img/photos/L1003705.jpg",
+    "thumbnail": "/img/thumbnails/L1003705.jpg",
+    "opengraph": "/img/open-graph/L1003705.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/250",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:08:21 15:11:29",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.616964,
+      "lon": -79.389797
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Congregation of Migrant Sentinels",
+    "alt": "A flock of Canada geese grazing and standing along a wooden dock beside a calm lagoon channel, with the Toronto skyline and CN Tower visible in the background under a blue sky with scattered clouds, framed by lush green trees on either side.",
+    "tags": [
+      "Canada geese",
+      "Toronto",
+      "CN Tower",
+      "skyline",
+      "waterfront view",
+      "nature",
+      "outdoor",
+      "birds",
+      "lake",
+      "cityscape",
+      "clouds",
+      "blue sky",
+      "landscape",
+      "water",
+      "park",
+      "boats",
+      "pier",
+      "atmospheric",
+      "urban",
+      "wildlife"
+    ],
+    "dateAdded": "2026-08-26T01:59:32.877Z"
+  },
+  {
     "filename": "L1003299.jpg",
     "image": "/img/photos/L1003299.jpg",
     "thumbnail": "/img/thumbnails/L1003299.jpg",
