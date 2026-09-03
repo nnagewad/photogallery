@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003763.jpg",
+    "image": "/img/photos/L1003763.jpg",
+    "thumbnail": "/img/thumbnails/L1003763.jpg",
+    "opengraph": "/img/open-graph/L1003763.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:09:02 18:48:49",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.642711,
+      "lon": -79.395878
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Crimson Meridian's Quiet Prophet",
+    "alt": "A bearded man with dark-rimmed glasses and dark hair looks upward with a contemplative expression, standing against a deep red background. A curved white neon light arc rises behind his head, creating an ethereal halo effect. He wears a blue and green plaid button-down shirt, bathed in dramatic red and purple light.",
+    "tags": [
+      "portrait",
+      "man",
+      "beard",
+      "glasses",
+      "red",
+      "neon light",
+      "dramatic lighting",
+      "red light",
+      "purple lighting",
+      "moody",
+      "cinematic",
+      "chiaroscuro",
+      "introspective",
+      "upward gaze",
+      "indoor"
+    ],
+    "dateAdded": "2026-09-03T23:55:45.295Z"
+  },
+  {
     "filename": "L1003743.jpg",
     "image": "/img/photos/L1003743.jpg",
     "thumbnail": "/img/thumbnails/L1003743.jpg",
