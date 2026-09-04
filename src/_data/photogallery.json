@@ -1,5 +1,50 @@
 [
   {
+    "filename": "L1003761.jpg",
+    "image": "/img/photos/L1003761.jpg",
+    "thumbnail": "/img/thumbnails/L1003761.jpg",
+    "opengraph": "/img/open-graph/L1003761.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 200,
+    "shutterSpeed": "1/60",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:09:02 17:09:21",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.637014,
+      "lon": -79.399051
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Confidant of Rain-Streaked Glass",
+    "alt": "A young bearded man with round glasses and dark hair smiles warmly while gazing off to the side, seated near a rain-speckled industrial window beside a lush tropical plant, wearing a black button-up shirt in a softly lit interior space.",
+    "tags": [
+      "portrait",
+      "man",
+      "beard",
+      "glasses",
+      "smile",
+      "indoor",
+      "window",
+      "rain",
+      "warm lighting",
+      "black shirt",
+      "young man",
+      "bokeh",
+      "depth of field",
+      "tropical",
+      "foliage",
+      "contemplation",
+      "moody",
+      "cinematic"
+    ],
+    "dateAdded": "2026-09-04T00:00:16.829Z"
+  },
+  {
     "filename": "L1003763.jpg",
     "image": "/img/photos/L1003763.jpg",
     "thumbnail": "/img/thumbnails/L1003763.jpg",
