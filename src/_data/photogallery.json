@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003818.jpg",
+    "image": "/img/photos/L1003818.jpg",
+    "thumbnail": "/img/thumbnails/L1003818.jpg",
+    "opengraph": "/img/open-graph/L1003818.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 50,
+    "shutterSpeed": "1/250",
+    "aperture": "f/7.1",
+    "dateTaken": "2026:09:06 12:13:38",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.521174,
+      "lon": -79.602367
+    },
+    "localized": "Mississauga",
+    "country": "Canada",
+    "title": "The Driftwood Testament",
+    "alt": "A large weathered driftwood log lies partially submerged at the shoreline of a turbulent lake beach, with foamy waves breaking in the background beneath a vivid blue sky filled with scattered white clouds.",
+    "tags": [
+      "driftwood",
+      "waves",
+      "coastal",
+      "beach",
+      "lake",
+      "nature",
+      "landscape",
+      "outdoor",
+      "weathered",
+      "solitude",
+      "clouds",
+      "blue sky",
+      "water",
+      "horizon",
+      "moody"
+    ],
+    "dateAdded": "2026-09-07T01:00:05.508Z"
+  },
+  {
     "filename": "L1003761.jpg",
     "image": "/img/photos/L1003761.jpg",
     "thumbnail": "/img/thumbnails/L1003761.jpg",
