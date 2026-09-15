@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1003472.jpg",
+    "image": "/img/photos/L1003472.jpg",
+    "thumbnail": "/img/thumbnails/L1003472.jpg",
+    "opengraph": "/img/open-graph/L1003472.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/60",
+    "aperture": "f/6.3",
+    "dateTaken": "2026:06:20 14:56:18",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.500294,
+      "lon": -73.543728
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Witnesses of Poured Concrete",
+    "alt": "A group of visitors explore the dramatic piloti-supported undercroft of a brutalist concrete building, while a woman photographs the structure with her phone. Puddles reflect the massive columns in this black and white image.",
+    "tags": [
+      "brutalist",
+      "concrete",
+      "black and white",
+      "architecture",
+      "people walking",
+      "visitor",
+      "photographer",
+      "urban architecture",
+      "modernist",
+      "documentary",
+      "columns",
+      "public space",
+      "structural",
+      "interior architecture",
+      "cinematic",
+      "Habitat 67"
+    ],
+    "dateAdded": "2026-09-15T00:41:46.842Z"
+  },
+  {
     "filename": "L1003818.jpg",
     "image": "/img/photos/L1003818.jpg",
     "thumbnail": "/img/thumbnails/L1003818.jpg",
