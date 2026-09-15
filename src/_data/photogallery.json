@@ -1,5 +1,50 @@
 [
   {
+    "filename": "L1003479.jpg",
+    "image": "/img/photos/L1003479.jpg",
+    "thumbnail": "/img/thumbnails/L1003479.jpg",
+    "opengraph": "/img/open-graph/L1003479.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/13.0",
+    "dateTaken": "2026:06:20 15:05:01",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 45.500789,
+      "lon": -73.543567
+    },
+    "localized": "Montreal",
+    "country": "Canada",
+    "title": "The Terraced Citadel's Uncertain Sky",
+    "alt": "Visitors explore the weathered concrete terraces and walkways of Habitat 67 in Montreal, with a dramatic stormy sky overhead and the St. Lawrence River and port visible in the background.",
+    "tags": [
+      "Habitat 67",
+      "brutalist",
+      "concrete",
+      "architecture",
+      "moody",
+      "cloudy sky",
+      "dramatic sky",
+      "maritime",
+      "waterfront view",
+      "urban",
+      "rooftop",
+      "visitors",
+      "outdoor",
+      "weathered",
+      "harbor",
+      "walkways",
+      "multi-level",
+      "photographer"
+    ],
+    "dateAdded": "2026-09-15T00:48:17.383Z"
+  },
+  {
     "filename": "L1003472.jpg",
     "image": "/img/photos/L1003472.jpg",
     "thumbnail": "/img/thumbnails/L1003472.jpg",
