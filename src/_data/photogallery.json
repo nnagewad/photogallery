@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003835.jpg",
+    "image": "/img/photos/L1003835.jpg",
+    "thumbnail": "/img/thumbnails/L1003835.jpg",
+    "opengraph": "/img/open-graph/L1003835.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/11.0",
+    "dateTaken": "2026:09:12 08:47:34",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 44.546775,
+      "lon": -78.783817
+    },
+    "localized": "Kawartha Lakes",
+    "country": "Canada",
+    "title": "The Mist Covenant of the Northern Shore",
+    "alt": "A misty morning over a dark, rippling lake with fog rolling across the far treeline. On the right shore, docks, cottages, and Canadian flags are partially visible among dense trees under an overcast sky.",
+    "tags": [
+      "lake",
+      "fog",
+      "water",
+      "landscape",
+      "atmospheric",
+      "nature",
+      "moody",
+      "overcast sky",
+      "Canada",
+      "tranquil",
+      "horizon",
+      "coastal",
+      "boats",
+      "dock",
+      "cinematic"
+    ],
+    "dateAdded": "2026-09-23T02:29:25.908Z"
+  },
+  {
     "filename": "L1003479.jpg",
     "image": "/img/photos/L1003479.jpg",
     "thumbnail": "/img/thumbnails/L1003479.jpg",
