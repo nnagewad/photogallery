@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003850.jpg",
+    "image": "/img/photos/L1003850.jpg",
+    "thumbnail": "/img/thumbnails/L1003850.jpg",
+    "opengraph": "/img/open-graph/L1003850.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/500",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:09:13 14:04:04",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 44.4075,
+      "lon": -78.772653
+    },
+    "localized": "Kawartha Lakes",
+    "country": "Canada",
+    "title": "The Reed Curtain's Hidden Passage",
+    "alt": "A view through dense cattail reeds and silhouetted trees revealing a calm, lily-pad-covered wetland lake under a bright blue sky with wispy clouds, forest visible on the far shore.",
+    "tags": [
+      "lake",
+      "nature",
+      "water",
+      "landscape",
+      "tranquil",
+      "blue sky",
+      "clouds",
+      "reeds",
+      "wetland",
+      "silhouette",
+      "Canada",
+      "Ken Reid Conservation Area",
+      "horizon",
+      "outdoor",
+      "cinematic"
+    ],
+    "dateAdded": "2026-09-23T02:39:22.141Z"
+  },
+  {
     "filename": "L1003835.jpg",
     "image": "/img/photos/L1003835.jpg",
     "thumbnail": "/img/thumbnails/L1003835.jpg",
