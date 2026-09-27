@@ -1,5 +1,46 @@
 [
   {
+    "filename": "L1003831.jpg",
+    "image": "/img/photos/L1003831.jpg",
+    "thumbnail": "/img/thumbnails/L1003831.jpg",
+    "opengraph": "/img/open-graph/L1003831.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/250",
+    "aperture": "f/9.0",
+    "dateTaken": "2026:09:12 08:46:27",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 44.546775,
+      "lon": -78.783817
+    },
+    "localized": "Kawartha Lakes",
+    "country": "Canada",
+    "title": "The Vanishing Shore's Grey Covenant",
+    "alt": "A dark, moody lake stretching toward a distant treeline barely visible through dense fog and low cloud cover, with gently rippling water in the foreground and a palette of deep grey-blue tones.",
+    "tags": [
+      "lake",
+      "fog",
+      "moody",
+      "atmospheric",
+      "nature",
+      "landscape",
+      "water",
+      "overcast sky",
+      "horizon",
+      "cinematic",
+      "tranquil",
+      "solitude",
+      "black and white",
+      "dramatic"
+    ],
+    "dateAdded": "2026-09-27T15:38:45.170Z"
+  },
+  {
     "filename": "L1003850.jpg",
     "image": "/img/photos/L1003850.jpg",
     "thumbnail": "/img/thumbnails/L1003850.jpg",
