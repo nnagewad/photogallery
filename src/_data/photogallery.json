@@ -1,5 +1,42 @@
 [
   {
+    "filename": "L1003866.jpg",
+    "image": "/img/photos/L1003866.jpg",
+    "thumbnail": "/img/thumbnails/L1003866.jpg",
+    "opengraph": "/img/open-graph/L1003866.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/250",
+    "aperture": "f/5.6",
+    "dateTaken": "2026:09:26 17:19:59",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.648319,
+      "lon": -79.3811
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Twin Monoliths of Civic Power",
+    "alt": "A dramatic low-angle upward perspective photograph of two dark glass and steel skyscrapers rising symmetrically against a pale blue cloudy sky, with a third glass tower visible in the upper right corner. The buildings are rendered in deep shadow, creating a stark silhouette effect, while a sliver of sky is visible between the two central towers.",
+    "tags": [
+      "skyscrapers",
+      "low angle",
+      "upward perspective",
+      "urban architecture",
+      "silhouette",
+      "cloudy sky",
+      "dramatic",
+      "geometric",
+      "glass facade",
+      "Toronto"
+    ],
+    "dateAdded": "2026-10-04T19:15:08.807Z"
+  },
+  {
     "filename": "L1003878.jpg",
     "image": "/img/photos/L1003878.jpg",
     "thumbnail": "/img/thumbnails/L1003878.jpg",
