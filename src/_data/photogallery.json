@@ -1,5 +1,52 @@
 [
   {
+    "filename": "L1003878.jpg",
+    "image": "/img/photos/L1003878.jpg",
+    "thumbnail": "/img/thumbnails/L1003878.jpg",
+    "opengraph": "/img/open-graph/L1003878.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/250",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:09:28 20:15:05",
+    "dimensions": {
+      "width": 1363,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 43.670106,
+      "lon": -79.388555
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Custodian of the Illuminated Scaffold",
+    "alt": "A young man in a grey button-up shirt stands before a glowing yellow crane model display in a dimly lit museum or gallery window, his face partially lit by the warm exhibition light as he gazes upward with a contemplative expression.",
+    "tags": [
+      "portrait",
+      "man",
+      "museum",
+      "exhibition",
+      "dramatic lighting",
+      "chiaroscuro",
+      "bokeh",
+      "depth of field",
+      "contemplation",
+      "indoor",
+      "urban",
+      "introspective",
+      "construction",
+      "warm lighting",
+      "dark",
+      "installation art",
+      "young man",
+      "moody",
+      "cinematic",
+      "atmospheric"
+    ],
+    "dateAdded": "2026-10-04T18:29:10.249Z"
+  },
+  {
     "filename": "L1003831.jpg",
     "image": "/img/photos/L1003831.jpg",
     "thumbnail": "/img/thumbnails/L1003831.jpg",
