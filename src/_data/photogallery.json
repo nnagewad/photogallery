@@ -1,5 +1,52 @@
 [
   {
+    "filename": "DSC01457.jpg",
+    "image": "/img/photos/DSC01457.jpg",
+    "thumbnail": "/img/thumbnails/DSC01457.jpg",
+    "opengraph": "/img/open-graph/DSC01457.jpg",
+    "camera": "ILCE-6000",
+    "lens": "E 35mm F1.8 OSS",
+    "iso": 500,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.8",
+    "dateTaken": "2025:03:12 18:39:49",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 35.009438,
+      "lon": 135.781802
+    },
+    "localized": "Kyoto",
+    "country": "Japan",
+    "title": "The Confessor's Amber Threshold",
+    "alt": "A dimly lit scene viewed through a doorway or window frame, showing a man in a dark suit seated at a bar counter holding a glass, while a woman wearing glasses stands behind the counter in conversation with him, bathed in warm ambient light against a minimal Japanese-inspired interior.",
+    "tags": [
+      "bar",
+      "Japan",
+      "warm lighting",
+      "dark",
+      "moody",
+      "cinematic",
+      "interior",
+      "intimacy",
+      "silhouette",
+      "conversation",
+      "wood paneling",
+      "atmospheric",
+      "low light",
+      "framed view",
+      "bartender",
+      "noir",
+      "Japanese architecture",
+      "cocktails",
+      "dim lighting",
+      "man"
+    ],
+    "dateAdded": "2026-10-07T03:02:01.982Z"
+  },
+  {
     "filename": "DSC01258.jpg",
     "image": "/img/photos/DSC01258.jpg",
     "thumbnail": "/img/thumbnails/DSC01258.jpg",
