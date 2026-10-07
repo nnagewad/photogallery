@@ -1,5 +1,48 @@
 [
   {
+    "filename": "DSC09640.jpg",
+    "image": "/img/photos/DSC09640.jpg",
+    "thumbnail": "/img/thumbnails/DSC09640.jpg",
+    "opengraph": "/img/open-graph/DSC09640.jpg",
+    "camera": "ILCE-6000",
+    "lens": "----",
+    "iso": 12800,
+    "shutterSpeed": "1/200",
+    "aperture": null,
+    "dateTaken": "2024:10:20 17:47:14",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 51.54305,
+      "lon": -0.115207
+    },
+    "localized": "London",
+    "country": "United Kingdom",
+    "title": "The Dreamer Before the Latticed Void",
+    "alt": "A man in a denim jacket reclines and gazes upward with one hand resting behind his head, set against a geometric brutalist grid structure, in a moody black and white portrait.",
+    "tags": [
+      "black and white",
+      "portrait",
+      "man",
+      "upward gaze",
+      "contemplation",
+      "cinematic",
+      "dramatic lighting",
+      "chiaroscuro",
+      "geometric",
+      "brutalist",
+      "introspective",
+      "moody",
+      "atmospheric",
+      "concrete",
+      "curly hair",
+      "hand in hair"
+    ],
+    "dateAdded": "2026-10-07T01:22:11.023Z"
+  },
+  {
     "filename": "DSC07801.jpg",
     "image": "/img/photos/DSC07801.jpg",
     "thumbnail": "/img/thumbnails/DSC07801.jpg",
