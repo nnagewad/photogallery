@@ -1,5 +1,47 @@
 [
   {
+    "filename": "DSC09906.jpg",
+    "image": "/img/photos/DSC09906.jpg",
+    "thumbnail": "/img/thumbnails/DSC09906.jpg",
+    "opengraph": "/img/open-graph/DSC09906.jpg",
+    "camera": "ILCE-6000",
+    "lens": "E 35mm F1.8 OSS",
+    "iso": 500,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.8",
+    "dateTaken": "2024:11:15 19:19:49",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 38.710238,
+      "lon": -9.146078
+    },
+    "localized": "Lisbon",
+    "country": "Portugal",
+    "title": "The Covenant of Cobblestone and Amber",
+    "alt": "Two silhouetted figures hold hands while walking up a narrow cobblestone alley at night, illuminated by ornate street lamps, with a warmly lit historic building glowing orange in the distance.",
+    "tags": [
+      "silhouette",
+      "night",
+      "cobblestone",
+      "couple",
+      "romance",
+      "atmospheric",
+      "noir",
+      "dark",
+      "warm lighting",
+      "street",
+      "cinematic",
+      "narrow alley",
+      "intimacy",
+      "urban",
+      "togetherness"
+    ],
+    "dateAdded": "2026-10-07T01:44:01.629Z"
+  },
+  {
     "filename": "DSC09640.jpg",
     "image": "/img/photos/DSC09640.jpg",
     "thumbnail": "/img/thumbnails/DSC09640.jpg",
