@@ -1,5 +1,47 @@
 [
   {
+    "filename": "DSC07801.jpg",
+    "image": "/img/photos/DSC07801.jpg",
+    "thumbnail": "/img/thumbnails/DSC07801.jpg",
+    "opengraph": "/img/open-graph/DSC07801.jpg",
+    "camera": "ILCE-6000",
+    "lens": "E 35mm F1.8 OSS",
+    "iso": 100,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.8",
+    "dateTaken": "2024:03:10 17:46:37",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 31.641242,
+      "lon": -8.00326
+    },
+    "localized": "Marrakesh",
+    "country": "Morocco",
+    "title": "The Crown of Crimson Thorns",
+    "alt": "Close-up macro photograph of a barrel cactus viewed from above, showing vivid magenta-red spines radiating outward and a cluster of small yellow flower buds at the center, with additional blurred cacti in the background",
+    "tags": [
+      "cactus",
+      "macro",
+      "depth of field",
+      "bokeh",
+      "nature",
+      "botanical",
+      "shallow focus",
+      "bloom",
+      "purple",
+      "dark background",
+      "organic",
+      "floral",
+      "pink",
+      "selective focus",
+      "spherical blooms"
+    ],
+    "dateAdded": "2026-10-07T01:03:01.221Z"
+  },
+  {
     "filename": "L1003866.jpg",
     "image": "/img/photos/L1003866.jpg",
     "thumbnail": "/img/thumbnails/L1003866.jpg",
