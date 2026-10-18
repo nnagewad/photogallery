@@ -1,5 +1,47 @@
 [
   {
+    "filename": "DSC03687.jpg",
+    "image": "/img/photos/DSC03687.jpg",
+    "thumbnail": "/img/thumbnails/DSC03687.jpg",
+    "opengraph": "/img/open-graph/DSC03687.jpg",
+    "camera": "ILCE-6000",
+    "lens": "E 35mm F1.8 OSS",
+    "iso": 100,
+    "shutterSpeed": "1/2000",
+    "aperture": "f/1.8",
+    "dateTaken": "2022:06:24 09:12:02",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 51.461794,
+      "lon": -2.547842
+    },
+    "localized": "Bristol",
+    "country": "United Kingdom",
+    "title": "The Gatekeeper's Monochrome Resolve",
+    "alt": "A middle-aged man in a high-visibility safety vest grips a wire mesh fence with one raised hand, gazing intensely into the distance. The black and white portrait is shot close-up through the fence, with a white structure visible in the background.",
+    "tags": [
+      "black and white",
+      "man",
+      "portrait",
+      "industrial",
+      "moody",
+      "cinematic",
+      "metal grating",
+      "construction",
+      "documentary",
+      "introspective",
+      "dramatic",
+      "outdoor",
+      "noir",
+      "worker",
+      "contemplation"
+    ],
+    "dateAdded": "2026-10-18T20:36:05.785Z"
+  },
+  {
     "filename": "DSC05576.jpg",
     "image": "/img/photos/DSC05576.jpg",
     "thumbnail": "/img/thumbnails/DSC05576.jpg",
