@@ -1,5 +1,52 @@
 [
   {
+    "filename": "DSC07576.jpg",
+    "image": "/img/photos/DSC07576.jpg",
+    "thumbnail": "/img/thumbnails/DSC07576.jpg",
+    "opengraph": "/img/open-graph/DSC07576.jpg",
+    "camera": "ILCE-6000",
+    "lens": "E 35mm F1.8 OSS",
+    "iso": 1600,
+    "shutterSpeed": "1/125",
+    "aperture": "f/1.8",
+    "dateTaken": "2024:03:07 22:43:16",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 31.629213,
+      "lon": -7.990116
+    },
+    "localized": "Marrakesh",
+    "country": "Morocco",
+    "title": "The Fez and the Wet Medina",
+    "alt": "A man wearing a traditional red fez and white djellaba stands on a rain-slicked cobblestone alleyway at night, glancing back over his shoulder toward the camera, with dim streetlights illuminating the passage behind him.",
+    "tags": [
+      "man",
+      "portrait",
+      "night",
+      "cobblestone",
+      "atmospheric",
+      "cinematic",
+      "noir",
+      "dark",
+      "rain",
+      "wet pavement",
+      "street",
+      "low light",
+      "traditional",
+      "urban",
+      "dramatic lighting",
+      "bokeh",
+      "moody",
+      "narrow alley",
+      "outdoor",
+      "chiaroscuro"
+    ],
+    "dateAdded": "2026-10-18T20:51:17.583Z"
+  },
+  {
     "filename": "DSC03687.jpg",
     "image": "/img/photos/DSC03687.jpg",
     "thumbnail": "/img/thumbnails/DSC03687.jpg",
