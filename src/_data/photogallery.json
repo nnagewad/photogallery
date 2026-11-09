@@ -1,5 +1,52 @@
 [
   {
+    "filename": "L1003884.jpg",
+    "image": "/img/photos/L1003884.jpg",
+    "thumbnail": "/img/thumbnails/L1003884.jpg",
+    "opengraph": "/img/open-graph/L1003884.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 400,
+    "shutterSpeed": "1/125",
+    "aperture": "f/3.2",
+    "dateTaken": "2026:11:08 15:57:15",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.227042,
+      "lon": -79.71822
+    },
+    "localized": "Hamilton",
+    "country": "Canada",
+    "title": "The Cosmic Diner's Twilight Dispatch",
+    "alt": "A pink food truck branded 'Galaxy Burger' with dark blue constellation and star graphics, illuminated by a single overhead light at dusk, with a worker visible through the service window wearing glasses and a cap",
+    "tags": [
+      "food truck",
+      "food",
+      "night",
+      "pink",
+      "neon",
+      "small business",
+      "worker",
+      "urban",
+      "outdoor",
+      "atmospheric",
+      "cinematic",
+      "menu boards",
+      "street",
+      "illuminated",
+      "glasses",
+      "baseball cap",
+      "overcast sky",
+      "colorful",
+      "power lines",
+      "street signage"
+    ],
+    "dateAdded": "2026-11-09T01:45:55.054Z"
+  },
+  {
     "filename": "DSC07576.jpg",
     "image": "/img/photos/DSC07576.jpg",
     "thumbnail": "/img/thumbnails/DSC07576.jpg",
