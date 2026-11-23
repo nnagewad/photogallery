@@ -1,5 +1,48 @@
 [
   {
+    "filename": "L1003949.jpg",
+    "image": "/img/photos/L1003949.jpg",
+    "thumbnail": "/img/thumbnails/L1003949.jpg",
+    "opengraph": "/img/open-graph/L1003949.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 1600,
+    "shutterSpeed": "0.5",
+    "aperture": "f/16.0",
+    "dateTaken": "2026:11:14 21:28:54",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.669858,
+      "lon": -79.436186
+    },
+    "localized": "Toronto",
+    "country": "Canada",
+    "title": "The Crimson Séance of Blurred Prophets",
+    "alt": "A long-exposure photograph of two ghostly figures performing on a darkened stage, bathed in deep red and blue neon light, with motion blur creating ethereal trails and bright fluorescent tubes glowing in the background.",
+    "tags": [
+      "motion blur",
+      "neon",
+      "red light",
+      "blue light",
+      "live performance",
+      "nightclub",
+      "dark",
+      "abstract",
+      "atmospheric lighting",
+      "stage performance",
+      "musician",
+      "experimental music",
+      "dramatic lighting",
+      "colorful lighting",
+      "intimate venue",
+      "Resavoir"
+    ],
+    "dateAdded": "2026-11-23T00:44:53.689Z"
+  },
+  {
     "filename": "L1003894.jpg",
     "image": "/img/photos/L1003894.jpg",
     "thumbnail": "/img/thumbnails/L1003894.jpg",
