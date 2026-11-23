@@ -1,5 +1,47 @@
 [
   {
+    "filename": "L1003969.jpg",
+    "image": "/img/photos/L1003969.jpg",
+    "thumbnail": "/img/thumbnails/L1003969.jpg",
+    "opengraph": "/img/open-graph/L1003969.jpg",
+    "camera": "LEICA Q3",
+    "lens": "SUMMILUX 1:1.7/28 ASPH.",
+    "iso": 100,
+    "shutterSpeed": "1/16000",
+    "aperture": "f/1.7",
+    "dateTaken": "2026:11:22 09:53:23",
+    "dimensions": {
+      "width": 2048,
+      "height": 1363
+    },
+    "gps": {
+      "lat": 43.552092,
+      "lon": -79.583033
+    },
+    "localized": "Mississauga",
+    "country": "Canada",
+    "title": "The Boatyard's Fogbound Vigil",
+    "alt": "A misty morning at a marine boatyard, with a large travel lift crane silhouetted against diffused backlight. A small white office building with a hanging sign and life preserver stands to the left, while a large industrial warehouse and parked boats fade into the fog on the right.",
+    "tags": [
+      "fog",
+      "industrial",
+      "maritime",
+      "silhouette",
+      "cinematic",
+      "moody",
+      "atmospheric",
+      "dark",
+      "waterfront view",
+      "boatyard",
+      "crane",
+      "black and white",
+      "dramatic lighting",
+      "noir",
+      "documentary"
+    ],
+    "dateAdded": "2026-11-23T01:03:19.021Z"
+  },
+  {
     "filename": "L1003949.jpg",
     "image": "/img/photos/L1003949.jpg",
     "thumbnail": "/img/thumbnails/L1003949.jpg",
