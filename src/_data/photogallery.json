@@ -1,5 +1,48 @@
 [
   {
+    "filename": "DSC09856.jpg",
+    "image": "/img/photos/DSC09856.jpg",
+    "thumbnail": "/img/thumbnails/DSC09856.jpg",
+    "opengraph": "/img/open-graph/DSC09856.jpg",
+    "camera": "ILCE-6000",
+    "lens": "E 35mm F1.8 OSS",
+    "iso": 2000,
+    "shutterSpeed": "1/125",
+    "aperture": "f/2.5",
+    "dateTaken": "2024:11:14 14:52:39",
+    "dimensions": {
+      "width": 2048,
+      "height": 1365
+    },
+    "gps": {
+      "lat": 38.695857,
+      "lon": -9.193323
+    },
+    "localized": "Lisbon",
+    "country": "Portugal",
+    "title": "The Inferno Witnesses of the Orange Membrane",
+    "alt": "Museum visitors viewed through translucent orange panels in a contemporary art installation, their silhouettes layered against projected flames and colorful light, creating a dreamlike scene in a large gallery space.",
+    "tags": [
+      "installation art",
+      "silhouette",
+      "colorful lighting",
+      "projection",
+      "fire",
+      "flames",
+      "museum",
+      "contemporary art",
+      "interior",
+      "exhibition",
+      "light and shadow",
+      "translucent material",
+      "abstract",
+      "atmospheric lighting",
+      "people walking",
+      "MAAT: Museu de Arte, Arquitetura e Tecnologia"
+    ],
+    "dateAdded": "2026-11-24T02:02:05.820Z"
+  },
+  {
     "filename": "DSC01598.jpg",
     "image": "/img/photos/DSC01598.jpg",
     "thumbnail": "/img/thumbnails/DSC01598.jpg",
