@@ -1,5 +1,47 @@
 [
   {
+    "filename": "DSC01598.jpg",
+    "image": "/img/photos/DSC01598.jpg",
+    "thumbnail": "/img/thumbnails/DSC01598.jpg",
+    "opengraph": "/img/open-graph/DSC01598.jpg",
+    "camera": "ILCE-6000",
+    "lens": "E 35mm F1.8 OSS",
+    "iso": 4000,
+    "shutterSpeed": "1/125",
+    "aperture": "f/3.5",
+    "dateTaken": "2025:03:14 19:43:07",
+    "dimensions": {
+      "width": 1365,
+      "height": 2048
+    },
+    "gps": {
+      "lat": 34.656261,
+      "lon": 135.505667
+    },
+    "localized": "Osaka",
+    "country": "Japan",
+    "title": "The Crosswalk Oracle's Midnight Passage",
+    "alt": "A lone figure crosses a dimly lit urban street in Japan at night, silhouetted against distant neon signs and streetlights, with power lines overhead and a white van parked along the right side of the road.",
+    "tags": [
+      "Japan",
+      "nighttime",
+      "silhouette",
+      "street",
+      "urban",
+      "noir",
+      "cinematic",
+      "power lines",
+      "neon",
+      "pedestrian",
+      "atmospheric",
+      "low light",
+      "moody",
+      "Japanese street",
+      "walking"
+    ],
+    "dateAdded": "2026-11-24T00:41:56.722Z"
+  },
+  {
     "filename": "L1003969.jpg",
     "image": "/img/photos/L1003969.jpg",
     "thumbnail": "/img/thumbnails/L1003969.jpg",
